@@ -65,7 +65,7 @@ SELECT
       and hire_line_rate1 >= (0.1 *[make_model_current_caps_rate1])
       and hire_line_rate1 <= (2 *[make_model_current_caps_rate1]) 
       and [customer_code] not like '%CASH%'
-      
+--12343143124
       
 --drop table [scratch].[dbo].[invoice_details_clustering]
 select top 1000 * from [scratch].[dbo].[pricing_clustering_invoice_detail]
