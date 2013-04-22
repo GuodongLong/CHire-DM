@@ -1,0 +1,165 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+WHYA                ,ONES6005,1,Access - Knuckle Booms,,,39,1
+WHYA                ,ONES6005,1,Access - Straight Booms,,,54,1
+WHYA                ,ONES6005,2,Access - Knuckle Booms,Access - Knuckle Booms,,35,0.897436
+WHYA                ,ONES6005,2,Access - Knuckle Booms,Access - Straight Booms,,35,0.897436
+WHYA                ,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,31,0.885714
+WHYA                ,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Straight Booms,31,0.885714
+WHYA                ,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Access - Straight Booms,34,0.971429
+WHYA                ,ONES6005,2,Access - Straight Booms,Access - Knuckle Booms,,32,0.592593
+WHYA                ,ONES6005,2,Access - Straight Booms,Access - Straight Booms,,52,0.962963
+WHYA                ,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Access - Straight Booms,50,0.961538
+WHYA,ONES6005,1,Access - Scissor Lifts,,,114,1
+WHYA,ONES6005,1,Air Compressors - Diesel Small,,,48,1
+WHYA,ONES6005,1,Lighting Towers,,,61,1
+WHYA,ONES6005,1,Pumps - Hoses,,,41,1
+WHYA,ONES6005,1,Access - Knuckle Booms,,,271,1
+WHYA,ONES6005,1,Access - Straight Booms,,,320,1
+WHYA,ONES6005,1,Welders - Motorised,,,68,1
+WHYA,ONES6005,1,Generators - Diesel Small,,,52,1
+WHYA,ONES6005,2,Access - Scissor Lifts,Access - Knuckle Booms,,97,0.850877
+WHYA,ONES6005,2,Access - Scissor Lifts,Access - Scissor Lifts,,69,0.605263
+WHYA,ONES6005,2,Access - Scissor Lifts,Access - Straight Booms,,105,0.921053
+WHYA,ONES6005,2,Access - Scissor Lifts,Lighting Towers,,37,0.324561
+WHYA,ONES6005,2,Access - Scissor Lifts,Welders - Motorised,,39,0.342105
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Knuckle Booms,91,0.938144
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Scissor Lifts,55,0.56701
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Straight Booms,88,0.907216
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Knuckle Booms,Lighting Towers,35,0.360825
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Knuckle Booms,Welders - Motorised,34,0.350515
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Straight Booms,Access - Knuckle Booms,92,0.87619
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Straight Booms,Access - Scissor Lifts,62,0.590476
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Straight Booms,Access - Straight Booms,101,0.961905
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Straight Booms,Lighting Towers,34,0.32381
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Straight Booms,Welders - Motorised,40,0.380952
+WHYA,ONES6005,3,Access - Scissor Lifts,Lighting Towers,Access - Knuckle Booms,36,0.972973
+WHYA,ONES6005,3,Access - Scissor Lifts,Lighting Towers,Access - Straight Booms,37,1
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Knuckle Booms,57,0.826087
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Scissor Lifts,50,0.724638
+WHYA,ONES6005,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Straight Booms,64,0.927536
+WHYA,ONES6005,3,Access - Scissor Lifts,Welders - Motorised,Access - Knuckle Booms,36,0.923077
+WHYA,ONES6005,3,Access - Scissor Lifts,Welders - Motorised,Access - Straight Booms,38,0.974359
+WHYA,ONES6005,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,43,0.895833
+WHYA,ONES6005,2,Air Compressors - Diesel Small,Access - Straight Booms,,43,0.895833
+WHYA,ONES6005,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,41,0.953488
+WHYA,ONES6005,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Straight Booms,41,0.953488
+WHYA,ONES6005,3,Air Compressors - Diesel Small,Access - Straight Booms,Access - Knuckle Booms,36,0.837209
+WHYA,ONES6005,3,Air Compressors - Diesel Small,Access - Straight Booms,Access - Straight Booms,43,1
+WHYA,ONES6005,2,Access - Straight Booms,Access - Knuckle Booms,,214,0.66875
+WHYA,ONES6005,2,Access - Straight Booms,Access - Scissor Lifts,,101,0.315625
+WHYA,ONES6005,2,Access - Straight Booms,Access - Straight Booms,,313,0.978125
+WHYA,ONES6005,2,Access - Straight Booms,Air Compressors - Diesel Small,,44,0.1375
+WHYA,ONES6005,2,Access - Straight Booms,Generators - Diesel Small,,49,0.153125
+WHYA,ONES6005,2,Access - Straight Booms,Lighting Towers,,53,0.165625
+WHYA,ONES6005,2,Access - Straight Booms,Pumps - Hoses,,38,0.11875
+WHYA,ONES6005,2,Access - Straight Booms,Welders - Motorised,,64,0.2
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Access - Knuckle Booms,204,0.953271
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Access - Scissor Lifts,91,0.425234
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Access - Straight Booms,183,0.85514
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,37,0.172897
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Generators - Diesel Small,45,0.21028
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Lighting Towers,50,0.233645
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Pumps - Hoses,36,0.168224
+WHYA,ONES6005,3,Access - Straight Booms,Access - Knuckle Booms,Welders - Motorised,55,0.257009
+WHYA,ONES6005,3,Access - Straight Booms,Welders - Motorised,Access - Knuckle Booms,56,0.875
+WHYA,ONES6005,3,Access - Straight Booms,Welders - Motorised,Access - Scissor Lifts,37,0.578125
+WHYA,ONES6005,3,Access - Straight Booms,Welders - Motorised,Access - Straight Booms,59,0.921875
+WHYA,ONES6005,3,Access - Straight Booms,Welders - Motorised,Welders - Motorised,35,0.546875
+WHYA,ONES6005,3,Access - Straight Booms,Access - Scissor Lifts,Access - Knuckle Booms,86,0.851485
+WHYA,ONES6005,3,Access - Straight Booms,Access - Scissor Lifts,Access - Scissor Lifts,60,0.594059
+WHYA,ONES6005,3,Access - Straight Booms,Access - Scissor Lifts,Access - Straight Booms,95,0.940594
+WHYA,ONES6005,3,Access - Straight Booms,Access - Scissor Lifts,Lighting Towers,34,0.336634
+WHYA,ONES6005,3,Access - Straight Booms,Access - Scissor Lifts,Welders - Motorised,36,0.356436
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Access - Knuckle Booms,209,0.667732
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Access - Scissor Lifts,101,0.322684
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Access - Straight Booms,306,0.977636
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Air Compressors - Diesel Small,43,0.13738
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Generators - Diesel Small,47,0.15016
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Lighting Towers,52,0.166134
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Pumps - Hoses,36,0.115016
+WHYA,ONES6005,3,Access - Straight Booms,Access - Straight Booms,Welders - Motorised,63,0.201278
+WHYA,ONES6005,3,Access - Straight Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,39,0.886364
+WHYA,ONES6005,3,Access - Straight Booms,Air Compressors - Diesel Small,Access - Straight Booms,40,0.909091
+WHYA,ONES6005,3,Access - Straight Booms,Generators - Diesel Small,Access - Knuckle Booms,45,0.918367
+WHYA,ONES6005,3,Access - Straight Booms,Generators - Diesel Small,Access - Straight Booms,48,0.979592
+WHYA,ONES6005,3,Access - Straight Booms,Pumps - Hoses,Access - Knuckle Booms,36,0.947368
+WHYA,ONES6005,3,Access - Straight Booms,Pumps - Hoses,Access - Straight Booms,35,0.921053
+WHYA,ONES6005,3,Access - Straight Booms,Lighting Towers,Access - Knuckle Booms,50,0.943396
+WHYA,ONES6005,3,Access - Straight Booms,Lighting Towers,Access - Scissor Lifts,32,0.603774
+WHYA,ONES6005,3,Access - Straight Booms,Lighting Towers,Access - Straight Booms,53,1
+WHYA,ONES6005,2,Generators - Diesel Small,Access - Knuckle Booms,,48,0.923077
+WHYA,ONES6005,2,Generators - Diesel Small,Access - Straight Booms,,51,0.980769
+WHYA,ONES6005,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,44,0.916667
+WHYA,ONES6005,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Straight Booms,46,0.958333
+WHYA,ONES6005,3,Generators - Diesel Small,Access - Straight Booms,Access - Knuckle Booms,46,0.901961
+WHYA,ONES6005,3,Generators - Diesel Small,Access - Straight Booms,Access - Straight Booms,49,0.960784
+WHYA,ONES6005,2,Lighting Towers,Access - Knuckle Booms,,56,0.918033
+WHYA,ONES6005,2,Lighting Towers,Access - Scissor Lifts,,34,0.557377
+WHYA,ONES6005,2,Lighting Towers,Access - Straight Booms,,57,0.934426
+WHYA,ONES6005,3,Lighting Towers,Access - Knuckle Booms,Access - Knuckle Booms,55,0.982143
+WHYA,ONES6005,3,Lighting Towers,Access - Knuckle Booms,Access - Straight Booms,53,0.946429
+WHYA,ONES6005,3,Lighting Towers,Access - Scissor Lifts,Access - Straight Booms,34,1
+WHYA,ONES6005,3,Lighting Towers,Access - Straight Booms,Access - Knuckle Booms,53,0.929825
+WHYA,ONES6005,3,Lighting Towers,Access - Straight Booms,Access - Straight Booms,56,0.982456
+WHYA,ONES6005,2,Pumps - Hoses,Access - Knuckle Booms,,38,0.926829
+WHYA,ONES6005,2,Pumps - Hoses,Access - Straight Booms,,37,0.902439
+WHYA,ONES6005,3,Pumps - Hoses,Access - Knuckle Booms,Access - Knuckle Booms,36,0.947368
+WHYA,ONES6005,3,Pumps - Hoses,Access - Knuckle Booms,Access - Straight Booms,35,0.921053
+WHYA,ONES6005,3,Pumps - Hoses,Access - Straight Booms,Access - Knuckle Booms,33,0.891892
+WHYA,ONES6005,3,Pumps - Hoses,Access - Straight Booms,Access - Straight Booms,36,0.972973
+WHYA,ONES6005,2,Access - Knuckle Booms,Access - Knuckle Booms,,261,0.9631
+WHYA,ONES6005,2,Access - Knuckle Booms,Access - Scissor Lifts,,95,0.350554
+WHYA,ONES6005,2,Access - Knuckle Booms,Access - Straight Booms,,216,0.797048
+WHYA,ONES6005,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,40,0.147601
+WHYA,ONES6005,2,Access - Knuckle Booms,Generators - Diesel Small,,47,0.173432
+WHYA,ONES6005,2,Access - Knuckle Booms,Lighting Towers,,55,0.202952
+WHYA,ONES6005,2,Access - Knuckle Booms,Pumps - Hoses,,38,0.140221
+WHYA,ONES6005,2,Access - Knuckle Booms,Welders - Motorised,,60,0.221402
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,253,0.969349
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Scissor Lifts,92,0.35249
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Straight Booms,209,0.800766
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,37,0.141762
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Diesel Small,46,0.176245
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting Towers,54,0.206897
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Hoses,36,0.137931
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Motorised,58,0.222222
+WHYA,ONES6005,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Knuckle Booms,43,0.914894
+WHYA,ONES6005,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Straight Booms,46,0.978723
+WHYA,ONES6005,3,Access - Knuckle Booms,Welders - Motorised,Access - Knuckle Booms,54,0.9
+WHYA,ONES6005,3,Access - Knuckle Booms,Welders - Motorised,Access - Scissor Lifts,36,0.6
+WHYA,ONES6005,3,Access - Knuckle Booms,Welders - Motorised,Access - Straight Booms,56,0.933333
+WHYA,ONES6005,3,Access - Knuckle Booms,Welders - Motorised,Welders - Motorised,32,0.533333
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Knuckle Booms,86,0.905263
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Scissor Lifts,59,0.621053
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Straight Booms,90,0.947368
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Scissor Lifts,Lighting Towers,33,0.347368
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Scissor Lifts,Welders - Motorised,37,0.389474
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Access - Knuckle Booms,173,0.800926
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Access - Scissor Lifts,86,0.398148
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Access - Straight Booms,211,0.976852
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Air Compressors - Diesel Small,38,0.175926
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Generators - Diesel Small,44,0.203704
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Lighting Towers,50,0.231481
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Pumps - Hoses,36,0.166667
+WHYA,ONES6005,3,Access - Knuckle Booms,Access - Straight Booms,Welders - Motorised,59,0.273148
+WHYA,ONES6005,3,Access - Knuckle Booms,Pumps - Hoses,Access - Knuckle Booms,36,0.947368
+WHYA,ONES6005,3,Access - Knuckle Booms,Pumps - Hoses,Access - Straight Booms,35,0.921053
+WHYA,ONES6005,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,38,0.95
+WHYA,ONES6005,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Straight Booms,38,0.95
+WHYA,ONES6005,3,Access - Knuckle Booms,Lighting Towers,Access - Knuckle Booms,53,0.963636
+WHYA,ONES6005,3,Access - Knuckle Booms,Lighting Towers,Access - Scissor Lifts,33,0.6
+WHYA,ONES6005,3,Access - Knuckle Booms,Lighting Towers,Access - Straight Booms,54,0.981818
+WHYA,ONES6005,2,Welders - Motorised,Access - Knuckle Booms,,60,0.882353
+WHYA,ONES6005,2,Welders - Motorised,Access - Scissor Lifts,,37,0.544118
+WHYA,ONES6005,2,Welders - Motorised,Access - Straight Booms,,63,0.926471
+WHYA,ONES6005,2,Welders - Motorised,Welders - Motorised,,37,0.544118
+WHYA,ONES6005,3,Welders - Motorised,Access - Knuckle Booms,Access - Knuckle Booms,55,0.916667
+WHYA,ONES6005,3,Welders - Motorised,Access - Knuckle Booms,Access - Scissor Lifts,32,0.533333
+WHYA,ONES6005,3,Welders - Motorised,Access - Knuckle Booms,Access - Straight Booms,57,0.95
+WHYA,ONES6005,3,Welders - Motorised,Access - Scissor Lifts,Access - Knuckle Booms,32,0.864865
+WHYA,ONES6005,3,Welders - Motorised,Access - Scissor Lifts,Access - Straight Booms,35,0.945946
+WHYA,ONES6005,3,Welders - Motorised,Access - Straight Booms,Access - Knuckle Booms,60,0.952381
+WHYA,ONES6005,3,Welders - Motorised,Access - Straight Booms,Access - Scissor Lifts,36,0.571429
+WHYA,ONES6005,3,Welders - Motorised,Access - Straight Booms,Access - Straight Booms,61,0.968254
+WHYA,ONES6005,3,Welders - Motorised,Welders - Motorised,Access - Knuckle Booms,32,0.864865
+WHYA,ONES6005,3,Welders - Motorised,Welders - Motorised,Access - Straight Booms,33,0.891892

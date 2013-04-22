@@ -1,0 +1,152 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+EAGS,THIE1921,1,Air Compressors - Diesel Small,,,180,1
+EAGS,THIE1921,1,Pumps - Small,,,58,1
+EAGS,THIE1921,1,Concrete,,,97,1
+EAGS,THIE1921,1,Water Blasters,,,81,1
+EAGS,THIE1921,1,Concrete Vibe Units,,,92,1
+EAGS,THIE1921,1,Earthmoving - Mini Excavators,,,51,1
+EAGS,THIE1921,1,Floor Equipment,,,54,1
+EAGS,THIE1921,1,Air Accessories,,,79,1
+EAGS,THIE1921,1,Air Breakers,,,119,1
+EAGS,THIE1921,1,Air Breakers - Attachments,,,112,1
+EAGS,THIE1921,1,Air Hand Tools,,,64,1
+EAGS,THIE1921,1,Generators - Diesel Small,,,206,1
+EAGS,THIE1921,1,Fans,,,57,1
+EAGS,THIE1921,1,Industrial Tools & Equipment,,,55,1
+EAGS,THIE1921,1,Landscaping Equipment,,,87,1
+EAGS,THIE1921,1,Power Tools & Accessories,,,56,1
+EAGS,THIE1921,1,Access - Scissor Lifts,,,116,1
+EAGS,THIE1921,1,Compaction - Rammers & Vibrating Plates,,,101,1
+EAGS,THIE1921,1,Compaction - Rollers - Other,,,63,1
+EAGS,THIE1921,2,Air Breakers,Access - Scissor Lifts,,52,0.436975
+EAGS,THIE1921,2,Air Breakers,Air Breakers,,75,0.630252
+EAGS,THIE1921,2,Air Breakers,Air Breakers - Attachments,,68,0.571429
+EAGS,THIE1921,2,Air Breakers,Air Compressors - Diesel Small,,80,0.672269
+EAGS,THIE1921,2,Air Breakers,Generators - Diesel Small,,77,0.647059
+EAGS,THIE1921,3,Air Breakers,Generators - Diesel Small,Generators - Diesel Small,64,0.831169
+EAGS,THIE1921,3,Air Breakers,Air Compressors - Diesel Small,Air Compressors - Diesel Small,64,0.8
+EAGS,THIE1921,3,Air Breakers,Air Compressors - Diesel Small,Generators - Diesel Small,60,0.75
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Access - Scissor Lifts,,78,0.433333
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Air Accessories,,60,0.333333
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Air Breakers,,86,0.477778
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Air Breakers - Attachments,,82,0.455556
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,148,0.822222
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,67,0.372222
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Concrete,,66,0.366667
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Concrete Vibe Units,,62,0.344444
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Generators - Diesel Small,,120,0.666667
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Landscaping Equipment,,58,0.322222
+EAGS,THIE1921,2,Air Compressors - Diesel Small,Water Blasters,,55,0.305556
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Access - Scissor Lifts,55,0.705128
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Air Compressors - Diesel Small,58,0.74359
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Generators - Diesel Small,59,0.75641
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Access - Scissor Lifts,71,0.591667
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Air Breakers,61,0.508333
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Air Breakers - Attachments,59,0.491667
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Air Compressors - Diesel Small,83,0.691667
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,53,0.441667
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Concrete,56,0.466667
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Generators - Diesel Small,Generators - Diesel Small,103,0.858333
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Breakers - Attachments,Air Breakers - Attachments,55,0.670732
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Breakers - Attachments,Air Compressors - Diesel Small,58,0.707317
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Breakers,Air Breakers,53,0.616279
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Breakers,Air Breakers - Attachments,51,0.593023
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Breakers,Air Compressors - Diesel Small,63,0.732558
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Breakers,Generators - Diesel Small,53,0.616279
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Access - Scissor Lifts,68,0.459459
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,53,0.358108
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Breakers,73,0.493243
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Breakers - Attachments,71,0.47973
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,126,0.851351
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,53,0.358108
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Concrete,54,0.364865
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Concrete Vibe Units,52,0.351351
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Generators - Diesel Small,96,0.648649
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,55,0.820896
+EAGS,THIE1921,3,Air Compressors - Diesel Small,Concrete,Air Compressors - Diesel Small,51,0.772727
+EAGS,THIE1921,2,Air Accessories,Air Breakers,,55,0.696203
+EAGS,THIE1921,2,Air Accessories,Air Compressors - Diesel Small,,60,0.759494
+EAGS,THIE1921,2,Air Accessories,Generators - Diesel Small,,57,0.721519
+EAGS,THIE1921,3,Air Accessories,Generators - Diesel Small,Generators - Diesel Small,51,0.894737
+EAGS,THIE1921,2,Concrete,Access - Scissor Lifts,,51,0.525773
+EAGS,THIE1921,2,Concrete,Air Compressors - Diesel Small,,69,0.71134
+EAGS,THIE1921,2,Concrete,Concrete,,53,0.546392
+EAGS,THIE1921,2,Concrete,Generators - Diesel Small,,69,0.71134
+EAGS,THIE1921,3,Concrete,Air Compressors - Diesel Small,Air Compressors - Diesel Small,59,0.855072
+EAGS,THIE1921,3,Concrete,Air Compressors - Diesel Small,Generators - Diesel Small,57,0.826087
+EAGS,THIE1921,3,Concrete,Generators - Diesel Small,Air Compressors - Diesel Small,55,0.797101
+EAGS,THIE1921,3,Concrete,Generators - Diesel Small,Generators - Diesel Small,61,0.884058
+EAGS,THIE1921,2,Concrete Vibe Units,Air Compressors - Diesel Small,,60,0.652174
+EAGS,THIE1921,2,Concrete Vibe Units,Concrete Vibe Units,,57,0.619565
+EAGS,THIE1921,2,Concrete Vibe Units,Generators - Diesel Small,,60,0.652174
+EAGS,THIE1921,2,Water Blasters,Air Compressors - Diesel Small,,58,0.716049
+EAGS,THIE1921,2,Water Blasters,Generators - Diesel Small,,60,0.740741
+EAGS,THIE1921,3,Water Blasters,Air Compressors - Diesel Small,Air Compressors - Diesel Small,52,0.896552
+EAGS,THIE1921,2,Air Breakers - Attachments,Access - Scissor Lifts,,51,0.455357
+EAGS,THIE1921,2,Air Breakers - Attachments,Air Breakers,,66,0.589286
+EAGS,THIE1921,2,Air Breakers - Attachments,Air Breakers - Attachments,,70,0.625
+EAGS,THIE1921,2,Air Breakers - Attachments,Air Compressors - Diesel Small,,75,0.669643
+EAGS,THIE1921,2,Air Breakers - Attachments,Generators - Diesel Small,,72,0.642857
+EAGS,THIE1921,3,Air Breakers - Attachments,Air Compressors - Diesel Small,Air Compressors - Diesel Small,61,0.813333
+EAGS,THIE1921,3,Air Breakers - Attachments,Air Compressors - Diesel Small,Generators - Diesel Small,58,0.773333
+EAGS,THIE1921,3,Air Breakers - Attachments,Generators - Diesel Small,Air Compressors - Diesel Small,51,0.708333
+EAGS,THIE1921,3,Air Breakers - Attachments,Generators - Diesel Small,Generators - Diesel Small,63,0.875
+EAGS,THIE1921,2,Generators - Diesel Small,Access - Scissor Lifts,,92,0.446602
+EAGS,THIE1921,2,Generators - Diesel Small,Air Breakers,,74,0.359223
+EAGS,THIE1921,2,Generators - Diesel Small,Air Breakers - Attachments,,73,0.354369
+EAGS,THIE1921,2,Generators - Diesel Small,Air Compressors - Diesel Small,,112,0.543689
+EAGS,THIE1921,2,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,,71,0.34466
+EAGS,THIE1921,2,Generators - Diesel Small,Concrete,,70,0.339806
+EAGS,THIE1921,2,Generators - Diesel Small,Concrete Vibe Units,,59,0.286408
+EAGS,THIE1921,2,Generators - Diesel Small,Generators - Diesel Small,,172,0.834951
+EAGS,THIE1921,2,Generators - Diesel Small,Landscaping Equipment,,60,0.291262
+EAGS,THIE1921,2,Generators - Diesel Small,Water Blasters,,59,0.286408
+EAGS,THIE1921,3,Generators - Diesel Small,Access - Scissor Lifts,Access - Scissor Lifts,62,0.673913
+EAGS,THIE1921,3,Generators - Diesel Small,Access - Scissor Lifts,Air Compressors - Diesel Small,68,0.73913
+EAGS,THIE1921,3,Generators - Diesel Small,Access - Scissor Lifts,Compaction - Rammers & Vibrating Plates,52,0.565217
+EAGS,THIE1921,3,Generators - Diesel Small,Access - Scissor Lifts,Generators - Diesel Small,71,0.771739
+EAGS,THIE1921,3,Generators - Diesel Small,Air Breakers,Air Compressors - Diesel Small,57,0.77027
+EAGS,THIE1921,3,Generators - Diesel Small,Air Breakers,Generators - Diesel Small,54,0.72973
+EAGS,THIE1921,3,Generators - Diesel Small,Air Breakers - Attachments,Air Compressors - Diesel Small,56,0.767123
+EAGS,THIE1921,3,Generators - Diesel Small,Air Breakers - Attachments,Generators - Diesel Small,55,0.753425
+EAGS,THIE1921,3,Generators - Diesel Small,Concrete,Air Compressors - Diesel Small,53,0.757143
+EAGS,THIE1921,3,Generators - Diesel Small,Concrete,Generators - Diesel Small,56,0.8
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Access - Scissor Lifts,61,0.544643
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Air Breakers,62,0.553571
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Air Breakers - Attachments,58,0.517857
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,97,0.866071
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,54,0.482143
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Concrete,55,0.491071
+EAGS,THIE1921,3,Generators - Diesel Small,Air Compressors - Diesel Small,Generators - Diesel Small,90,0.803571
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Access - Scissor Lifts,80,0.465116
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Air Breakers,60,0.348837
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Air Breakers - Attachments,60,0.348837
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Air Compressors - Diesel Small,95,0.552326
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,62,0.360465
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Concrete,60,0.348837
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Generators - Diesel Small,143,0.831395
+EAGS,THIE1921,3,Generators - Diesel Small,Generators - Diesel Small,Landscaping Equipment,53,0.30814
+EAGS,THIE1921,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,53,0.746479
+EAGS,THIE1921,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,59,0.830986
+EAGS,THIE1921,2,Landscaping Equipment,Air Compressors - Diesel Small,,61,0.701149
+EAGS,THIE1921,2,Landscaping Equipment,Generators - Diesel Small,,59,0.678161
+EAGS,THIE1921,2,Access - Scissor Lifts,Access - Scissor Lifts,,77,0.663793
+EAGS,THIE1921,2,Access - Scissor Lifts,Air Breakers,,52,0.448276
+EAGS,THIE1921,2,Access - Scissor Lifts,Air Compressors - Diesel Small,,76,0.655172
+EAGS,THIE1921,2,Access - Scissor Lifts,Compaction - Rammers & Vibrating Plates,,57,0.491379
+EAGS,THIE1921,2,Access - Scissor Lifts,Generators - Diesel Small,,84,0.724138
+EAGS,THIE1921,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Scissor Lifts,53,0.688312
+EAGS,THIE1921,3,Access - Scissor Lifts,Access - Scissor Lifts,Air Compressors - Diesel Small,54,0.701299
+EAGS,THIE1921,3,Access - Scissor Lifts,Access - Scissor Lifts,Generators - Diesel Small,54,0.701299
+EAGS,THIE1921,3,Access - Scissor Lifts,Generators - Diesel Small,Air Compressors - Diesel Small,58,0.690476
+EAGS,THIE1921,3,Access - Scissor Lifts,Generators - Diesel Small,Generators - Diesel Small,73,0.869048
+EAGS,THIE1921,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Air Compressors - Diesel Small,64,0.842105
+EAGS,THIE1921,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Generators - Diesel Small,60,0.789474
+EAGS,THIE1921,2,Compaction - Rammers & Vibrating Plates,Access - Scissor Lifts,,52,0.514851
+EAGS,THIE1921,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,66,0.653465
+EAGS,THIE1921,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,57,0.564356
+EAGS,THIE1921,2,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,,76,0.752475
+EAGS,THIE1921,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Compressors - Diesel Small,56,0.848485
+EAGS,THIE1921,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Generators - Diesel Small,53,0.80303
+EAGS,THIE1921,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Generators - Diesel Small,64,0.842105
+EAGS,THIE1921,2,Compaction - Rollers - Other,Generators - Diesel Small,,51,0.809524

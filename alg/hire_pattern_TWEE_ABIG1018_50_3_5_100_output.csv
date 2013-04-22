@@ -1,0 +1,15 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+TWEE,ABIG1018,1,Compaction - Rammers & Vibrating Plates,,,120,1
+TWEE,ABIG1018,1,Masonry Saws,,,67,1
+TWEE,ABIG1018,1,Generators - Petrol,,,63,1
+TWEE,ABIG1018,1,Water Blasters,,,56,1
+TWEE,ABIG1018,1,Air Breakers,,,78,1
+TWEE,ABIG1018,1,Lighting Towers,,,76,1
+TWEE,ABIG1018,1,Concrete Vibe Units,,,68,1
+TWEE,ABIG1018,1,Air Accessories,,,85,1
+TWEE,ABIG1018,1,Air Compressors - Diesel Small,,,103,1
+TWEE,ABIG1018,1,Air Breakers - Attachments,,,67,1
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,54,0.45
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,61,0.508333
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,52,0.504854
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,53,0.514563

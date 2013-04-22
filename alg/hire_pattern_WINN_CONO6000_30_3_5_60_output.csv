@@ -1,0 +1,562 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+WINN,CONO6000,1,Generators - Accessories,,,33,1
+WINN,CONO6000,1,Miscellaneous - Tools,,,66,1
+WINN,CONO6000,1,Industrial Tools & Equipment,,,62,1
+WINN,CONO6000,1,Electrical Leads & Accessories,,,41,1
+WINN,CONO6000,1,Lighting - Other,,,39,1
+WINN,CONO6000,1,Jacking,,,43,1
+WINN,CONO6000,1,Welders - Accessories,,,44,1
+WINN,CONO6000,1,Welders - Electric,,,35,1
+WINN,CONO6000,1,External Service,,,60,1
+WINN,CONO6000,1,Power Tools & Accessories,,,49,1
+WINN,CONO6000,1,Bolting Tools,,,37,1
+WINN,CONO6000,2,Welders - Electric,Industrial Tools & Equipment,,32,0.914286
+WINN,CONO6000,2,Welders - Electric,Miscellaneous - Tools,,32,0.914286
+WINN,CONO6000,2,Welders - Electric,Power Tools & Accessories,,31,0.885714
+WINN,CONO6000,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,31,0.96875
+WINN,CONO6000,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,31,0.96875
+WINN,CONO6000,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,31,0.96875
+WINN,CONO6000,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,31,0.96875
+WINN,CONO6000,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,31,0.96875
+WINN,CONO6000,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,31,1
+WINN,CONO6000,2,External Service,Bolting Tools,,32,0.533333
+WINN,CONO6000,2,External Service,Electrical Leads & Accessories,,32,0.533333
+WINN,CONO6000,2,External Service,External Service,,59,0.983333
+WINN,CONO6000,2,External Service,Industrial Tools & Equipment,,51,0.85
+WINN,CONO6000,2,External Service,Jacking,,34,0.566667
+WINN,CONO6000,2,External Service,Lighting - Other,,32,0.533333
+WINN,CONO6000,2,External Service,Miscellaneous - Tools,,51,0.85
+WINN,CONO6000,2,External Service,Power Tools & Accessories,,44,0.733333
+WINN,CONO6000,2,External Service,Welders - Accessories,,36,0.6
+WINN,CONO6000,3,External Service,Bolting Tools,Industrial Tools & Equipment,32,1
+WINN,CONO6000,3,External Service,Bolting Tools,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,External Service,Bolting Tools,Power Tools & Accessories,32,1
+WINN,CONO6000,3,External Service,External Service,Bolting Tools,32,0.542373
+WINN,CONO6000,3,External Service,External Service,Electrical Leads & Accessories,31,0.525424
+WINN,CONO6000,3,External Service,External Service,External Service,58,0.983051
+WINN,CONO6000,3,External Service,External Service,Industrial Tools & Equipment,51,0.864407
+WINN,CONO6000,3,External Service,External Service,Jacking,34,0.576271
+WINN,CONO6000,3,External Service,External Service,Lighting - Other,32,0.542373
+WINN,CONO6000,3,External Service,External Service,Miscellaneous - Tools,51,0.864407
+WINN,CONO6000,3,External Service,External Service,Power Tools & Accessories,44,0.745763
+WINN,CONO6000,3,External Service,External Service,Welders - Accessories,36,0.610169
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Bolting Tools,34,0.666667
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Electrical Leads & Accessories,32,0.627451
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,External Service,46,0.901961
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Industrial Tools & Equipment,48,0.941176
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Jacking,33,0.647059
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Lighting - Other,31,0.607843
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Miscellaneous - Tools,50,0.980392
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Power Tools & Accessories,44,0.862745
+WINN,CONO6000,3,External Service,Miscellaneous - Tools,Welders - Accessories,35,0.686275
+WINN,CONO6000,3,External Service,Electrical Leads & Accessories,Electrical Leads & Accessories,31,0.96875
+WINN,CONO6000,3,External Service,Electrical Leads & Accessories,Industrial Tools & Equipment,32,1
+WINN,CONO6000,3,External Service,Electrical Leads & Accessories,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,External Service,Electrical Leads & Accessories,Power Tools & Accessories,32,1
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Bolting Tools,34,0.666667
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Electrical Leads & Accessories,32,0.627451
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,External Service,46,0.901961
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Industrial Tools & Equipment,50,0.980392
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Jacking,33,0.647059
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Lighting - Other,31,0.607843
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Miscellaneous - Tools,49,0.960784
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Power Tools & Accessories,44,0.862745
+WINN,CONO6000,3,External Service,Industrial Tools & Equipment,Welders - Accessories,35,0.686275
+WINN,CONO6000,3,External Service,Jacking,External Service,31,0.911765
+WINN,CONO6000,3,External Service,Jacking,Industrial Tools & Equipment,34,1
+WINN,CONO6000,3,External Service,Jacking,Jacking,33,0.970588
+WINN,CONO6000,3,External Service,Jacking,Miscellaneous - Tools,34,1
+WINN,CONO6000,3,External Service,Jacking,Power Tools & Accessories,34,1
+WINN,CONO6000,3,External Service,Lighting - Other,Industrial Tools & Equipment,32,1
+WINN,CONO6000,3,External Service,Lighting - Other,Lighting - Other,31,0.96875
+WINN,CONO6000,3,External Service,Lighting - Other,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,External Service,Lighting - Other,Power Tools & Accessories,32,1
+WINN,CONO6000,3,External Service,Welders - Accessories,External Service,34,0.944444
+WINN,CONO6000,3,External Service,Welders - Accessories,Industrial Tools & Equipment,36,1
+WINN,CONO6000,3,External Service,Welders - Accessories,Jacking,32,0.888889
+WINN,CONO6000,3,External Service,Welders - Accessories,Miscellaneous - Tools,36,1
+WINN,CONO6000,3,External Service,Welders - Accessories,Power Tools & Accessories,36,1
+WINN,CONO6000,3,External Service,Welders - Accessories,Welders - Accessories,34,0.944444
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Bolting Tools,34,0.772727
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Electrical Leads & Accessories,31,0.704545
+WINN,CONO6000,3,External Service,Power Tools & Accessories,External Service,39,0.886364
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Industrial Tools & Equipment,43,0.977273
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Jacking,33,0.75
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Lighting - Other,31,0.704545
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Miscellaneous - Tools,44,1
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Power Tools & Accessories,43,0.977273
+WINN,CONO6000,3,External Service,Power Tools & Accessories,Welders - Accessories,35,0.795455
+WINN,CONO6000,2,Jacking,Bolting Tools,,31,0.72093
+WINN,CONO6000,2,Jacking,Electrical Leads & Accessories,,31,0.72093
+WINN,CONO6000,2,Jacking,External Service,,36,0.837209
+WINN,CONO6000,2,Jacking,Industrial Tools & Equipment,,40,0.930233
+WINN,CONO6000,2,Jacking,Jacking,,37,0.860465
+WINN,CONO6000,2,Jacking,Miscellaneous - Tools,,40,0.930233
+WINN,CONO6000,2,Jacking,Power Tools & Accessories,,39,0.906977
+WINN,CONO6000,2,Jacking,Welders - Accessories,,33,0.767442
+WINN,CONO6000,3,Jacking,Bolting Tools,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Jacking,Bolting Tools,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Jacking,Bolting Tools,Power Tools & Accessories,31,1
+WINN,CONO6000,3,Jacking,Electrical Leads & Accessories,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Jacking,Electrical Leads & Accessories,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Jacking,Electrical Leads & Accessories,Power Tools & Accessories,31,1
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,Bolting Tools,31,0.775
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,External Service,36,0.9
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,Industrial Tools & Equipment,38,0.95
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,Jacking,34,0.85
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,40,1
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,Power Tools & Accessories,38,0.95
+WINN,CONO6000,3,Jacking,Miscellaneous - Tools,Welders - Accessories,34,0.85
+WINN,CONO6000,3,Jacking,External Service,External Service,36,1
+WINN,CONO6000,3,Jacking,External Service,Industrial Tools & Equipment,35,0.972222
+WINN,CONO6000,3,Jacking,External Service,Jacking,31,0.861111
+WINN,CONO6000,3,Jacking,External Service,Miscellaneous - Tools,36,1
+WINN,CONO6000,3,Jacking,External Service,Power Tools & Accessories,35,0.972222
+WINN,CONO6000,3,Jacking,External Service,Welders - Accessories,32,0.888889
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,Bolting Tools,31,0.775
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,External Service,36,0.9
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,Industrial Tools & Equipment,38,0.95
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,Jacking,34,0.85
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,Miscellaneous - Tools,39,0.975
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,Power Tools & Accessories,38,0.95
+WINN,CONO6000,3,Jacking,Industrial Tools & Equipment,Welders - Accessories,34,0.85
+WINN,CONO6000,3,Jacking,Jacking,External Service,34,0.918919
+WINN,CONO6000,3,Jacking,Jacking,Industrial Tools & Equipment,37,1
+WINN,CONO6000,3,Jacking,Jacking,Jacking,36,0.972973
+WINN,CONO6000,3,Jacking,Jacking,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Jacking,Jacking,Power Tools & Accessories,37,1
+WINN,CONO6000,3,Jacking,Jacking,Welders - Accessories,32,0.864865
+WINN,CONO6000,3,Jacking,Welders - Accessories,External Service,32,0.969697
+WINN,CONO6000,3,Jacking,Welders - Accessories,Industrial Tools & Equipment,33,1
+WINN,CONO6000,3,Jacking,Welders - Accessories,Miscellaneous - Tools,33,1
+WINN,CONO6000,3,Jacking,Welders - Accessories,Power Tools & Accessories,33,1
+WINN,CONO6000,3,Jacking,Welders - Accessories,Welders - Accessories,32,0.969697
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,Bolting Tools,31,0.794872
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,External Service,36,0.923077
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,Industrial Tools & Equipment,38,0.974359
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,Jacking,34,0.871795
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,Miscellaneous - Tools,39,1
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,Power Tools & Accessories,38,0.974359
+WINN,CONO6000,3,Jacking,Power Tools & Accessories,Welders - Accessories,34,0.871795
+WINN,CONO6000,2,Miscellaneous - Tools,Bolting Tools,,37,0.560606
+WINN,CONO6000,2,Miscellaneous - Tools,Electrical Leads & Accessories,,37,0.560606
+WINN,CONO6000,2,Miscellaneous - Tools,External Service,,53,0.80303
+WINN,CONO6000,2,Miscellaneous - Tools,Industrial Tools & Equipment,,56,0.848485
+WINN,CONO6000,2,Miscellaneous - Tools,Jacking,,39,0.590909
+WINN,CONO6000,2,Miscellaneous - Tools,Lighting - Other,,35,0.530303
+WINN,CONO6000,2,Miscellaneous - Tools,Miscellaneous - Tools,,60,0.909091
+WINN,CONO6000,2,Miscellaneous - Tools,Power Tools & Accessories,,49,0.742424
+WINN,CONO6000,2,Miscellaneous - Tools,Welders - Accessories,,40,0.606061
+WINN,CONO6000,2,Miscellaneous - Tools,Welders - Electric,,31,0.469697
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,Bolting Tools,34,0.918919
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,External Service,32,0.864865
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,Industrial Tools & Equipment,37,1
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,Jacking,32,0.864865
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,Power Tools & Accessories,37,1
+WINN,CONO6000,3,Miscellaneous - Tools,Bolting Tools,Welders - Accessories,31,0.837838
+WINN,CONO6000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,36,0.972973
+WINN,CONO6000,3,Miscellaneous - Tools,Electrical Leads & Accessories,External Service,34,0.918919
+WINN,CONO6000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,36,0.972973
+WINN,CONO6000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,36,0.972973
+WINN,CONO6000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,36,0.972973
+WINN,CONO6000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Accessories,33,0.891892
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Bolting Tools,32,0.603774
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Electrical Leads & Accessories,31,0.584906
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,External Service,53,1
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Industrial Tools & Equipment,48,0.90566
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Jacking,34,0.641509
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Lighting - Other,31,0.584906
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Miscellaneous - Tools,48,0.90566
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Power Tools & Accessories,42,0.792453
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,Welders - Accessories,36,0.679245
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Bolting Tools,37,0.660714
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,35,0.625
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,External Service,50,0.892857
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,54,0.964286
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Jacking,38,0.678571
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting - Other,33,0.589286
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,52,0.928571
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,47,0.839286
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Accessories,39,0.696429
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Bolting Tools,31,0.794872
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Electrical Leads & Accessories,31,0.794872
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,External Service,36,0.923077
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Industrial Tools & Equipment,39,1
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Jacking,37,0.948718
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Miscellaneous - Tools,39,1
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Power Tools & Accessories,39,1
+WINN,CONO6000,3,Miscellaneous - Tools,Jacking,Welders - Accessories,33,0.846154
+WINN,CONO6000,3,Miscellaneous - Tools,Lighting - Other,External Service,33,0.942857
+WINN,CONO6000,3,Miscellaneous - Tools,Lighting - Other,Industrial Tools & Equipment,35,1
+WINN,CONO6000,3,Miscellaneous - Tools,Lighting - Other,Jacking,31,0.885714
+WINN,CONO6000,3,Miscellaneous - Tools,Lighting - Other,Lighting - Other,33,0.942857
+WINN,CONO6000,3,Miscellaneous - Tools,Lighting - Other,Miscellaneous - Tools,35,1
+WINN,CONO6000,3,Miscellaneous - Tools,Lighting - Other,Power Tools & Accessories,35,1
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,37,0.616667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,37,0.616667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,External Service,53,0.883333
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.916667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Jacking,39,0.65
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting - Other,35,0.583333
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,58,0.966667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,49,0.816667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Accessories,40,0.666667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,31,0.516667
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Bolting Tools,37,0.755102
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,34,0.693878
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,External Service,44,0.897959
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,48,0.979592
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Jacking,38,0.77551
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Lighting - Other,34,0.693878
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,49,1
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,48,0.979592
+WINN,CONO6000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Accessories,39,0.795918
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Bolting Tools,31,0.775
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Electrical Leads & Accessories,32,0.8
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,External Service,38,0.95
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Industrial Tools & Equipment,40,1
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Jacking,35,0.875
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Lighting - Other,31,0.775
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Miscellaneous - Tools,40,1
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Power Tools & Accessories,40,1
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Accessories,37,0.925
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,31,1
+WINN,CONO6000,2,Industrial Tools & Equipment,Bolting Tools,,37,0.596774
+WINN,CONO6000,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,36,0.580645
+WINN,CONO6000,2,Industrial Tools & Equipment,External Service,,52,0.83871
+WINN,CONO6000,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,57,0.919355
+WINN,CONO6000,2,Industrial Tools & Equipment,Jacking,,38,0.612903
+WINN,CONO6000,2,Industrial Tools & Equipment,Lighting - Other,,34,0.548387
+WINN,CONO6000,2,Industrial Tools & Equipment,Miscellaneous - Tools,,55,0.887097
+WINN,CONO6000,2,Industrial Tools & Equipment,Power Tools & Accessories,,49,0.790323
+WINN,CONO6000,2,Industrial Tools & Equipment,Welders - Accessories,,39,0.629032
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,Bolting Tools,34,0.918919
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,External Service,32,0.864865
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,Industrial Tools & Equipment,37,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,Jacking,32,0.864865
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,Power Tools & Accessories,37,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Bolting Tools,Welders - Accessories,31,0.837838
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Bolting Tools,37,0.649123
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,35,0.614035
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,External Service,51,0.894737
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.964912
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Jacking,38,0.666667
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting - Other,34,0.596491
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,54,0.947368
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,49,0.859649
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Accessories,39,0.684211
+WINN,CONO6000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,35,0.972222
+WINN,CONO6000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,External Service,33,0.916667
+WINN,CONO6000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,36,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,36,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,36,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Accessories,33,0.916667
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Bolting Tools,37,0.672727
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,35,0.636364
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,External Service,49,0.890909
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,51,0.927273
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Jacking,38,0.690909
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting - Other,34,0.618182
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,54,0.981818
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,49,0.890909
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Accessories,39,0.709091
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Bolting Tools,32,0.615385
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Electrical Leads & Accessories,31,0.596154
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,External Service,52,1
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Industrial Tools & Equipment,49,0.942308
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Jacking,34,0.653846
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Lighting - Other,32,0.615385
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Miscellaneous - Tools,49,0.942308
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Power Tools & Accessories,44,0.846154
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,Welders - Accessories,36,0.692308
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,Bolting Tools,31,0.815789
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,External Service,35,0.921053
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,Industrial Tools & Equipment,38,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,Jacking,37,0.973684
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,Miscellaneous - Tools,38,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,Power Tools & Accessories,38,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Jacking,Welders - Accessories,33,0.868421
+WINN,CONO6000,3,Industrial Tools & Equipment,Lighting - Other,External Service,32,0.941176
+WINN,CONO6000,3,Industrial Tools & Equipment,Lighting - Other,Industrial Tools & Equipment,34,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Lighting - Other,Jacking,31,0.911765
+WINN,CONO6000,3,Industrial Tools & Equipment,Lighting - Other,Lighting - Other,33,0.970588
+WINN,CONO6000,3,Industrial Tools & Equipment,Lighting - Other,Miscellaneous - Tools,34,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Lighting - Other,Power Tools & Accessories,34,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Bolting Tools,37,0.755102
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,34,0.693878
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,External Service,44,0.897959
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,48,0.979592
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Jacking,38,0.77551
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Lighting - Other,34,0.693878
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,49,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,48,0.979592
+WINN,CONO6000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Accessories,39,0.795918
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Bolting Tools,31,0.794872
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Electrical Leads & Accessories,31,0.794872
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,External Service,37,0.948718
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Industrial Tools & Equipment,39,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Jacking,35,0.897436
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Lighting - Other,31,0.794872
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Miscellaneous - Tools,39,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Power Tools & Accessories,39,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Accessories,37,0.948718
+WINN,CONO6000,2,Welders - Accessories,Bolting Tools,,31,0.704545
+WINN,CONO6000,2,Welders - Accessories,Electrical Leads & Accessories,,32,0.727273
+WINN,CONO6000,2,Welders - Accessories,External Service,,38,0.863636
+WINN,CONO6000,2,Welders - Accessories,Industrial Tools & Equipment,,41,0.931818
+WINN,CONO6000,2,Welders - Accessories,Jacking,,35,0.795455
+WINN,CONO6000,2,Welders - Accessories,Lighting - Other,,31,0.704545
+WINN,CONO6000,2,Welders - Accessories,Miscellaneous - Tools,,41,0.931818
+WINN,CONO6000,2,Welders - Accessories,Power Tools & Accessories,,40,0.909091
+WINN,CONO6000,2,Welders - Accessories,Welders - Accessories,,37,0.840909
+WINN,CONO6000,3,Welders - Accessories,Bolting Tools,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Welders - Accessories,Bolting Tools,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Welders - Accessories,Bolting Tools,Power Tools & Accessories,31,1
+WINN,CONO6000,3,Welders - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,31,0.96875
+WINN,CONO6000,3,Welders - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,32,1
+WINN,CONO6000,3,Welders - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,Welders - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,32,1
+WINN,CONO6000,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Accessories,31,0.96875
+WINN,CONO6000,3,Welders - Accessories,External Service,External Service,38,1
+WINN,CONO6000,3,Welders - Accessories,External Service,Industrial Tools & Equipment,38,1
+WINN,CONO6000,3,Welders - Accessories,External Service,Jacking,32,0.842105
+WINN,CONO6000,3,Welders - Accessories,External Service,Miscellaneous - Tools,38,1
+WINN,CONO6000,3,Welders - Accessories,External Service,Power Tools & Accessories,37,0.973684
+WINN,CONO6000,3,Welders - Accessories,External Service,Welders - Accessories,34,0.894737
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,Bolting Tools,31,0.756098
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,External Service,37,0.902439
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,40,0.97561
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,Jacking,34,0.829268
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.97561
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,39,0.95122
+WINN,CONO6000,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Accessories,35,0.853659
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,Bolting Tools,31,0.756098
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,External Service,37,0.902439
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,40,0.97561
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,Jacking,34,0.829268
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,41,1
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,Power Tools & Accessories,40,0.97561
+WINN,CONO6000,3,Welders - Accessories,Miscellaneous - Tools,Welders - Accessories,35,0.853659
+WINN,CONO6000,3,Welders - Accessories,Jacking,External Service,33,0.942857
+WINN,CONO6000,3,Welders - Accessories,Jacking,Industrial Tools & Equipment,35,1
+WINN,CONO6000,3,Welders - Accessories,Jacking,Jacking,34,0.971429
+WINN,CONO6000,3,Welders - Accessories,Jacking,Miscellaneous - Tools,35,1
+WINN,CONO6000,3,Welders - Accessories,Jacking,Power Tools & Accessories,35,1
+WINN,CONO6000,3,Welders - Accessories,Jacking,Welders - Accessories,31,0.885714
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Bolting Tools,32,0.8
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,External Service,37,0.925
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,40,1
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Jacking,34,0.85
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Lighting - Other,31,0.775
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Miscellaneous - Tools,40,1
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,40,1
+WINN,CONO6000,3,Welders - Accessories,Power Tools & Accessories,Welders - Accessories,36,0.9
+WINN,CONO6000,3,Welders - Accessories,Lighting - Other,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Welders - Accessories,Lighting - Other,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Welders - Accessories,Lighting - Other,Power Tools & Accessories,31,1
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,Bolting Tools,31,0.837838
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,External Service,35,0.945946
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,Industrial Tools & Equipment,37,1
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,Jacking,34,0.918919
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,Power Tools & Accessories,37,1
+WINN,CONO6000,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,36,0.972973
+WINN,CONO6000,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,36,0.878049
+WINN,CONO6000,2,Electrical Leads & Accessories,External Service,,34,0.829268
+WINN,CONO6000,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,37,0.902439
+WINN,CONO6000,2,Electrical Leads & Accessories,Miscellaneous - Tools,,37,0.902439
+WINN,CONO6000,2,Electrical Leads & Accessories,Power Tools & Accessories,,36,0.878049
+WINN,CONO6000,2,Electrical Leads & Accessories,Welders - Accessories,,33,0.804878
+WINN,CONO6000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,35,0.972222
+WINN,CONO6000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,External Service,33,0.916667
+WINN,CONO6000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,36,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,36,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,36,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Accessories,33,0.916667
+WINN,CONO6000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,External Service,35,0.945946
+WINN,CONO6000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,36,0.972973
+WINN,CONO6000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,36,0.972973
+WINN,CONO6000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,35,0.945946
+WINN,CONO6000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Accessories,33,0.891892
+WINN,CONO6000,3,Electrical Leads & Accessories,External Service,External Service,34,1
+WINN,CONO6000,3,Electrical Leads & Accessories,External Service,Industrial Tools & Equipment,34,1
+WINN,CONO6000,3,Electrical Leads & Accessories,External Service,Miscellaneous - Tools,33,0.970588
+WINN,CONO6000,3,Electrical Leads & Accessories,External Service,Power Tools & Accessories,32,0.941176
+WINN,CONO6000,3,Electrical Leads & Accessories,External Service,Welders - Accessories,31,0.911765
+WINN,CONO6000,3,Electrical Leads & Accessories,Welders - Accessories,External Service,33,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Welders - Accessories,Industrial Tools & Equipment,33,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Welders - Accessories,Miscellaneous - Tools,33,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Welders - Accessories,Power Tools & Accessories,33,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Accessories,32,0.969697
+WINN,CONO6000,3,Electrical Leads & Accessories,Miscellaneous - Tools,External Service,35,0.945946
+WINN,CONO6000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,36,0.972973
+WINN,CONO6000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,35,0.945946
+WINN,CONO6000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Accessories,33,0.891892
+WINN,CONO6000,3,Electrical Leads & Accessories,Power Tools & Accessories,External Service,35,0.972222
+WINN,CONO6000,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,36,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,36,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,36,1
+WINN,CONO6000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Accessories,33,0.916667
+WINN,CONO6000,2,Lighting - Other,External Service,,33,0.846154
+WINN,CONO6000,2,Lighting - Other,Industrial Tools & Equipment,,36,0.923077
+WINN,CONO6000,2,Lighting - Other,Jacking,,31,0.794872
+WINN,CONO6000,2,Lighting - Other,Lighting - Other,,33,0.846154
+WINN,CONO6000,2,Lighting - Other,Miscellaneous - Tools,,36,0.923077
+WINN,CONO6000,2,Lighting - Other,Power Tools & Accessories,,35,0.897436
+WINN,CONO6000,3,Lighting - Other,External Service,External Service,33,1
+WINN,CONO6000,3,Lighting - Other,External Service,Industrial Tools & Equipment,32,0.969697
+WINN,CONO6000,3,Lighting - Other,External Service,Miscellaneous - Tools,33,1
+WINN,CONO6000,3,Lighting - Other,External Service,Power Tools & Accessories,31,0.939394
+WINN,CONO6000,3,Lighting - Other,Industrial Tools & Equipment,External Service,31,0.861111
+WINN,CONO6000,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,34,0.944444
+WINN,CONO6000,3,Lighting - Other,Industrial Tools & Equipment,Jacking,31,0.861111
+WINN,CONO6000,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,35,0.972222
+WINN,CONO6000,3,Lighting - Other,Industrial Tools & Equipment,Power Tools & Accessories,33,0.916667
+WINN,CONO6000,3,Lighting - Other,Jacking,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Lighting - Other,Jacking,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Lighting - Other,Jacking,Power Tools & Accessories,31,1
+WINN,CONO6000,3,Lighting - Other,Lighting - Other,External Service,31,0.939394
+WINN,CONO6000,3,Lighting - Other,Lighting - Other,Industrial Tools & Equipment,33,1
+WINN,CONO6000,3,Lighting - Other,Lighting - Other,Jacking,31,0.939394
+WINN,CONO6000,3,Lighting - Other,Lighting - Other,Lighting - Other,32,0.969697
+WINN,CONO6000,3,Lighting - Other,Lighting - Other,Miscellaneous - Tools,33,1
+WINN,CONO6000,3,Lighting - Other,Lighting - Other,Power Tools & Accessories,33,1
+WINN,CONO6000,3,Lighting - Other,Miscellaneous - Tools,External Service,31,0.861111
+WINN,CONO6000,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,34,0.944444
+WINN,CONO6000,3,Lighting - Other,Miscellaneous - Tools,Jacking,31,0.861111
+WINN,CONO6000,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,36,1
+WINN,CONO6000,3,Lighting - Other,Miscellaneous - Tools,Power Tools & Accessories,33,0.916667
+WINN,CONO6000,3,Lighting - Other,Power Tools & Accessories,External Service,31,0.885714
+WINN,CONO6000,3,Lighting - Other,Power Tools & Accessories,Industrial Tools & Equipment,34,0.971429
+WINN,CONO6000,3,Lighting - Other,Power Tools & Accessories,Jacking,31,0.885714
+WINN,CONO6000,3,Lighting - Other,Power Tools & Accessories,Miscellaneous - Tools,35,1
+WINN,CONO6000,3,Lighting - Other,Power Tools & Accessories,Power Tools & Accessories,34,0.971429
+WINN,CONO6000,2,Power Tools & Accessories,Bolting Tools,,37,0.755102
+WINN,CONO6000,2,Power Tools & Accessories,Electrical Leads & Accessories,,34,0.693878
+WINN,CONO6000,2,Power Tools & Accessories,External Service,,44,0.897959
+WINN,CONO6000,2,Power Tools & Accessories,Industrial Tools & Equipment,,48,0.979592
+WINN,CONO6000,2,Power Tools & Accessories,Jacking,,38,0.77551
+WINN,CONO6000,2,Power Tools & Accessories,Lighting - Other,,34,0.693878
+WINN,CONO6000,2,Power Tools & Accessories,Miscellaneous - Tools,,49,1
+WINN,CONO6000,2,Power Tools & Accessories,Power Tools & Accessories,,48,0.979592
+WINN,CONO6000,2,Power Tools & Accessories,Welders - Accessories,,39,0.795918
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,Bolting Tools,34,0.918919
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,External Service,32,0.864865
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,Industrial Tools & Equipment,37,1
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,Jacking,32,0.864865
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,Power Tools & Accessories,37,1
+WINN,CONO6000,3,Power Tools & Accessories,Bolting Tools,Welders - Accessories,31,0.837838
+WINN,CONO6000,3,Power Tools & Accessories,Lighting - Other,External Service,32,0.941176
+WINN,CONO6000,3,Power Tools & Accessories,Lighting - Other,Industrial Tools & Equipment,34,1
+WINN,CONO6000,3,Power Tools & Accessories,Lighting - Other,Jacking,31,0.911765
+WINN,CONO6000,3,Power Tools & Accessories,Lighting - Other,Lighting - Other,33,0.970588
+WINN,CONO6000,3,Power Tools & Accessories,Lighting - Other,Miscellaneous - Tools,34,1
+WINN,CONO6000,3,Power Tools & Accessories,Lighting - Other,Power Tools & Accessories,34,1
+WINN,CONO6000,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,33,0.970588
+WINN,CONO6000,3,Power Tools & Accessories,Electrical Leads & Accessories,External Service,31,0.911765
+WINN,CONO6000,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,34,1
+WINN,CONO6000,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,34,1
+WINN,CONO6000,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,34,1
+WINN,CONO6000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Accessories,31,0.911765
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Bolting Tools,31,0.794872
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Electrical Leads & Accessories,31,0.794872
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,External Service,37,0.948718
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Industrial Tools & Equipment,39,1
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Jacking,35,0.897436
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Lighting - Other,31,0.794872
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Miscellaneous - Tools,39,1
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,39,1
+WINN,CONO6000,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,37,0.948718
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Bolting Tools,31,0.704545
+WINN,CONO6000,3,Power Tools & Accessories,External Service,External Service,44,1
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Industrial Tools & Equipment,42,0.954545
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Jacking,34,0.772727
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Lighting - Other,31,0.704545
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Miscellaneous - Tools,42,0.954545
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Power Tools & Accessories,40,0.909091
+WINN,CONO6000,3,Power Tools & Accessories,External Service,Welders - Accessories,35,0.795455
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Bolting Tools,36,0.75
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,33,0.6875
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,External Service,43,0.895833
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,47,0.979167
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Jacking,38,0.791667
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Lighting - Other,33,0.6875
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,47,0.979167
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,45,0.9375
+WINN,CONO6000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Accessories,38,0.791667
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,Bolting Tools,31,0.815789
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,External Service,35,0.921053
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,Industrial Tools & Equipment,38,1
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,Jacking,37,0.973684
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,Miscellaneous - Tools,38,1
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,Power Tools & Accessories,38,1
+WINN,CONO6000,3,Power Tools & Accessories,Jacking,Welders - Accessories,33,0.868421
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Bolting Tools,36,0.734694
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,34,0.693878
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,External Service,44,0.897959
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,47,0.959184
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Jacking,38,0.77551
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Lighting - Other,34,0.693878
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,48,0.979592
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,46,0.938776
+WINN,CONO6000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Accessories,38,0.77551
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Bolting Tools,36,0.75
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,33,0.6875
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,External Service,43,0.895833
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,47,0.979167
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Jacking,38,0.791667
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Lighting - Other,34,0.708333
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,48,1
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,47,0.979167
+WINN,CONO6000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,38,0.791667
+WINN,CONO6000,2,Bolting Tools,Bolting Tools,,34,0.918919
+WINN,CONO6000,2,Bolting Tools,External Service,,32,0.864865
+WINN,CONO6000,2,Bolting Tools,Industrial Tools & Equipment,,37,1
+WINN,CONO6000,2,Bolting Tools,Jacking,,32,0.864865
+WINN,CONO6000,2,Bolting Tools,Miscellaneous - Tools,,37,1
+WINN,CONO6000,2,Bolting Tools,Power Tools & Accessories,,37,1
+WINN,CONO6000,2,Bolting Tools,Welders - Accessories,,31,0.837838
+WINN,CONO6000,3,Bolting Tools,Bolting Tools,Bolting Tools,33,0.970588
+WINN,CONO6000,3,Bolting Tools,Bolting Tools,Industrial Tools & Equipment,34,1
+WINN,CONO6000,3,Bolting Tools,Bolting Tools,Jacking,31,0.911765
+WINN,CONO6000,3,Bolting Tools,Bolting Tools,Miscellaneous - Tools,34,1
+WINN,CONO6000,3,Bolting Tools,Bolting Tools,Power Tools & Accessories,34,1
+WINN,CONO6000,3,Bolting Tools,Welders - Accessories,Industrial Tools & Equipment,31,1
+WINN,CONO6000,3,Bolting Tools,Welders - Accessories,Jacking,31,1
+WINN,CONO6000,3,Bolting Tools,Welders - Accessories,Miscellaneous - Tools,31,1
+WINN,CONO6000,3,Bolting Tools,Welders - Accessories,Power Tools & Accessories,31,1
+WINN,CONO6000,3,Bolting Tools,External Service,External Service,32,1
+WINN,CONO6000,3,Bolting Tools,External Service,Industrial Tools & Equipment,31,0.96875
+WINN,CONO6000,3,Bolting Tools,External Service,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,Bolting Tools,External Service,Power Tools & Accessories,31,0.96875
+WINN,CONO6000,3,Bolting Tools,Jacking,Industrial Tools & Equipment,32,1
+WINN,CONO6000,3,Bolting Tools,Jacking,Jacking,31,0.96875
+WINN,CONO6000,3,Bolting Tools,Jacking,Miscellaneous - Tools,32,1
+WINN,CONO6000,3,Bolting Tools,Jacking,Power Tools & Accessories,32,1
+WINN,CONO6000,3,Bolting Tools,Industrial Tools & Equipment,External Service,33,0.891892
+WINN,CONO6000,3,Bolting Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,36,0.972973
+WINN,CONO6000,3,Bolting Tools,Industrial Tools & Equipment,Jacking,33,0.891892
+WINN,CONO6000,3,Bolting Tools,Industrial Tools & Equipment,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Bolting Tools,Industrial Tools & Equipment,Power Tools & Accessories,36,0.972973
+WINN,CONO6000,3,Bolting Tools,Industrial Tools & Equipment,Welders - Accessories,31,0.837838
+WINN,CONO6000,3,Bolting Tools,Miscellaneous - Tools,External Service,33,0.891892
+WINN,CONO6000,3,Bolting Tools,Miscellaneous - Tools,Industrial Tools & Equipment,36,0.972973
+WINN,CONO6000,3,Bolting Tools,Miscellaneous - Tools,Jacking,33,0.891892
+WINN,CONO6000,3,Bolting Tools,Miscellaneous - Tools,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Bolting Tools,Miscellaneous - Tools,Power Tools & Accessories,36,0.972973
+WINN,CONO6000,3,Bolting Tools,Miscellaneous - Tools,Welders - Accessories,31,0.837838
+WINN,CONO6000,3,Bolting Tools,Power Tools & Accessories,External Service,33,0.891892
+WINN,CONO6000,3,Bolting Tools,Power Tools & Accessories,Industrial Tools & Equipment,36,0.972973
+WINN,CONO6000,3,Bolting Tools,Power Tools & Accessories,Jacking,33,0.891892
+WINN,CONO6000,3,Bolting Tools,Power Tools & Accessories,Miscellaneous - Tools,37,1
+WINN,CONO6000,3,Bolting Tools,Power Tools & Accessories,Power Tools & Accessories,36,0.972973
+WINN,CONO6000,3,Bolting Tools,Power Tools & Accessories,Welders - Accessories,32,0.864865

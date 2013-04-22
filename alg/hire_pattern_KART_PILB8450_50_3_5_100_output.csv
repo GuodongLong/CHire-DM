@@ -1,0 +1,12 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+KART,PILB8450,1,Lighting Towers,,,123,1
+KART,PILB8450,1,Access - Knuckle Booms,,,96,1
+KART,PILB8450,1,Industrial Tools & Equipment,,,56,1
+KART,PILB8450,1,Welders - Motorised,,,65,1
+KART,PILB8450,1,Generators - Diesel Small,,,51,1
+KART,PILB8450,1,Miscellaneous - Tools,,,61,1
+KART,PILB8450,1,Power Tools & Accessories,,,52,1
+KART,PILB8450,2,Lighting Towers,Access - Knuckle Booms,,55,0.447154
+KART,PILB8450,2,Lighting Towers,Lighting Towers,,71,0.577236
+KART,PILB8450,2,Access - Knuckle Booms,Lighting Towers,,54,0.5625
+KART,PILB8450,2,Miscellaneous - Tools,Miscellaneous - Tools,,51,0.836066

@@ -1,0 +1,1025 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+COFF,LEIG3333,1,Pumps - Small,,,198,1
+COFF,LEIG3333,1,Concrete Vibe Units,,,168,1
+COFF,LEIG3333,1,Lighting Towers,,,91,1
+COFF,LEIG3333,1,Pumps - Accessories,,,123,1
+COFF,LEIG3333,1,Pumps - Hoses,,,261,1
+COFF,LEIG3333,1,Demolition,,,94,1
+COFF,LEIG3333,1,Pumps - Silenced,,,93,1
+COFF,LEIG3333,1,Compaction - Rammers & Vibrating Plates,,,164,1
+COFF,LEIG3333,1,Masonry Saws,,,87,1
+COFF,LEIG3333,1,Generators - Petrol,,,141,1
+COFF,LEIG3333,1,Power Tools & Accessories,,,77,1
+COFF,LEIG3333,1,Masonry Blades,,,61,1
+COFF,LEIG3333,1,Measurement Equipment,,,67,1
+COFF,LEIG3333,1,Air Compressors - Diesel Small,,,149,1
+COFF,LEIG3333,1,Concrete,,,59,1
+COFF,LEIG3333,1,Air Accessories,,,130,1
+COFF,LEIG3333,1,Air Hand Tools,,,127,1
+COFF,LEIG3333,1,Traffic - Barriers,,,58,1
+COFF,LEIG3333,1,Access - Knuckle Booms,,,103,1
+COFF,LEIG3333,2,Pumps - Small,Access - Knuckle Booms,,71,0.358586
+COFF,LEIG3333,2,Pumps - Small,Air Accessories,,91,0.459596
+COFF,LEIG3333,2,Pumps - Small,Air Compressors - Diesel Small,,99,0.5
+COFF,LEIG3333,2,Pumps - Small,Air Hand Tools,,87,0.439394
+COFF,LEIG3333,2,Pumps - Small,Compaction - Rammers & Vibrating Plates,,104,0.525253
+COFF,LEIG3333,2,Pumps - Small,Concrete Vibe Units,,131,0.661616
+COFF,LEIG3333,2,Pumps - Small,Demolition,,74,0.373737
+COFF,LEIG3333,2,Pumps - Small,Generators - Petrol,,95,0.479798
+COFF,LEIG3333,2,Pumps - Small,Lighting Towers,,64,0.323232
+COFF,LEIG3333,2,Pumps - Small,Masonry Saws,,64,0.323232
+COFF,LEIG3333,2,Pumps - Small,Measurement Equipment,,52,0.262626
+COFF,LEIG3333,2,Pumps - Small,Power Tools & Accessories,,59,0.29798
+COFF,LEIG3333,2,Pumps - Small,Pumps - Accessories,,95,0.479798
+COFF,LEIG3333,2,Pumps - Small,Pumps - Hoses,,182,0.919192
+COFF,LEIG3333,2,Pumps - Small,Pumps - Silenced,,70,0.353535
+COFF,LEIG3333,2,Pumps - Small,Pumps - Small,,169,0.853535
+COFF,LEIG3333,3,Pumps - Small,Access - Knuckle Booms,Access - Knuckle Booms,54,0.760563
+COFF,LEIG3333,3,Pumps - Small,Access - Knuckle Booms,Concrete Vibe Units,53,0.746479
+COFF,LEIG3333,3,Pumps - Small,Access - Knuckle Booms,Pumps - Hoses,60,0.84507
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Air Accessories,58,0.666667
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Air Compressors - Diesel Small,65,0.747126
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Air Hand Tools,65,0.747126
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Compaction - Rammers & Vibrating Plates,56,0.643678
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Concrete Vibe Units,62,0.712644
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Generators - Petrol,59,0.678161
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Pumps - Hoses,77,0.885057
+COFF,LEIG3333,3,Pumps - Small,Air Hand Tools,Pumps - Small,67,0.770115
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Air Accessories,58,0.610526
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Air Compressors - Diesel Small,64,0.673684
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Air Hand Tools,55,0.578947
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Compaction - Rammers & Vibrating Plates,65,0.684211
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Concrete Vibe Units,65,0.684211
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Generators - Petrol,67,0.705263
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Pumps - Hoses,85,0.894737
+COFF,LEIG3333,3,Pumps - Small,Generators - Petrol,Pumps - Small,72,0.757895
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Air Accessories,70,0.769231
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Air Compressors - Diesel Small,70,0.769231
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Air Hand Tools,59,0.648352
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Compaction - Rammers & Vibrating Plates,61,0.67033
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Concrete Vibe Units,65,0.714286
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Generators - Petrol,62,0.681319
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Pumps - Hoses,78,0.857143
+COFF,LEIG3333,3,Pumps - Small,Air Accessories,Pumps - Small,70,0.769231
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Air Accessories,72,0.727273
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,81,0.818182
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Air Hand Tools,66,0.666667
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,65,0.656566
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Concrete Vibe Units,71,0.717172
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Demolition,51,0.515152
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Generators - Petrol,67,0.676768
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Pumps - Accessories,54,0.545455
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Pumps - Hoses,89,0.89899
+COFF,LEIG3333,3,Pumps - Small,Air Compressors - Diesel Small,Pumps - Small,78,0.787879
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Air Accessories,59,0.567308
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,68,0.653846
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Air Hand Tools,56,0.538462
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,81,0.778846
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,79,0.759615
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Generators - Petrol,62,0.596154
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,51,0.490385
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,88,0.846154
+COFF,LEIG3333,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Pumps - Small,77,0.740385
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Access - Knuckle Booms,52,0.396947
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Air Accessories,72,0.549618
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Air Compressors - Diesel Small,76,0.580153
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Air Hand Tools,68,0.519084
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,84,0.641221
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Concrete Vibe Units,107,0.816794
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Demolition,55,0.419847
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Generators - Petrol,72,0.549618
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Pumps - Accessories,66,0.503817
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Pumps - Hoses,119,0.908397
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Pumps - Silenced,53,0.40458
+COFF,LEIG3333,3,Pumps - Small,Concrete Vibe Units,Pumps - Small,106,0.80916
+COFF,LEIG3333,3,Pumps - Small,Demolition,Air Compressors - Diesel Small,51,0.689189
+COFF,LEIG3333,3,Pumps - Small,Demolition,Pumps - Hoses,68,0.918919
+COFF,LEIG3333,3,Pumps - Small,Demolition,Pumps - Small,60,0.810811
+COFF,LEIG3333,3,Pumps - Small,Lighting Towers,Pumps - Hoses,55,0.859375
+COFF,LEIG3333,3,Pumps - Small,Masonry Saws,Pumps - Hoses,58,0.90625
+COFF,LEIG3333,3,Pumps - Small,Power Tools & Accessories,Pumps - Hoses,51,0.864407
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Air Accessories,57,0.6
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Air Compressors - Diesel Small,60,0.631579
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Air Hand Tools,56,0.589474
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,60,0.631579
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Concrete Vibe Units,63,0.663158
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Pumps - Accessories,71,0.747368
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Pumps - Hoses,89,0.936842
+COFF,LEIG3333,3,Pumps - Small,Pumps - Accessories,Pumps - Small,77,0.810526
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Access - Knuckle Booms,66,0.362637
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Air Accessories,89,0.489011
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Air Compressors - Diesel Small,96,0.527473
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Air Hand Tools,88,0.483516
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,98,0.538462
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Concrete Vibe Units,112,0.615385
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Demolition,71,0.39011
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Generators - Petrol,93,0.510989
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Lighting Towers,64,0.351648
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Masonry Saws,60,0.32967
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Power Tools & Accessories,58,0.318681
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Pumps - Accessories,92,0.505495
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Pumps - Hoses,174,0.956044
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Pumps - Silenced,68,0.373626
+COFF,LEIG3333,3,Pumps - Small,Pumps - Hoses,Pumps - Small,136,0.747253
+COFF,LEIG3333,3,Pumps - Small,Pumps - Silenced,Pumps - Hoses,66,0.942857
+COFF,LEIG3333,3,Pumps - Small,Pumps - Silenced,Pumps - Small,54,0.771429
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Access - Knuckle Booms,58,0.343195
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Air Accessories,77,0.455621
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Air Compressors - Diesel Small,85,0.502959
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Air Hand Tools,75,0.443787
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Compaction - Rammers & Vibrating Plates,92,0.544379
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Concrete Vibe Units,110,0.650888
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Demolition,62,0.366864
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Generators - Petrol,80,0.473373
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Lighting Towers,56,0.331361
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Masonry Saws,55,0.325444
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Power Tools & Accessories,53,0.313609
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Pumps - Accessories,83,0.491124
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Pumps - Hoses,156,0.923077
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Pumps - Silenced,62,0.366864
+COFF,LEIG3333,3,Pumps - Small,Pumps - Small,Pumps - Small,146,0.863905
+COFF,LEIG3333,2,Concrete Vibe Units,Access - Knuckle Booms,,65,0.386905
+COFF,LEIG3333,2,Concrete Vibe Units,Air Accessories,,90,0.535714
+COFF,LEIG3333,2,Concrete Vibe Units,Air Compressors - Diesel Small,,95,0.565476
+COFF,LEIG3333,2,Concrete Vibe Units,Air Hand Tools,,82,0.488095
+COFF,LEIG3333,2,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,,100,0.595238
+COFF,LEIG3333,2,Concrete Vibe Units,Concrete Vibe Units,,137,0.815476
+COFF,LEIG3333,2,Concrete Vibe Units,Demolition,,68,0.404762
+COFF,LEIG3333,2,Concrete Vibe Units,Generators - Petrol,,89,0.529762
+COFF,LEIG3333,2,Concrete Vibe Units,Lighting Towers,,57,0.339286
+COFF,LEIG3333,2,Concrete Vibe Units,Masonry Saws,,61,0.363095
+COFF,LEIG3333,2,Concrete Vibe Units,Power Tools & Accessories,,51,0.303571
+COFF,LEIG3333,2,Concrete Vibe Units,Pumps - Accessories,,79,0.470238
+COFF,LEIG3333,2,Concrete Vibe Units,Pumps - Hoses,,146,0.869048
+COFF,LEIG3333,2,Concrete Vibe Units,Pumps - Silenced,,65,0.386905
+COFF,LEIG3333,2,Concrete Vibe Units,Pumps - Small,,132,0.785714
+COFF,LEIG3333,3,Concrete Vibe Units,Access - Knuckle Booms,Pumps - Hoses,55,0.846154
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Accessories,71,0.747368
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Compressors - Diesel Small,76,0.8
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Hand Tools,62,0.652632
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,69,0.726316
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Concrete Vibe Units,67,0.705263
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Generators - Petrol,64,0.673684
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Pumps - Accessories,51,0.536842
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Pumps - Hoses,81,0.852632
+COFF,LEIG3333,3,Concrete Vibe Units,Air Compressors - Diesel Small,Pumps - Small,73,0.768421
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Air Accessories,69,0.766667
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Air Compressors - Diesel Small,67,0.744444
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Air Hand Tools,57,0.633333
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Compaction - Rammers & Vibrating Plates,66,0.733333
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Concrete Vibe Units,64,0.711111
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Generators - Petrol,62,0.688889
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Pumps - Hoses,75,0.833333
+COFF,LEIG3333,3,Concrete Vibe Units,Air Accessories,Pumps - Small,70,0.777778
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Air Accessories,55,0.617978
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Air Compressors - Diesel Small,59,0.662921
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Air Hand Tools,53,0.595506
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Compaction - Rammers & Vibrating Plates,66,0.741573
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Concrete Vibe Units,64,0.719101
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Generators - Petrol,64,0.719101
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Pumps - Hoses,79,0.88764
+COFF,LEIG3333,3,Concrete Vibe Units,Generators - Petrol,Pumps - Small,67,0.752809
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Air Accessories,60,0.731707
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Air Compressors - Diesel Small,65,0.792683
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Air Hand Tools,63,0.768293
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Compaction - Rammers & Vibrating Plates,61,0.743902
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Concrete Vibe Units,59,0.719512
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Generators - Petrol,58,0.707317
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Pumps - Hoses,72,0.878049
+COFF,LEIG3333,3,Concrete Vibe Units,Air Hand Tools,Pumps - Small,66,0.804878
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Air Accessories,62,0.62
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,66,0.66
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Air Hand Tools,55,0.55
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,81,0.81
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,80,0.8
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Generators - Petrol,61,0.61
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,87,0.87
+COFF,LEIG3333,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Pumps - Small,75,0.75
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Access - Knuckle Booms,52,0.379562
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Air Accessories,72,0.525547
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Air Compressors - Diesel Small,78,0.569343
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Air Hand Tools,66,0.481752
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,82,0.59854
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Concrete Vibe Units,117,0.854015
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Demolition,53,0.386861
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Generators - Petrol,70,0.510949
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Pumps - Accessories,67,0.489051
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Pumps - Hoses,121,0.883212
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Pumps - Silenced,57,0.416058
+COFF,LEIG3333,3,Concrete Vibe Units,Concrete Vibe Units,Pumps - Small,109,0.79562
+COFF,LEIG3333,3,Concrete Vibe Units,Demolition,Pumps - Hoses,64,0.941176
+COFF,LEIG3333,3,Concrete Vibe Units,Demolition,Pumps - Small,56,0.823529
+COFF,LEIG3333,3,Concrete Vibe Units,Masonry Saws,Pumps - Hoses,55,0.901639
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,52,0.658228
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Accessories,Concrete Vibe Units,58,0.734177
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Accessories,Pumps - Accessories,59,0.746835
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Accessories,Pumps - Hoses,75,0.949367
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Accessories,Pumps - Small,65,0.822785
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Access - Knuckle Booms,55,0.376712
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Air Accessories,77,0.527397
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Air Compressors - Diesel Small,83,0.568493
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Air Hand Tools,77,0.527397
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,86,0.589041
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Concrete Vibe Units,105,0.719178
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Demolition,64,0.438356
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Generators - Petrol,77,0.527397
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Lighting Towers,52,0.356164
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Masonry Saws,55,0.376712
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Power Tools & Accessories,54,0.369863
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Accessories,83,0.568493
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Hoses,140,0.958904
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Silenced,64,0.438356
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Small,115,0.787671
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Silenced,Pumps - Hoses,62,0.953846
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Silenced,Pumps - Small,53,0.815385
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Access - Knuckle Booms,51,0.386364
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Air Accessories,69,0.522727
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Air Compressors - Diesel Small,77,0.583333
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Air Hand Tools,67,0.507576
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Compaction - Rammers & Vibrating Plates,82,0.621212
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Concrete Vibe Units,100,0.757576
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Demolition,57,0.431818
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Generators - Petrol,69,0.522727
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Masonry Saws,52,0.393939
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Pumps - Accessories,74,0.560606
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Pumps - Hoses,125,0.94697
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Pumps - Silenced,56,0.424242
+COFF,LEIG3333,3,Concrete Vibe Units,Pumps - Small,Pumps - Small,111,0.840909
+COFF,LEIG3333,2,Demolition,Air Accessories,,54,0.574468
+COFF,LEIG3333,2,Demolition,Air Compressors - Diesel Small,,59,0.62766
+COFF,LEIG3333,2,Demolition,Compaction - Rammers & Vibrating Plates,,60,0.638298
+COFF,LEIG3333,2,Demolition,Concrete Vibe Units,,60,0.638298
+COFF,LEIG3333,2,Demolition,Demolition,,51,0.542553
+COFF,LEIG3333,2,Demolition,Generators - Petrol,,57,0.606383
+COFF,LEIG3333,2,Demolition,Pumps - Hoses,,80,0.851064
+COFF,LEIG3333,2,Demolition,Pumps - Small,,71,0.755319
+COFF,LEIG3333,3,Demolition,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,54,0.9
+COFF,LEIG3333,3,Demolition,Air Compressors - Diesel Small,Pumps - Hoses,52,0.881356
+COFF,LEIG3333,3,Demolition,Pumps - Hoses,Air Compressors - Diesel Small,56,0.7
+COFF,LEIG3333,3,Demolition,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,55,0.6875
+COFF,LEIG3333,3,Demolition,Pumps - Hoses,Concrete Vibe Units,61,0.7625
+COFF,LEIG3333,3,Demolition,Pumps - Hoses,Generators - Petrol,53,0.6625
+COFF,LEIG3333,3,Demolition,Pumps - Hoses,Pumps - Hoses,75,0.9375
+COFF,LEIG3333,3,Demolition,Pumps - Hoses,Pumps - Small,64,0.8
+COFF,LEIG3333,3,Demolition,Pumps - Small,Air Compressors - Diesel Small,51,0.71831
+COFF,LEIG3333,3,Demolition,Pumps - Small,Concrete Vibe Units,55,0.774648
+COFF,LEIG3333,3,Demolition,Pumps - Small,Pumps - Hoses,67,0.943662
+COFF,LEIG3333,3,Demolition,Pumps - Small,Pumps - Small,61,0.859155
+COFF,LEIG3333,3,Demolition,Concrete Vibe Units,Pumps - Hoses,55,0.916667
+COFF,LEIG3333,2,Pumps - Hoses,Access - Knuckle Booms,,79,0.302682
+COFF,LEIG3333,2,Pumps - Hoses,Air Accessories,,104,0.398467
+COFF,LEIG3333,2,Pumps - Hoses,Air Compressors - Diesel Small,,114,0.436782
+COFF,LEIG3333,2,Pumps - Hoses,Air Hand Tools,,103,0.394636
+COFF,LEIG3333,2,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,,119,0.455939
+COFF,LEIG3333,2,Pumps - Hoses,Concrete,,52,0.199234
+COFF,LEIG3333,2,Pumps - Hoses,Concrete Vibe Units,,146,0.559387
+COFF,LEIG3333,2,Pumps - Hoses,Demolition,,86,0.329502
+COFF,LEIG3333,2,Pumps - Hoses,Generators - Petrol,,111,0.425287
+COFF,LEIG3333,2,Pumps - Hoses,Lighting Towers,,75,0.287356
+COFF,LEIG3333,2,Pumps - Hoses,Masonry Saws,,72,0.275862
+COFF,LEIG3333,2,Pumps - Hoses,Measurement Equipment,,59,0.226054
+COFF,LEIG3333,2,Pumps - Hoses,Power Tools & Accessories,,68,0.260536
+COFF,LEIG3333,2,Pumps - Hoses,Pumps - Accessories,,115,0.440613
+COFF,LEIG3333,2,Pumps - Hoses,Pumps - Hoses,,244,0.934866
+COFF,LEIG3333,2,Pumps - Hoses,Pumps - Silenced,,89,0.340996
+COFF,LEIG3333,2,Pumps - Hoses,Pumps - Small,,177,0.678161
+COFF,LEIG3333,3,Pumps - Hoses,Access - Knuckle Booms,Access - Knuckle Booms,59,0.746835
+COFF,LEIG3333,3,Pumps - Hoses,Access - Knuckle Booms,Air Compressors - Diesel Small,52,0.658228
+COFF,LEIG3333,3,Pumps - Hoses,Access - Knuckle Booms,Concrete Vibe Units,57,0.721519
+COFF,LEIG3333,3,Pumps - Hoses,Access - Knuckle Booms,Generators - Petrol,52,0.658228
+COFF,LEIG3333,3,Pumps - Hoses,Access - Knuckle Booms,Pumps - Hoses,69,0.873418
+COFF,LEIG3333,3,Pumps - Hoses,Access - Knuckle Booms,Pumps - Small,58,0.734177
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Air Accessories,79,0.759615
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Air Compressors - Diesel Small,80,0.769231
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Air Hand Tools,67,0.644231
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Compaction - Rammers & Vibrating Plates,69,0.663462
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Concrete Vibe Units,71,0.682692
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Generators - Petrol,68,0.653846
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Lighting Towers,52,0.5
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Pumps - Accessories,55,0.528846
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Pumps - Hoses,88,0.846154
+COFF,LEIG3333,3,Pumps - Hoses,Air Accessories,Pumps - Small,78,0.75
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Air Accessories,69,0.669903
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Air Compressors - Diesel Small,77,0.747573
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Air Hand Tools,75,0.728155
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Compaction - Rammers & Vibrating Plates,66,0.640777
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Concrete Vibe Units,71,0.68932
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Generators - Petrol,67,0.650485
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Pumps - Accessories,53,0.514563
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Pumps - Hoses,88,0.854369
+COFF,LEIG3333,3,Pumps - Hoses,Air Hand Tools,Pumps - Small,76,0.737864
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Access - Knuckle Booms,58,0.39726
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Air Accessories,79,0.541096
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Air Compressors - Diesel Small,83,0.568493
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Air Hand Tools,74,0.506849
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,88,0.60274
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Concrete Vibe Units,119,0.815068
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Demolition,63,0.431507
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Generators - Petrol,81,0.554795
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Lighting Towers,52,0.356164
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Masonry Saws,54,0.369863
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Pumps - Accessories,72,0.493151
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Pumps - Hoses,132,0.90411
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Pumps - Silenced,57,0.390411
+COFF,LEIG3333,3,Pumps - Hoses,Concrete Vibe Units,Pumps - Small,118,0.808219
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Access - Knuckle Booms,73,0.29918
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Air Accessories,97,0.397541
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Air Compressors - Diesel Small,106,0.434426
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Air Hand Tools,97,0.397541
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,111,0.454918
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Concrete Vibe Units,139,0.569672
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Demolition,81,0.331967
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Generators - Petrol,105,0.430328
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Lighting Towers,70,0.286885
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Masonry Saws,66,0.270492
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Measurement Equipment,55,0.22541
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Power Tools & Accessories,66,0.270492
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Pumps - Accessories,109,0.446721
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Pumps - Hoses,227,0.930328
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Pumps - Silenced,80,0.327869
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Hoses,Pumps - Small,167,0.684426
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Access - Knuckle Booms,52,0.45614
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Air Accessories,84,0.736842
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Air Compressors - Diesel Small,95,0.833333
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Air Hand Tools,76,0.666667
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,73,0.640351
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Concrete Vibe Units,76,0.666667
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Demolition,56,0.491228
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Generators - Petrol,73,0.640351
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Lighting Towers,52,0.45614
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Pumps - Accessories,58,0.508772
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Pumps - Hoses,98,0.859649
+COFF,LEIG3333,3,Pumps - Hoses,Air Compressors - Diesel Small,Pumps - Small,84,0.736842
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,52,0.436975
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Air Accessories,65,0.546218
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,74,0.621849
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Air Hand Tools,62,0.521008
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,95,0.798319
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,87,0.731092
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Demolition,54,0.453782
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Generators - Petrol,70,0.588235
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Lighting Towers,51,0.428571
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Masonry Saws,52,0.436975
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,57,0.478992
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,97,0.815126
+COFF,LEIG3333,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Pumps - Small,86,0.722689
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Access - Knuckle Booms,62,0.350282
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Air Accessories,81,0.457627
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Air Compressors - Diesel Small,91,0.514124
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Air Hand Tools,81,0.457627
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Compaction - Rammers & Vibrating Plates,95,0.536723
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Concrete Vibe Units,119,0.672316
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Demolition,68,0.384181
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Generators - Petrol,85,0.480226
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Lighting Towers,61,0.344633
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Masonry Saws,58,0.327684
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Power Tools & Accessories,55,0.310734
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Pumps - Accessories,86,0.485876
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Pumps - Hoses,164,0.926554
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Pumps - Silenced,61,0.344633
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Small,Pumps - Small,153,0.864407
+COFF,LEIG3333,3,Pumps - Hoses,Lighting Towers,Air Compressors - Diesel Small,52,0.693333
+COFF,LEIG3333,3,Pumps - Hoses,Lighting Towers,Pumps - Hoses,65,0.866667
+COFF,LEIG3333,3,Pumps - Hoses,Lighting Towers,Pumps - Small,54,0.72
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Air Accessories,51,0.593023
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Air Compressors - Diesel Small,55,0.639535
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Compaction - Rammers & Vibrating Plates,53,0.616279
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Concrete Vibe Units,56,0.651163
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Generators - Petrol,52,0.604651
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Pumps - Hoses,75,0.872093
+COFF,LEIG3333,3,Pumps - Hoses,Demolition,Pumps - Small,66,0.767442
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Air Accessories,64,0.576577
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Air Compressors - Diesel Small,71,0.63964
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Air Hand Tools,62,0.558559
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Compaction - Rammers & Vibrating Plates,69,0.621622
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Concrete Vibe Units,73,0.657658
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Demolition,56,0.504505
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Generators - Petrol,79,0.711712
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Lighting Towers,51,0.459459
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Pumps - Accessories,55,0.495495
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Pumps - Hoses,99,0.891892
+COFF,LEIG3333,3,Pumps - Hoses,Generators - Petrol,Pumps - Small,82,0.738739
+COFF,LEIG3333,3,Pumps - Hoses,Masonry Saws,Concrete Vibe Units,55,0.763889
+COFF,LEIG3333,3,Pumps - Hoses,Masonry Saws,Pumps - Hoses,65,0.902778
+COFF,LEIG3333,3,Pumps - Hoses,Masonry Saws,Pumps - Small,56,0.777778
+COFF,LEIG3333,3,Pumps - Hoses,Measurement Equipment,Pumps - Hoses,51,0.864407
+COFF,LEIG3333,3,Pumps - Hoses,Power Tools & Accessories,Pumps - Hoses,60,0.882353
+COFF,LEIG3333,3,Pumps - Hoses,Power Tools & Accessories,Pumps - Small,52,0.764706
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Air Accessories,61,0.530435
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Air Compressors - Diesel Small,65,0.565217
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Air Hand Tools,60,0.521739
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,68,0.591304
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Concrete Vibe Units,76,0.66087
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Generators - Petrol,56,0.486957
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Pumps - Accessories,88,0.765217
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Pumps - Hoses,107,0.930435
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Accessories,Pumps - Small,92,0.8
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Air Compressors - Diesel Small,52,0.58427
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Compaction - Rammers & Vibrating Plates,55,0.617978
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Concrete Vibe Units,58,0.651685
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Pumps - Accessories,53,0.595506
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Pumps - Hoses,84,0.94382
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Pumps - Silenced,52,0.58427
+COFF,LEIG3333,3,Pumps - Hoses,Pumps - Silenced,Pumps - Small,67,0.752809
+COFF,LEIG3333,2,Lighting Towers,Air Accessories,,53,0.582418
+COFF,LEIG3333,2,Lighting Towers,Air Compressors - Diesel Small,,62,0.681319
+COFF,LEIG3333,2,Lighting Towers,Air Hand Tools,,58,0.637363
+COFF,LEIG3333,2,Lighting Towers,Compaction - Rammers & Vibrating Plates,,58,0.637363
+COFF,LEIG3333,2,Lighting Towers,Concrete Vibe Units,,57,0.626374
+COFF,LEIG3333,2,Lighting Towers,Generators - Petrol,,56,0.615385
+COFF,LEIG3333,2,Lighting Towers,Lighting Towers,,53,0.582418
+COFF,LEIG3333,2,Lighting Towers,Pumps - Hoses,,74,0.813187
+COFF,LEIG3333,2,Lighting Towers,Pumps - Small,,64,0.703297
+COFF,LEIG3333,3,Lighting Towers,Air Compressors - Diesel Small,Air Compressors - Diesel Small,52,0.83871
+COFF,LEIG3333,3,Lighting Towers,Pumps - Hoses,Pumps - Hoses,70,0.945946
+COFF,LEIG3333,3,Lighting Towers,Pumps - Hoses,Pumps - Small,53,0.716216
+COFF,LEIG3333,3,Lighting Towers,Pumps - Small,Pumps - Hoses,57,0.890625
+COFF,LEIG3333,2,Pumps - Accessories,Access - Knuckle Booms,,52,0.422764
+COFF,LEIG3333,2,Pumps - Accessories,Air Accessories,,66,0.536585
+COFF,LEIG3333,2,Pumps - Accessories,Air Compressors - Diesel Small,,71,0.577236
+COFF,LEIG3333,2,Pumps - Accessories,Air Hand Tools,,64,0.520325
+COFF,LEIG3333,2,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,,74,0.601626
+COFF,LEIG3333,2,Pumps - Accessories,Concrete Vibe Units,,81,0.658537
+COFF,LEIG3333,2,Pumps - Accessories,Generators - Petrol,,61,0.495935
+COFF,LEIG3333,2,Pumps - Accessories,Pumps - Accessories,,93,0.756098
+COFF,LEIG3333,2,Pumps - Accessories,Pumps - Hoses,,115,0.934959
+COFF,LEIG3333,2,Pumps - Accessories,Pumps - Silenced,,54,0.439024
+COFF,LEIG3333,2,Pumps - Accessories,Pumps - Small,,98,0.796748
+COFF,LEIG3333,3,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,53,0.716216
+COFF,LEIG3333,3,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,60,0.810811
+COFF,LEIG3333,3,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,55,0.743243
+COFF,LEIG3333,3,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,61,0.824324
+COFF,LEIG3333,3,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,Pumps - Small,56,0.756757
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,52,0.55914
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Accessories,Concrete Vibe Units,61,0.655914
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Accessories,Pumps - Accessories,74,0.795699
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Accessories,Pumps - Hoses,89,0.956989
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Accessories,Pumps - Small,75,0.806452
+COFF,LEIG3333,3,Pumps - Accessories,Air Accessories,Air Accessories,51,0.772727
+COFF,LEIG3333,3,Pumps - Accessories,Air Accessories,Concrete Vibe Units,51,0.772727
+COFF,LEIG3333,3,Pumps - Accessories,Air Accessories,Pumps - Hoses,57,0.863636
+COFF,LEIG3333,3,Pumps - Accessories,Air Accessories,Pumps - Small,51,0.772727
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Air Accessories,64,0.556522
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Air Compressors - Diesel Small,67,0.582609
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Air Hand Tools,63,0.547826
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,70,0.608696
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Concrete Vibe Units,81,0.704348
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Generators - Petrol,59,0.513043
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Pumps - Accessories,79,0.686957
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Pumps - Hoses,107,0.930435
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Hoses,Pumps - Small,86,0.747826
+COFF,LEIG3333,3,Pumps - Accessories,Air Compressors - Diesel Small,Air Accessories,55,0.774648
+COFF,LEIG3333,3,Pumps - Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,62,0.873239
+COFF,LEIG3333,3,Pumps - Accessories,Air Compressors - Diesel Small,Air Hand Tools,52,0.732394
+COFF,LEIG3333,3,Pumps - Accessories,Air Compressors - Diesel Small,Concrete Vibe Units,53,0.746479
+COFF,LEIG3333,3,Pumps - Accessories,Air Compressors - Diesel Small,Pumps - Hoses,60,0.84507
+COFF,LEIG3333,3,Pumps - Accessories,Air Compressors - Diesel Small,Pumps - Small,53,0.746479
+COFF,LEIG3333,3,Pumps - Accessories,Air Hand Tools,Pumps - Hoses,55,0.859375
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Air Accessories,53,0.654321
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Air Compressors - Diesel Small,57,0.703704
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Air Hand Tools,51,0.62963
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,56,0.691358
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Concrete Vibe Units,69,0.851852
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Generators - Petrol,51,0.62963
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Pumps - Accessories,52,0.641975
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Pumps - Hoses,76,0.938272
+COFF,LEIG3333,3,Pumps - Accessories,Concrete Vibe Units,Pumps - Small,69,0.851852
+COFF,LEIG3333,3,Pumps - Accessories,Generators - Petrol,Pumps - Hoses,56,0.918033
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Silenced,Pumps - Hoses,52,0.962963
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Air Accessories,61,0.622449
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Air Compressors - Diesel Small,64,0.653061
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Air Hand Tools,60,0.612245
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Compaction - Rammers & Vibrating Plates,62,0.632653
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Concrete Vibe Units,75,0.765306
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Generators - Petrol,54,0.55102
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Pumps - Accessories,67,0.683673
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Pumps - Hoses,92,0.938776
+COFF,LEIG3333,3,Pumps - Accessories,Pumps - Small,Pumps - Small,86,0.877551
+COFF,LEIG3333,2,Pumps - Silenced,Air Accessories,,51,0.548387
+COFF,LEIG3333,2,Pumps - Silenced,Air Compressors - Diesel Small,,55,0.591398
+COFF,LEIG3333,2,Pumps - Silenced,Compaction - Rammers & Vibrating Plates,,59,0.634409
+COFF,LEIG3333,2,Pumps - Silenced,Concrete Vibe Units,,62,0.666667
+COFF,LEIG3333,2,Pumps - Silenced,Generators - Petrol,,52,0.55914
+COFF,LEIG3333,2,Pumps - Silenced,Pumps - Accessories,,56,0.602151
+COFF,LEIG3333,2,Pumps - Silenced,Pumps - Hoses,,88,0.946237
+COFF,LEIG3333,2,Pumps - Silenced,Pumps - Silenced,,55,0.591398
+COFF,LEIG3333,2,Pumps - Silenced,Pumps - Small,,71,0.763441
+COFF,LEIG3333,3,Pumps - Silenced,Concrete Vibe Units,Concrete Vibe Units,54,0.870968
+COFF,LEIG3333,3,Pumps - Silenced,Concrete Vibe Units,Pumps - Hoses,58,0.935484
+COFF,LEIG3333,3,Pumps - Silenced,Concrete Vibe Units,Pumps - Small,56,0.903226
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Silenced,Pumps - Hoses,54,0.981818
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Small,Concrete Vibe Units,56,0.788732
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Small,Pumps - Hoses,64,0.901408
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Small,Pumps - Small,66,0.929577
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Accessories,Pumps - Hoses,52,0.928571
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Hoses,Air Compressors - Diesel Small,52,0.590909
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Hoses,Concrete Vibe Units,64,0.727273
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Hoses,Generators - Petrol,53,0.602273
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Hoses,Pumps - Accessories,51,0.579545
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Hoses,Pumps - Hoses,82,0.931818
+COFF,LEIG3333,3,Pumps - Silenced,Pumps - Hoses,Pumps - Small,70,0.795455
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,,66,0.402439
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,85,0.518293
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,97,0.591463
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Air Hand Tools,,80,0.487805
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,136,0.829268
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,,103,0.628049
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Demolition,,63,0.384146
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,90,0.54878
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Lighting Towers,,59,0.359756
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Masonry Saws,,63,0.384146
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Power Tools & Accessories,,51,0.310976
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,,67,0.408537
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,,118,0.719512
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Pumps - Silenced,,54,0.329268
+COFF,LEIG3333,2,Compaction - Rammers & Vibrating Plates,Pumps - Small,,102,0.621951
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Air Compressors - Diesel Small,51,0.772727
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Pumps - Hoses,53,0.80303
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Accessories,69,0.811765
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Compressors - Diesel Small,69,0.811765
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Hand Tools,58,0.682353
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Compaction - Rammers & Vibrating Plates,63,0.741176
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Concrete Vibe Units,58,0.682353
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Generators - Petrol,58,0.682353
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Pumps - Hoses,65,0.764706
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Pumps - Small,59,0.694118
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Air Accessories,61,0.7625
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Air Compressors - Diesel Small,66,0.825
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Air Hand Tools,63,0.7875
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Compaction - Rammers & Vibrating Plates,59,0.7375
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Concrete Vibe Units,54,0.675
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Generators - Petrol,56,0.7
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Pumps - Hoses,62,0.775
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Pumps - Small,54,0.675
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Accessories,75,0.773196
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Compressors - Diesel Small,82,0.845361
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Hand Tools,67,0.690722
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,73,0.752577
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Concrete Vibe Units,65,0.670103
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Generators - Petrol,67,0.690722
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Pumps - Accessories,52,0.536082
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Pumps - Hoses,74,0.762887
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Pumps - Small,64,0.659794
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Access - Knuckle Booms,54,0.524272
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Accessories,69,0.669903
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Compressors - Diesel Small,71,0.68932
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Hand Tools,61,0.592233
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,71,0.68932
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Concrete Vibe Units,79,0.76699
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Demolition,52,0.504854
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Generators - Petrol,63,0.61165
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Pumps - Accessories,54,0.524272
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Pumps - Hoses,89,0.864078
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Pumps - Small,81,0.786408
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Demolition,Pumps - Hoses,54,0.857143
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,57,0.419118
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Accessories,72,0.529412
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,81,0.595588
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Hand Tools,65,0.477941
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,117,0.860294
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,81,0.595588
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Demolition,51,0.375
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Generators - Petrol,72,0.529412
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,58,0.426471
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,93,0.683824
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Small,79,0.580882
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Air Accessories,55,0.611111
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Air Compressors - Diesel Small,62,0.688889
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Air Hand Tools,52,0.577778
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Compaction - Rammers & Vibrating Plates,67,0.744444
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Concrete Vibe Units,62,0.688889
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Generators - Petrol,65,0.722222
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Pumps - Hoses,76,0.844444
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Pumps - Small,64,0.711111
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Silenced,Pumps - Hoses,51,0.944444
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,Pumps - Accessories,52,0.776119
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,Pumps - Hoses,63,0.940299
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Accessories,Pumps - Small,53,0.791045
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Access - Knuckle Booms,52,0.440678
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Air Accessories,70,0.59322
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Air Compressors - Diesel Small,74,0.627119
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Air Hand Tools,63,0.533898
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,78,0.661017
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Concrete Vibe Units,81,0.686441
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Demolition,58,0.491525
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Generators - Petrol,67,0.567797
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Pumps - Accessories,68,0.576271
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Pumps - Hoses,110,0.932203
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Pumps - Small,88,0.745763
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Air Accessories,63,0.617647
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Air Compressors - Diesel Small,66,0.647059
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Air Hand Tools,55,0.539216
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Compaction - Rammers & Vibrating Plates,68,0.666667
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Concrete Vibe Units,77,0.754902
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Demolition,51,0.5
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Generators - Petrol,58,0.568627
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Pumps - Accessories,61,0.598039
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Pumps - Hoses,96,0.941176
+COFF,LEIG3333,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Pumps - Small,84,0.823529
+COFF,LEIG3333,2,Masonry Saws,Air Accessories,,52,0.597701
+COFF,LEIG3333,2,Masonry Saws,Air Compressors - Diesel Small,,56,0.643678
+COFF,LEIG3333,2,Masonry Saws,Compaction - Rammers & Vibrating Plates,,56,0.643678
+COFF,LEIG3333,2,Masonry Saws,Concrete Vibe Units,,64,0.735632
+COFF,LEIG3333,2,Masonry Saws,Generators - Petrol,,57,0.655172
+COFF,LEIG3333,2,Masonry Saws,Pumps - Hoses,,72,0.827586
+COFF,LEIG3333,2,Masonry Saws,Pumps - Small,,63,0.724138
+COFF,LEIG3333,3,Masonry Saws,Concrete Vibe Units,Concrete Vibe Units,51,0.796875
+COFF,LEIG3333,3,Masonry Saws,Concrete Vibe Units,Pumps - Hoses,59,0.921875
+COFF,LEIG3333,3,Masonry Saws,Concrete Vibe Units,Pumps - Small,55,0.859375
+COFF,LEIG3333,3,Masonry Saws,Air Compressors - Diesel Small,Pumps - Hoses,52,0.928571
+COFF,LEIG3333,3,Masonry Saws,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,51,0.708333
+COFF,LEIG3333,3,Masonry Saws,Pumps - Hoses,Concrete Vibe Units,52,0.722222
+COFF,LEIG3333,3,Masonry Saws,Pumps - Hoses,Pumps - Hoses,69,0.958333
+COFF,LEIG3333,3,Masonry Saws,Pumps - Hoses,Pumps - Small,59,0.819444
+COFF,LEIG3333,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,53,0.946429
+COFF,LEIG3333,3,Masonry Saws,Pumps - Small,Pumps - Hoses,58,0.920635
+COFF,LEIG3333,3,Masonry Saws,Pumps - Small,Pumps - Small,54,0.857143
+COFF,LEIG3333,3,Masonry Saws,Generators - Petrol,Pumps - Hoses,53,0.929825
+COFF,LEIG3333,2,Generators - Petrol,Access - Knuckle Booms,,62,0.439716
+COFF,LEIG3333,2,Generators - Petrol,Air Accessories,,77,0.546099
+COFF,LEIG3333,2,Generators - Petrol,Air Compressors - Diesel Small,,86,0.609929
+COFF,LEIG3333,2,Generators - Petrol,Air Hand Tools,,74,0.524823
+COFF,LEIG3333,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,90,0.638298
+COFF,LEIG3333,2,Generators - Petrol,Concrete Vibe Units,,88,0.624113
+COFF,LEIG3333,2,Generators - Petrol,Demolition,,65,0.460993
+COFF,LEIG3333,2,Generators - Petrol,Generators - Petrol,,101,0.716312
+COFF,LEIG3333,2,Generators - Petrol,Lighting Towers,,56,0.397163
+COFF,LEIG3333,2,Generators - Petrol,Masonry Saws,,56,0.397163
+COFF,LEIG3333,2,Generators - Petrol,Pumps - Accessories,,64,0.453901
+COFF,LEIG3333,2,Generators - Petrol,Pumps - Hoses,,117,0.829787
+COFF,LEIG3333,2,Generators - Petrol,Pumps - Silenced,,53,0.375887
+COFF,LEIG3333,2,Generators - Petrol,Pumps - Small,,97,0.687943
+COFF,LEIG3333,3,Generators - Petrol,Access - Knuckle Booms,Pumps - Hoses,53,0.854839
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Air Accessories,56,0.756757
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Air Compressors - Diesel Small,62,0.837838
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Air Hand Tools,59,0.797297
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Compaction - Rammers & Vibrating Plates,54,0.72973
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Concrete Vibe Units,53,0.716216
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Pumps - Hoses,62,0.837838
+COFF,LEIG3333,3,Generators - Petrol,Air Hand Tools,Pumps - Small,56,0.756757
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Air Accessories,59,0.584158
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Air Compressors - Diesel Small,63,0.623762
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Air Hand Tools,54,0.534653
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Compaction - Rammers & Vibrating Plates,66,0.653465
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Concrete Vibe Units,63,0.623762
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Generators - Petrol,71,0.70297
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Pumps - Hoses,84,0.831683
+COFF,LEIG3333,3,Generators - Petrol,Generators - Petrol,Pumps - Small,69,0.683168
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Air Accessories,59,0.766234
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Air Compressors - Diesel Small,63,0.818182
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Air Hand Tools,52,0.675325
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Compaction - Rammers & Vibrating Plates,57,0.74026
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Concrete Vibe Units,56,0.727273
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Pumps - Hoses,65,0.844156
+COFF,LEIG3333,3,Generators - Petrol,Air Accessories,Pumps - Small,64,0.831169
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Air Accessories,64,0.744186
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Air Compressors - Diesel Small,74,0.860465
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Air Hand Tools,59,0.686047
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,63,0.732558
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Concrete Vibe Units,58,0.674419
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Generators - Petrol,57,0.662791
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Pumps - Hoses,73,0.848837
+COFF,LEIG3333,3,Generators - Petrol,Air Compressors - Diesel Small,Pumps - Small,69,0.802326
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Air Accessories,55,0.611111
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,62,0.688889
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Air Hand Tools,51,0.566667
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,72,0.8
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,68,0.755556
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Generators - Petrol,56,0.622222
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,72,0.8
+COFF,LEIG3333,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Pumps - Small,66,0.733333
+COFF,LEIG3333,3,Generators - Petrol,Demolition,Pumps - Hoses,58,0.892308
+COFF,LEIG3333,3,Generators - Petrol,Demolition,Pumps - Small,54,0.830769
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Air Accessories,63,0.715909
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Air Compressors - Diesel Small,64,0.727273
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Air Hand Tools,54,0.613636
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,59,0.670455
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Concrete Vibe Units,70,0.795455
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Generators - Petrol,54,0.613636
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Pumps - Hoses,77,0.875
+COFF,LEIG3333,3,Generators - Petrol,Concrete Vibe Units,Pumps - Small,70,0.795455
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Air Accessories,62,0.639175
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Air Compressors - Diesel Small,67,0.690722
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Air Hand Tools,56,0.57732
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Compaction - Rammers & Vibrating Plates,64,0.659794
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Concrete Vibe Units,77,0.793814
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Demolition,53,0.546392
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Generators - Petrol,58,0.597938
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Pumps - Accessories,52,0.536082
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Pumps - Hoses,88,0.907216
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Small,Pumps - Small,83,0.85567
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Accessories,Pumps - Hoses,60,0.9375
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Accessories,Pumps - Small,53,0.828125
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Access - Knuckle Booms,52,0.444444
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Air Accessories,70,0.598291
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Air Compressors - Diesel Small,75,0.641026
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Air Hand Tools,65,0.555556
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,76,0.649573
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Concrete Vibe Units,85,0.726496
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Demolition,61,0.521368
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Generators - Petrol,68,0.581197
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Masonry Saws,53,0.452991
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Pumps - Accessories,59,0.504274
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Pumps - Hoses,108,0.923077
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Hoses,Pumps - Small,88,0.752137
+COFF,LEIG3333,3,Generators - Petrol,Pumps - Silenced,Pumps - Hoses,51,0.962264
+COFF,LEIG3333,2,Power Tools & Accessories,Air Compressors - Diesel Small,,51,0.662338
+COFF,LEIG3333,2,Power Tools & Accessories,Pumps - Hoses,,66,0.857143
+COFF,LEIG3333,2,Power Tools & Accessories,Pumps - Small,,58,0.753247
+COFF,LEIG3333,3,Power Tools & Accessories,Pumps - Small,Pumps - Hoses,53,0.913793
+COFF,LEIG3333,3,Power Tools & Accessories,Pumps - Hoses,Pumps - Hoses,62,0.939394
+COFF,LEIG3333,3,Power Tools & Accessories,Pumps - Hoses,Pumps - Small,52,0.787879
+COFF,LEIG3333,2,Masonry Blades,Pumps - Hoses,,52,0.852459
+COFF,LEIG3333,2,Air Hand Tools,Access - Knuckle Booms,,60,0.472441
+COFF,LEIG3333,2,Air Hand Tools,Air Accessories,,85,0.669291
+COFF,LEIG3333,2,Air Hand Tools,Air Compressors - Diesel Small,,95,0.748031
+COFF,LEIG3333,2,Air Hand Tools,Air Hand Tools,,93,0.732283
+COFF,LEIG3333,2,Air Hand Tools,Compaction - Rammers & Vibrating Plates,,80,0.629921
+COFF,LEIG3333,2,Air Hand Tools,Concrete Vibe Units,,80,0.629921
+COFF,LEIG3333,2,Air Hand Tools,Demolition,,58,0.456693
+COFF,LEIG3333,2,Air Hand Tools,Generators - Petrol,,76,0.598425
+COFF,LEIG3333,2,Air Hand Tools,Lighting Towers,,52,0.409449
+COFF,LEIG3333,2,Air Hand Tools,Masonry Saws,,52,0.409449
+COFF,LEIG3333,2,Air Hand Tools,Pumps - Accessories,,63,0.496063
+COFF,LEIG3333,2,Air Hand Tools,Pumps - Hoses,,99,0.779528
+COFF,LEIG3333,2,Air Hand Tools,Pumps - Small,,85,0.669291
+COFF,LEIG3333,3,Air Hand Tools,Access - Knuckle Booms,Pumps - Hoses,52,0.866667
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Air Accessories,64,0.752941
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Air Compressors - Diesel Small,66,0.776471
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Air Hand Tools,57,0.670588
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Compaction - Rammers & Vibrating Plates,55,0.647059
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Concrete Vibe Units,57,0.670588
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Generators - Petrol,52,0.611765
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Pumps - Hoses,68,0.8
+COFF,LEIG3333,3,Air Hand Tools,Air Accessories,Pumps - Small,61,0.717647
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Air Accessories,65,0.684211
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Air Compressors - Diesel Small,75,0.789474
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Air Hand Tools,63,0.663158
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,61,0.642105
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Concrete Vibe Units,59,0.621053
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Generators - Petrol,57,0.6
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Pumps - Hoses,74,0.778947
+COFF,LEIG3333,3,Air Hand Tools,Air Compressors - Diesel Small,Pumps - Small,65,0.684211
+COFF,LEIG3333,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,56,0.7
+COFF,LEIG3333,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,66,0.825
+COFF,LEIG3333,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,60,0.75
+COFF,LEIG3333,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,68,0.85
+COFF,LEIG3333,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Pumps - Small,61,0.7625
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Air Accessories,60,0.645161
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Air Compressors - Diesel Small,67,0.72043
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Air Hand Tools,67,0.72043
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Compaction - Rammers & Vibrating Plates,54,0.580645
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Concrete Vibe Units,56,0.602151
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Generators - Petrol,55,0.591398
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Pumps - Hoses,73,0.784946
+COFF,LEIG3333,3,Air Hand Tools,Air Hand Tools,Pumps - Small,60,0.645161
+COFF,LEIG3333,3,Air Hand Tools,Concrete Vibe Units,Air Compressors - Diesel Small,53,0.6625
+COFF,LEIG3333,3,Air Hand Tools,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,53,0.6625
+COFF,LEIG3333,3,Air Hand Tools,Concrete Vibe Units,Concrete Vibe Units,60,0.75
+COFF,LEIG3333,3,Air Hand Tools,Concrete Vibe Units,Generators - Petrol,51,0.6375
+COFF,LEIG3333,3,Air Hand Tools,Concrete Vibe Units,Pumps - Hoses,72,0.9
+COFF,LEIG3333,3,Air Hand Tools,Concrete Vibe Units,Pumps - Small,66,0.825
+COFF,LEIG3333,3,Air Hand Tools,Generators - Petrol,Air Compressors - Diesel Small,51,0.671053
+COFF,LEIG3333,3,Air Hand Tools,Generators - Petrol,Compaction - Rammers & Vibrating Plates,53,0.697368
+COFF,LEIG3333,3,Air Hand Tools,Generators - Petrol,Generators - Petrol,51,0.671053
+COFF,LEIG3333,3,Air Hand Tools,Generators - Petrol,Pumps - Hoses,65,0.855263
+COFF,LEIG3333,3,Air Hand Tools,Generators - Petrol,Pumps - Small,53,0.697368
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Accessories,Pumps - Hoses,58,0.920635
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Accessories,Pumps - Small,51,0.809524
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Air Accessories,56,0.565657
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Air Compressors - Diesel Small,64,0.646465
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Air Hand Tools,58,0.585859
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,62,0.626263
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Concrete Vibe Units,64,0.646465
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Generators - Petrol,55,0.555556
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Pumps - Accessories,60,0.606061
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Pumps - Hoses,93,0.939394
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Hoses,Pumps - Small,75,0.757576
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Air Accessories,53,0.623529
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Air Compressors - Diesel Small,59,0.694118
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Air Hand Tools,52,0.611765
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Compaction - Rammers & Vibrating Plates,55,0.647059
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Concrete Vibe Units,60,0.705882
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Generators - Petrol,51,0.6
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Pumps - Accessories,52,0.611765
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Pumps - Hoses,78,0.917647
+COFF,LEIG3333,3,Air Hand Tools,Pumps - Small,Pumps - Small,70,0.823529
+COFF,LEIG3333,2,Measurement Equipment,Concrete Vibe Units,,51,0.761194
+COFF,LEIG3333,2,Measurement Equipment,Pumps - Hoses,,56,0.835821
+COFF,LEIG3333,2,Measurement Equipment,Pumps - Small,,52,0.776119
+COFF,LEIG3333,3,Measurement Equipment,Pumps - Hoses,Pumps - Hoses,52,0.928571
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,69,0.463087
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Air Accessories,,104,0.697987
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,119,0.798658
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Air Hand Tools,,94,0.630872
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,96,0.644295
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Concrete Vibe Units,,91,0.610738
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Demolition,,65,0.436242
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Generators - Petrol,,90,0.604027
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Lighting Towers,,56,0.375839
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Masonry Saws,,59,0.395973
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Power Tools & Accessories,,51,0.342282
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Pumps - Accessories,,70,0.469799
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Pumps - Hoses,,112,0.751678
+COFF,LEIG3333,2,Air Compressors - Diesel Small,Pumps - Small,,99,0.66443
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,51,0.73913
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Air Compressors - Diesel Small,51,0.73913
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Concrete Vibe Units,52,0.753623
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Pumps - Hoses,58,0.84058
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Pumps - Small,51,0.73913
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Air Accessories,54,0.6
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Air Compressors - Diesel Small,61,0.677778
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Air Hand Tools,55,0.611111
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Compaction - Rammers & Vibrating Plates,62,0.688889
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Concrete Vibe Units,60,0.666667
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Generators - Petrol,65,0.722222
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Pumps - Hoses,76,0.844444
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Generators - Petrol,Pumps - Small,63,0.7
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Access - Knuckle Booms,54,0.519231
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,80,0.769231
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,80,0.769231
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Air Hand Tools,69,0.663462
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Compaction - Rammers & Vibrating Plates,67,0.644231
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Concrete Vibe Units,67,0.644231
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Generators - Petrol,67,0.644231
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Pumps - Accessories,53,0.509615
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Pumps - Hoses,81,0.778846
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Accessories,Pumps - Small,72,0.692308
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Access - Knuckle Booms,61,0.512605
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,82,0.689076
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,95,0.798319
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Hand Tools,77,0.647059
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,75,0.630252
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Concrete Vibe Units,71,0.596639
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Demolition,53,0.445378
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Generators - Petrol,73,0.613445
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Pumps - Accessories,58,0.487395
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Pumps - Hoses,90,0.756303
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Pumps - Small,77,0.647059
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Demolition,Pumps - Hoses,58,0.892308
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Demolition,Pumps - Small,51,0.784615
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Accessories,Air Compressors - Diesel Small,51,0.728571
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Accessories,Compaction - Rammers & Vibrating Plates,51,0.728571
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Accessories,Pumps - Hoses,65,0.928571
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Accessories,Pumps - Small,56,0.8
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Accessories,59,0.648352
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Compressors - Diesel Small,62,0.681319
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Hand Tools,55,0.604396
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,60,0.659341
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Concrete Vibe Units,71,0.78022
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Generators - Petrol,59,0.648352
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Pumps - Hoses,80,0.879121
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Concrete Vibe Units,Pumps - Small,71,0.78022
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Air Accessories,63,0.670213
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Air Compressors - Diesel Small,71,0.755319
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Air Hand Tools,72,0.765957
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Compaction - Rammers & Vibrating Plates,57,0.606383
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Concrete Vibe Units,58,0.617021
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Generators - Petrol,58,0.617021
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Pumps - Hoses,74,0.787234
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Air Hand Tools,Pumps - Small,61,0.648936
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,51,0.53125
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Accessories,55,0.572917
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,63,0.65625
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Hand Tools,56,0.583333
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,81,0.84375
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,71,0.739583
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Generators - Petrol,60,0.625
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,78,0.8125
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Pumps - Small,67,0.697917
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Access - Knuckle Booms,53,0.473214
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Air Accessories,63,0.5625
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Air Compressors - Diesel Small,71,0.633929
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Air Hand Tools,62,0.553571
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,71,0.633929
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Concrete Vibe Units,76,0.678571
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Demolition,58,0.517857
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Generators - Petrol,66,0.589286
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Lighting Towers,53,0.473214
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Pumps - Accessories,66,0.589286
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Pumps - Hoses,106,0.946429
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Hoses,Pumps - Small,83,0.741071
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Air Accessories,59,0.59596
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Air Compressors - Diesel Small,65,0.656566
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Air Hand Tools,56,0.565657
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Compaction - Rammers & Vibrating Plates,64,0.646465
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Concrete Vibe Units,73,0.737374
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Demolition,52,0.525253
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Generators - Petrol,61,0.616162
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Pumps - Accessories,58,0.585859
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Pumps - Hoses,89,0.89899
+COFF,LEIG3333,3,Air Compressors - Diesel Small,Pumps - Small,Pumps - Small,81,0.818182
+COFF,LEIG3333,2,Concrete,Pumps - Hoses,,51,0.864407
+COFF,LEIG3333,2,Air Accessories,Access - Knuckle Booms,,61,0.469231
+COFF,LEIG3333,2,Air Accessories,Air Accessories,,100,0.769231
+COFF,LEIG3333,2,Air Accessories,Air Compressors - Diesel Small,,100,0.769231
+COFF,LEIG3333,2,Air Accessories,Air Hand Tools,,81,0.623077
+COFF,LEIG3333,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,85,0.653846
+COFF,LEIG3333,2,Air Accessories,Concrete Vibe Units,,82,0.630769
+COFF,LEIG3333,2,Air Accessories,Demolition,,55,0.423077
+COFF,LEIG3333,2,Air Accessories,Generators - Petrol,,78,0.6
+COFF,LEIG3333,2,Air Accessories,Lighting Towers,,57,0.438462
+COFF,LEIG3333,2,Air Accessories,Masonry Saws,,52,0.4
+COFF,LEIG3333,2,Air Accessories,Pumps - Accessories,,63,0.484615
+COFF,LEIG3333,2,Air Accessories,Pumps - Hoses,,99,0.761538
+COFF,LEIG3333,2,Air Accessories,Pumps - Small,,89,0.684615
+COFF,LEIG3333,3,Air Accessories,Access - Knuckle Booms,Pumps - Hoses,53,0.868852
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Access - Knuckle Booms,51,0.51
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Air Accessories,78,0.78
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,78,0.78
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Air Hand Tools,63,0.63
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Compaction - Rammers & Vibrating Plates,64,0.64
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Concrete Vibe Units,62,0.62
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Generators - Petrol,59,0.59
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Pumps - Hoses,76,0.76
+COFF,LEIG3333,3,Air Accessories,Air Accessories,Pumps - Small,65,0.65
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Air Accessories,59,0.728395
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Air Compressors - Diesel Small,62,0.765432
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Air Hand Tools,62,0.765432
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Compaction - Rammers & Vibrating Plates,51,0.62963
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Concrete Vibe Units,51,0.62963
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Pumps - Hoses,62,0.765432
+COFF,LEIG3333,3,Air Accessories,Air Hand Tools,Pumps - Small,51,0.62963
+COFF,LEIG3333,3,Air Accessories,Generators - Petrol,Air Compressors - Diesel Small,54,0.692308
+COFF,LEIG3333,3,Air Accessories,Generators - Petrol,Compaction - Rammers & Vibrating Plates,54,0.692308
+COFF,LEIG3333,3,Air Accessories,Generators - Petrol,Concrete Vibe Units,51,0.653846
+COFF,LEIG3333,3,Air Accessories,Generators - Petrol,Generators - Petrol,54,0.692308
+COFF,LEIG3333,3,Air Accessories,Generators - Petrol,Pumps - Hoses,65,0.833333
+COFF,LEIG3333,3,Air Accessories,Generators - Petrol,Pumps - Small,53,0.679487
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,72,0.72
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,81,0.81
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Air Hand Tools,64,0.64
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,65,0.65
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Concrete Vibe Units,60,0.6
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Generators - Petrol,59,0.59
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Pumps - Hoses,75,0.75
+COFF,LEIG3333,3,Air Accessories,Air Compressors - Diesel Small,Pumps - Small,63,0.63
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Accessories,55,0.647059
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,61,0.717647
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Hand Tools,52,0.611765
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,70,0.823529
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,62,0.729412
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Generators - Petrol,54,0.635294
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,69,0.811765
+COFF,LEIG3333,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Pumps - Small,59,0.694118
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Air Accessories,56,0.682927
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Air Compressors - Diesel Small,57,0.695122
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Air Hand Tools,51,0.621951
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,55,0.670732
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Concrete Vibe Units,63,0.768293
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Generators - Petrol,53,0.646341
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Pumps - Hoses,72,0.878049
+COFF,LEIG3333,3,Air Accessories,Concrete Vibe Units,Pumps - Small,64,0.780488
+COFF,LEIG3333,3,Air Accessories,Pumps - Accessories,Pumps - Hoses,58,0.920635
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Air Accessories,60,0.606061
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Air Compressors - Diesel Small,64,0.646465
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Air Hand Tools,54,0.545455
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,62,0.626263
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Concrete Vibe Units,67,0.676768
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Demolition,51,0.515152
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Generators - Petrol,56,0.565657
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Pumps - Accessories,61,0.616162
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Pumps - Hoses,94,0.949495
+COFF,LEIG3333,3,Air Accessories,Pumps - Hoses,Pumps - Small,70,0.707071
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Air Accessories,57,0.640449
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Air Compressors - Diesel Small,60,0.674157
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Air Hand Tools,52,0.58427
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Compaction - Rammers & Vibrating Plates,58,0.651685
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Concrete Vibe Units,67,0.752809
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Generators - Petrol,56,0.629213
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Pumps - Accessories,54,0.606742
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Pumps - Hoses,80,0.898876
+COFF,LEIG3333,3,Air Accessories,Pumps - Small,Pumps - Small,71,0.797753
+COFF,LEIG3333,2,Access - Knuckle Booms,Access - Knuckle Booms,,77,0.747573
+COFF,LEIG3333,2,Access - Knuckle Booms,Air Accessories,,62,0.601942
+COFF,LEIG3333,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,67,0.650485
+COFF,LEIG3333,2,Access - Knuckle Booms,Air Hand Tools,,57,0.553398
+COFF,LEIG3333,2,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,,65,0.631068
+COFF,LEIG3333,2,Access - Knuckle Booms,Concrete Vibe Units,,67,0.650485
+COFF,LEIG3333,2,Access - Knuckle Booms,Generators - Petrol,,62,0.601942
+COFF,LEIG3333,2,Access - Knuckle Booms,Pumps - Hoses,,80,0.776699
+COFF,LEIG3333,2,Access - Knuckle Booms,Pumps - Small,,70,0.679612
+COFF,LEIG3333,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,57,0.74026
+COFF,LEIG3333,3,Access - Knuckle Booms,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,51,0.662338
+COFF,LEIG3333,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Hoses,57,0.74026
+COFF,LEIG3333,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Small,51,0.662338
+COFF,LEIG3333,3,Access - Knuckle Booms,Generators - Petrol,Pumps - Hoses,53,0.854839
+COFF,LEIG3333,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Air Accessories,52,0.776119
+COFF,LEIG3333,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Air Compressors - Diesel Small,52,0.776119
+COFF,LEIG3333,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Pumps - Hoses,52,0.776119
+COFF,LEIG3333,3,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,58,0.892308
+COFF,LEIG3333,3,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,51,0.784615
+COFF,LEIG3333,3,Access - Knuckle Booms,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,52,0.776119
+COFF,LEIG3333,3,Access - Knuckle Booms,Concrete Vibe Units,Concrete Vibe Units,52,0.776119
+COFF,LEIG3333,3,Access - Knuckle Booms,Concrete Vibe Units,Pumps - Hoses,59,0.880597
+COFF,LEIG3333,3,Access - Knuckle Booms,Concrete Vibe Units,Pumps - Small,53,0.791045
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Hoses,Air Accessories,51,0.6375
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Hoses,Air Compressors - Diesel Small,52,0.65
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,56,0.7
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Hoses,Concrete Vibe Units,55,0.6875
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Hoses,Pumps - Hoses,76,0.95
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Hoses,Pumps - Small,59,0.7375
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Small,Compaction - Rammers & Vibrating Plates,51,0.728571
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Small,Concrete Vibe Units,51,0.728571
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Small,Pumps - Hoses,64,0.914286
+COFF,LEIG3333,3,Access - Knuckle Booms,Pumps - Small,Pumps - Small,59,0.842857

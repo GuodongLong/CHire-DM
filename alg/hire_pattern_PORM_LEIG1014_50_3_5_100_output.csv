@@ -1,0 +1,46 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+PORM,LEIG1014,1,Access - Knuckle Booms,,,68,1
+PORM,LEIG1014,1,Concrete Vibe Units,,,91,1
+PORM,LEIG1014,1,Demolition,,,109,1
+PORM,LEIG1014,1,Pumps - Small,,,60,1
+PORM,LEIG1014,1,Pumps - Hoses,,,100,1
+PORM,LEIG1014,1,Generators - Petrol,,,86,1
+PORM,LEIG1014,1,Compaction - Rammers & Vibrating Plates,,,113,1
+PORM,LEIG1014,1,Air Accessories,,,109,1
+PORM,LEIG1014,1,Air Compressors - Diesel Small,,,108,1
+PORM,LEIG1014,1,Air Hand Tools,,,80,1
+PORM,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,53,0.469027
+PORM,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,53,0.469027
+PORM,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,74,0.654867
+PORM,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,53,0.716216
+PORM,LEIG1014,2,Generators - Petrol,Demolition,,54,0.627907
+PORM,LEIG1014,2,Concrete Vibe Units,Air Accessories,,51,0.56044
+PORM,LEIG1014,2,Concrete Vibe Units,Air Compressors - Diesel Small,,51,0.56044
+PORM,LEIG1014,2,Demolition,Air Accessories,,56,0.513761
+PORM,LEIG1014,2,Demolition,Air Compressors - Diesel Small,,56,0.513761
+PORM,LEIG1014,2,Demolition,Compaction - Rammers & Vibrating Plates,,57,0.522936
+PORM,LEIG1014,2,Demolition,Demolition,,64,0.587156
+PORM,LEIG1014,2,Demolition,Pumps - Hoses,,51,0.46789
+PORM,LEIG1014,2,Pumps - Hoses,Air Accessories,,52,0.52
+PORM,LEIG1014,2,Pumps - Hoses,Air Compressors - Diesel Small,,52,0.52
+PORM,LEIG1014,2,Pumps - Hoses,Demolition,,53,0.53
+PORM,LEIG1014,2,Pumps - Hoses,Pumps - Hoses,,62,0.62
+PORM,LEIG1014,2,Air Accessories,Air Accessories,,76,0.697248
+PORM,LEIG1014,2,Air Accessories,Air Compressors - Diesel Small,,75,0.688073
+PORM,LEIG1014,2,Air Accessories,Air Hand Tools,,56,0.513761
+PORM,LEIG1014,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,51,0.46789
+PORM,LEIG1014,2,Air Accessories,Demolition,,51,0.46789
+PORM,LEIG1014,3,Air Accessories,Air Accessories,Air Accessories,53,0.697368
+PORM,LEIG1014,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,52,0.684211
+PORM,LEIG1014,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,52,0.693333
+PORM,LEIG1014,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,51,0.68
+PORM,LEIG1014,2,Air Compressors - Diesel Small,Air Accessories,,75,0.694444
+PORM,LEIG1014,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,74,0.685185
+PORM,LEIG1014,2,Air Compressors - Diesel Small,Air Hand Tools,,56,0.518519
+PORM,LEIG1014,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,51,0.472222
+PORM,LEIG1014,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,53,0.706667
+PORM,LEIG1014,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,52,0.693333
+PORM,LEIG1014,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,52,0.702703
+PORM,LEIG1014,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,51,0.689189
+PORM,LEIG1014,2,Air Hand Tools,Air Accessories,,57,0.7125
+PORM,LEIG1014,2,Air Hand Tools,Air Compressors - Diesel Small,,56,0.7

@@ -1,0 +1,332 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+WAWA,ABIG8182,1,Concrete Vibe Units,,,136,1
+WAWA,ABIG8182,1,Air Compressors - Diesel Small,,,132,1
+WAWA,ABIG8182,1,Pumps - Small,,,143,1
+WAWA,ABIG8182,1,Access - Straight Booms,,,51,1
+WAWA,ABIG8182,1,Lighting Towers,,,43,1
+WAWA,ABIG8182,1,Generators - Petrol,,,48,1
+WAWA,ABIG8182,1,Compaction - Rammers & Vibrating Plates,,,163,1
+WAWA,ABIG8182,1,Pumps - Hoses,,,119,1
+WAWA,ABIG8182,1,Air Accessories,,,124,1
+WAWA,ABIG8182,1,Landscaping Equipment,,,47,1
+WAWA,ABIG8182,1,Air Hand Tools,,,84,1
+WAWA,ABIG8182,1,Compaction - Rollers - Single Drum Padfoot,,,43,1
+WAWA,ABIG8182,2,Concrete Vibe Units,Air Accessories,,60,0.441176
+WAWA,ABIG8182,2,Concrete Vibe Units,Air Compressors - Diesel Small,,64,0.470588
+WAWA,ABIG8182,2,Concrete Vibe Units,Air Hand Tools,,45,0.330882
+WAWA,ABIG8182,2,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,,76,0.558824
+WAWA,ABIG8182,2,Concrete Vibe Units,Concrete Vibe Units,,89,0.654412
+WAWA,ABIG8182,2,Concrete Vibe Units,Landscaping Equipment,,31,0.227941
+WAWA,ABIG8182,2,Concrete Vibe Units,Pumps - Hoses,,68,0.5
+WAWA,ABIG8182,2,Concrete Vibe Units,Pumps - Small,,80,0.588235
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Accessories,Air Accessories,36,0.6
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Accessories,Air Compressors - Diesel Small,37,0.616667
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Accessories,Compaction - Rammers & Vibrating Plates,38,0.633333
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Accessories,Concrete Vibe Units,42,0.7
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Accessories,Pumps - Hoses,33,0.55
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Accessories,Pumps - Small,37,0.616667
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Accessories,39,0.609375
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Compressors - Diesel Small,40,0.625
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Hand Tools,31,0.484375
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,40,0.625
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Concrete Vibe Units,43,0.671875
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Pumps - Hoses,35,0.546875
+WAWA,ABIG8182,3,Concrete Vibe Units,Air Compressors - Diesel Small,Pumps - Small,39,0.609375
+WAWA,ABIG8182,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Air Accessories,42,0.552632
+WAWA,ABIG8182,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,44,0.578947
+WAWA,ABIG8182,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,55,0.723684
+WAWA,ABIG8182,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,41,0.539474
+WAWA,ABIG8182,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,33,0.434211
+WAWA,ABIG8182,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Pumps - Small,40,0.526316
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Hoses,Air Accessories,34,0.5
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Hoses,Air Compressors - Diesel Small,34,0.5
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,35,0.514706
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Hoses,Concrete Vibe Units,43,0.632353
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Hoses,45,0.661765
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Small,48,0.705882
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Air Accessories,42,0.47191
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Air Compressors - Diesel Small,42,0.47191
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Air Hand Tools,33,0.370787
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,45,0.505618
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Concrete Vibe Units,58,0.651685
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Pumps - Hoses,46,0.516854
+WAWA,ABIG8182,3,Concrete Vibe Units,Concrete Vibe Units,Pumps - Small,55,0.617978
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Air Accessories,40,0.5
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Air Compressors - Diesel Small,41,0.5125
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Air Hand Tools,31,0.3875
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Compaction - Rammers & Vibrating Plates,46,0.575
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Concrete Vibe Units,52,0.65
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Pumps - Hoses,46,0.575
+WAWA,ABIG8182,3,Concrete Vibe Units,Pumps - Small,Pumps - Small,59,0.7375
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Air Accessories,,82,0.621212
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,86,0.651515
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Air Hand Tools,,56,0.424242
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,80,0.606061
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Concrete Vibe Units,,66,0.5
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Pumps - Hoses,,60,0.454545
+WAWA,ABIG8182,2,Air Compressors - Diesel Small,Pumps - Small,,70,0.530303
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,55,0.670732
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,56,0.682927
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Air Hand Tools,34,0.414634
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Compaction - Rammers & Vibrating Plates,46,0.560976
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Concrete Vibe Units,37,0.45122
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Pumps - Hoses,40,0.487805
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Accessories,Pumps - Small,43,0.52439
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Air Accessories,41,0.585714
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Air Compressors - Diesel Small,41,0.585714
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Air Hand Tools,33,0.471429
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Compaction - Rammers & Vibrating Plates,44,0.628571
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Concrete Vibe Units,43,0.614286
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Pumps - Hoses,40,0.571429
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Small,Pumps - Small,49,0.7
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,55,0.639535
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,60,0.697674
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Hand Tools,34,0.395349
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,47,0.546512
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Concrete Vibe Units,41,0.476744
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Pumps - Hoses,42,0.488372
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Pumps - Small,46,0.534884
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Accessories,40,0.606061
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Compressors - Diesel Small,40,0.606061
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,40,0.606061
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Concrete Vibe Units,Concrete Vibe Units,42,0.636364
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Concrete Vibe Units,Pumps - Hoses,34,0.515152
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Concrete Vibe Units,Pumps - Small,40,0.606061
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Hand Tools,Air Accessories,37,0.660714
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Hand Tools,Air Compressors - Diesel Small,38,0.678571
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Hand Tools,Compaction - Rammers & Vibrating Plates,33,0.589286
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Hand Tools,Concrete Vibe Units,33,0.589286
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Hand Tools,Pumps - Hoses,32,0.571429
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Air Hand Tools,Pumps - Small,33,0.589286
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Accessories,47,0.5875
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,49,0.6125
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Hand Tools,31,0.3875
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,53,0.6625
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,39,0.4875
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,35,0.4375
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Pumps - Small,45,0.5625
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Hoses,Air Accessories,34,0.566667
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Hoses,Air Compressors - Diesel Small,35,0.583333
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,34,0.566667
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Hoses,Concrete Vibe Units,37,0.616667
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Hoses,Pumps - Hoses,38,0.633333
+WAWA,ABIG8182,3,Air Compressors - Diesel Small,Pumps - Hoses,Pumps - Small,40,0.666667
+WAWA,ABIG8182,2,Air Accessories,Air Accessories,,82,0.66129
+WAWA,ABIG8182,2,Air Accessories,Air Compressors - Diesel Small,,82,0.66129
+WAWA,ABIG8182,2,Air Accessories,Air Hand Tools,,55,0.443548
+WAWA,ABIG8182,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,75,0.604839
+WAWA,ABIG8182,2,Air Accessories,Concrete Vibe Units,,60,0.483871
+WAWA,ABIG8182,2,Air Accessories,Pumps - Hoses,,56,0.451613
+WAWA,ABIG8182,2,Air Accessories,Pumps - Small,,64,0.516129
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Air Accessories,56,0.682927
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,57,0.695122
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Air Hand Tools,34,0.414634
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Compaction - Rammers & Vibrating Plates,45,0.54878
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Concrete Vibe Units,37,0.45122
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Pumps - Hoses,40,0.487805
+WAWA,ABIG8182,3,Air Accessories,Air Accessories,Pumps - Small,42,0.512195
+WAWA,ABIG8182,3,Air Accessories,Air Hand Tools,Air Accessories,38,0.690909
+WAWA,ABIG8182,3,Air Accessories,Air Hand Tools,Air Compressors - Diesel Small,39,0.709091
+WAWA,ABIG8182,3,Air Accessories,Air Hand Tools,Compaction - Rammers & Vibrating Plates,33,0.6
+WAWA,ABIG8182,3,Air Accessories,Air Hand Tools,Concrete Vibe Units,33,0.6
+WAWA,ABIG8182,3,Air Accessories,Air Hand Tools,Pumps - Hoses,32,0.581818
+WAWA,ABIG8182,3,Air Accessories,Air Hand Tools,Pumps - Small,33,0.6
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,54,0.658537
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,59,0.719512
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Air Hand Tools,34,0.414634
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,45,0.54878
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Concrete Vibe Units,40,0.487805
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Pumps - Hoses,42,0.512195
+WAWA,ABIG8182,3,Air Accessories,Air Compressors - Diesel Small,Pumps - Small,44,0.536585
+WAWA,ABIG8182,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Accessories,45,0.6
+WAWA,ABIG8182,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,49,0.653333
+WAWA,ABIG8182,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,52,0.693333
+WAWA,ABIG8182,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,38,0.506667
+WAWA,ABIG8182,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,37,0.493333
+WAWA,ABIG8182,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Pumps - Small,43,0.573333
+WAWA,ABIG8182,3,Air Accessories,Concrete Vibe Units,Air Accessories,36,0.6
+WAWA,ABIG8182,3,Air Accessories,Concrete Vibe Units,Air Compressors - Diesel Small,37,0.616667
+WAWA,ABIG8182,3,Air Accessories,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,36,0.6
+WAWA,ABIG8182,3,Air Accessories,Concrete Vibe Units,Concrete Vibe Units,39,0.65
+WAWA,ABIG8182,3,Air Accessories,Concrete Vibe Units,Pumps - Hoses,33,0.55
+WAWA,ABIG8182,3,Air Accessories,Concrete Vibe Units,Pumps - Small,38,0.633333
+WAWA,ABIG8182,3,Air Accessories,Pumps - Hoses,Air Accessories,33,0.589286
+WAWA,ABIG8182,3,Air Accessories,Pumps - Hoses,Air Compressors - Diesel Small,34,0.607143
+WAWA,ABIG8182,3,Air Accessories,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,32,0.571429
+WAWA,ABIG8182,3,Air Accessories,Pumps - Hoses,Concrete Vibe Units,36,0.642857
+WAWA,ABIG8182,3,Air Accessories,Pumps - Hoses,Pumps - Hoses,38,0.678571
+WAWA,ABIG8182,3,Air Accessories,Pumps - Hoses,Pumps - Small,40,0.714286
+WAWA,ABIG8182,3,Air Accessories,Pumps - Small,Air Accessories,37,0.578125
+WAWA,ABIG8182,3,Air Accessories,Pumps - Small,Air Compressors - Diesel Small,38,0.59375
+WAWA,ABIG8182,3,Air Accessories,Pumps - Small,Compaction - Rammers & Vibrating Plates,39,0.609375
+WAWA,ABIG8182,3,Air Accessories,Pumps - Small,Concrete Vibe Units,41,0.640625
+WAWA,ABIG8182,3,Air Accessories,Pumps - Small,Pumps - Hoses,38,0.59375
+WAWA,ABIG8182,3,Air Accessories,Pumps - Small,Pumps - Small,47,0.734375
+WAWA,ABIG8182,2,Pumps - Small,Access - Straight Booms,,31,0.216783
+WAWA,ABIG8182,2,Pumps - Small,Air Accessories,,64,0.447552
+WAWA,ABIG8182,2,Pumps - Small,Air Compressors - Diesel Small,,69,0.482517
+WAWA,ABIG8182,2,Pumps - Small,Air Hand Tools,,48,0.335664
+WAWA,ABIG8182,2,Pumps - Small,Compaction - Rammers & Vibrating Plates,,82,0.573427
+WAWA,ABIG8182,2,Pumps - Small,Concrete Vibe Units,,85,0.594406
+WAWA,ABIG8182,2,Pumps - Small,Landscaping Equipment,,31,0.216783
+WAWA,ABIG8182,2,Pumps - Small,Pumps - Hoses,,76,0.531469
+WAWA,ABIG8182,2,Pumps - Small,Pumps - Small,,98,0.685315
+WAWA,ABIG8182,3,Pumps - Small,Air Compressors - Diesel Small,Air Accessories,40,0.57971
+WAWA,ABIG8182,3,Pumps - Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,44,0.637681
+WAWA,ABIG8182,3,Pumps - Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,41,0.594203
+WAWA,ABIG8182,3,Pumps - Small,Air Compressors - Diesel Small,Concrete Vibe Units,40,0.57971
+WAWA,ABIG8182,3,Pumps - Small,Air Compressors - Diesel Small,Pumps - Hoses,32,0.463768
+WAWA,ABIG8182,3,Pumps - Small,Air Compressors - Diesel Small,Pumps - Small,39,0.565217
+WAWA,ABIG8182,3,Pumps - Small,Air Accessories,Air Accessories,39,0.609375
+WAWA,ABIG8182,3,Pumps - Small,Air Accessories,Air Compressors - Diesel Small,41,0.640625
+WAWA,ABIG8182,3,Pumps - Small,Air Accessories,Compaction - Rammers & Vibrating Plates,39,0.609375
+WAWA,ABIG8182,3,Pumps - Small,Air Accessories,Concrete Vibe Units,40,0.625
+WAWA,ABIG8182,3,Pumps - Small,Air Accessories,Pumps - Hoses,31,0.484375
+WAWA,ABIG8182,3,Pumps - Small,Air Accessories,Pumps - Small,37,0.578125
+WAWA,ABIG8182,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Air Accessories,39,0.47561
+WAWA,ABIG8182,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,45,0.54878
+WAWA,ABIG8182,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,65,0.792683
+WAWA,ABIG8182,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,42,0.512195
+WAWA,ABIG8182,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,33,0.402439
+WAWA,ABIG8182,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Pumps - Small,42,0.512195
+WAWA,ABIG8182,3,Pumps - Small,Concrete Vibe Units,Air Accessories,39,0.458824
+WAWA,ABIG8182,3,Pumps - Small,Concrete Vibe Units,Air Compressors - Diesel Small,41,0.482353
+WAWA,ABIG8182,3,Pumps - Small,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,49,0.576471
+WAWA,ABIG8182,3,Pumps - Small,Concrete Vibe Units,Concrete Vibe Units,55,0.647059
+WAWA,ABIG8182,3,Pumps - Small,Concrete Vibe Units,Pumps - Hoses,42,0.494118
+WAWA,ABIG8182,3,Pumps - Small,Concrete Vibe Units,Pumps - Small,53,0.623529
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Hoses,Air Accessories,36,0.473684
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Hoses,Air Compressors - Diesel Small,38,0.5
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,40,0.526316
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Hoses,Concrete Vibe Units,43,0.565789
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Hoses,Pumps - Hoses,49,0.644737
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Hoses,Pumps - Small,51,0.671053
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Air Accessories,47,0.479592
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Air Compressors - Diesel Small,51,0.520408
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Air Hand Tools,33,0.336735
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Compaction - Rammers & Vibrating Plates,56,0.571429
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Concrete Vibe Units,59,0.602041
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Pumps - Hoses,54,0.55102
+WAWA,ABIG8182,3,Pumps - Small,Pumps - Small,Pumps - Small,69,0.704082
+WAWA,ABIG8182,2,Access - Straight Booms,Air Accessories,,33,0.647059
+WAWA,ABIG8182,2,Access - Straight Booms,Air Compressors - Diesel Small,,36,0.705882
+WAWA,ABIG8182,2,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,,35,0.686275
+WAWA,ABIG8182,2,Access - Straight Booms,Pumps - Small,,31,0.607843
+WAWA,ABIG8182,2,Lighting Towers,Compaction - Rammers & Vibrating Plates,,33,0.767442
+WAWA,ABIG8182,2,Pumps - Hoses,Air Accessories,,56,0.470588
+WAWA,ABIG8182,2,Pumps - Hoses,Air Compressors - Diesel Small,,58,0.487395
+WAWA,ABIG8182,2,Pumps - Hoses,Air Hand Tools,,39,0.327731
+WAWA,ABIG8182,2,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,,65,0.546218
+WAWA,ABIG8182,2,Pumps - Hoses,Concrete Vibe Units,,68,0.571429
+WAWA,ABIG8182,2,Pumps - Hoses,Pumps - Hoses,,75,0.630252
+WAWA,ABIG8182,2,Pumps - Hoses,Pumps - Small,,76,0.638655
+WAWA,ABIG8182,3,Pumps - Hoses,Air Accessories,Air Accessories,39,0.696429
+WAWA,ABIG8182,3,Pumps - Hoses,Air Accessories,Air Compressors - Diesel Small,40,0.714286
+WAWA,ABIG8182,3,Pumps - Hoses,Air Accessories,Compaction - Rammers & Vibrating Plates,34,0.607143
+WAWA,ABIG8182,3,Pumps - Hoses,Air Accessories,Concrete Vibe Units,32,0.571429
+WAWA,ABIG8182,3,Pumps - Hoses,Air Accessories,Pumps - Small,33,0.589286
+WAWA,ABIG8182,3,Pumps - Hoses,Concrete Vibe Units,Air Accessories,35,0.514706
+WAWA,ABIG8182,3,Pumps - Hoses,Concrete Vibe Units,Air Compressors - Diesel Small,36,0.529412
+WAWA,ABIG8182,3,Pumps - Hoses,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,40,0.588235
+WAWA,ABIG8182,3,Pumps - Hoses,Concrete Vibe Units,Concrete Vibe Units,47,0.691176
+WAWA,ABIG8182,3,Pumps - Hoses,Concrete Vibe Units,Pumps - Hoses,36,0.529412
+WAWA,ABIG8182,3,Pumps - Hoses,Concrete Vibe Units,Pumps - Small,45,0.661765
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Hoses,Air Accessories,36,0.48
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Hoses,Air Compressors - Diesel Small,37,0.493333
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,38,0.506667
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Hoses,Concrete Vibe Units,41,0.546667
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Hoses,Pumps - Hoses,53,0.706667
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Hoses,Pumps - Small,50,0.666667
+WAWA,ABIG8182,3,Pumps - Hoses,Air Compressors - Diesel Small,Air Accessories,37,0.637931
+WAWA,ABIG8182,3,Pumps - Hoses,Air Compressors - Diesel Small,Air Compressors - Diesel Small,40,0.689655
+WAWA,ABIG8182,3,Pumps - Hoses,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,35,0.603448
+WAWA,ABIG8182,3,Pumps - Hoses,Air Compressors - Diesel Small,Concrete Vibe Units,33,0.568966
+WAWA,ABIG8182,3,Pumps - Hoses,Air Compressors - Diesel Small,Pumps - Small,35,0.603448
+WAWA,ABIG8182,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Air Accessories,36,0.553846
+WAWA,ABIG8182,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,41,0.630769
+WAWA,ABIG8182,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,46,0.707692
+WAWA,ABIG8182,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,38,0.584615
+WAWA,ABIG8182,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Pumps - Small,37,0.569231
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Small,Air Accessories,39,0.513158
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Small,Air Compressors - Diesel Small,42,0.552632
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Small,Compaction - Rammers & Vibrating Plates,46,0.605263
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Small,Concrete Vibe Units,47,0.618421
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Small,Pumps - Hoses,45,0.592105
+WAWA,ABIG8182,3,Pumps - Hoses,Pumps - Small,Pumps - Small,55,0.723684
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,,34,0.208589
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,72,0.441718
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,77,0.472393
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Air Hand Tools,,51,0.312883
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,125,0.766871
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,,33,0.202454
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,,73,0.447853
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,32,0.196319
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Lighting Towers,,32,0.196319
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,,60,0.368098
+WAWA,ABIG8182,2,Compaction - Rammers & Vibrating Plates,Pumps - Small,,79,0.484663
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Accessories,50,0.694444
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Compressors - Diesel Small,52,0.722222
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Hand Tools,37,0.513889
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Compaction - Rammers & Vibrating Plates,47,0.652778
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Concrete Vibe Units,36,0.5
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Pumps - Hoses,34,0.472222
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Pumps - Small,40,0.555556
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Air Accessories,35,0.686275
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Air Compressors - Diesel Small,35,0.686275
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Compaction - Rammers & Vibrating Plates,37,0.72549
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Pumps - Small,32,0.627451
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Accessories,50,0.649351
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Compressors - Diesel Small,54,0.701299
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Hand Tools,37,0.480519
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,51,0.662338
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Concrete Vibe Units,41,0.532468
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Pumps - Hoses,36,0.467532
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Pumps - Small,43,0.558442
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Accessories,39,0.534247
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Compressors - Diesel Small,43,0.589041
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Hand Tools,32,0.438356
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,47,0.643836
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Concrete Vibe Units,46,0.630137
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Pumps - Hoses,33,0.452055
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Pumps - Small,41,0.561644
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Accessories,55,0.44
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,61,0.488
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Hand Tools,41,0.328
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,95,0.76
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,57,0.456
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,42,0.336
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Small,58,0.464
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Air Accessories,31,0.516667
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Air Compressors - Diesel Small,36,0.6
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,38,0.633333
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Concrete Vibe Units,34,0.566667
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Pumps - Hoses,36,0.6
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Pumps - Small,38,0.633333
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Air Accessories,44,0.556962
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Air Compressors - Diesel Small,49,0.620253
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Air Hand Tools,35,0.443038
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Compaction - Rammers & Vibrating Plates,52,0.658228
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Concrete Vibe Units,43,0.544304
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Pumps - Hoses,40,0.506329
+WAWA,ABIG8182,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Pumps - Small,48,0.607595
+WAWA,ABIG8182,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,39,0.8125
+WAWA,ABIG8182,2,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,,31,0.659574
+WAWA,ABIG8182,2,Air Hand Tools,Air Accessories,,52,0.619048
+WAWA,ABIG8182,2,Air Hand Tools,Air Compressors - Diesel Small,,53,0.630952
+WAWA,ABIG8182,2,Air Hand Tools,Air Hand Tools,,39,0.464286
+WAWA,ABIG8182,2,Air Hand Tools,Compaction - Rammers & Vibrating Plates,,53,0.630952
+WAWA,ABIG8182,2,Air Hand Tools,Concrete Vibe Units,,46,0.547619
+WAWA,ABIG8182,2,Air Hand Tools,Pumps - Hoses,,41,0.488095
+WAWA,ABIG8182,2,Air Hand Tools,Pumps - Small,,47,0.559524
+WAWA,ABIG8182,3,Air Hand Tools,Air Accessories,Air Accessories,35,0.673077
+WAWA,ABIG8182,3,Air Hand Tools,Air Accessories,Air Compressors - Diesel Small,36,0.692308
+WAWA,ABIG8182,3,Air Hand Tools,Air Accessories,Compaction - Rammers & Vibrating Plates,34,0.653846
+WAWA,ABIG8182,3,Air Hand Tools,Air Compressors - Diesel Small,Air Accessories,34,0.641509
+WAWA,ABIG8182,3,Air Hand Tools,Air Compressors - Diesel Small,Air Compressors - Diesel Small,37,0.698113
+WAWA,ABIG8182,3,Air Hand Tools,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,35,0.660377
+WAWA,ABIG8182,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,41,0.773585
+WAWA,ABIG8182,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Pumps - Small,31,0.584906
+WAWA,ABIG8182,3,Air Hand Tools,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,32,0.695652
+WAWA,ABIG8182,3,Air Hand Tools,Pumps - Small,Compaction - Rammers & Vibrating Plates,31,0.659574
+WAWA,ABIG8182,3,Air Hand Tools,Pumps - Small,Pumps - Small,31,0.659574
+WAWA,ABIG8182,2,Compaction - Rollers - Single Drum Padfoot,Pumps - Small,,31,0.72093

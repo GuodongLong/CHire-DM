@@ -1,0 +1,223 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+SPRI,BIEL4023,1,Demolition,,,111,1
+SPRI,BIEL4023,1,Air Accessories,,,70,1
+SPRI,BIEL4023,1,Compaction - Rammers & Vibrating Plates,,,189,1
+SPRI,BIEL4023,1,Masonry Saws,,,168,1
+SPRI,BIEL4023,1,Concrete Vibe Units,,,106,1
+SPRI,BIEL4023,1,Landscaping Equipment,,,138,1
+SPRI,BIEL4023,1,Pumps - Hoses,,,98,1
+SPRI,BIEL4023,1,Pumps - Small,,,99,1
+SPRI,BIEL4023,1,Masonry Blades,,,137,1
+SPRI,BIEL4023,1,Air Breakers,,,62,1
+SPRI,BIEL4023,1,Air Compressors - Diesel Small,,,54,1
+SPRI,BIEL4023,1,Generators - Petrol,,,103,1
+SPRI,BIEL4023,1,Air Breakers - Attachments,,,95,1
+SPRI,BIEL4023,2,Demolition,Air Breakers - Attachments,,56,0.504505
+SPRI,BIEL4023,2,Demolition,Compaction - Rammers & Vibrating Plates,,79,0.711712
+SPRI,BIEL4023,2,Demolition,Demolition,,75,0.675676
+SPRI,BIEL4023,2,Demolition,Generators - Petrol,,58,0.522523
+SPRI,BIEL4023,2,Demolition,Landscaping Equipment,,51,0.459459
+SPRI,BIEL4023,2,Demolition,Masonry Blades,,66,0.594595
+SPRI,BIEL4023,2,Demolition,Masonry Saws,,73,0.657658
+SPRI,BIEL4023,3,Demolition,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,70,0.886076
+SPRI,BIEL4023,3,Demolition,Compaction - Rammers & Vibrating Plates,Masonry Blades,51,0.64557
+SPRI,BIEL4023,3,Demolition,Compaction - Rammers & Vibrating Plates,Masonry Saws,55,0.696203
+SPRI,BIEL4023,3,Demolition,Demolition,Compaction - Rammers & Vibrating Plates,59,0.786667
+SPRI,BIEL4023,3,Demolition,Demolition,Demolition,55,0.733333
+SPRI,BIEL4023,3,Demolition,Masonry Saws,Compaction - Rammers & Vibrating Plates,61,0.835616
+SPRI,BIEL4023,3,Demolition,Masonry Saws,Masonry Blades,54,0.739726
+SPRI,BIEL4023,3,Demolition,Masonry Saws,Masonry Saws,61,0.835616
+SPRI,BIEL4023,3,Demolition,Masonry Blades,Compaction - Rammers & Vibrating Plates,56,0.848485
+SPRI,BIEL4023,3,Demolition,Masonry Blades,Masonry Saws,53,0.80303
+SPRI,BIEL4023,2,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,,67,0.683673
+SPRI,BIEL4023,2,Pumps - Hoses,Concrete Vibe Units,,53,0.540816
+SPRI,BIEL4023,2,Pumps - Hoses,Landscaping Equipment,,53,0.540816
+SPRI,BIEL4023,2,Pumps - Hoses,Masonry Blades,,59,0.602041
+SPRI,BIEL4023,2,Pumps - Hoses,Masonry Saws,,66,0.673469
+SPRI,BIEL4023,2,Pumps - Hoses,Pumps - Hoses,,59,0.602041
+SPRI,BIEL4023,2,Pumps - Hoses,Pumps - Small,,53,0.540816
+SPRI,BIEL4023,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,58,0.865672
+SPRI,BIEL4023,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Masonry Blades,52,0.776119
+SPRI,BIEL4023,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Masonry Saws,54,0.80597
+SPRI,BIEL4023,3,Pumps - Hoses,Masonry Saws,Compaction - Rammers & Vibrating Plates,52,0.787879
+SPRI,BIEL4023,3,Pumps - Hoses,Masonry Saws,Masonry Saws,57,0.863636
+SPRI,BIEL4023,2,Air Accessories,Masonry Saws,,51,0.728571
+SPRI,BIEL4023,2,Pumps - Small,Compaction - Rammers & Vibrating Plates,,73,0.737374
+SPRI,BIEL4023,2,Pumps - Small,Concrete Vibe Units,,55,0.555556
+SPRI,BIEL4023,2,Pumps - Small,Landscaping Equipment,,53,0.535354
+SPRI,BIEL4023,2,Pumps - Small,Masonry Blades,,62,0.626263
+SPRI,BIEL4023,2,Pumps - Small,Masonry Saws,,68,0.686869
+SPRI,BIEL4023,2,Pumps - Small,Pumps - Hoses,,56,0.565657
+SPRI,BIEL4023,2,Pumps - Small,Pumps - Small,,57,0.575758
+SPRI,BIEL4023,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,62,0.849315
+SPRI,BIEL4023,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Masonry Blades,55,0.753425
+SPRI,BIEL4023,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Masonry Saws,57,0.780822
+SPRI,BIEL4023,3,Pumps - Small,Masonry Blades,Masonry Saws,51,0.822581
+SPRI,BIEL4023,3,Pumps - Small,Masonry Saws,Compaction - Rammers & Vibrating Plates,56,0.823529
+SPRI,BIEL4023,3,Pumps - Small,Masonry Saws,Masonry Blades,51,0.75
+SPRI,BIEL4023,3,Pumps - Small,Masonry Saws,Masonry Saws,57,0.838235
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,51,0.269841
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,,69,0.365079
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,163,0.862434
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,,65,0.343915
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Demolition,,74,0.391534
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,67,0.354497
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Landscaping Equipment,,73,0.386243
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Masonry Blades,,95,0.502646
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Masonry Saws,,106,0.560847
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,,62,0.328042
+SPRI,BIEL4023,2,Compaction - Rammers & Vibrating Plates,Pumps - Small,,65,0.343915
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,Air Breakers - Attachments,53,0.768116
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,58,0.84058
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,Masonry Saws,51,0.73913
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,67,0.411043
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,143,0.877301
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,58,0.355828
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Demolition,66,0.404908
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Generators - Petrol,65,0.398773
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Landscaping Equipment,62,0.380368
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Masonry Blades,84,0.515337
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Masonry Saws,92,0.564417
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,55,0.337423
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Small,55,0.337423
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Compaction - Rammers & Vibrating Plates,72,0.757895
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Demolition,52,0.547368
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Generators - Petrol,52,0.547368
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Masonry Blades,73,0.768421
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Masonry Saws,79,0.831579
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Demolition,Compaction - Rammers & Vibrating Plates,62,0.837838
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Demolition,Demolition,53,0.716216
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Demolition,Masonry Saws,54,0.72973
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Air Breakers - Attachments,53,0.5
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Compaction - Rammers & Vibrating Plates,79,0.745283
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Concrete Vibe Units,51,0.481132
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Demolition,57,0.537736
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Generators - Petrol,55,0.518868
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Masonry Blades,79,0.745283
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Masonry Saws,88,0.830189
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Compaction - Rammers & Vibrating Plates,57,0.850746
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Generators - Petrol,56,0.835821
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Masonry Saws,51,0.761194
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,57,0.780822
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Landscaping Equipment,Masonry Saws,55,0.753425
+SPRI,BIEL4023,3,Compaction - Rammers & Vibrating Plates,Pumps - Small,Compaction - Rammers & Vibrating Plates,53,0.815385
+SPRI,BIEL4023,2,Masonry Saws,Air Breakers - Attachments,,64,0.380952
+SPRI,BIEL4023,2,Masonry Saws,Compaction - Rammers & Vibrating Plates,,107,0.636905
+SPRI,BIEL4023,2,Masonry Saws,Concrete Vibe Units,,67,0.39881
+SPRI,BIEL4023,2,Masonry Saws,Demolition,,71,0.422619
+SPRI,BIEL4023,2,Masonry Saws,Generators - Petrol,,62,0.369048
+SPRI,BIEL4023,2,Masonry Saws,Landscaping Equipment,,70,0.416667
+SPRI,BIEL4023,2,Masonry Saws,Masonry Blades,,107,0.636905
+SPRI,BIEL4023,2,Masonry Saws,Masonry Saws,,131,0.779762
+SPRI,BIEL4023,2,Masonry Saws,Pumps - Hoses,,62,0.369048
+SPRI,BIEL4023,2,Masonry Saws,Pumps - Small,,62,0.369048
+SPRI,BIEL4023,3,Masonry Saws,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,54,0.84375
+SPRI,BIEL4023,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,94,0.878505
+SPRI,BIEL4023,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Demolition,54,0.504673
+SPRI,BIEL4023,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Generators - Petrol,52,0.485981
+SPRI,BIEL4023,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Masonry Blades,63,0.588785
+SPRI,BIEL4023,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Masonry Saws,71,0.663551
+SPRI,BIEL4023,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Pumps - Small,51,0.476636
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Air Breakers - Attachments,57,0.435115
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Compaction - Rammers & Vibrating Plates,91,0.694656
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Concrete Vibe Units,55,0.419847
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Demolition,62,0.473282
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Generators - Petrol,53,0.40458
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Landscaping Equipment,52,0.396947
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Masonry Blades,86,0.656489
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Masonry Saws,108,0.824427
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Pumps - Hoses,55,0.419847
+SPRI,BIEL4023,3,Masonry Saws,Masonry Saws,Pumps - Small,56,0.427481
+SPRI,BIEL4023,3,Masonry Saws,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,54,0.80597
+SPRI,BIEL4023,3,Masonry Saws,Concrete Vibe Units,Masonry Saws,52,0.776119
+SPRI,BIEL4023,3,Masonry Saws,Demolition,Compaction - Rammers & Vibrating Plates,58,0.816901
+SPRI,BIEL4023,3,Masonry Saws,Demolition,Masonry Saws,53,0.746479
+SPRI,BIEL4023,3,Masonry Saws,Masonry Blades,Compaction - Rammers & Vibrating Plates,79,0.738318
+SPRI,BIEL4023,3,Masonry Saws,Masonry Blades,Concrete Vibe Units,51,0.476636
+SPRI,BIEL4023,3,Masonry Saws,Masonry Blades,Demolition,55,0.514019
+SPRI,BIEL4023,3,Masonry Saws,Masonry Blades,Masonry Blades,76,0.71028
+SPRI,BIEL4023,3,Masonry Saws,Masonry Blades,Masonry Saws,86,0.803738
+SPRI,BIEL4023,3,Masonry Saws,Generators - Petrol,Compaction - Rammers & Vibrating Plates,52,0.83871
+SPRI,BIEL4023,3,Masonry Saws,Pumps - Hoses,Masonry Saws,51,0.822581
+SPRI,BIEL4023,3,Masonry Saws,Pumps - Small,Compaction - Rammers & Vibrating Plates,51,0.822581
+SPRI,BIEL4023,3,Masonry Saws,Pumps - Small,Masonry Saws,51,0.822581
+SPRI,BIEL4023,2,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,,73,0.688679
+SPRI,BIEL4023,2,Concrete Vibe Units,Concrete Vibe Units,,66,0.622642
+SPRI,BIEL4023,2,Concrete Vibe Units,Generators - Petrol,,52,0.490566
+SPRI,BIEL4023,2,Concrete Vibe Units,Landscaping Equipment,,52,0.490566
+SPRI,BIEL4023,2,Concrete Vibe Units,Masonry Blades,,68,0.641509
+SPRI,BIEL4023,2,Concrete Vibe Units,Masonry Saws,,71,0.669811
+SPRI,BIEL4023,2,Concrete Vibe Units,Pumps - Hoses,,52,0.490566
+SPRI,BIEL4023,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,64,0.876712
+SPRI,BIEL4023,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Masonry Blades,55,0.753425
+SPRI,BIEL4023,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Masonry Saws,57,0.780822
+SPRI,BIEL4023,3,Concrete Vibe Units,Masonry Blades,Compaction - Rammers & Vibrating Plates,51,0.75
+SPRI,BIEL4023,3,Concrete Vibe Units,Masonry Blades,Masonry Blades,52,0.764706
+SPRI,BIEL4023,3,Concrete Vibe Units,Masonry Blades,Masonry Saws,55,0.808824
+SPRI,BIEL4023,3,Concrete Vibe Units,Masonry Saws,Compaction - Rammers & Vibrating Plates,54,0.760563
+SPRI,BIEL4023,3,Concrete Vibe Units,Masonry Saws,Masonry Blades,54,0.760563
+SPRI,BIEL4023,3,Concrete Vibe Units,Masonry Saws,Masonry Saws,60,0.84507
+SPRI,BIEL4023,2,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,,74,0.536232
+SPRI,BIEL4023,2,Landscaping Equipment,Landscaping Equipment,,89,0.644928
+SPRI,BIEL4023,2,Landscaping Equipment,Masonry Blades,,67,0.485507
+SPRI,BIEL4023,2,Landscaping Equipment,Masonry Saws,,77,0.557971
+SPRI,BIEL4023,3,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,64,0.864865
+SPRI,BIEL4023,3,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,Masonry Blades,52,0.702703
+SPRI,BIEL4023,3,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,Masonry Saws,57,0.77027
+SPRI,BIEL4023,3,Landscaping Equipment,Landscaping Equipment,Landscaping Equipment,59,0.662921
+SPRI,BIEL4023,3,Landscaping Equipment,Landscaping Equipment,Masonry Saws,53,0.595506
+SPRI,BIEL4023,3,Landscaping Equipment,Masonry Blades,Compaction - Rammers & Vibrating Plates,51,0.761194
+SPRI,BIEL4023,3,Landscaping Equipment,Masonry Blades,Masonry Saws,51,0.761194
+SPRI,BIEL4023,3,Landscaping Equipment,Masonry Saws,Compaction - Rammers & Vibrating Plates,55,0.714286
+SPRI,BIEL4023,3,Landscaping Equipment,Masonry Saws,Masonry Blades,52,0.675325
+SPRI,BIEL4023,3,Landscaping Equipment,Masonry Saws,Masonry Saws,58,0.753247
+SPRI,BIEL4023,2,Masonry Blades,Air Breakers - Attachments,,58,0.423358
+SPRI,BIEL4023,2,Masonry Blades,Compaction - Rammers & Vibrating Plates,,94,0.686131
+SPRI,BIEL4023,2,Masonry Blades,Concrete Vibe Units,,61,0.445255
+SPRI,BIEL4023,2,Masonry Blades,Demolition,,65,0.474453
+SPRI,BIEL4023,2,Masonry Blades,Generators - Petrol,,58,0.423358
+SPRI,BIEL4023,2,Masonry Blades,Landscaping Equipment,,62,0.452555
+SPRI,BIEL4023,2,Masonry Blades,Masonry Blades,,96,0.70073
+SPRI,BIEL4023,2,Masonry Blades,Masonry Saws,,105,0.766423
+SPRI,BIEL4023,2,Masonry Blades,Pumps - Hoses,,54,0.394161
+SPRI,BIEL4023,2,Masonry Blades,Pumps - Small,,55,0.40146
+SPRI,BIEL4023,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,83,0.882979
+SPRI,BIEL4023,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Masonry Blades,57,0.606383
+SPRI,BIEL4023,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Masonry Saws,64,0.680851
+SPRI,BIEL4023,3,Masonry Blades,Masonry Saws,Compaction - Rammers & Vibrating Plates,79,0.752381
+SPRI,BIEL4023,3,Masonry Blades,Masonry Saws,Demolition,55,0.52381
+SPRI,BIEL4023,3,Masonry Blades,Masonry Saws,Masonry Blades,74,0.704762
+SPRI,BIEL4023,3,Masonry Blades,Masonry Saws,Masonry Saws,88,0.838095
+SPRI,BIEL4023,3,Masonry Blades,Demolition,Compaction - Rammers & Vibrating Plates,54,0.830769
+SPRI,BIEL4023,3,Masonry Blades,Masonry Blades,Compaction - Rammers & Vibrating Plates,72,0.75
+SPRI,BIEL4023,3,Masonry Blades,Masonry Blades,Demolition,52,0.541667
+SPRI,BIEL4023,3,Masonry Blades,Masonry Blades,Masonry Blades,70,0.729167
+SPRI,BIEL4023,3,Masonry Blades,Masonry Blades,Masonry Saws,78,0.8125
+SPRI,BIEL4023,2,Generators - Petrol,Air Breakers - Attachments,,57,0.553398
+SPRI,BIEL4023,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,72,0.699029
+SPRI,BIEL4023,2,Generators - Petrol,Demolition,,58,0.563107
+SPRI,BIEL4023,2,Generators - Petrol,Generators - Petrol,,78,0.757282
+SPRI,BIEL4023,2,Generators - Petrol,Masonry Blades,,61,0.592233
+SPRI,BIEL4023,2,Generators - Petrol,Masonry Saws,,67,0.650485
+SPRI,BIEL4023,3,Generators - Petrol,Generators - Petrol,Compaction - Rammers & Vibrating Plates,55,0.705128
+SPRI,BIEL4023,3,Generators - Petrol,Generators - Petrol,Generators - Petrol,60,0.769231
+SPRI,BIEL4023,3,Generators - Petrol,Generators - Petrol,Masonry Saws,52,0.666667
+SPRI,BIEL4023,3,Generators - Petrol,Masonry Blades,Masonry Saws,56,0.918033
+SPRI,BIEL4023,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,63,0.875
+SPRI,BIEL4023,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Masonry Blades,51,0.708333
+SPRI,BIEL4023,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Masonry Saws,56,0.777778
+SPRI,BIEL4023,3,Generators - Petrol,Masonry Saws,Compaction - Rammers & Vibrating Plates,55,0.820896
+SPRI,BIEL4023,3,Generators - Petrol,Masonry Saws,Masonry Blades,52,0.776119
+SPRI,BIEL4023,3,Generators - Petrol,Masonry Saws,Masonry Saws,61,0.910448
+SPRI,BIEL4023,2,Air Breakers - Attachments,Air Breakers - Attachments,,68,0.715789
+SPRI,BIEL4023,2,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,,72,0.757895
+SPRI,BIEL4023,2,Air Breakers - Attachments,Demolition,,57,0.6
+SPRI,BIEL4023,2,Air Breakers - Attachments,Generators - Petrol,,51,0.536842
+SPRI,BIEL4023,2,Air Breakers - Attachments,Masonry Blades,,60,0.631579
+SPRI,BIEL4023,2,Air Breakers - Attachments,Masonry Saws,,63,0.663158
+SPRI,BIEL4023,3,Air Breakers - Attachments,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,55,0.808824
+SPRI,BIEL4023,3,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,65,0.902778
+SPRI,BIEL4023,3,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,Masonry Saws,53,0.736111
+SPRI,BIEL4023,3,Air Breakers - Attachments,Masonry Blades,Compaction - Rammers & Vibrating Plates,51,0.85
+SPRI,BIEL4023,3,Air Breakers - Attachments,Masonry Saws,Compaction - Rammers & Vibrating Plates,55,0.873016
+SPRI,BIEL4023,3,Air Breakers - Attachments,Masonry Saws,Masonry Saws,52,0.825397

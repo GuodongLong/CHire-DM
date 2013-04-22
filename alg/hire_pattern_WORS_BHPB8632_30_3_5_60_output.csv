@@ -1,0 +1,1048 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+WORS,BHPB8632,1,Access - Knuckle Booms,,,529,1
+WORS,BHPB8632,1,Access - Straight Booms,,,144,1
+WORS,BHPB8632,1,Pumps - Hoses,,,120,1
+WORS,BHPB8632,1,Bolting Tools,,,58,1
+WORS,BHPB8632,1,Air Compressors - Diesel Small,,,81,1
+WORS,BHPB8632,1,Fans,,,76,1
+WORS,BHPB8632,1,Generators - Diesel Small,,,202,1
+WORS,BHPB8632,1,Access - Scissor Lifts,,,144,1
+WORS,BHPB8632,1,Concrete Vibe Units,,,81,1
+WORS,BHPB8632,1,Miscellaneous - Tools,,,58,1
+WORS,BHPB8632,1,Pumps - Large,,,36,1
+WORS,BHPB8632,1,Pumps - Small,,,88,1
+WORS,BHPB8632,1,Welders - Motorised,,,131,1
+WORS,BHPB8632,1,Air Accessories,,,71,1
+WORS,BHPB8632,1,Lighting Towers,,,102,1
+WORS,BHPB8632,1,Generators - Accessories,,,47,1
+WORS,BHPB8632,1,Air Compressors - Diesel Large,,,31,1
+WORS,BHPB8632,1,Electrical Leads & Accessories,,,59,1
+WORS,BHPB8632,1,Materials Handling - Forklift,,,65,1
+WORS,BHPB8632,1,Welders - Accessories,,,40,1
+WORS,BHPB8632,2,Access - Knuckle Booms,Access - Knuckle Booms,,527,0.996219
+WORS,BHPB8632,2,Access - Knuckle Booms,Access - Scissor Lifts,,138,0.26087
+WORS,BHPB8632,2,Access - Knuckle Booms,Access - Straight Booms,,140,0.26465
+WORS,BHPB8632,2,Access - Knuckle Booms,Air Accessories,,71,0.134216
+WORS,BHPB8632,2,Access - Knuckle Booms,Air Compressors - Diesel Large,,31,0.0586011
+WORS,BHPB8632,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,81,0.153119
+WORS,BHPB8632,2,Access - Knuckle Booms,Bolting Tools,,56,0.10586
+WORS,BHPB8632,2,Access - Knuckle Booms,Concrete Vibe Units,,78,0.147448
+WORS,BHPB8632,2,Access - Knuckle Booms,Electrical Leads & Accessories,,59,0.111531
+WORS,BHPB8632,2,Access - Knuckle Booms,Fans,,74,0.139887
+WORS,BHPB8632,2,Access - Knuckle Booms,Generators - Accessories,,47,0.0888469
+WORS,BHPB8632,2,Access - Knuckle Booms,Generators - Diesel Small,,194,0.36673
+WORS,BHPB8632,2,Access - Knuckle Booms,Lighting Towers,,101,0.190926
+WORS,BHPB8632,2,Access - Knuckle Booms,Materials Handling - Forklift,,64,0.120983
+WORS,BHPB8632,2,Access - Knuckle Booms,Miscellaneous - Tools,,55,0.10397
+WORS,BHPB8632,2,Access - Knuckle Booms,Pumps - Hoses,,114,0.215501
+WORS,BHPB8632,2,Access - Knuckle Booms,Pumps - Large,,36,0.0680529
+WORS,BHPB8632,2,Access - Knuckle Booms,Pumps - Small,,85,0.160681
+WORS,BHPB8632,2,Access - Knuckle Booms,Welders - Accessories,,40,0.0756144
+WORS,BHPB8632,2,Access - Knuckle Booms,Welders - Motorised,,127,0.240076
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,525,0.996205
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Scissor Lifts,138,0.26186
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Straight Booms,139,0.263757
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Accessories,71,0.134725
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Compressors - Diesel Large,31,0.0588235
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,81,0.1537
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Bolting Tools,56,0.106262
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Concrete Vibe Units,78,0.148008
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Electrical Leads & Accessories,59,0.111954
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Fans,74,0.140417
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Accessories,47,0.0891841
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Diesel Small,193,0.366224
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting Towers,101,0.191651
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Materials Handling - Forklift,64,0.121442
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Miscellaneous - Tools,55,0.104364
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Hoses,114,0.216319
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Large,36,0.0683112
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Small,85,0.16129
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Accessories,40,0.0759013
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Motorised,127,0.240987
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Access - Knuckle Booms,71,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Access - Scissor Lifts,43,0.605634
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Access - Straight Booms,45,0.633803
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Air Compressors - Diesel Small,32,0.450704
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Fans,32,0.450704
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Generators - Diesel Small,58,0.816901
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Lighting Towers,39,0.549296
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Pumps - Hoses,37,0.521127
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Accessories,Welders - Motorised,43,0.605634
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Access - Knuckle Booms,125,0.984252
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Access - Scissor Lifts,67,0.527559
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Access - Straight Booms,55,0.433071
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Air Accessories,45,0.354331
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Air Compressors - Diesel Small,40,0.314961
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Concrete Vibe Units,41,0.322835
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Fans,34,0.267717
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Generators - Diesel Small,85,0.669291
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Lighting Towers,52,0.409449
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Materials Handling - Forklift,38,0.299213
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Pumps - Hoses,55,0.433071
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Pumps - Small,45,0.354331
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Motorised,Welders - Motorised,84,0.661417
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Knuckle Booms,135,0.978261
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Scissor Lifts,91,0.65942
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Straight Booms,73,0.528986
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Air Accessories,47,0.34058
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Air Compressors - Diesel Small,46,0.333333
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Bolting Tools,36,0.26087
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Concrete Vibe Units,48,0.347826
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Electrical Leads & Accessories,36,0.26087
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Fans,44,0.318841
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Generators - Diesel Small,93,0.673913
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Lighting Towers,53,0.384058
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Materials Handling - Forklift,44,0.318841
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Pumps - Hoses,68,0.492754
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Pumps - Small,53,0.384058
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Scissor Lifts,Welders - Motorised,62,0.449275
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Access - Knuckle Booms,73,0.935897
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Access - Scissor Lifts,47,0.602564
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Access - Straight Booms,47,0.602564
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Concrete Vibe Units,35,0.448718
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Generators - Diesel Small,53,0.679487
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Lighting Towers,36,0.461538
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Pumps - Hoses,47,0.602564
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Pumps - Small,36,0.461538
+WORS,BHPB8632,3,Access - Knuckle Booms,Concrete Vibe Units,Welders - Motorised,36,0.461538
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Access - Knuckle Booms,134,0.957143
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Access - Scissor Lifts,83,0.592857
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Access - Straight Booms,92,0.657143
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Air Accessories,37,0.264286
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Air Compressors - Diesel Small,41,0.292857
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Bolting Tools,35,0.25
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Concrete Vibe Units,50,0.357143
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Electrical Leads & Accessories,38,0.271429
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Fans,43,0.307143
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Generators - Accessories,32,0.228571
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Generators - Diesel Small,88,0.628571
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Lighting Towers,51,0.364286
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Materials Handling - Forklift,35,0.25
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Miscellaneous - Tools,33,0.235714
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Pumps - Hoses,68,0.485714
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Pumps - Small,51,0.364286
+WORS,BHPB8632,3,Access - Knuckle Booms,Access - Straight Booms,Welders - Motorised,55,0.392857
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Access - Knuckle Booms,80,0.941176
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Access - Scissor Lifts,50,0.588235
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Access - Straight Booms,49,0.576471
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Air Compressors - Diesel Small,35,0.411765
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Concrete Vibe Units,35,0.411765
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Generators - Diesel Small,61,0.717647
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Lighting Towers,39,0.458824
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Materials Handling - Forklift,31,0.364706
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Pumps - Hoses,52,0.611765
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Pumps - Small,39,0.458824
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Small,Welders - Motorised,40,0.470588
+WORS,BHPB8632,3,Access - Knuckle Booms,Bolting Tools,Access - Knuckle Booms,55,0.982143
+WORS,BHPB8632,3,Access - Knuckle Booms,Bolting Tools,Access - Scissor Lifts,32,0.571429
+WORS,BHPB8632,3,Access - Knuckle Booms,Bolting Tools,Bolting Tools,32,0.571429
+WORS,BHPB8632,3,Access - Knuckle Booms,Bolting Tools,Generators - Diesel Small,42,0.75
+WORS,BHPB8632,3,Access - Knuckle Booms,Bolting Tools,Welders - Motorised,32,0.571429
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Large,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,81,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Scissor Lifts,44,0.54321
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Straight Booms,47,0.580247
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Air Compressors - Diesel Small,35,0.432099
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Concrete Vibe Units,35,0.432099
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Fans,31,0.382716
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Generators - Diesel Small,60,0.740741
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Lighting Towers,40,0.493827
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Pumps - Hoses,43,0.530864
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Pumps - Small,35,0.432099
+WORS,BHPB8632,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Welders - Motorised,42,0.518519
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Large,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Electrical Leads & Accessories,Access - Knuckle Booms,59,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Electrical Leads & Accessories,Access - Scissor Lifts,37,0.627119
+WORS,BHPB8632,3,Access - Knuckle Booms,Electrical Leads & Accessories,Access - Straight Booms,34,0.576271
+WORS,BHPB8632,3,Access - Knuckle Booms,Electrical Leads & Accessories,Generators - Diesel Small,44,0.745763
+WORS,BHPB8632,3,Access - Knuckle Booms,Electrical Leads & Accessories,Lighting Towers,31,0.525424
+WORS,BHPB8632,3,Access - Knuckle Booms,Electrical Leads & Accessories,Pumps - Hoses,33,0.559322
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Access - Knuckle Booms,74,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Access - Scissor Lifts,42,0.567568
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Access - Straight Booms,39,0.527027
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Fans,31,0.418919
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Generators - Diesel Small,56,0.756757
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Lighting Towers,33,0.445946
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Pumps - Hoses,37,0.5
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Pumps - Small,31,0.418919
+WORS,BHPB8632,3,Access - Knuckle Booms,Fans,Welders - Motorised,36,0.486486
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Accessories,Access - Knuckle Booms,47,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Accessories,Generators - Diesel Small,36,0.765957
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Knuckle Booms,184,0.948454
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Scissor Lifts,94,0.484536
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Straight Booms,84,0.43299
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Air Accessories,50,0.257732
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Air Compressors - Diesel Small,52,0.268041
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Bolting Tools,41,0.21134
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Concrete Vibe Units,54,0.278351
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Electrical Leads & Accessories,43,0.221649
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Fans,54,0.278351
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Generators - Accessories,36,0.185567
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Generators - Diesel Small,159,0.819588
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Lighting Towers,64,0.329897
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Materials Handling - Forklift,43,0.221649
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Miscellaneous - Tools,38,0.195876
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Pumps - Hoses,77,0.396907
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Pumps - Small,58,0.298969
+WORS,BHPB8632,3,Access - Knuckle Booms,Generators - Diesel Small,Welders - Motorised,80,0.412371
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Access - Knuckle Booms,99,0.980198
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Access - Scissor Lifts,50,0.49505
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Access - Straight Booms,51,0.50495
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Air Accessories,33,0.326733
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Air Compressors - Diesel Small,35,0.346535
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Concrete Vibe Units,33,0.326733
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Fans,31,0.306931
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Generators - Diesel Small,71,0.70297
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Lighting Towers,61,0.60396
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Pumps - Hoses,41,0.405941
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Pumps - Small,34,0.336634
+WORS,BHPB8632,3,Access - Knuckle Booms,Lighting Towers,Welders - Motorised,53,0.524752
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Access - Knuckle Booms,64,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Access - Scissor Lifts,45,0.703125
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Access - Straight Booms,37,0.578125
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Generators - Diesel Small,44,0.6875
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Lighting Towers,31,0.484375
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Pumps - Hoses,34,0.53125
+WORS,BHPB8632,3,Access - Knuckle Booms,Materials Handling - Forklift,Welders - Motorised,36,0.5625
+WORS,BHPB8632,3,Access - Knuckle Booms,Miscellaneous - Tools,Access - Knuckle Booms,55,1
+WORS,BHPB8632,3,Access - Knuckle Booms,Miscellaneous - Tools,Access - Scissor Lifts,32,0.581818
+WORS,BHPB8632,3,Access - Knuckle Booms,Miscellaneous - Tools,Generators - Diesel Small,38,0.690909
+WORS,BHPB8632,3,Access - Knuckle Booms,Miscellaneous - Tools,Pumps - Hoses,31,0.563636
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Access - Knuckle Booms,108,0.947368
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Access - Scissor Lifts,59,0.517544
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Access - Straight Booms,60,0.526316
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Air Accessories,38,0.333333
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Air Compressors - Diesel Small,44,0.385965
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Concrete Vibe Units,39,0.342105
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Fans,36,0.315789
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Generators - Diesel Small,74,0.649123
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Lighting Towers,48,0.421053
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Materials Handling - Forklift,36,0.315789
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Pumps - Hoses,67,0.587719
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Pumps - Small,43,0.377193
+WORS,BHPB8632,3,Access - Knuckle Booms,Pumps - Hoses,Welders - Motorised,54,0.473684
+WORS,BHPB8632,3,Access - Knuckle Booms,Welders - Accessories,Access - Knuckle Booms,40,1
+WORS,BHPB8632,2,Bolting Tools,Access - Knuckle Booms,,57,0.982759
+WORS,BHPB8632,2,Bolting Tools,Access - Scissor Lifts,,33,0.568966
+WORS,BHPB8632,2,Bolting Tools,Bolting Tools,,33,0.568966
+WORS,BHPB8632,2,Bolting Tools,Generators - Diesel Small,,44,0.758621
+WORS,BHPB8632,2,Bolting Tools,Welders - Motorised,,33,0.568966
+WORS,BHPB8632,3,Bolting Tools,Access - Knuckle Booms,Access - Knuckle Booms,57,1
+WORS,BHPB8632,3,Bolting Tools,Access - Knuckle Booms,Access - Scissor Lifts,34,0.596491
+WORS,BHPB8632,3,Bolting Tools,Access - Knuckle Booms,Generators - Diesel Small,39,0.684211
+WORS,BHPB8632,3,Bolting Tools,Access - Knuckle Booms,Welders - Motorised,31,0.54386
+WORS,BHPB8632,3,Bolting Tools,Access - Scissor Lifts,Access - Knuckle Booms,32,0.969697
+WORS,BHPB8632,3,Bolting Tools,Bolting Tools,Access - Knuckle Booms,33,1
+WORS,BHPB8632,3,Bolting Tools,Generators - Diesel Small,Access - Knuckle Booms,43,0.977273
+WORS,BHPB8632,3,Bolting Tools,Generators - Diesel Small,Generators - Diesel Small,35,0.795455
+WORS,BHPB8632,3,Bolting Tools,Welders - Motorised,Access - Knuckle Booms,32,0.969697
+WORS,BHPB8632,2,Access - Straight Booms,Access - Knuckle Booms,,136,0.944444
+WORS,BHPB8632,2,Access - Straight Booms,Access - Scissor Lifts,,85,0.590278
+WORS,BHPB8632,2,Access - Straight Booms,Access - Straight Booms,,95,0.659722
+WORS,BHPB8632,2,Access - Straight Booms,Air Accessories,,37,0.256944
+WORS,BHPB8632,2,Access - Straight Booms,Air Compressors - Diesel Small,,41,0.284722
+WORS,BHPB8632,2,Access - Straight Booms,Bolting Tools,,35,0.243056
+WORS,BHPB8632,2,Access - Straight Booms,Concrete Vibe Units,,50,0.347222
+WORS,BHPB8632,2,Access - Straight Booms,Electrical Leads & Accessories,,38,0.263889
+WORS,BHPB8632,2,Access - Straight Booms,Fans,,43,0.298611
+WORS,BHPB8632,2,Access - Straight Booms,Generators - Accessories,,32,0.222222
+WORS,BHPB8632,2,Access - Straight Booms,Generators - Diesel Small,,88,0.611111
+WORS,BHPB8632,2,Access - Straight Booms,Lighting Towers,,52,0.361111
+WORS,BHPB8632,2,Access - Straight Booms,Materials Handling - Forklift,,35,0.243056
+WORS,BHPB8632,2,Access - Straight Booms,Miscellaneous - Tools,,33,0.229167
+WORS,BHPB8632,2,Access - Straight Booms,Pumps - Hoses,,68,0.472222
+WORS,BHPB8632,2,Access - Straight Booms,Pumps - Small,,51,0.354167
+WORS,BHPB8632,2,Access - Straight Booms,Welders - Motorised,,55,0.381944
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Access - Knuckle Booms,135,0.992647
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Access - Scissor Lifts,76,0.558824
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Access - Straight Booms,71,0.522059
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Air Accessories,42,0.308824
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,43,0.316176
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Bolting Tools,31,0.227941
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Concrete Vibe Units,46,0.338235
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Electrical Leads & Accessories,34,0.25
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Fans,43,0.316176
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Generators - Diesel Small,85,0.625
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Lighting Towers,44,0.323529
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Materials Handling - Forklift,34,0.25
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Pumps - Hoses,65,0.477941
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Pumps - Small,49,0.360294
+WORS,BHPB8632,3,Access - Straight Booms,Access - Knuckle Booms,Welders - Motorised,56,0.411765
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Access - Knuckle Booms,83,0.976471
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Access - Scissor Lifts,55,0.647059
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Access - Straight Booms,51,0.6
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Air Accessories,34,0.4
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Air Compressors - Diesel Small,34,0.4
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Concrete Vibe Units,31,0.364706
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Fans,33,0.388235
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Generators - Diesel Small,62,0.729412
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Lighting Towers,35,0.411765
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Pumps - Hoses,46,0.541176
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Pumps - Small,34,0.4
+WORS,BHPB8632,3,Access - Straight Booms,Access - Scissor Lifts,Welders - Motorised,41,0.482353
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Access - Knuckle Booms,90,0.947368
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Access - Scissor Lifts,52,0.547368
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Access - Straight Booms,67,0.705263
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Generators - Diesel Small,56,0.589474
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Lighting Towers,31,0.326316
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Pumps - Hoses,42,0.442105
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Pumps - Small,32,0.336842
+WORS,BHPB8632,3,Access - Straight Booms,Access - Straight Booms,Welders - Motorised,37,0.389474
+WORS,BHPB8632,3,Access - Straight Booms,Concrete Vibe Units,Access - Knuckle Booms,48,0.96
+WORS,BHPB8632,3,Access - Straight Booms,Concrete Vibe Units,Access - Scissor Lifts,33,0.66
+WORS,BHPB8632,3,Access - Straight Booms,Concrete Vibe Units,Access - Straight Booms,31,0.62
+WORS,BHPB8632,3,Access - Straight Booms,Concrete Vibe Units,Generators - Diesel Small,35,0.7
+WORS,BHPB8632,3,Access - Straight Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,41,1
+WORS,BHPB8632,3,Access - Straight Booms,Air Compressors - Diesel Small,Generators - Diesel Small,32,0.780488
+WORS,BHPB8632,3,Access - Straight Booms,Air Accessories,Access - Knuckle Booms,37,1
+WORS,BHPB8632,3,Access - Straight Booms,Air Accessories,Generators - Diesel Small,31,0.837838
+WORS,BHPB8632,3,Access - Straight Booms,Fans,Access - Knuckle Booms,43,1
+WORS,BHPB8632,3,Access - Straight Booms,Fans,Generators - Diesel Small,36,0.837209
+WORS,BHPB8632,3,Access - Straight Booms,Bolting Tools,Access - Knuckle Booms,35,1
+WORS,BHPB8632,3,Access - Straight Booms,Bolting Tools,Generators - Diesel Small,31,0.885714
+WORS,BHPB8632,3,Access - Straight Booms,Electrical Leads & Accessories,Access - Knuckle Booms,38,1
+WORS,BHPB8632,3,Access - Straight Booms,Electrical Leads & Accessories,Generators - Diesel Small,32,0.842105
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Accessories,Access - Knuckle Booms,32,1
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Access - Knuckle Booms,87,0.988636
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Access - Scissor Lifts,64,0.727273
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Access - Straight Booms,45,0.511364
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Air Accessories,35,0.397727
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Air Compressors - Diesel Small,34,0.386364
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Concrete Vibe Units,36,0.409091
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Fans,32,0.363636
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Generators - Diesel Small,72,0.818182
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Lighting Towers,38,0.431818
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Materials Handling - Forklift,31,0.352273
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Pumps - Hoses,52,0.590909
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Pumps - Small,38,0.431818
+WORS,BHPB8632,3,Access - Straight Booms,Generators - Diesel Small,Welders - Motorised,48,0.545455
+WORS,BHPB8632,3,Access - Straight Booms,Lighting Towers,Access - Knuckle Booms,51,0.980769
+WORS,BHPB8632,3,Access - Straight Booms,Lighting Towers,Access - Straight Booms,32,0.615385
+WORS,BHPB8632,3,Access - Straight Booms,Lighting Towers,Generators - Diesel Small,44,0.846154
+WORS,BHPB8632,3,Access - Straight Booms,Lighting Towers,Lighting Towers,33,0.634615
+WORS,BHPB8632,3,Access - Straight Booms,Lighting Towers,Welders - Motorised,31,0.596154
+WORS,BHPB8632,3,Access - Straight Booms,Materials Handling - Forklift,Access - Knuckle Booms,35,1
+WORS,BHPB8632,3,Access - Straight Booms,Miscellaneous - Tools,Access - Knuckle Booms,33,1
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Access - Knuckle Booms,66,0.970588
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Access - Scissor Lifts,39,0.573529
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Access - Straight Booms,38,0.558824
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Generators - Diesel Small,47,0.691176
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Lighting Towers,31,0.455882
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Pumps - Hoses,36,0.529412
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Hoses,Welders - Motorised,37,0.544118
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Small,Access - Knuckle Booms,49,0.960784
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Small,Access - Scissor Lifts,32,0.627451
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Small,Access - Straight Booms,33,0.647059
+WORS,BHPB8632,3,Access - Straight Booms,Pumps - Small,Generators - Diesel Small,37,0.72549
+WORS,BHPB8632,3,Access - Straight Booms,Welders - Motorised,Access - Knuckle Booms,54,0.981818
+WORS,BHPB8632,3,Access - Straight Booms,Welders - Motorised,Access - Scissor Lifts,40,0.727273
+WORS,BHPB8632,3,Access - Straight Booms,Welders - Motorised,Generators - Diesel Small,44,0.8
+WORS,BHPB8632,3,Access - Straight Booms,Welders - Motorised,Welders - Motorised,38,0.690909
+WORS,BHPB8632,2,Lighting Towers,Access - Knuckle Booms,,99,0.970588
+WORS,BHPB8632,2,Lighting Towers,Access - Scissor Lifts,,50,0.490196
+WORS,BHPB8632,2,Lighting Towers,Access - Straight Booms,,52,0.509804
+WORS,BHPB8632,2,Lighting Towers,Air Accessories,,33,0.323529
+WORS,BHPB8632,2,Lighting Towers,Air Compressors - Diesel Small,,35,0.343137
+WORS,BHPB8632,2,Lighting Towers,Concrete Vibe Units,,33,0.323529
+WORS,BHPB8632,2,Lighting Towers,Fans,,31,0.303922
+WORS,BHPB8632,2,Lighting Towers,Generators - Diesel Small,,71,0.696078
+WORS,BHPB8632,2,Lighting Towers,Lighting Towers,,62,0.607843
+WORS,BHPB8632,2,Lighting Towers,Pumps - Hoses,,41,0.401961
+WORS,BHPB8632,2,Lighting Towers,Pumps - Small,,34,0.333333
+WORS,BHPB8632,2,Lighting Towers,Welders - Motorised,,53,0.519608
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Access - Knuckle Booms,99,1
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Access - Scissor Lifts,54,0.545455
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Access - Straight Booms,50,0.505051
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Air Accessories,31,0.313131
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Air Compressors - Diesel Small,35,0.353535
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Concrete Vibe Units,34,0.343434
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Fans,32,0.323232
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Generators - Diesel Small,73,0.737374
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Lighting Towers,49,0.494949
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Pumps - Hoses,43,0.434343
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Pumps - Small,37,0.373737
+WORS,BHPB8632,3,Lighting Towers,Access - Knuckle Booms,Welders - Motorised,48,0.484848
+WORS,BHPB8632,3,Lighting Towers,Fans,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Lighting Towers,Lighting Towers,Access - Knuckle Booms,60,0.967742
+WORS,BHPB8632,3,Lighting Towers,Lighting Towers,Access - Scissor Lifts,34,0.548387
+WORS,BHPB8632,3,Lighting Towers,Lighting Towers,Generators - Diesel Small,42,0.677419
+WORS,BHPB8632,3,Lighting Towers,Lighting Towers,Lighting Towers,39,0.629032
+WORS,BHPB8632,3,Lighting Towers,Lighting Towers,Welders - Motorised,38,0.612903
+WORS,BHPB8632,3,Lighting Towers,Access - Scissor Lifts,Access - Knuckle Booms,50,1
+WORS,BHPB8632,3,Lighting Towers,Access - Scissor Lifts,Access - Scissor Lifts,34,0.68
+WORS,BHPB8632,3,Lighting Towers,Access - Scissor Lifts,Access - Straight Booms,32,0.64
+WORS,BHPB8632,3,Lighting Towers,Access - Scissor Lifts,Generators - Diesel Small,40,0.8
+WORS,BHPB8632,3,Lighting Towers,Access - Scissor Lifts,Welders - Motorised,32,0.64
+WORS,BHPB8632,3,Lighting Towers,Access - Straight Booms,Access - Knuckle Booms,51,0.980769
+WORS,BHPB8632,3,Lighting Towers,Access - Straight Booms,Access - Scissor Lifts,34,0.653846
+WORS,BHPB8632,3,Lighting Towers,Access - Straight Booms,Access - Straight Booms,36,0.692308
+WORS,BHPB8632,3,Lighting Towers,Access - Straight Booms,Generators - Diesel Small,41,0.788462
+WORS,BHPB8632,3,Lighting Towers,Access - Straight Booms,Pumps - Hoses,32,0.615385
+WORS,BHPB8632,3,Lighting Towers,Air Accessories,Access - Knuckle Booms,33,1
+WORS,BHPB8632,3,Lighting Towers,Air Compressors - Diesel Small,Access - Knuckle Booms,35,1
+WORS,BHPB8632,3,Lighting Towers,Concrete Vibe Units,Access - Knuckle Booms,33,1
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Access - Knuckle Booms,70,0.985915
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Access - Scissor Lifts,40,0.56338
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Access - Straight Booms,38,0.535211
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Generators - Diesel Small,62,0.873239
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Lighting Towers,33,0.464789
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Pumps - Hoses,32,0.450704
+WORS,BHPB8632,3,Lighting Towers,Generators - Diesel Small,Welders - Motorised,41,0.577465
+WORS,BHPB8632,3,Lighting Towers,Pumps - Hoses,Access - Knuckle Booms,41,1
+WORS,BHPB8632,3,Lighting Towers,Pumps - Hoses,Generators - Diesel Small,33,0.804878
+WORS,BHPB8632,3,Lighting Towers,Pumps - Small,Access - Knuckle Booms,34,1
+WORS,BHPB8632,3,Lighting Towers,Welders - Motorised,Access - Knuckle Booms,52,0.981132
+WORS,BHPB8632,3,Lighting Towers,Welders - Motorised,Generators - Diesel Small,46,0.867925
+WORS,BHPB8632,3,Lighting Towers,Welders - Motorised,Welders - Motorised,39,0.735849
+WORS,BHPB8632,2,Fans,Access - Knuckle Booms,,76,1
+WORS,BHPB8632,2,Fans,Access - Scissor Lifts,,44,0.578947
+WORS,BHPB8632,2,Fans,Access - Straight Booms,,39,0.513158
+WORS,BHPB8632,2,Fans,Fans,,32,0.421053
+WORS,BHPB8632,2,Fans,Generators - Diesel Small,,57,0.75
+WORS,BHPB8632,2,Fans,Lighting Towers,,34,0.447368
+WORS,BHPB8632,2,Fans,Pumps - Hoses,,38,0.5
+WORS,BHPB8632,2,Fans,Pumps - Small,,31,0.407895
+WORS,BHPB8632,2,Fans,Welders - Motorised,,37,0.486842
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Access - Knuckle Booms,76,1
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Access - Scissor Lifts,45,0.592105
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Access - Straight Booms,42,0.552632
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Generators - Diesel Small,51,0.671053
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Lighting Towers,34,0.447368
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Pumps - Hoses,41,0.539474
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Pumps - Small,31,0.407895
+WORS,BHPB8632,3,Fans,Access - Knuckle Booms,Welders - Motorised,40,0.526316
+WORS,BHPB8632,3,Fans,Access - Scissor Lifts,Access - Knuckle Booms,43,0.977273
+WORS,BHPB8632,3,Fans,Access - Scissor Lifts,Generators - Diesel Small,34,0.772727
+WORS,BHPB8632,3,Fans,Fans,Access - Knuckle Booms,32,1
+WORS,BHPB8632,3,Fans,Lighting Towers,Access - Knuckle Booms,34,1
+WORS,BHPB8632,3,Fans,Access - Straight Booms,Access - Knuckle Booms,39,1
+WORS,BHPB8632,3,Fans,Generators - Diesel Small,Access - Knuckle Booms,57,1
+WORS,BHPB8632,3,Fans,Generators - Diesel Small,Access - Scissor Lifts,38,0.666667
+WORS,BHPB8632,3,Fans,Generators - Diesel Small,Access - Straight Booms,38,0.666667
+WORS,BHPB8632,3,Fans,Generators - Diesel Small,Generators - Diesel Small,49,0.859649
+WORS,BHPB8632,3,Fans,Generators - Diesel Small,Welders - Motorised,36,0.631579
+WORS,BHPB8632,3,Fans,Pumps - Hoses,Access - Knuckle Booms,38,1
+WORS,BHPB8632,3,Fans,Pumps - Small,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Fans,Welders - Motorised,Access - Knuckle Booms,37,1
+WORS,BHPB8632,3,Fans,Welders - Motorised,Generators - Diesel Small,31,0.837838
+WORS,BHPB8632,2,Generators - Diesel Small,Access - Knuckle Booms,,190,0.940594
+WORS,BHPB8632,2,Generators - Diesel Small,Access - Scissor Lifts,,96,0.475248
+WORS,BHPB8632,2,Generators - Diesel Small,Access - Straight Booms,,86,0.425743
+WORS,BHPB8632,2,Generators - Diesel Small,Air Accessories,,50,0.247525
+WORS,BHPB8632,2,Generators - Diesel Small,Air Compressors - Diesel Small,,52,0.257426
+WORS,BHPB8632,2,Generators - Diesel Small,Bolting Tools,,42,0.207921
+WORS,BHPB8632,2,Generators - Diesel Small,Concrete Vibe Units,,55,0.272277
+WORS,BHPB8632,2,Generators - Diesel Small,Electrical Leads & Accessories,,44,0.217822
+WORS,BHPB8632,2,Generators - Diesel Small,Fans,,55,0.272277
+WORS,BHPB8632,2,Generators - Diesel Small,Generators - Accessories,,36,0.178218
+WORS,BHPB8632,2,Generators - Diesel Small,Generators - Diesel Small,,167,0.826733
+WORS,BHPB8632,2,Generators - Diesel Small,Lighting Towers,,65,0.321782
+WORS,BHPB8632,2,Generators - Diesel Small,Materials Handling - Forklift,,43,0.212871
+WORS,BHPB8632,2,Generators - Diesel Small,Miscellaneous - Tools,,38,0.188119
+WORS,BHPB8632,2,Generators - Diesel Small,Pumps - Hoses,,79,0.391089
+WORS,BHPB8632,2,Generators - Diesel Small,Pumps - Small,,59,0.292079
+WORS,BHPB8632,2,Generators - Diesel Small,Welders - Motorised,,81,0.40099
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,190,1
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Scissor Lifts,95,0.5
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Straight Booms,84,0.442105
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Air Accessories,51,0.268421
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Air Compressors - Diesel Small,57,0.3
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Bolting Tools,46,0.242105
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Concrete Vibe Units,59,0.310526
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Electrical Leads & Accessories,41,0.215789
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Fans,55,0.289474
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Generators - Accessories,35,0.184211
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Generators - Diesel Small,130,0.684211
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Lighting Towers,68,0.357895
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Materials Handling - Forklift,43,0.226316
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Miscellaneous - Tools,40,0.210526
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Pumps - Hoses,79,0.415789
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Pumps - Small,63,0.331579
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Knuckle Booms,Welders - Motorised,79,0.415789
+WORS,BHPB8632,3,Generators - Diesel Small,Air Accessories,Access - Knuckle Booms,50,1
+WORS,BHPB8632,3,Generators - Diesel Small,Air Accessories,Access - Scissor Lifts,35,0.7
+WORS,BHPB8632,3,Generators - Diesel Small,Air Accessories,Access - Straight Booms,35,0.7
+WORS,BHPB8632,3,Generators - Diesel Small,Air Accessories,Generators - Diesel Small,44,0.88
+WORS,BHPB8632,3,Generators - Diesel Small,Air Accessories,Lighting Towers,32,0.64
+WORS,BHPB8632,3,Generators - Diesel Small,Air Accessories,Welders - Motorised,33,0.66
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Access - Knuckle Booms,94,0.979167
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Access - Scissor Lifts,61,0.635417
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Access - Straight Booms,61,0.635417
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Air Accessories,34,0.354167
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Air Compressors - Diesel Small,38,0.395833
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Concrete Vibe Units,34,0.354167
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Fans,34,0.354167
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Generators - Diesel Small,69,0.71875
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Lighting Towers,42,0.4375
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Materials Handling - Forklift,31,0.322917
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Pumps - Hoses,49,0.510417
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Pumps - Small,39,0.40625
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Scissor Lifts,Welders - Motorised,44,0.458333
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Access - Knuckle Booms,84,0.976744
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Access - Scissor Lifts,58,0.674419
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Access - Straight Booms,59,0.686047
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Air Compressors - Diesel Small,31,0.360465
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Concrete Vibe Units,37,0.430233
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Electrical Leads & Accessories,32,0.372093
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Fans,32,0.372093
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Generators - Diesel Small,63,0.732558
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Lighting Towers,39,0.453488
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Pumps - Hoses,46,0.534884
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Pumps - Small,39,0.453488
+WORS,BHPB8632,3,Generators - Diesel Small,Access - Straight Booms,Welders - Motorised,40,0.465116
+WORS,BHPB8632,3,Generators - Diesel Small,Fans,Access - Knuckle Booms,55,1
+WORS,BHPB8632,3,Generators - Diesel Small,Fans,Access - Scissor Lifts,33,0.6
+WORS,BHPB8632,3,Generators - Diesel Small,Fans,Generators - Diesel Small,43,0.781818
+WORS,BHPB8632,3,Generators - Diesel Small,Air Compressors - Diesel Small,Access - Knuckle Booms,52,1
+WORS,BHPB8632,3,Generators - Diesel Small,Air Compressors - Diesel Small,Access - Scissor Lifts,36,0.692308
+WORS,BHPB8632,3,Generators - Diesel Small,Air Compressors - Diesel Small,Access - Straight Booms,36,0.692308
+WORS,BHPB8632,3,Generators - Diesel Small,Air Compressors - Diesel Small,Generators - Diesel Small,43,0.826923
+WORS,BHPB8632,3,Generators - Diesel Small,Air Compressors - Diesel Small,Lighting Towers,32,0.615385
+WORS,BHPB8632,3,Generators - Diesel Small,Air Compressors - Diesel Small,Welders - Motorised,32,0.615385
+WORS,BHPB8632,3,Generators - Diesel Small,Concrete Vibe Units,Access - Knuckle Booms,52,0.945455
+WORS,BHPB8632,3,Generators - Diesel Small,Concrete Vibe Units,Access - Scissor Lifts,34,0.618182
+WORS,BHPB8632,3,Generators - Diesel Small,Concrete Vibe Units,Access - Straight Booms,35,0.636364
+WORS,BHPB8632,3,Generators - Diesel Small,Concrete Vibe Units,Generators - Diesel Small,41,0.745455
+WORS,BHPB8632,3,Generators - Diesel Small,Concrete Vibe Units,Pumps - Hoses,35,0.636364
+WORS,BHPB8632,3,Generators - Diesel Small,Bolting Tools,Access - Knuckle Booms,42,1
+WORS,BHPB8632,3,Generators - Diesel Small,Bolting Tools,Generators - Diesel Small,37,0.880952
+WORS,BHPB8632,3,Generators - Diesel Small,Electrical Leads & Accessories,Access - Knuckle Booms,44,1
+WORS,BHPB8632,3,Generators - Diesel Small,Electrical Leads & Accessories,Generators - Diesel Small,35,0.795455
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Accessories,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Access - Knuckle Booms,158,0.946108
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Access - Scissor Lifts,80,0.479042
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Access - Straight Booms,70,0.419162
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Air Accessories,41,0.245509
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Air Compressors - Diesel Small,40,0.239521
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Bolting Tools,37,0.221557
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Concrete Vibe Units,40,0.239521
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Electrical Leads & Accessories,37,0.221557
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Fans,50,0.299401
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Generators - Accessories,32,0.191617
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Generators - Diesel Small,142,0.850299
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Lighting Towers,55,0.329341
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Materials Handling - Forklift,34,0.203593
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Miscellaneous - Tools,32,0.191617
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Pumps - Hoses,61,0.365269
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Pumps - Small,44,0.263473
+WORS,BHPB8632,3,Generators - Diesel Small,Generators - Diesel Small,Welders - Motorised,67,0.401198
+WORS,BHPB8632,3,Generators - Diesel Small,Lighting Towers,Access - Knuckle Booms,63,0.969231
+WORS,BHPB8632,3,Generators - Diesel Small,Lighting Towers,Access - Scissor Lifts,38,0.584615
+WORS,BHPB8632,3,Generators - Diesel Small,Lighting Towers,Access - Straight Booms,36,0.553846
+WORS,BHPB8632,3,Generators - Diesel Small,Lighting Towers,Generators - Diesel Small,51,0.784615
+WORS,BHPB8632,3,Generators - Diesel Small,Lighting Towers,Lighting Towers,39,0.6
+WORS,BHPB8632,3,Generators - Diesel Small,Lighting Towers,Welders - Motorised,36,0.553846
+WORS,BHPB8632,3,Generators - Diesel Small,Materials Handling - Forklift,Access - Knuckle Booms,43,1
+WORS,BHPB8632,3,Generators - Diesel Small,Materials Handling - Forklift,Access - Scissor Lifts,35,0.813953
+WORS,BHPB8632,3,Generators - Diesel Small,Materials Handling - Forklift,Generators - Diesel Small,34,0.790698
+WORS,BHPB8632,3,Generators - Diesel Small,Miscellaneous - Tools,Access - Knuckle Booms,38,1
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Access - Knuckle Booms,74,0.936709
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Access - Scissor Lifts,42,0.531646
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Access - Straight Booms,41,0.518987
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Air Compressors - Diesel Small,32,0.405063
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Generators - Diesel Small,55,0.696203
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Lighting Towers,38,0.481013
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Pumps - Hoses,48,0.607595
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Pumps - Small,33,0.417722
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Hoses,Welders - Motorised,41,0.518987
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Small,Access - Knuckle Booms,56,0.949153
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Small,Access - Scissor Lifts,36,0.610169
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Small,Access - Straight Booms,35,0.59322
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Small,Generators - Diesel Small,46,0.779661
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Small,Lighting Towers,33,0.559322
+WORS,BHPB8632,3,Generators - Diesel Small,Pumps - Small,Pumps - Hoses,37,0.627119
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Access - Knuckle Booms,80,0.987654
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Access - Scissor Lifts,48,0.592593
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Access - Straight Booms,42,0.518519
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Air Accessories,34,0.419753
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Concrete Vibe Units,31,0.382716
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Generators - Diesel Small,63,0.777778
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Lighting Towers,40,0.493827
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Pumps - Hoses,44,0.54321
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Pumps - Small,35,0.432099
+WORS,BHPB8632,3,Generators - Diesel Small,Welders - Motorised,Welders - Motorised,57,0.703704
+WORS,BHPB8632,2,Pumps - Hoses,Access - Knuckle Booms,,113,0.941667
+WORS,BHPB8632,2,Pumps - Hoses,Access - Scissor Lifts,,60,0.5
+WORS,BHPB8632,2,Pumps - Hoses,Access - Straight Booms,,61,0.508333
+WORS,BHPB8632,2,Pumps - Hoses,Air Accessories,,38,0.316667
+WORS,BHPB8632,2,Pumps - Hoses,Air Compressors - Diesel Small,,44,0.366667
+WORS,BHPB8632,2,Pumps - Hoses,Concrete Vibe Units,,40,0.333333
+WORS,BHPB8632,2,Pumps - Hoses,Fans,,36,0.3
+WORS,BHPB8632,2,Pumps - Hoses,Generators - Diesel Small,,76,0.633333
+WORS,BHPB8632,2,Pumps - Hoses,Lighting Towers,,48,0.4
+WORS,BHPB8632,2,Pumps - Hoses,Materials Handling - Forklift,,36,0.3
+WORS,BHPB8632,2,Pumps - Hoses,Pumps - Hoses,,71,0.591667
+WORS,BHPB8632,2,Pumps - Hoses,Pumps - Small,,45,0.375
+WORS,BHPB8632,2,Pumps - Hoses,Welders - Motorised,,56,0.466667
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Access - Knuckle Booms,112,0.99115
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Access - Scissor Lifts,61,0.539823
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Access - Straight Booms,64,0.566372
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Air Accessories,39,0.345133
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Air Compressors - Diesel Small,44,0.389381
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Concrete Vibe Units,34,0.300885
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Fans,37,0.327434
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Generators - Diesel Small,67,0.59292
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Lighting Towers,43,0.380531
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Materials Handling - Forklift,35,0.309735
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Pumps - Hoses,59,0.522124
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Pumps - Small,36,0.318584
+WORS,BHPB8632,3,Pumps - Hoses,Access - Knuckle Booms,Welders - Motorised,55,0.486726
+WORS,BHPB8632,3,Pumps - Hoses,Access - Scissor Lifts,Access - Knuckle Booms,59,0.983333
+WORS,BHPB8632,3,Pumps - Hoses,Access - Scissor Lifts,Access - Scissor Lifts,38,0.633333
+WORS,BHPB8632,3,Pumps - Hoses,Access - Scissor Lifts,Access - Straight Booms,38,0.633333
+WORS,BHPB8632,3,Pumps - Hoses,Access - Scissor Lifts,Generators - Diesel Small,40,0.666667
+WORS,BHPB8632,3,Pumps - Hoses,Access - Scissor Lifts,Pumps - Hoses,35,0.583333
+WORS,BHPB8632,3,Pumps - Hoses,Access - Scissor Lifts,Welders - Motorised,33,0.55
+WORS,BHPB8632,3,Pumps - Hoses,Access - Straight Booms,Access - Knuckle Booms,60,0.983607
+WORS,BHPB8632,3,Pumps - Hoses,Access - Straight Booms,Access - Scissor Lifts,42,0.688525
+WORS,BHPB8632,3,Pumps - Hoses,Access - Straight Booms,Access - Straight Booms,41,0.672131
+WORS,BHPB8632,3,Pumps - Hoses,Access - Straight Booms,Generators - Diesel Small,43,0.704918
+WORS,BHPB8632,3,Pumps - Hoses,Access - Straight Booms,Pumps - Hoses,38,0.622951
+WORS,BHPB8632,3,Pumps - Hoses,Lighting Towers,Access - Knuckle Booms,48,1
+WORS,BHPB8632,3,Pumps - Hoses,Lighting Towers,Access - Scissor Lifts,31,0.645833
+WORS,BHPB8632,3,Pumps - Hoses,Lighting Towers,Generators - Diesel Small,38,0.791667
+WORS,BHPB8632,3,Pumps - Hoses,Lighting Towers,Lighting Towers,31,0.645833
+WORS,BHPB8632,3,Pumps - Hoses,Air Accessories,Access - Knuckle Booms,38,1
+WORS,BHPB8632,3,Pumps - Hoses,Concrete Vibe Units,Access - Knuckle Booms,37,0.925
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Access - Knuckle Booms,67,0.943662
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Access - Scissor Lifts,38,0.535211
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Access - Straight Booms,35,0.492958
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Air Compressors - Diesel Small,34,0.478873
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Generators - Diesel Small,46,0.647887
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Pumps - Hoses,44,0.619718
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Hoses,Welders - Motorised,32,0.450704
+WORS,BHPB8632,3,Pumps - Hoses,Air Compressors - Diesel Small,Access - Knuckle Booms,44,1
+WORS,BHPB8632,3,Pumps - Hoses,Air Compressors - Diesel Small,Access - Straight Booms,31,0.704545
+WORS,BHPB8632,3,Pumps - Hoses,Air Compressors - Diesel Small,Generators - Diesel Small,33,0.75
+WORS,BHPB8632,3,Pumps - Hoses,Fans,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Access - Knuckle Booms,74,0.973684
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Access - Scissor Lifts,46,0.605263
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Access - Straight Booms,44,0.578947
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Air Accessories,31,0.407895
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Generators - Diesel Small,61,0.802632
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Lighting Towers,31,0.407895
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Pumps - Hoses,43,0.565789
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Pumps - Small,31,0.407895
+WORS,BHPB8632,3,Pumps - Hoses,Generators - Diesel Small,Welders - Motorised,43,0.565789
+WORS,BHPB8632,3,Pumps - Hoses,Materials Handling - Forklift,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Small,Access - Knuckle Booms,42,0.933333
+WORS,BHPB8632,3,Pumps - Hoses,Pumps - Small,Generators - Diesel Small,35,0.777778
+WORS,BHPB8632,3,Pumps - Hoses,Welders - Motorised,Access - Knuckle Booms,55,0.982143
+WORS,BHPB8632,3,Pumps - Hoses,Welders - Motorised,Access - Scissor Lifts,36,0.642857
+WORS,BHPB8632,3,Pumps - Hoses,Welders - Motorised,Access - Straight Booms,38,0.678571
+WORS,BHPB8632,3,Pumps - Hoses,Welders - Motorised,Generators - Diesel Small,41,0.732143
+WORS,BHPB8632,3,Pumps - Hoses,Welders - Motorised,Pumps - Hoses,32,0.571429
+WORS,BHPB8632,3,Pumps - Hoses,Welders - Motorised,Welders - Motorised,36,0.642857
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,81,1
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Access - Scissor Lifts,,44,0.54321
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Access - Straight Booms,,47,0.580247
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,35,0.432099
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Concrete Vibe Units,,35,0.432099
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Fans,,31,0.382716
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Generators - Diesel Small,,60,0.740741
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Lighting Towers,,40,0.493827
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Pumps - Hoses,,43,0.530864
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Pumps - Small,,35,0.432099
+WORS,BHPB8632,2,Air Compressors - Diesel Small,Welders - Motorised,,42,0.518519
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,80,0.987654
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Scissor Lifts,41,0.506173
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Straight Booms,43,0.530864
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Air Compressors - Diesel Small,31,0.382716
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Generators - Diesel Small,51,0.62963
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Lighting Towers,38,0.469136
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Pumps - Hoses,35,0.432099
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Welders - Motorised,39,0.481481
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Access - Knuckle Booms,43,0.977273
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Straight Booms,Access - Knuckle Booms,47,1
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Straight Booms,Access - Scissor Lifts,33,0.702128
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Access - Straight Booms,Generators - Diesel Small,35,0.744681
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Fans,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Access - Knuckle Booms,58,0.966667
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Access - Scissor Lifts,35,0.583333
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Access - Straight Booms,35,0.583333
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Generators - Diesel Small,48,0.8
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Lighting Towers,32,0.533333
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Pumps - Hoses,33,0.55
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Generators - Diesel Small,Welders - Motorised,32,0.533333
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Access - Knuckle Booms,35,1
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Concrete Vibe Units,Access - Knuckle Booms,34,0.971429
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Lighting Towers,Access - Knuckle Booms,39,0.975
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Lighting Towers,Generators - Diesel Small,31,0.775
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Pumps - Hoses,Access - Knuckle Booms,42,0.976744
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Pumps - Hoses,Generators - Diesel Small,31,0.72093
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Pumps - Small,Access - Knuckle Booms,34,0.971429
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Welders - Motorised,Access - Knuckle Booms,41,0.97619
+WORS,BHPB8632,3,Air Compressors - Diesel Small,Welders - Motorised,Generators - Diesel Small,32,0.761905
+WORS,BHPB8632,2,Access - Scissor Lifts,Access - Knuckle Booms,,141,0.979167
+WORS,BHPB8632,2,Access - Scissor Lifts,Access - Scissor Lifts,,94,0.652778
+WORS,BHPB8632,2,Access - Scissor Lifts,Access - Straight Booms,,75,0.520833
+WORS,BHPB8632,2,Access - Scissor Lifts,Air Accessories,,47,0.326389
+WORS,BHPB8632,2,Access - Scissor Lifts,Air Compressors - Diesel Small,,46,0.319444
+WORS,BHPB8632,2,Access - Scissor Lifts,Bolting Tools,,36,0.25
+WORS,BHPB8632,2,Access - Scissor Lifts,Concrete Vibe Units,,50,0.347222
+WORS,BHPB8632,2,Access - Scissor Lifts,Electrical Leads & Accessories,,36,0.25
+WORS,BHPB8632,2,Access - Scissor Lifts,Fans,,44,0.305556
+WORS,BHPB8632,2,Access - Scissor Lifts,Generators - Diesel Small,,94,0.652778
+WORS,BHPB8632,2,Access - Scissor Lifts,Lighting Towers,,53,0.368056
+WORS,BHPB8632,2,Access - Scissor Lifts,Materials Handling - Forklift,,44,0.305556
+WORS,BHPB8632,2,Access - Scissor Lifts,Miscellaneous - Tools,,32,0.222222
+WORS,BHPB8632,2,Access - Scissor Lifts,Pumps - Hoses,,70,0.486111
+WORS,BHPB8632,2,Access - Scissor Lifts,Pumps - Small,,55,0.381944
+WORS,BHPB8632,2,Access - Scissor Lifts,Welders - Motorised,,63,0.4375
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Knuckle Booms,141,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Scissor Lifts,85,0.602837
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Straight Booms,75,0.531915
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Air Accessories,40,0.283688
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Air Compressors - Diesel Small,42,0.297872
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Bolting Tools,34,0.241135
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Concrete Vibe Units,46,0.326241
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Electrical Leads & Accessories,36,0.255319
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Fans,40,0.283688
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Generators - Diesel Small,89,0.631206
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Lighting Towers,57,0.404255
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Materials Handling - Forklift,45,0.319149
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Miscellaneous - Tools,33,0.234043
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Pumps - Hoses,60,0.425532
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Pumps - Small,50,0.35461
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Knuckle Booms,Welders - Motorised,64,0.453901
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Access - Knuckle Booms,74,0.986667
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Access - Scissor Lifts,57,0.76
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Access - Straight Booms,51,0.68
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Generators - Diesel Small,55,0.733333
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Lighting Towers,37,0.493333
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Pumps - Hoses,39,0.52
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Straight Booms,Welders - Motorised,34,0.453333
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Knuckle Booms,94,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Scissor Lifts,64,0.680851
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Straight Booms,49,0.521277
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Air Accessories,31,0.329787
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Air Compressors - Diesel Small,33,0.351064
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Concrete Vibe Units,35,0.37234
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Generators - Diesel Small,62,0.659574
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Lighting Towers,40,0.425532
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Pumps - Hoses,48,0.510638
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Pumps - Small,37,0.393617
+WORS,BHPB8632,3,Access - Scissor Lifts,Access - Scissor Lifts,Welders - Motorised,45,0.478723
+WORS,BHPB8632,3,Access - Scissor Lifts,Bolting Tools,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Accessories,Access - Knuckle Booms,47,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Accessories,Access - Straight Booms,35,0.744681
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Accessories,Generators - Diesel Small,38,0.808511
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Accessories,Welders - Motorised,31,0.659574
+WORS,BHPB8632,3,Access - Scissor Lifts,Fans,Access - Knuckle Booms,44,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Fans,Generators - Diesel Small,34,0.772727
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Access - Knuckle Booms,46,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Access - Straight Booms,32,0.695652
+WORS,BHPB8632,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Generators - Diesel Small,33,0.717391
+WORS,BHPB8632,3,Access - Scissor Lifts,Concrete Vibe Units,Access - Knuckle Booms,48,0.96
+WORS,BHPB8632,3,Access - Scissor Lifts,Concrete Vibe Units,Access - Scissor Lifts,31,0.62
+WORS,BHPB8632,3,Access - Scissor Lifts,Concrete Vibe Units,Access - Straight Booms,33,0.66
+WORS,BHPB8632,3,Access - Scissor Lifts,Concrete Vibe Units,Generators - Diesel Small,36,0.72
+WORS,BHPB8632,3,Access - Scissor Lifts,Concrete Vibe Units,Pumps - Hoses,32,0.64
+WORS,BHPB8632,3,Access - Scissor Lifts,Electrical Leads & Accessories,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Access - Knuckle Booms,90,0.957447
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Access - Scissor Lifts,59,0.62766
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Access - Straight Booms,52,0.553191
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Concrete Vibe Units,35,0.37234
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Fans,32,0.340426
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Generators - Diesel Small,77,0.819149
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Lighting Towers,42,0.446809
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Pumps - Hoses,47,0.5
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Pumps - Small,34,0.361702
+WORS,BHPB8632,3,Access - Scissor Lifts,Generators - Diesel Small,Welders - Motorised,45,0.478723
+WORS,BHPB8632,3,Access - Scissor Lifts,Lighting Towers,Access - Knuckle Booms,52,0.981132
+WORS,BHPB8632,3,Access - Scissor Lifts,Lighting Towers,Access - Scissor Lifts,34,0.641509
+WORS,BHPB8632,3,Access - Scissor Lifts,Lighting Towers,Access - Straight Booms,32,0.603774
+WORS,BHPB8632,3,Access - Scissor Lifts,Lighting Towers,Generators - Diesel Small,43,0.811321
+WORS,BHPB8632,3,Access - Scissor Lifts,Lighting Towers,Lighting Towers,35,0.660377
+WORS,BHPB8632,3,Access - Scissor Lifts,Lighting Towers,Welders - Motorised,34,0.641509
+WORS,BHPB8632,3,Access - Scissor Lifts,Materials Handling - Forklift,Access - Knuckle Booms,44,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Materials Handling - Forklift,Access - Scissor Lifts,33,0.75
+WORS,BHPB8632,3,Access - Scissor Lifts,Materials Handling - Forklift,Generators - Diesel Small,32,0.727273
+WORS,BHPB8632,3,Access - Scissor Lifts,Miscellaneous - Tools,Access - Knuckle Booms,32,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Access - Knuckle Booms,68,0.971429
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Access - Scissor Lifts,38,0.542857
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Access - Straight Booms,40,0.571429
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Generators - Diesel Small,48,0.685714
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Lighting Towers,32,0.457143
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Pumps - Hoses,41,0.585714
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Hoses,Welders - Motorised,35,0.5
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Small,Access - Knuckle Booms,53,0.963636
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Small,Access - Scissor Lifts,32,0.581818
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Small,Access - Straight Booms,36,0.654545
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Small,Generators - Diesel Small,42,0.763636
+WORS,BHPB8632,3,Access - Scissor Lifts,Pumps - Small,Pumps - Hoses,36,0.654545
+WORS,BHPB8632,3,Access - Scissor Lifts,Welders - Motorised,Access - Knuckle Booms,63,1
+WORS,BHPB8632,3,Access - Scissor Lifts,Welders - Motorised,Access - Scissor Lifts,42,0.666667
+WORS,BHPB8632,3,Access - Scissor Lifts,Welders - Motorised,Access - Straight Booms,31,0.492063
+WORS,BHPB8632,3,Access - Scissor Lifts,Welders - Motorised,Generators - Diesel Small,46,0.730159
+WORS,BHPB8632,3,Access - Scissor Lifts,Welders - Motorised,Lighting Towers,35,0.555556
+WORS,BHPB8632,3,Access - Scissor Lifts,Welders - Motorised,Welders - Motorised,48,0.761905
+WORS,BHPB8632,2,Concrete Vibe Units,Access - Knuckle Booms,,76,0.938272
+WORS,BHPB8632,2,Concrete Vibe Units,Access - Scissor Lifts,,48,0.592593
+WORS,BHPB8632,2,Concrete Vibe Units,Access - Straight Booms,,48,0.592593
+WORS,BHPB8632,2,Concrete Vibe Units,Concrete Vibe Units,,35,0.432099
+WORS,BHPB8632,2,Concrete Vibe Units,Generators - Diesel Small,,55,0.679012
+WORS,BHPB8632,2,Concrete Vibe Units,Lighting Towers,,36,0.444444
+WORS,BHPB8632,2,Concrete Vibe Units,Pumps - Hoses,,49,0.604938
+WORS,BHPB8632,2,Concrete Vibe Units,Pumps - Small,,37,0.45679
+WORS,BHPB8632,2,Concrete Vibe Units,Welders - Motorised,,37,0.45679
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Access - Knuckle Booms,76,1
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Access - Scissor Lifts,52,0.684211
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Access - Straight Booms,50,0.657895
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Concrete Vibe Units,31,0.407895
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Generators - Diesel Small,51,0.671053
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Lighting Towers,35,0.460526
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Pumps - Hoses,46,0.605263
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Pumps - Small,33,0.434211
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Knuckle Booms,Welders - Motorised,41,0.539474
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Scissor Lifts,Access - Knuckle Booms,47,0.979167
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Scissor Lifts,Access - Scissor Lifts,31,0.645833
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Scissor Lifts,Generators - Diesel Small,32,0.666667
+WORS,BHPB8632,3,Concrete Vibe Units,Lighting Towers,Access - Knuckle Booms,36,1
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Straight Booms,Access - Knuckle Booms,47,0.979167
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Straight Booms,Access - Scissor Lifts,34,0.708333
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Straight Booms,Access - Straight Booms,31,0.645833
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Straight Booms,Generators - Diesel Small,37,0.770833
+WORS,BHPB8632,3,Concrete Vibe Units,Access - Straight Booms,Pumps - Hoses,31,0.645833
+WORS,BHPB8632,3,Concrete Vibe Units,Generators - Diesel Small,Access - Knuckle Booms,53,0.963636
+WORS,BHPB8632,3,Concrete Vibe Units,Generators - Diesel Small,Access - Scissor Lifts,35,0.636364
+WORS,BHPB8632,3,Concrete Vibe Units,Generators - Diesel Small,Access - Straight Booms,32,0.581818
+WORS,BHPB8632,3,Concrete Vibe Units,Generators - Diesel Small,Generators - Diesel Small,44,0.8
+WORS,BHPB8632,3,Concrete Vibe Units,Generators - Diesel Small,Pumps - Hoses,36,0.654545
+WORS,BHPB8632,3,Concrete Vibe Units,Generators - Diesel Small,Welders - Motorised,33,0.6
+WORS,BHPB8632,3,Concrete Vibe Units,Concrete Vibe Units,Access - Knuckle Booms,32,0.914286
+WORS,BHPB8632,3,Concrete Vibe Units,Pumps - Small,Access - Knuckle Booms,34,0.918919
+WORS,BHPB8632,3,Concrete Vibe Units,Pumps - Hoses,Access - Knuckle Booms,47,0.959184
+WORS,BHPB8632,3,Concrete Vibe Units,Pumps - Hoses,Generators - Diesel Small,37,0.755102
+WORS,BHPB8632,3,Concrete Vibe Units,Pumps - Hoses,Pumps - Hoses,31,0.632653
+WORS,BHPB8632,3,Concrete Vibe Units,Welders - Motorised,Access - Knuckle Booms,37,1
+WORS,BHPB8632,2,Miscellaneous - Tools,Access - Knuckle Booms,,58,1
+WORS,BHPB8632,2,Miscellaneous - Tools,Access - Scissor Lifts,,33,0.568966
+WORS,BHPB8632,2,Miscellaneous - Tools,Generators - Diesel Small,,39,0.672414
+WORS,BHPB8632,2,Miscellaneous - Tools,Pumps - Hoses,,33,0.568966
+WORS,BHPB8632,3,Miscellaneous - Tools,Access - Knuckle Booms,Access - Knuckle Booms,58,1
+WORS,BHPB8632,3,Miscellaneous - Tools,Access - Knuckle Booms,Access - Scissor Lifts,32,0.551724
+WORS,BHPB8632,3,Miscellaneous - Tools,Access - Knuckle Booms,Generators - Diesel Small,36,0.62069
+WORS,BHPB8632,3,Miscellaneous - Tools,Access - Scissor Lifts,Access - Knuckle Booms,33,1
+WORS,BHPB8632,3,Miscellaneous - Tools,Generators - Diesel Small,Access - Knuckle Booms,39,1
+WORS,BHPB8632,3,Miscellaneous - Tools,Generators - Diesel Small,Generators - Diesel Small,32,0.820513
+WORS,BHPB8632,3,Miscellaneous - Tools,Pumps - Hoses,Access - Knuckle Booms,33,1
+WORS,BHPB8632,2,Pumps - Large,Access - Knuckle Booms,,36,1
+WORS,BHPB8632,3,Pumps - Large,Access - Knuckle Booms,Access - Knuckle Booms,35,0.972222
+WORS,BHPB8632,2,Pumps - Small,Access - Knuckle Booms,,83,0.943182
+WORS,BHPB8632,2,Pumps - Small,Access - Scissor Lifts,,51,0.579545
+WORS,BHPB8632,2,Pumps - Small,Access - Straight Booms,,50,0.568182
+WORS,BHPB8632,2,Pumps - Small,Air Compressors - Diesel Small,,35,0.397727
+WORS,BHPB8632,2,Pumps - Small,Concrete Vibe Units,,35,0.397727
+WORS,BHPB8632,2,Pumps - Small,Fans,,31,0.352273
+WORS,BHPB8632,2,Pumps - Small,Generators - Diesel Small,,63,0.715909
+WORS,BHPB8632,2,Pumps - Small,Lighting Towers,,39,0.443182
+WORS,BHPB8632,2,Pumps - Small,Materials Handling - Forklift,,31,0.352273
+WORS,BHPB8632,2,Pumps - Small,Pumps - Hoses,,54,0.613636
+WORS,BHPB8632,2,Pumps - Small,Pumps - Small,,40,0.454545
+WORS,BHPB8632,2,Pumps - Small,Welders - Motorised,,41,0.465909
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Access - Knuckle Booms,83,1
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Access - Scissor Lifts,53,0.638554
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Access - Straight Booms,54,0.650602
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Air Compressors - Diesel Small,34,0.409639
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Concrete Vibe Units,31,0.373494
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Generators - Diesel Small,57,0.686747
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Lighting Towers,35,0.421687
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Pumps - Hoses,49,0.590361
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Pumps - Small,34,0.409639
+WORS,BHPB8632,3,Pumps - Small,Access - Knuckle Booms,Welders - Motorised,45,0.542169
+WORS,BHPB8632,3,Pumps - Small,Fans,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Pumps - Small,Access - Scissor Lifts,Access - Knuckle Booms,50,0.980392
+WORS,BHPB8632,3,Pumps - Small,Access - Scissor Lifts,Access - Scissor Lifts,33,0.647059
+WORS,BHPB8632,3,Pumps - Small,Access - Scissor Lifts,Generators - Diesel Small,34,0.666667
+WORS,BHPB8632,3,Pumps - Small,Access - Scissor Lifts,Pumps - Hoses,31,0.607843
+WORS,BHPB8632,3,Pumps - Small,Access - Straight Booms,Access - Knuckle Booms,49,0.98
+WORS,BHPB8632,3,Pumps - Small,Access - Straight Booms,Access - Scissor Lifts,37,0.74
+WORS,BHPB8632,3,Pumps - Small,Access - Straight Booms,Access - Straight Booms,33,0.66
+WORS,BHPB8632,3,Pumps - Small,Access - Straight Booms,Generators - Diesel Small,39,0.78
+WORS,BHPB8632,3,Pumps - Small,Access - Straight Booms,Pumps - Hoses,33,0.66
+WORS,BHPB8632,3,Pumps - Small,Air Compressors - Diesel Small,Access - Knuckle Booms,35,1
+WORS,BHPB8632,3,Pumps - Small,Concrete Vibe Units,Access - Knuckle Booms,32,0.914286
+WORS,BHPB8632,3,Pumps - Small,Materials Handling - Forklift,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Access - Knuckle Booms,61,0.968254
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Access - Scissor Lifts,40,0.634921
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Access - Straight Booms,37,0.587302
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Generators - Diesel Small,50,0.793651
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Lighting Towers,31,0.492063
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Pumps - Hoses,39,0.619048
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Pumps - Small,33,0.52381
+WORS,BHPB8632,3,Pumps - Small,Generators - Diesel Small,Welders - Motorised,40,0.634921
+WORS,BHPB8632,3,Pumps - Small,Lighting Towers,Access - Knuckle Booms,39,1
+WORS,BHPB8632,3,Pumps - Small,Lighting Towers,Generators - Diesel Small,31,0.794872
+WORS,BHPB8632,3,Pumps - Small,Welders - Motorised,Access - Knuckle Booms,41,1
+WORS,BHPB8632,3,Pumps - Small,Welders - Motorised,Access - Scissor Lifts,31,0.756098
+WORS,BHPB8632,3,Pumps - Small,Welders - Motorised,Generators - Diesel Small,33,0.804878
+WORS,BHPB8632,3,Pumps - Small,Pumps - Hoses,Access - Knuckle Booms,52,0.962963
+WORS,BHPB8632,3,Pumps - Small,Pumps - Hoses,Access - Scissor Lifts,32,0.592593
+WORS,BHPB8632,3,Pumps - Small,Pumps - Hoses,Access - Straight Booms,31,0.574074
+WORS,BHPB8632,3,Pumps - Small,Pumps - Hoses,Generators - Diesel Small,39,0.722222
+WORS,BHPB8632,3,Pumps - Small,Pumps - Hoses,Pumps - Hoses,34,0.62963
+WORS,BHPB8632,3,Pumps - Small,Pumps - Small,Access - Knuckle Booms,37,0.925
+WORS,BHPB8632,2,Welders - Motorised,Access - Knuckle Booms,,128,0.977099
+WORS,BHPB8632,2,Welders - Motorised,Access - Scissor Lifts,,67,0.51145
+WORS,BHPB8632,2,Welders - Motorised,Access - Straight Booms,,57,0.435115
+WORS,BHPB8632,2,Welders - Motorised,Air Accessories,,45,0.343511
+WORS,BHPB8632,2,Welders - Motorised,Air Compressors - Diesel Small,,40,0.305344
+WORS,BHPB8632,2,Welders - Motorised,Concrete Vibe Units,,41,0.312977
+WORS,BHPB8632,2,Welders - Motorised,Fans,,34,0.259542
+WORS,BHPB8632,2,Welders - Motorised,Generators - Diesel Small,,85,0.648855
+WORS,BHPB8632,2,Welders - Motorised,Lighting Towers,,52,0.396947
+WORS,BHPB8632,2,Welders - Motorised,Materials Handling - Forklift,,38,0.290076
+WORS,BHPB8632,2,Welders - Motorised,Pumps - Hoses,,55,0.419847
+WORS,BHPB8632,2,Welders - Motorised,Pumps - Small,,45,0.343511
+WORS,BHPB8632,2,Welders - Motorised,Welders - Motorised,,88,0.671756
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Access - Knuckle Booms,127,0.992188
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Access - Scissor Lifts,65,0.507813
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Access - Straight Booms,58,0.453125
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Air Accessories,47,0.367188
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Air Compressors - Diesel Small,42,0.328125
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Concrete Vibe Units,38,0.296875
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Fans,35,0.273438
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Generators - Diesel Small,85,0.664063
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Lighting Towers,44,0.34375
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Materials Handling - Forklift,34,0.265625
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Pumps - Hoses,54,0.421875
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Pumps - Small,43,0.335938
+WORS,BHPB8632,3,Welders - Motorised,Access - Knuckle Booms,Welders - Motorised,68,0.53125
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Access - Knuckle Booms,66,0.985075
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Access - Scissor Lifts,48,0.716418
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Access - Straight Booms,40,0.597015
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Air Accessories,33,0.492537
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Air Compressors - Diesel Small,32,0.477612
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Generators - Diesel Small,47,0.701493
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Pumps - Hoses,35,0.522388
+WORS,BHPB8632,3,Welders - Motorised,Access - Scissor Lifts,Welders - Motorised,42,0.626866
+WORS,BHPB8632,3,Welders - Motorised,Access - Straight Booms,Access - Knuckle Booms,56,0.982456
+WORS,BHPB8632,3,Welders - Motorised,Access - Straight Booms,Access - Scissor Lifts,40,0.701754
+WORS,BHPB8632,3,Welders - Motorised,Access - Straight Booms,Access - Straight Booms,35,0.614035
+WORS,BHPB8632,3,Welders - Motorised,Access - Straight Booms,Generators - Diesel Small,45,0.789474
+WORS,BHPB8632,3,Welders - Motorised,Access - Straight Booms,Pumps - Hoses,32,0.561404
+WORS,BHPB8632,3,Welders - Motorised,Access - Straight Booms,Welders - Motorised,31,0.54386
+WORS,BHPB8632,3,Welders - Motorised,Air Compressors - Diesel Small,Access - Knuckle Booms,40,1
+WORS,BHPB8632,3,Welders - Motorised,Air Compressors - Diesel Small,Generators - Diesel Small,32,0.8
+WORS,BHPB8632,3,Welders - Motorised,Air Accessories,Access - Knuckle Booms,45,1
+WORS,BHPB8632,3,Welders - Motorised,Air Accessories,Generators - Diesel Small,37,0.822222
+WORS,BHPB8632,3,Welders - Motorised,Concrete Vibe Units,Access - Knuckle Booms,40,0.97561
+WORS,BHPB8632,3,Welders - Motorised,Concrete Vibe Units,Generators - Diesel Small,31,0.756098
+WORS,BHPB8632,3,Welders - Motorised,Fans,Access - Knuckle Booms,34,1
+WORS,BHPB8632,3,Welders - Motorised,Lighting Towers,Access - Knuckle Booms,51,0.980769
+WORS,BHPB8632,3,Welders - Motorised,Lighting Towers,Access - Scissor Lifts,31,0.596154
+WORS,BHPB8632,3,Welders - Motorised,Lighting Towers,Generators - Diesel Small,40,0.769231
+WORS,BHPB8632,3,Welders - Motorised,Lighting Towers,Lighting Towers,31,0.596154
+WORS,BHPB8632,3,Welders - Motorised,Lighting Towers,Welders - Motorised,33,0.634615
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Access - Knuckle Booms,84,0.988235
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Access - Scissor Lifts,50,0.588235
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Access - Straight Booms,44,0.517647
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Air Accessories,36,0.423529
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Air Compressors - Diesel Small,36,0.423529
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Fans,31,0.364706
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Generators - Diesel Small,73,0.858824
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Lighting Towers,36,0.423529
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Pumps - Hoses,42,0.494118
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Pumps - Small,32,0.376471
+WORS,BHPB8632,3,Welders - Motorised,Generators - Diesel Small,Welders - Motorised,49,0.576471
+WORS,BHPB8632,3,Welders - Motorised,Materials Handling - Forklift,Access - Knuckle Booms,38,1
+WORS,BHPB8632,3,Welders - Motorised,Materials Handling - Forklift,Generators - Diesel Small,32,0.842105
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Hoses,Access - Knuckle Booms,54,0.981818
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Hoses,Access - Scissor Lifts,32,0.581818
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Hoses,Access - Straight Booms,34,0.618182
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Hoses,Generators - Diesel Small,41,0.745455
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Hoses,Pumps - Hoses,31,0.563636
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Hoses,Welders - Motorised,33,0.6
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Small,Access - Knuckle Booms,44,0.977778
+WORS,BHPB8632,3,Welders - Motorised,Pumps - Small,Generators - Diesel Small,35,0.777778
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Access - Knuckle Booms,86,0.977273
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Access - Scissor Lifts,42,0.477273
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Access - Straight Booms,37,0.420455
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Generators - Diesel Small,58,0.659091
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Lighting Towers,34,0.386364
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Pumps - Hoses,41,0.465909
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Pumps - Small,32,0.363636
+WORS,BHPB8632,3,Welders - Motorised,Welders - Motorised,Welders - Motorised,62,0.704545
+WORS,BHPB8632,2,Air Accessories,Access - Knuckle Booms,,71,1
+WORS,BHPB8632,2,Air Accessories,Access - Scissor Lifts,,43,0.605634
+WORS,BHPB8632,2,Air Accessories,Access - Straight Booms,,45,0.633803
+WORS,BHPB8632,2,Air Accessories,Air Compressors - Diesel Small,,32,0.450704
+WORS,BHPB8632,2,Air Accessories,Fans,,32,0.450704
+WORS,BHPB8632,2,Air Accessories,Generators - Diesel Small,,58,0.816901
+WORS,BHPB8632,2,Air Accessories,Lighting Towers,,39,0.549296
+WORS,BHPB8632,2,Air Accessories,Pumps - Hoses,,37,0.521127
+WORS,BHPB8632,2,Air Accessories,Welders - Motorised,,43,0.605634
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Access - Knuckle Booms,71,1
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Access - Scissor Lifts,41,0.577465
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Access - Straight Booms,39,0.549296
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Generators - Diesel Small,49,0.690141
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Lighting Towers,35,0.492958
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Pumps - Hoses,34,0.478873
+WORS,BHPB8632,3,Air Accessories,Access - Knuckle Booms,Welders - Motorised,37,0.521127
+WORS,BHPB8632,3,Air Accessories,Access - Scissor Lifts,Access - Knuckle Booms,42,0.976744
+WORS,BHPB8632,3,Air Accessories,Access - Scissor Lifts,Access - Straight Booms,33,0.767442
+WORS,BHPB8632,3,Air Accessories,Access - Scissor Lifts,Generators - Diesel Small,36,0.837209
+WORS,BHPB8632,3,Air Accessories,Fans,Access - Knuckle Booms,32,1
+WORS,BHPB8632,3,Air Accessories,Access - Straight Booms,Access - Knuckle Booms,45,1
+WORS,BHPB8632,3,Air Accessories,Access - Straight Booms,Generators - Diesel Small,34,0.755556
+WORS,BHPB8632,3,Air Accessories,Air Compressors - Diesel Small,Access - Knuckle Booms,32,1
+WORS,BHPB8632,3,Air Accessories,Generators - Diesel Small,Access - Knuckle Booms,56,0.965517
+WORS,BHPB8632,3,Air Accessories,Generators - Diesel Small,Access - Scissor Lifts,41,0.706897
+WORS,BHPB8632,3,Air Accessories,Generators - Diesel Small,Access - Straight Booms,32,0.551724
+WORS,BHPB8632,3,Air Accessories,Generators - Diesel Small,Generators - Diesel Small,48,0.827586
+WORS,BHPB8632,3,Air Accessories,Generators - Diesel Small,Lighting Towers,31,0.534483
+WORS,BHPB8632,3,Air Accessories,Generators - Diesel Small,Welders - Motorised,34,0.586207
+WORS,BHPB8632,3,Air Accessories,Lighting Towers,Access - Knuckle Booms,38,0.974359
+WORS,BHPB8632,3,Air Accessories,Pumps - Hoses,Access - Knuckle Booms,36,0.972973
+WORS,BHPB8632,3,Air Accessories,Welders - Motorised,Access - Knuckle Booms,43,1
+WORS,BHPB8632,3,Air Accessories,Welders - Motorised,Generators - Diesel Small,34,0.790698
+WORS,BHPB8632,2,Generators - Accessories,Access - Knuckle Booms,,47,1
+WORS,BHPB8632,2,Generators - Accessories,Generators - Diesel Small,,36,0.765957
+WORS,BHPB8632,3,Generators - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,47,1
+WORS,BHPB8632,3,Generators - Accessories,Access - Knuckle Booms,Generators - Diesel Small,35,0.744681
+WORS,BHPB8632,3,Generators - Accessories,Generators - Diesel Small,Access - Knuckle Booms,36,1
+WORS,BHPB8632,2,Air Compressors - Diesel Large,Access - Knuckle Booms,,31,1
+WORS,BHPB8632,3,Air Compressors - Diesel Large,Access - Knuckle Booms,Access - Knuckle Booms,31,1
+WORS,BHPB8632,2,Electrical Leads & Accessories,Access - Knuckle Booms,,59,1
+WORS,BHPB8632,2,Electrical Leads & Accessories,Access - Scissor Lifts,,37,0.627119
+WORS,BHPB8632,2,Electrical Leads & Accessories,Access - Straight Booms,,34,0.576271
+WORS,BHPB8632,2,Electrical Leads & Accessories,Generators - Diesel Small,,44,0.745763
+WORS,BHPB8632,2,Electrical Leads & Accessories,Lighting Towers,,31,0.525424
+WORS,BHPB8632,2,Electrical Leads & Accessories,Pumps - Hoses,,33,0.559322
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Knuckle Booms,Access - Knuckle Booms,59,1
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Knuckle Booms,Access - Scissor Lifts,37,0.627119
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Knuckle Booms,Access - Straight Booms,35,0.59322
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Knuckle Booms,Generators - Diesel Small,42,0.711864
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Knuckle Booms,Pumps - Hoses,32,0.542373
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Scissor Lifts,Access - Knuckle Booms,36,0.972973
+WORS,BHPB8632,3,Electrical Leads & Accessories,Access - Straight Booms,Access - Knuckle Booms,34,1
+WORS,BHPB8632,3,Electrical Leads & Accessories,Lighting Towers,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Electrical Leads & Accessories,Generators - Diesel Small,Access - Knuckle Booms,44,1
+WORS,BHPB8632,3,Electrical Leads & Accessories,Generators - Diesel Small,Access - Scissor Lifts,31,0.704545
+WORS,BHPB8632,3,Electrical Leads & Accessories,Generators - Diesel Small,Generators - Diesel Small,32,0.727273
+WORS,BHPB8632,3,Electrical Leads & Accessories,Pumps - Hoses,Access - Knuckle Booms,33,1
+WORS,BHPB8632,2,Materials Handling - Forklift,Access - Knuckle Booms,,65,1
+WORS,BHPB8632,2,Materials Handling - Forklift,Access - Scissor Lifts,,45,0.692308
+WORS,BHPB8632,2,Materials Handling - Forklift,Access - Straight Booms,,38,0.584615
+WORS,BHPB8632,2,Materials Handling - Forklift,Generators - Diesel Small,,44,0.676923
+WORS,BHPB8632,2,Materials Handling - Forklift,Lighting Towers,,31,0.476923
+WORS,BHPB8632,2,Materials Handling - Forklift,Pumps - Hoses,,35,0.538462
+WORS,BHPB8632,2,Materials Handling - Forklift,Welders - Motorised,,37,0.569231
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Knuckle Booms,Access - Knuckle Booms,65,1
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Knuckle Booms,Access - Scissor Lifts,43,0.661538
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Knuckle Booms,Access - Straight Booms,38,0.584615
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Knuckle Booms,Generators - Diesel Small,40,0.615385
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Knuckle Booms,Pumps - Hoses,31,0.476923
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Knuckle Booms,Welders - Motorised,36,0.553846
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Scissor Lifts,Access - Knuckle Booms,45,1
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Scissor Lifts,Access - Scissor Lifts,33,0.733333
+WORS,BHPB8632,3,Materials Handling - Forklift,Welders - Motorised,Access - Knuckle Booms,37,1
+WORS,BHPB8632,3,Materials Handling - Forklift,Access - Straight Booms,Access - Knuckle Booms,38,1
+WORS,BHPB8632,3,Materials Handling - Forklift,Lighting Towers,Access - Knuckle Booms,31,1
+WORS,BHPB8632,3,Materials Handling - Forklift,Generators - Diesel Small,Access - Knuckle Booms,44,1
+WORS,BHPB8632,3,Materials Handling - Forklift,Generators - Diesel Small,Access - Scissor Lifts,34,0.772727
+WORS,BHPB8632,3,Materials Handling - Forklift,Generators - Diesel Small,Generators - Diesel Small,35,0.795455
+WORS,BHPB8632,3,Materials Handling - Forklift,Pumps - Hoses,Access - Knuckle Booms,35,1
+WORS,BHPB8632,2,Welders - Accessories,Access - Knuckle Booms,,40,1
+WORS,BHPB8632,3,Welders - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,40,1

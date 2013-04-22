@@ -1,0 +1,115 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+GLDV,LEIG1014,1,Gas Equipment,,,42,1
+GLDV,LEIG1014,1,Air Accessories,,,120,1
+GLDV,LEIG1014,1,Air Hand Tools,,,86,1
+GLDV,LEIG1014,1,Compaction - Rammers & Vibrating Plates,,,118,1
+GLDV,LEIG1014,1,Masonry Saws,,,47,1
+GLDV,LEIG1014,1,Air Breakers,,,91,1
+GLDV,LEIG1014,1,Power Tools & Accessories,,,79,1
+GLDV,LEIG1014,1,Floor Equipment,,,44,1
+GLDV,LEIG1014,1,Generators - Petrol,,,90,1
+GLDV,LEIG1014,1,Air Compressors - Diesel Small,,,96,1
+GLDV,LEIG1014,1,Concrete Vibe Units,,,51,1
+GLDV,LEIG1014,1,Masonry Blades,,,49,1
+GLDV,LEIG1014,1,Demolition,,,70,1
+GLDV,LEIG1014,1,Pumps - Hoses,,,33,1
+GLDV,LEIG1014,1,Concrete,,,52,1
+GLDV,LEIG1014,2,Air Accessories,Air Accessories,,77,0.641667
+GLDV,LEIG1014,2,Air Accessories,Air Breakers,,50,0.416667
+GLDV,LEIG1014,2,Air Accessories,Air Compressors - Diesel Small,,58,0.483333
+GLDV,LEIG1014,2,Air Accessories,Air Hand Tools,,52,0.433333
+GLDV,LEIG1014,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,62,0.516667
+GLDV,LEIG1014,2,Air Accessories,Demolition,,36,0.3
+GLDV,LEIG1014,2,Air Accessories,Generators - Petrol,,43,0.358333
+GLDV,LEIG1014,2,Air Accessories,Power Tools & Accessories,,36,0.3
+GLDV,LEIG1014,3,Air Accessories,Air Accessories,Air Accessories,52,0.675325
+GLDV,LEIG1014,3,Air Accessories,Air Accessories,Air Breakers,38,0.493506
+GLDV,LEIG1014,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,40,0.519481
+GLDV,LEIG1014,3,Air Accessories,Air Accessories,Air Hand Tools,34,0.441558
+GLDV,LEIG1014,3,Air Accessories,Air Accessories,Compaction - Rammers & Vibrating Plates,34,0.441558
+GLDV,LEIG1014,3,Air Accessories,Air Hand Tools,Air Accessories,31,0.596154
+GLDV,LEIG1014,3,Air Accessories,Air Hand Tools,Compaction - Rammers & Vibrating Plates,31,0.596154
+GLDV,LEIG1014,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,37,0.637931
+GLDV,LEIG1014,3,Air Accessories,Air Compressors - Diesel Small,Air Breakers,32,0.551724
+GLDV,LEIG1014,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,36,0.62069
+GLDV,LEIG1014,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Accessories,37,0.596774
+GLDV,LEIG1014,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Breakers,32,0.516129
+GLDV,LEIG1014,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,34,0.548387
+GLDV,LEIG1014,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,39,0.629032
+GLDV,LEIG1014,2,Power Tools & Accessories,Air Accessories,,41,0.518987
+GLDV,LEIG1014,2,Power Tools & Accessories,Air Compressors - Diesel Small,,34,0.43038
+GLDV,LEIG1014,2,Power Tools & Accessories,Air Hand Tools,,32,0.405063
+GLDV,LEIG1014,2,Power Tools & Accessories,Compaction - Rammers & Vibrating Plates,,39,0.493671
+GLDV,LEIG1014,2,Power Tools & Accessories,Demolition,,36,0.455696
+GLDV,LEIG1014,2,Power Tools & Accessories,Generators - Petrol,,40,0.506329
+GLDV,LEIG1014,2,Power Tools & Accessories,Power Tools & Accessories,,40,0.506329
+GLDV,LEIG1014,2,Air Hand Tools,Air Accessories,,47,0.546512
+GLDV,LEIG1014,2,Air Hand Tools,Air Breakers,,36,0.418605
+GLDV,LEIG1014,2,Air Hand Tools,Air Compressors - Diesel Small,,41,0.476744
+GLDV,LEIG1014,2,Air Hand Tools,Air Hand Tools,,43,0.5
+GLDV,LEIG1014,2,Air Hand Tools,Compaction - Rammers & Vibrating Plates,,52,0.604651
+GLDV,LEIG1014,2,Air Hand Tools,Generators - Petrol,,32,0.372093
+GLDV,LEIG1014,2,Air Hand Tools,Power Tools & Accessories,,36,0.418605
+GLDV,LEIG1014,3,Air Hand Tools,Air Accessories,Air Accessories,32,0.680851
+GLDV,LEIG1014,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,31,0.596154
+GLDV,LEIG1014,3,Air Hand Tools,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,35,0.673077
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,54,0.457627
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Air Breakers,,45,0.381356
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,52,0.440678
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Air Hand Tools,,47,0.398305
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,76,0.644068
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Demolition,,38,0.322034
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,46,0.389831
+GLDV,LEIG1014,2,Compaction - Rammers & Vibrating Plates,Power Tools & Accessories,,46,0.389831
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Accessories,37,0.685185
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Compressors - Diesel Small,33,0.611111
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Compaction - Rammers & Vibrating Plates,35,0.648148
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Hand Tools,Compaction - Rammers & Vibrating Plates,33,0.702128
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Accessories,32,0.615385
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Compressors - Diesel Small,33,0.634615
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,31,0.596154
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Accessories,34,0.447368
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Breakers,31,0.407895
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,36,0.473684
+GLDV,LEIG1014,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,49,0.644737
+GLDV,LEIG1014,2,Generators - Petrol,Air Accessories,,48,0.533333
+GLDV,LEIG1014,2,Generators - Petrol,Air Breakers,,43,0.477778
+GLDV,LEIG1014,2,Generators - Petrol,Air Compressors - Diesel Small,,44,0.488889
+GLDV,LEIG1014,2,Generators - Petrol,Air Hand Tools,,41,0.455556
+GLDV,LEIG1014,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,50,0.555556
+GLDV,LEIG1014,2,Generators - Petrol,Demolition,,34,0.377778
+GLDV,LEIG1014,2,Generators - Petrol,Generators - Petrol,,48,0.533333
+GLDV,LEIG1014,2,Generators - Petrol,Power Tools & Accessories,,32,0.355556
+GLDV,LEIG1014,3,Generators - Petrol,Air Accessories,Air Accessories,32,0.666667
+GLDV,LEIG1014,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Air Accessories,31,0.62
+GLDV,LEIG1014,2,Air Breakers,Air Accessories,,48,0.527473
+GLDV,LEIG1014,2,Air Breakers,Air Breakers,,50,0.549451
+GLDV,LEIG1014,2,Air Breakers,Air Compressors - Diesel Small,,47,0.516484
+GLDV,LEIG1014,2,Air Breakers,Air Hand Tools,,38,0.417582
+GLDV,LEIG1014,2,Air Breakers,Compaction - Rammers & Vibrating Plates,,46,0.505495
+GLDV,LEIG1014,2,Air Breakers,Demolition,,33,0.362637
+GLDV,LEIG1014,2,Air Breakers,Generators - Petrol,,38,0.417582
+GLDV,LEIG1014,2,Air Breakers,Power Tools & Accessories,,35,0.384615
+GLDV,LEIG1014,3,Air Breakers,Air Accessories,Air Accessories,33,0.6875
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Air Accessories,,53,0.552083
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Air Breakers,,43,0.447917
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,53,0.552083
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Air Hand Tools,,43,0.447917
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,48,0.5
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Demolition,,33,0.34375
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Generators - Petrol,,43,0.447917
+GLDV,LEIG1014,2,Air Compressors - Diesel Small,Power Tools & Accessories,,35,0.364583
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,37,0.698113
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,34,0.641509
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Air Accessories,Air Hand Tools,31,0.584906
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,32,0.603774
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,33,0.622642
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,32,0.666667
+GLDV,LEIG1014,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,32,0.666667
+GLDV,LEIG1014,2,Demolition,Air Accessories,,36,0.514286
+GLDV,LEIG1014,2,Demolition,Air Compressors - Diesel Small,,34,0.485714
+GLDV,LEIG1014,2,Demolition,Compaction - Rammers & Vibrating Plates,,40,0.571429
+GLDV,LEIG1014,2,Demolition,Demolition,,31,0.442857
+GLDV,LEIG1014,2,Concrete,Air Accessories,,36,0.692308
+GLDV,LEIG1014,2,Concrete,Air Compressors - Diesel Small,,32,0.615385
+GLDV,LEIG1014,2,Concrete,Compaction - Rammers & Vibrating Plates,,35,0.673077

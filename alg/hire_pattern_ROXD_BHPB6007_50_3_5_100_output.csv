@@ -1,0 +1,134 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+ROXD,BHPB6007,1,Access - Knuckle Booms,,,129,1
+ROXD,BHPB6007,1,Lighting Towers,,,100,1
+ROXD,BHPB6007,1,Materials Handling - Forklift,,,55,1
+ROXD,BHPB6007,1,Access - Scissor Lifts,,,57,1
+ROXD,BHPB6007,1,Industrial Tools & Equipment,,,112,1
+ROXD,BHPB6007,1,Generators - Diesel Small,,,87,1
+ROXD,BHPB6007,1,Access - Straight Booms,,,99,1
+ROXD,BHPB6007,1,Miscellaneous - Tools,,,99,1
+ROXD,BHPB6007,1,Welders - Electric,,,55,1
+ROXD,BHPB6007,1,Air Hand Tools,,,54,1
+ROXD,BHPB6007,1,Generators - Accessories,,,63,1
+ROXD,BHPB6007,1,Power Tools & Accessories,,,87,1
+ROXD,BHPB6007,1,Lighting - Other,,,70,1
+ROXD,BHPB6007,2,Access - Knuckle Booms,Access - Knuckle Booms,,105,0.813953
+ROXD,BHPB6007,2,Access - Knuckle Booms,Access - Straight Booms,,67,0.51938
+ROXD,BHPB6007,2,Access - Knuckle Booms,Generators - Diesel Small,,53,0.410853
+ROXD,BHPB6007,2,Access - Knuckle Booms,Lighting Towers,,67,0.51938
+ROXD,BHPB6007,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,84,0.8
+ROXD,BHPB6007,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Straight Booms,53,0.504762
+ROXD,BHPB6007,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting Towers,53,0.504762
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Air Hand Tools,,52,0.464286
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Generators - Accessories,,57,0.508929
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,102,0.910714
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Lighting - Other,,62,0.553571
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Miscellaneous - Tools,,89,0.794643
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Power Tools & Accessories,,83,0.741071
+ROXD,BHPB6007,2,Industrial Tools & Equipment,Welders - Electric,,52,0.464286
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Air Hand Tools,Industrial Tools & Equipment,51,0.980769
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Air Hand Tools,Miscellaneous - Tools,51,0.980769
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,84,0.94382
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting - Other,52,0.58427
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,79,0.88764
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,73,0.820225
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,51,0.980769
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Generators - Accessories,Industrial Tools & Equipment,54,0.947368
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Generators - Accessories,Miscellaneous - Tools,53,0.929825
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Generators - Accessories,Power Tools & Accessories,52,0.912281
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,79,0.951807
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Power Tools & Accessories,Lighting - Other,53,0.638554
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,74,0.891566
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,73,0.879518
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Generators - Accessories,51,0.5
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,93,0.911765
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting - Other,54,0.529412
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,82,0.803922
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,76,0.745098
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Lighting - Other,Industrial Tools & Equipment,58,0.935484
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Lighting - Other,Lighting - Other,51,0.822581
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Lighting - Other,Miscellaneous - Tools,58,0.935484
+ROXD,BHPB6007,3,Industrial Tools & Equipment,Lighting - Other,Power Tools & Accessories,57,0.919355
+ROXD,BHPB6007,2,Access - Straight Booms,Access - Knuckle Booms,,63,0.636364
+ROXD,BHPB6007,2,Access - Straight Booms,Access - Straight Booms,,73,0.737374
+ROXD,BHPB6007,2,Access - Straight Booms,Lighting Towers,,54,0.545455
+ROXD,BHPB6007,3,Access - Straight Booms,Access - Straight Booms,Access - Straight Booms,56,0.767123
+ROXD,BHPB6007,2,Lighting Towers,Access - Knuckle Booms,,56,0.56
+ROXD,BHPB6007,2,Lighting Towers,Access - Straight Booms,,54,0.54
+ROXD,BHPB6007,2,Lighting Towers,Lighting Towers,,74,0.74
+ROXD,BHPB6007,3,Lighting Towers,Lighting Towers,Lighting Towers,55,0.743243
+ROXD,BHPB6007,2,Air Hand Tools,Industrial Tools & Equipment,,53,0.981481
+ROXD,BHPB6007,2,Air Hand Tools,Miscellaneous - Tools,,53,0.981481
+ROXD,BHPB6007,2,Air Hand Tools,Power Tools & Accessories,,51,0.944444
+ROXD,BHPB6007,2,Generators - Diesel Small,Access - Knuckle Booms,,54,0.62069
+ROXD,BHPB6007,2,Generators - Diesel Small,Generators - Diesel Small,,57,0.655172
+ROXD,BHPB6007,2,Miscellaneous - Tools,Generators - Accessories,,54,0.545455
+ROXD,BHPB6007,2,Miscellaneous - Tools,Industrial Tools & Equipment,,92,0.929293
+ROXD,BHPB6007,2,Miscellaneous - Tools,Lighting - Other,,58,0.585859
+ROXD,BHPB6007,2,Miscellaneous - Tools,Miscellaneous - Tools,,86,0.868687
+ROXD,BHPB6007,2,Miscellaneous - Tools,Power Tools & Accessories,,79,0.79798
+ROXD,BHPB6007,3,Miscellaneous - Tools,Generators - Accessories,Industrial Tools & Equipment,51,0.944444
+ROXD,BHPB6007,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,81,0.94186
+ROXD,BHPB6007,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting - Other,51,0.593023
+ROXD,BHPB6007,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,76,0.883721
+ROXD,BHPB6007,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,70,0.813953
+ROXD,BHPB6007,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,84,0.913043
+ROXD,BHPB6007,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting - Other,52,0.565217
+ROXD,BHPB6007,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,76,0.826087
+ROXD,BHPB6007,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,71,0.771739
+ROXD,BHPB6007,3,Miscellaneous - Tools,Lighting - Other,Industrial Tools & Equipment,55,0.948276
+ROXD,BHPB6007,3,Miscellaneous - Tools,Lighting - Other,Miscellaneous - Tools,55,0.948276
+ROXD,BHPB6007,3,Miscellaneous - Tools,Lighting - Other,Power Tools & Accessories,54,0.931034
+ROXD,BHPB6007,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,75,0.949367
+ROXD,BHPB6007,3,Miscellaneous - Tools,Power Tools & Accessories,Lighting - Other,52,0.658228
+ROXD,BHPB6007,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,70,0.886076
+ROXD,BHPB6007,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,69,0.873418
+ROXD,BHPB6007,2,Welders - Electric,Industrial Tools & Equipment,,54,0.981818
+ROXD,BHPB6007,2,Welders - Electric,Miscellaneous - Tools,,53,0.963636
+ROXD,BHPB6007,2,Welders - Electric,Power Tools & Accessories,,51,0.927273
+ROXD,BHPB6007,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,52,0.962963
+ROXD,BHPB6007,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,51,0.962264
+ROXD,BHPB6007,2,Generators - Accessories,Generators - Accessories,,52,0.825397
+ROXD,BHPB6007,2,Generators - Accessories,Industrial Tools & Equipment,,59,0.936508
+ROXD,BHPB6007,2,Generators - Accessories,Miscellaneous - Tools,,58,0.920635
+ROXD,BHPB6007,2,Generators - Accessories,Power Tools & Accessories,,57,0.904762
+ROXD,BHPB6007,3,Generators - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,57,0.966102
+ROXD,BHPB6007,3,Generators - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,53,0.898305
+ROXD,BHPB6007,3,Generators - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,56,0.965517
+ROXD,BHPB6007,3,Generators - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,54,0.931034
+ROXD,BHPB6007,3,Generators - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,55,0.964912
+ROXD,BHPB6007,3,Generators - Accessories,Power Tools & Accessories,Miscellaneous - Tools,52,0.912281
+ROXD,BHPB6007,2,Power Tools & Accessories,Generators - Accessories,,53,0.609195
+ROXD,BHPB6007,2,Power Tools & Accessories,Industrial Tools & Equipment,,83,0.954023
+ROXD,BHPB6007,2,Power Tools & Accessories,Lighting - Other,,57,0.655172
+ROXD,BHPB6007,2,Power Tools & Accessories,Miscellaneous - Tools,,78,0.896552
+ROXD,BHPB6007,2,Power Tools & Accessories,Power Tools & Accessories,,77,0.885057
+ROXD,BHPB6007,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,77,0.927711
+ROXD,BHPB6007,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,71,0.855422
+ROXD,BHPB6007,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,67,0.807229
+ROXD,BHPB6007,3,Power Tools & Accessories,Lighting - Other,Industrial Tools & Equipment,53,0.929825
+ROXD,BHPB6007,3,Power Tools & Accessories,Lighting - Other,Miscellaneous - Tools,53,0.929825
+ROXD,BHPB6007,3,Power Tools & Accessories,Lighting - Other,Power Tools & Accessories,52,0.912281
+ROXD,BHPB6007,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,74,0.948718
+ROXD,BHPB6007,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,71,0.910256
+ROXD,BHPB6007,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,67,0.858974
+ROXD,BHPB6007,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,73,0.948052
+ROXD,BHPB6007,3,Power Tools & Accessories,Power Tools & Accessories,Lighting - Other,51,0.662338
+ROXD,BHPB6007,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,68,0.883117
+ROXD,BHPB6007,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,67,0.87013
+ROXD,BHPB6007,2,Lighting - Other,Industrial Tools & Equipment,,63,0.9
+ROXD,BHPB6007,2,Lighting - Other,Lighting - Other,,56,0.8
+ROXD,BHPB6007,2,Lighting - Other,Miscellaneous - Tools,,62,0.885714
+ROXD,BHPB6007,2,Lighting - Other,Power Tools & Accessories,,60,0.857143
+ROXD,BHPB6007,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,60,0.952381
+ROXD,BHPB6007,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,57,0.904762
+ROXD,BHPB6007,3,Lighting - Other,Industrial Tools & Equipment,Power Tools & Accessories,55,0.873016
+ROXD,BHPB6007,3,Lighting - Other,Lighting - Other,Industrial Tools & Equipment,52,0.928571
+ROXD,BHPB6007,3,Lighting - Other,Lighting - Other,Miscellaneous - Tools,52,0.928571
+ROXD,BHPB6007,3,Lighting - Other,Lighting - Other,Power Tools & Accessories,51,0.910714
+ROXD,BHPB6007,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,59,0.951613
+ROXD,BHPB6007,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,58,0.935484
+ROXD,BHPB6007,3,Lighting - Other,Miscellaneous - Tools,Power Tools & Accessories,56,0.903226
+ROXD,BHPB6007,3,Lighting - Other,Power Tools & Accessories,Industrial Tools & Equipment,57,0.95
+ROXD,BHPB6007,3,Lighting - Other,Power Tools & Accessories,Miscellaneous - Tools,56,0.933333
+ROXD,BHPB6007,3,Lighting - Other,Power Tools & Accessories,Power Tools & Accessories,55,0.916667

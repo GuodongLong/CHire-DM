@@ -1,0 +1,199 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+CARI,CALT1105,1,Floor Equipment,,,47,1
+CARI,CALT1105,1,Plumbers Equipment,,,35,1
+CARI,CALT1105,1,Industrial Tools & Equipment,,,32,1
+CARI,CALT1105,1,Materials Handling - Forklift,,,98,1
+CARI,CALT1105,1,Welders - Motorised,,,54,1
+CARI,CALT1105,1,Fans,,,78,1
+CARI,CALT1105,1,Air Compressors - Diesel Small,,,112,1
+CARI,CALT1105,1,Concrete,,,59,1
+CARI,CALT1105,1,Miscellaneous - Tools,,,43,1
+CARI,CALT1105,1,Air Accessories,,,32,1
+CARI,CALT1105,1,Air Hand Tools,,,49,1
+CARI,CALT1105,1,Jacking,,,35,1
+CARI,CALT1105,1,Bolting Tools,,,45,1
+CARI,CALT1105,2,Industrial Tools & Equipment,Concrete,,32,1
+CARI,CALT1105,2,Industrial Tools & Equipment,Materials Handling - Forklift,,32,1
+CARI,CALT1105,3,Industrial Tools & Equipment,Concrete,Materials Handling - Forklift,31,0.96875
+CARI,CALT1105,3,Industrial Tools & Equipment,Materials Handling - Forklift,Concrete,31,0.96875
+CARI,CALT1105,3,Industrial Tools & Equipment,Materials Handling - Forklift,Materials Handling - Forklift,31,0.96875
+CARI,CALT1105,2,Plumbers Equipment,Materials Handling - Forklift,,32,0.914286
+CARI,CALT1105,2,Materials Handling - Forklift,Air Compressors - Diesel Small,,47,0.479592
+CARI,CALT1105,2,Materials Handling - Forklift,Air Hand Tools,,37,0.377551
+CARI,CALT1105,2,Materials Handling - Forklift,Bolting Tools,,45,0.459184
+CARI,CALT1105,2,Materials Handling - Forklift,Concrete,,52,0.530612
+CARI,CALT1105,2,Materials Handling - Forklift,Fans,,40,0.408163
+CARI,CALT1105,2,Materials Handling - Forklift,Industrial Tools & Equipment,,31,0.316327
+CARI,CALT1105,2,Materials Handling - Forklift,Jacking,,33,0.336735
+CARI,CALT1105,2,Materials Handling - Forklift,Materials Handling - Forklift,,67,0.683673
+CARI,CALT1105,2,Materials Handling - Forklift,Miscellaneous - Tools,,40,0.408163
+CARI,CALT1105,2,Materials Handling - Forklift,Plumbers Equipment,,31,0.316327
+CARI,CALT1105,2,Materials Handling - Forklift,Welders - Motorised,,38,0.387755
+CARI,CALT1105,3,Materials Handling - Forklift,Air Compressors - Diesel Small,Air Compressors - Diesel Small,32,0.680851
+CARI,CALT1105,3,Materials Handling - Forklift,Air Hand Tools,Bolting Tools,31,0.837838
+CARI,CALT1105,3,Materials Handling - Forklift,Air Hand Tools,Concrete,31,0.837838
+CARI,CALT1105,3,Materials Handling - Forklift,Air Hand Tools,Materials Handling - Forklift,35,0.945946
+CARI,CALT1105,3,Materials Handling - Forklift,Bolting Tools,Bolting Tools,44,0.977778
+CARI,CALT1105,3,Materials Handling - Forklift,Bolting Tools,Concrete,45,1
+CARI,CALT1105,3,Materials Handling - Forklift,Bolting Tools,Industrial Tools & Equipment,31,0.688889
+CARI,CALT1105,3,Materials Handling - Forklift,Bolting Tools,Jacking,33,0.733333
+CARI,CALT1105,3,Materials Handling - Forklift,Bolting Tools,Materials Handling - Forklift,45,1
+CARI,CALT1105,3,Materials Handling - Forklift,Bolting Tools,Miscellaneous - Tools,36,0.8
+CARI,CALT1105,3,Materials Handling - Forklift,Concrete,Bolting Tools,44,0.846154
+CARI,CALT1105,3,Materials Handling - Forklift,Concrete,Concrete,46,0.884615
+CARI,CALT1105,3,Materials Handling - Forklift,Concrete,Industrial Tools & Equipment,31,0.596154
+CARI,CALT1105,3,Materials Handling - Forklift,Concrete,Jacking,33,0.634615
+CARI,CALT1105,3,Materials Handling - Forklift,Concrete,Materials Handling - Forklift,49,0.942308
+CARI,CALT1105,3,Materials Handling - Forklift,Concrete,Miscellaneous - Tools,37,0.711538
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Air Compressors - Diesel Small,32,0.477612
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Air Hand Tools,33,0.492537
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Bolting Tools,44,0.656716
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Concrete,49,0.731343
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Industrial Tools & Equipment,31,0.462687
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Jacking,33,0.492537
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Materials Handling - Forklift,56,0.835821
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Miscellaneous - Tools,37,0.552239
+CARI,CALT1105,3,Materials Handling - Forklift,Industrial Tools & Equipment,Concrete,31,1
+CARI,CALT1105,3,Materials Handling - Forklift,Industrial Tools & Equipment,Materials Handling - Forklift,31,1
+CARI,CALT1105,3,Materials Handling - Forklift,Jacking,Bolting Tools,33,1
+CARI,CALT1105,3,Materials Handling - Forklift,Jacking,Concrete,33,1
+CARI,CALT1105,3,Materials Handling - Forklift,Jacking,Jacking,32,0.969697
+CARI,CALT1105,3,Materials Handling - Forklift,Jacking,Materials Handling - Forklift,33,1
+CARI,CALT1105,3,Materials Handling - Forklift,Jacking,Miscellaneous - Tools,31,0.939394
+CARI,CALT1105,3,Materials Handling - Forklift,Miscellaneous - Tools,Bolting Tools,36,0.9
+CARI,CALT1105,3,Materials Handling - Forklift,Miscellaneous - Tools,Concrete,36,0.9
+CARI,CALT1105,3,Materials Handling - Forklift,Miscellaneous - Tools,Jacking,31,0.775
+CARI,CALT1105,3,Materials Handling - Forklift,Miscellaneous - Tools,Materials Handling - Forklift,37,0.925
+CARI,CALT1105,3,Materials Handling - Forklift,Miscellaneous - Tools,Miscellaneous - Tools,36,0.9
+CARI,CALT1105,2,Welders - Motorised,Materials Handling - Forklift,,33,0.611111
+CARI,CALT1105,2,Fans,Air Compressors - Diesel Small,,33,0.423077
+CARI,CALT1105,2,Fans,Fans,,44,0.564103
+CARI,CALT1105,2,Fans,Materials Handling - Forklift,,38,0.487179
+CARI,CALT1105,3,Fans,Fans,Fans,32,0.727273
+CARI,CALT1105,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,64,0.571429
+CARI,CALT1105,2,Air Compressors - Diesel Small,Fans,,37,0.330357
+CARI,CALT1105,2,Air Compressors - Diesel Small,Materials Handling - Forklift,,45,0.401786
+CARI,CALT1105,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,35,0.546875
+CARI,CALT1105,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Materials Handling - Forklift,33,0.515625
+CARI,CALT1105,2,Concrete,Bolting Tools,,44,0.745763
+CARI,CALT1105,2,Concrete,Concrete,,46,0.779661
+CARI,CALT1105,2,Concrete,Industrial Tools & Equipment,,31,0.525424
+CARI,CALT1105,2,Concrete,Jacking,,33,0.559322
+CARI,CALT1105,2,Concrete,Materials Handling - Forklift,,51,0.864407
+CARI,CALT1105,2,Concrete,Miscellaneous - Tools,,37,0.627119
+CARI,CALT1105,3,Concrete,Bolting Tools,Bolting Tools,43,0.977273
+CARI,CALT1105,3,Concrete,Bolting Tools,Concrete,44,1
+CARI,CALT1105,3,Concrete,Bolting Tools,Industrial Tools & Equipment,31,0.704545
+CARI,CALT1105,3,Concrete,Bolting Tools,Jacking,32,0.727273
+CARI,CALT1105,3,Concrete,Bolting Tools,Materials Handling - Forklift,44,1
+CARI,CALT1105,3,Concrete,Bolting Tools,Miscellaneous - Tools,36,0.818182
+CARI,CALT1105,3,Concrete,Concrete,Bolting Tools,43,0.934783
+CARI,CALT1105,3,Concrete,Concrete,Concrete,45,0.978261
+CARI,CALT1105,3,Concrete,Concrete,Industrial Tools & Equipment,31,0.673913
+CARI,CALT1105,3,Concrete,Concrete,Jacking,32,0.695652
+CARI,CALT1105,3,Concrete,Concrete,Materials Handling - Forklift,45,0.978261
+CARI,CALT1105,3,Concrete,Concrete,Miscellaneous - Tools,36,0.782609
+CARI,CALT1105,3,Concrete,Industrial Tools & Equipment,Concrete,31,1
+CARI,CALT1105,3,Concrete,Industrial Tools & Equipment,Materials Handling - Forklift,31,1
+CARI,CALT1105,3,Concrete,Jacking,Bolting Tools,33,1
+CARI,CALT1105,3,Concrete,Jacking,Concrete,33,1
+CARI,CALT1105,3,Concrete,Jacking,Jacking,32,0.969697
+CARI,CALT1105,3,Concrete,Jacking,Materials Handling - Forklift,33,1
+CARI,CALT1105,3,Concrete,Jacking,Miscellaneous - Tools,31,0.939394
+CARI,CALT1105,3,Concrete,Materials Handling - Forklift,Bolting Tools,43,0.843137
+CARI,CALT1105,3,Concrete,Materials Handling - Forklift,Concrete,46,0.901961
+CARI,CALT1105,3,Concrete,Materials Handling - Forklift,Industrial Tools & Equipment,31,0.607843
+CARI,CALT1105,3,Concrete,Materials Handling - Forklift,Jacking,32,0.627451
+CARI,CALT1105,3,Concrete,Materials Handling - Forklift,Materials Handling - Forklift,47,0.921569
+CARI,CALT1105,3,Concrete,Materials Handling - Forklift,Miscellaneous - Tools,36,0.705882
+CARI,CALT1105,3,Concrete,Miscellaneous - Tools,Bolting Tools,35,0.945946
+CARI,CALT1105,3,Concrete,Miscellaneous - Tools,Concrete,35,0.945946
+CARI,CALT1105,3,Concrete,Miscellaneous - Tools,Materials Handling - Forklift,36,0.972973
+CARI,CALT1105,3,Concrete,Miscellaneous - Tools,Miscellaneous - Tools,34,0.918919
+CARI,CALT1105,2,Miscellaneous - Tools,Bolting Tools,,36,0.837209
+CARI,CALT1105,2,Miscellaneous - Tools,Concrete,,36,0.837209
+CARI,CALT1105,2,Miscellaneous - Tools,Jacking,,31,0.72093
+CARI,CALT1105,2,Miscellaneous - Tools,Materials Handling - Forklift,,38,0.883721
+CARI,CALT1105,2,Miscellaneous - Tools,Miscellaneous - Tools,,36,0.837209
+CARI,CALT1105,3,Miscellaneous - Tools,Bolting Tools,Bolting Tools,35,0.972222
+CARI,CALT1105,3,Miscellaneous - Tools,Bolting Tools,Concrete,36,1
+CARI,CALT1105,3,Miscellaneous - Tools,Bolting Tools,Materials Handling - Forklift,36,1
+CARI,CALT1105,3,Miscellaneous - Tools,Materials Handling - Forklift,Bolting Tools,35,0.921053
+CARI,CALT1105,3,Miscellaneous - Tools,Materials Handling - Forklift,Concrete,36,0.947368
+CARI,CALT1105,3,Miscellaneous - Tools,Materials Handling - Forklift,Materials Handling - Forklift,37,0.973684
+CARI,CALT1105,3,Miscellaneous - Tools,Concrete,Bolting Tools,35,0.972222
+CARI,CALT1105,3,Miscellaneous - Tools,Concrete,Concrete,36,1
+CARI,CALT1105,3,Miscellaneous - Tools,Concrete,Materials Handling - Forklift,36,1
+CARI,CALT1105,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,35,0.972222
+CARI,CALT1105,3,Miscellaneous - Tools,Miscellaneous - Tools,Concrete,35,0.972222
+CARI,CALT1105,3,Miscellaneous - Tools,Miscellaneous - Tools,Materials Handling - Forklift,35,0.972222
+CARI,CALT1105,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,34,0.944444
+CARI,CALT1105,3,Miscellaneous - Tools,Jacking,Bolting Tools,31,1
+CARI,CALT1105,3,Miscellaneous - Tools,Jacking,Concrete,31,1
+CARI,CALT1105,3,Miscellaneous - Tools,Jacking,Materials Handling - Forklift,31,1
+CARI,CALT1105,2,Air Hand Tools,Bolting Tools,,31,0.632653
+CARI,CALT1105,2,Air Hand Tools,Concrete,,32,0.653061
+CARI,CALT1105,2,Air Hand Tools,Materials Handling - Forklift,,42,0.857143
+CARI,CALT1105,3,Air Hand Tools,Bolting Tools,Concrete,31,1
+CARI,CALT1105,3,Air Hand Tools,Bolting Tools,Materials Handling - Forklift,31,1
+CARI,CALT1105,3,Air Hand Tools,Concrete,Concrete,31,0.96875
+CARI,CALT1105,3,Air Hand Tools,Concrete,Materials Handling - Forklift,32,1
+CARI,CALT1105,3,Air Hand Tools,Materials Handling - Forklift,Concrete,31,0.738095
+CARI,CALT1105,3,Air Hand Tools,Materials Handling - Forklift,Materials Handling - Forklift,33,0.785714
+CARI,CALT1105,2,Jacking,Bolting Tools,,33,0.942857
+CARI,CALT1105,2,Jacking,Concrete,,34,0.971429
+CARI,CALT1105,2,Jacking,Jacking,,32,0.914286
+CARI,CALT1105,2,Jacking,Materials Handling - Forklift,,34,0.971429
+CARI,CALT1105,2,Jacking,Miscellaneous - Tools,,31,0.885714
+CARI,CALT1105,3,Jacking,Bolting Tools,Bolting Tools,33,1
+CARI,CALT1105,3,Jacking,Bolting Tools,Concrete,33,1
+CARI,CALT1105,3,Jacking,Bolting Tools,Materials Handling - Forklift,33,1
+CARI,CALT1105,3,Jacking,Materials Handling - Forklift,Bolting Tools,33,0.970588
+CARI,CALT1105,3,Jacking,Materials Handling - Forklift,Concrete,33,0.970588
+CARI,CALT1105,3,Jacking,Materials Handling - Forklift,Materials Handling - Forklift,33,0.970588
+CARI,CALT1105,3,Jacking,Concrete,Bolting Tools,33,0.970588
+CARI,CALT1105,3,Jacking,Concrete,Concrete,33,0.970588
+CARI,CALT1105,3,Jacking,Concrete,Materials Handling - Forklift,33,0.970588
+CARI,CALT1105,3,Jacking,Jacking,Bolting Tools,32,1
+CARI,CALT1105,3,Jacking,Jacking,Concrete,32,1
+CARI,CALT1105,3,Jacking,Jacking,Jacking,31,0.96875
+CARI,CALT1105,3,Jacking,Jacking,Materials Handling - Forklift,32,1
+CARI,CALT1105,3,Jacking,Miscellaneous - Tools,Bolting Tools,31,1
+CARI,CALT1105,3,Jacking,Miscellaneous - Tools,Concrete,31,1
+CARI,CALT1105,3,Jacking,Miscellaneous - Tools,Materials Handling - Forklift,31,1
+CARI,CALT1105,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,31,1
+CARI,CALT1105,2,Bolting Tools,Bolting Tools,,44,0.977778
+CARI,CALT1105,2,Bolting Tools,Concrete,,45,1
+CARI,CALT1105,2,Bolting Tools,Industrial Tools & Equipment,,31,0.688889
+CARI,CALT1105,2,Bolting Tools,Jacking,,33,0.733333
+CARI,CALT1105,2,Bolting Tools,Materials Handling - Forklift,,45,1
+CARI,CALT1105,2,Bolting Tools,Miscellaneous - Tools,,36,0.8
+CARI,CALT1105,3,Bolting Tools,Bolting Tools,Bolting Tools,43,0.977273
+CARI,CALT1105,3,Bolting Tools,Bolting Tools,Concrete,44,1
+CARI,CALT1105,3,Bolting Tools,Bolting Tools,Industrial Tools & Equipment,31,0.704545
+CARI,CALT1105,3,Bolting Tools,Bolting Tools,Jacking,32,0.727273
+CARI,CALT1105,3,Bolting Tools,Bolting Tools,Materials Handling - Forklift,44,1
+CARI,CALT1105,3,Bolting Tools,Bolting Tools,Miscellaneous - Tools,36,0.818182
+CARI,CALT1105,3,Bolting Tools,Concrete,Bolting Tools,43,0.955556
+CARI,CALT1105,3,Bolting Tools,Concrete,Concrete,44,0.977778
+CARI,CALT1105,3,Bolting Tools,Concrete,Industrial Tools & Equipment,31,0.688889
+CARI,CALT1105,3,Bolting Tools,Concrete,Jacking,32,0.711111
+CARI,CALT1105,3,Bolting Tools,Concrete,Materials Handling - Forklift,45,1
+CARI,CALT1105,3,Bolting Tools,Concrete,Miscellaneous - Tools,35,0.777778
+CARI,CALT1105,3,Bolting Tools,Jacking,Bolting Tools,33,1
+CARI,CALT1105,3,Bolting Tools,Jacking,Concrete,33,1
+CARI,CALT1105,3,Bolting Tools,Jacking,Jacking,32,0.969697
+CARI,CALT1105,3,Bolting Tools,Jacking,Materials Handling - Forklift,33,1
+CARI,CALT1105,3,Bolting Tools,Jacking,Miscellaneous - Tools,31,0.939394
+CARI,CALT1105,3,Bolting Tools,Industrial Tools & Equipment,Concrete,31,1
+CARI,CALT1105,3,Bolting Tools,Industrial Tools & Equipment,Materials Handling - Forklift,31,1
+CARI,CALT1105,3,Bolting Tools,Materials Handling - Forklift,Bolting Tools,43,0.955556
+CARI,CALT1105,3,Bolting Tools,Materials Handling - Forklift,Concrete,45,1
+CARI,CALT1105,3,Bolting Tools,Materials Handling - Forklift,Industrial Tools & Equipment,31,0.688889
+CARI,CALT1105,3,Bolting Tools,Materials Handling - Forklift,Jacking,32,0.711111
+CARI,CALT1105,3,Bolting Tools,Materials Handling - Forklift,Materials Handling - Forklift,45,1
+CARI,CALT1105,3,Bolting Tools,Materials Handling - Forklift,Miscellaneous - Tools,36,0.8
+CARI,CALT1105,3,Bolting Tools,Miscellaneous - Tools,Bolting Tools,35,0.972222
+CARI,CALT1105,3,Bolting Tools,Miscellaneous - Tools,Concrete,35,0.972222
+CARI,CALT1105,3,Bolting Tools,Miscellaneous - Tools,Materials Handling - Forklift,36,1
+CARI,CALT1105,3,Bolting Tools,Miscellaneous - Tools,Miscellaneous - Tools,34,0.944444

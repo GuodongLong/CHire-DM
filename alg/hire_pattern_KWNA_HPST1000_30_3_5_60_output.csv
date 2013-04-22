@@ -1,0 +1,521 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+KWNA,HPST1000,1,Miscellaneous - Tools,,,109,1
+KWNA,HPST1000,1,Industrial Tools & Equipment,,,154,1
+KWNA,HPST1000,1,Electrical Leads & Accessories,,,81,1
+KWNA,HPST1000,1,Power Tools & Accessories,,,138,1
+KWNA,HPST1000,1,Winches,,,55,1
+KWNA,HPST1000,1,Welders - Accessories,,,50,1
+KWNA,HPST1000,1,Welders - Electric,,,70,1
+KWNA,HPST1000,1,Chain Blocks,,,62,1
+KWNA,HPST1000,1,Safety Equipment ,,,40,1
+KWNA,HPST1000,1,Bolting Tools,,,32,1
+KWNA,HPST1000,2,Miscellaneous - Tools,Bolting Tools,,31,0.284404
+KWNA,HPST1000,2,Miscellaneous - Tools,Chain Blocks,,55,0.504587
+KWNA,HPST1000,2,Miscellaneous - Tools,Electrical Leads & Accessories,,67,0.614679
+KWNA,HPST1000,2,Miscellaneous - Tools,Industrial Tools & Equipment,,108,0.990826
+KWNA,HPST1000,2,Miscellaneous - Tools,Miscellaneous - Tools,,104,0.954128
+KWNA,HPST1000,2,Miscellaneous - Tools,Power Tools & Accessories,,99,0.908257
+KWNA,HPST1000,2,Miscellaneous - Tools,Safety Equipment ,,38,0.348624
+KWNA,HPST1000,2,Miscellaneous - Tools,Welders - Accessories,,38,0.348624
+KWNA,HPST1000,2,Miscellaneous - Tools,Welders - Electric,,55,0.504587
+KWNA,HPST1000,2,Miscellaneous - Tools,Winches,,51,0.46789
+KWNA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Chain Blocks,48,0.872727
+KWNA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Electrical Leads & Accessories,44,0.8
+KWNA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Industrial Tools & Equipment,55,1
+KWNA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Miscellaneous - Tools,48,0.872727
+KWNA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Power Tools & Accessories,55,1
+KWNA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Welders - Electric,35,0.636364
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Chain Blocks,42,0.626866
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,63,0.940299
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,65,0.970149
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,57,0.850746
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,65,0.970149
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Accessories,31,0.462687
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Electric,43,0.641791
+KWNA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Winches,38,0.567164
+KWNA,HPST1000,3,Miscellaneous - Tools,Safety Equipment ,Industrial Tools & Equipment,37,0.973684
+KWNA,HPST1000,3,Miscellaneous - Tools,Safety Equipment ,Miscellaneous - Tools,35,0.921053
+KWNA,HPST1000,3,Miscellaneous - Tools,Safety Equipment ,Power Tools & Accessories,37,0.973684
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Chain Blocks,55,0.509259
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,63,0.583333
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,107,0.990741
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,85,0.787037
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,96,0.888889
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Safety Equipment ,36,0.333333
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Accessories,38,0.351852
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Electric,54,0.5
+KWNA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Winches,45,0.416667
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,31,0.298077
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Chain Blocks,54,0.519231
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,67,0.644231
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,104,1
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,100,0.961538
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,95,0.913462
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Safety Equipment ,38,0.365385
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Accessories,36,0.346154
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,53,0.509615
+KWNA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,48,0.461538
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Chain Blocks,55,0.555556
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,65,0.656566
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,98,0.989899
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,79,0.79798
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,97,0.979798
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Safety Equipment ,36,0.363636
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Accessories,36,0.363636
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Electric,52,0.525253
+KWNA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Winches,45,0.454545
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Electrical Leads & Accessories,31,0.815789
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Industrial Tools & Equipment,38,1
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Miscellaneous - Tools,33,0.868421
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Power Tools & Accessories,37,0.973684
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Electric,31,0.815789
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Chain Blocks,35,0.636364
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Electrical Leads & Accessories,44,0.8
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,54,0.981818
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,47,0.854545
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,51,0.927273
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Welders - Accessories,32,0.581818
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Welders - Electric,46,0.836364
+KWNA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Winches,34,0.618182
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Chain Blocks,32,0.627451
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Electrical Leads & Accessories,41,0.803922
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,51,1
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,42,0.823529
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,48,0.941176
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Welders - Accessories,31,0.607843
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Welders - Electric,36,0.705882
+KWNA,HPST1000,3,Miscellaneous - Tools,Winches,Winches,40,0.784314
+KWNA,HPST1000,2,Chain Blocks,Chain Blocks,,54,0.870968
+KWNA,HPST1000,2,Chain Blocks,Electrical Leads & Accessories,,47,0.758065
+KWNA,HPST1000,2,Chain Blocks,Industrial Tools & Equipment,,62,1
+KWNA,HPST1000,2,Chain Blocks,Miscellaneous - Tools,,53,0.854839
+KWNA,HPST1000,2,Chain Blocks,Power Tools & Accessories,,62,1
+KWNA,HPST1000,2,Chain Blocks,Welders - Electric,,38,0.612903
+KWNA,HPST1000,2,Chain Blocks,Winches,,31,0.5
+KWNA,HPST1000,3,Chain Blocks,Chain Blocks,Chain Blocks,48,0.888889
+KWNA,HPST1000,3,Chain Blocks,Chain Blocks,Electrical Leads & Accessories,42,0.777778
+KWNA,HPST1000,3,Chain Blocks,Chain Blocks,Industrial Tools & Equipment,54,1
+KWNA,HPST1000,3,Chain Blocks,Chain Blocks,Miscellaneous - Tools,46,0.851852
+KWNA,HPST1000,3,Chain Blocks,Chain Blocks,Power Tools & Accessories,54,1
+KWNA,HPST1000,3,Chain Blocks,Chain Blocks,Welders - Electric,32,0.592593
+KWNA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Chain Blocks,36,0.765957
+KWNA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Electrical Leads & Accessories,43,0.914894
+KWNA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Industrial Tools & Equipment,46,0.978723
+KWNA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Miscellaneous - Tools,40,0.851064
+KWNA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Power Tools & Accessories,46,0.978723
+KWNA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Welders - Electric,32,0.680851
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Chain Blocks,45,0.725806
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Electrical Leads & Accessories,48,0.774194
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Industrial Tools & Equipment,61,0.983871
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Miscellaneous - Tools,51,0.822581
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Power Tools & Accessories,61,0.983871
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Welders - Electric,36,0.580645
+KWNA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Winches,33,0.532258
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Chain Blocks,44,0.709677
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Electrical Leads & Accessories,48,0.774194
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Industrial Tools & Equipment,61,0.983871
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Miscellaneous - Tools,51,0.822581
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Power Tools & Accessories,60,0.967742
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Welders - Electric,37,0.596774
+KWNA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Winches,32,0.516129
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Chain Blocks,40,0.754717
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Electrical Leads & Accessories,42,0.792453
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Industrial Tools & Equipment,53,1
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Miscellaneous - Tools,52,0.981132
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Power Tools & Accessories,52,0.981132
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Welders - Electric,35,0.660377
+KWNA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Winches,32,0.603774
+KWNA,HPST1000,3,Chain Blocks,Welders - Electric,Industrial Tools & Equipment,37,0.973684
+KWNA,HPST1000,3,Chain Blocks,Welders - Electric,Miscellaneous - Tools,34,0.894737
+KWNA,HPST1000,3,Chain Blocks,Welders - Electric,Power Tools & Accessories,36,0.947368
+KWNA,HPST1000,3,Chain Blocks,Welders - Electric,Welders - Electric,31,0.815789
+KWNA,HPST1000,3,Chain Blocks,Winches,Industrial Tools & Equipment,31,1
+KWNA,HPST1000,2,Industrial Tools & Equipment,Bolting Tools,,32,0.207792
+KWNA,HPST1000,2,Industrial Tools & Equipment,Chain Blocks,,61,0.396104
+KWNA,HPST1000,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,80,0.519481
+KWNA,HPST1000,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,153,0.993506
+KWNA,HPST1000,2,Industrial Tools & Equipment,Miscellaneous - Tools,,108,0.701299
+KWNA,HPST1000,2,Industrial Tools & Equipment,Power Tools & Accessories,,138,0.896104
+KWNA,HPST1000,2,Industrial Tools & Equipment,Safety Equipment ,,40,0.25974
+KWNA,HPST1000,2,Industrial Tools & Equipment,Welders - Accessories,,49,0.318182
+KWNA,HPST1000,2,Industrial Tools & Equipment,Welders - Electric,,69,0.448052
+KWNA,HPST1000,2,Industrial Tools & Equipment,Winches,,55,0.357143
+KWNA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Industrial Tools & Equipment,31,0.96875
+KWNA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Power Tools & Accessories,31,0.96875
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Bolting Tools,32,0.20915
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Chain Blocks,61,0.398693
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,79,0.51634
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,152,0.993464
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,108,0.705882
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,137,0.895425
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Safety Equipment ,40,0.261438
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Accessories,49,0.320261
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Electric,69,0.45098
+KWNA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Winches,55,0.359477
+KWNA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Chain Blocks,53,0.868852
+KWNA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Electrical Leads & Accessories,46,0.754098
+KWNA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Industrial Tools & Equipment,61,1
+KWNA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Miscellaneous - Tools,53,0.868852
+KWNA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Power Tools & Accessories,61,1
+KWNA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Welders - Electric,37,0.606557
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Chain Blocks,33,0.6
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Electrical Leads & Accessories,43,0.781818
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,55,1
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,44,0.8
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,51,0.927273
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Welders - Accessories,33,0.6
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Welders - Electric,39,0.709091
+KWNA,HPST1000,3,Industrial Tools & Equipment,Winches,Winches,44,0.8
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Chain Blocks,44,0.55
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,73,0.9125
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,78,0.975
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,68,0.85
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,78,0.975
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Safety Equipment ,33,0.4125
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Accessories,35,0.4375
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Electric,49,0.6125
+KWNA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Winches,45,0.5625
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Chain Blocks,37,0.536232
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Electrical Leads & Accessories,50,0.724638
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,68,0.985507
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Miscellaneous - Tools,54,0.782609
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Power Tools & Accessories,65,0.942029
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Welders - Accessories,39,0.565217
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Welders - Electric,60,0.869565
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Winches,39,0.565217
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Bolting Tools,31,0.287037
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Chain Blocks,55,0.509259
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,67,0.62037
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,108,1
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,104,0.962963
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,99,0.916667
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Safety Equipment ,38,0.351852
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Accessories,38,0.351852
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Electric,55,0.509259
+KWNA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Winches,51,0.472222
+KWNA,HPST1000,3,Industrial Tools & Equipment,Safety Equipment ,Industrial Tools & Equipment,39,0.975
+KWNA,HPST1000,3,Industrial Tools & Equipment,Safety Equipment ,Miscellaneous - Tools,37,0.925
+KWNA,HPST1000,3,Industrial Tools & Equipment,Safety Equipment ,Power Tools & Accessories,39,0.975
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Bolting Tools,32,0.231884
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Chain Blocks,60,0.434783
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,79,0.572464
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,137,0.992754
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,100,0.724638
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,136,0.985507
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Safety Equipment ,39,0.282609
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Accessories,46,0.333333
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Electric,66,0.478261
+KWNA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Winches,53,0.384058
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Electrical Leads & Accessories,35,0.714286
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Industrial Tools & Equipment,49,1
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Miscellaneous - Tools,39,0.795918
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Power Tools & Accessories,48,0.979592
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Accessories,39,0.795918
+KWNA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Electric,40,0.816327
+KWNA,HPST1000,2,Welders - Accessories,Electrical Leads & Accessories,,36,0.72
+KWNA,HPST1000,2,Welders - Accessories,Industrial Tools & Equipment,,50,1
+KWNA,HPST1000,2,Welders - Accessories,Miscellaneous - Tools,,39,0.78
+KWNA,HPST1000,2,Welders - Accessories,Power Tools & Accessories,,49,0.98
+KWNA,HPST1000,2,Welders - Accessories,Welders - Accessories,,40,0.8
+KWNA,HPST1000,2,Welders - Accessories,Welders - Electric,,40,0.8
+KWNA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,33,0.916667
+KWNA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,35,0.972222
+KWNA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,31,0.861111
+KWNA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,35,0.972222
+KWNA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,33,0.66
+KWNA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,49,0.98
+KWNA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,39,0.78
+KWNA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,48,0.96
+KWNA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Electric,36,0.72
+KWNA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,31,0.794872
+KWNA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,39,1
+KWNA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,37,0.948718
+KWNA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Power Tools & Accessories,38,0.974359
+KWNA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Welders - Electric,31,0.794872
+KWNA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Electrical Leads & Accessories,33,0.673469
+KWNA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,48,0.979592
+KWNA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Miscellaneous - Tools,38,0.77551
+KWNA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,48,0.979592
+KWNA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Welders - Electric,35,0.714286
+KWNA,HPST1000,3,Welders - Accessories,Welders - Accessories,Industrial Tools & Equipment,40,1
+KWNA,HPST1000,3,Welders - Accessories,Welders - Accessories,Miscellaneous - Tools,31,0.775
+KWNA,HPST1000,3,Welders - Accessories,Welders - Accessories,Power Tools & Accessories,40,1
+KWNA,HPST1000,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,32,0.8
+KWNA,HPST1000,3,Welders - Accessories,Welders - Accessories,Welders - Electric,32,0.8
+KWNA,HPST1000,3,Welders - Accessories,Welders - Electric,Industrial Tools & Equipment,39,0.975
+KWNA,HPST1000,3,Welders - Accessories,Welders - Electric,Miscellaneous - Tools,32,0.8
+KWNA,HPST1000,3,Welders - Accessories,Welders - Electric,Power Tools & Accessories,38,0.95
+KWNA,HPST1000,3,Welders - Accessories,Welders - Electric,Welders - Electric,34,0.85
+KWNA,HPST1000,2,Electrical Leads & Accessories,Chain Blocks,,45,0.555556
+KWNA,HPST1000,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,74,0.91358
+KWNA,HPST1000,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,79,0.975309
+KWNA,HPST1000,2,Electrical Leads & Accessories,Miscellaneous - Tools,,68,0.839506
+KWNA,HPST1000,2,Electrical Leads & Accessories,Power Tools & Accessories,,79,0.975309
+KWNA,HPST1000,2,Electrical Leads & Accessories,Safety Equipment ,,33,0.407407
+KWNA,HPST1000,2,Electrical Leads & Accessories,Welders - Accessories,,36,0.444444
+KWNA,HPST1000,2,Electrical Leads & Accessories,Welders - Electric,,49,0.604938
+KWNA,HPST1000,2,Electrical Leads & Accessories,Winches,,45,0.555556
+KWNA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Chain Blocks,40,0.888889
+KWNA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Electrical Leads & Accessories,41,0.911111
+KWNA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Industrial Tools & Equipment,45,1
+KWNA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Miscellaneous - Tools,39,0.866667
+KWNA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Power Tools & Accessories,45,1
+KWNA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Welders - Electric,31,0.688889
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Chain Blocks,46,0.582278
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,64,0.810127
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,78,0.987342
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,67,0.848101
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,77,0.974684
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Accessories,34,0.43038
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Electric,47,0.594937
+KWNA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Winches,43,0.544304
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Chain Blocks,43,0.581081
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,69,0.932432
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,72,0.972973
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,62,0.837838
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,72,0.972973
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Safety Equipment ,32,0.432432
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Accessories,32,0.432432
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Electric,44,0.594595
+KWNA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Winches,41,0.554054
+KWNA,HPST1000,3,Electrical Leads & Accessories,Winches,Electrical Leads & Accessories,39,0.866667
+KWNA,HPST1000,3,Electrical Leads & Accessories,Winches,Industrial Tools & Equipment,45,1
+KWNA,HPST1000,3,Electrical Leads & Accessories,Winches,Miscellaneous - Tools,39,0.866667
+KWNA,HPST1000,3,Electrical Leads & Accessories,Winches,Power Tools & Accessories,44,0.977778
+KWNA,HPST1000,3,Electrical Leads & Accessories,Winches,Welders - Electric,32,0.711111
+KWNA,HPST1000,3,Electrical Leads & Accessories,Winches,Winches,38,0.844444
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Chain Blocks,44,0.647059
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,57,0.838235
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,68,1
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,65,0.955882
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,68,1
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Electric,44,0.647059
+KWNA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Winches,41,0.602941
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Chain Blocks,47,0.594937
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,65,0.822785
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,78,0.987342
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,66,0.835443
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,78,0.987342
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Safety Equipment ,31,0.392405
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Accessories,36,0.455696
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Electric,48,0.607595
+KWNA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Winches,45,0.56962
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Electrical Leads & Accessories,42,0.857143
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Industrial Tools & Equipment,48,0.979592
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Miscellaneous - Tools,42,0.857143
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Power Tools & Accessories,46,0.938776
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Welders - Electric,42,0.857143
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Winches,32,0.653061
+KWNA,HPST1000,3,Electrical Leads & Accessories,Safety Equipment ,Industrial Tools & Equipment,32,0.969697
+KWNA,HPST1000,3,Electrical Leads & Accessories,Safety Equipment ,Power Tools & Accessories,32,0.969697
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Electrical Leads & Accessories,31,0.861111
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Industrial Tools & Equipment,36,1
+KWNA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Power Tools & Accessories,36,1
+KWNA,HPST1000,2,Power Tools & Accessories,Bolting Tools,,32,0.231884
+KWNA,HPST1000,2,Power Tools & Accessories,Chain Blocks,,60,0.434783
+KWNA,HPST1000,2,Power Tools & Accessories,Electrical Leads & Accessories,,79,0.572464
+KWNA,HPST1000,2,Power Tools & Accessories,Industrial Tools & Equipment,,137,0.992754
+KWNA,HPST1000,2,Power Tools & Accessories,Miscellaneous - Tools,,100,0.724638
+KWNA,HPST1000,2,Power Tools & Accessories,Power Tools & Accessories,,136,0.985507
+KWNA,HPST1000,2,Power Tools & Accessories,Safety Equipment ,,39,0.282609
+KWNA,HPST1000,2,Power Tools & Accessories,Welders - Accessories,,46,0.333333
+KWNA,HPST1000,2,Power Tools & Accessories,Welders - Electric,,66,0.478261
+KWNA,HPST1000,2,Power Tools & Accessories,Winches,,53,0.384058
+KWNA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Industrial Tools & Equipment,31,0.96875
+KWNA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Power Tools & Accessories,31,0.96875
+KWNA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Chain Blocks,53,0.883333
+KWNA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Electrical Leads & Accessories,46,0.766667
+KWNA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Industrial Tools & Equipment,60,1
+KWNA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Miscellaneous - Tools,52,0.866667
+KWNA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Power Tools & Accessories,60,1
+KWNA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Welders - Electric,36,0.6
+KWNA,HPST1000,3,Power Tools & Accessories,Safety Equipment ,Industrial Tools & Equipment,38,0.974359
+KWNA,HPST1000,3,Power Tools & Accessories,Safety Equipment ,Miscellaneous - Tools,36,0.923077
+KWNA,HPST1000,3,Power Tools & Accessories,Safety Equipment ,Power Tools & Accessories,38,0.974359
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Chain Blocks,44,0.556962
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,72,0.911392
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,77,0.974684
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,67,0.848101
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,77,0.974684
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Safety Equipment ,33,0.417722
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Accessories,35,0.443038
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Electric,49,0.620253
+KWNA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Winches,45,0.56962
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Electrical Leads & Accessories,35,0.76087
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Industrial Tools & Equipment,46,1
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Miscellaneous - Tools,36,0.782609
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,46,1
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,37,0.804348
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Welders - Electric,39,0.847826
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Chain Blocks,35,0.530303
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Electrical Leads & Accessories,49,0.742424
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Industrial Tools & Equipment,65,0.984848
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Miscellaneous - Tools,52,0.787879
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,63,0.954545
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Welders - Accessories,36,0.545455
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Welders - Electric,58,0.878788
+KWNA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Winches,38,0.575758
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Bolting Tools,31,0.226277
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Chain Blocks,58,0.423358
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,78,0.569343
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,136,0.992701
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,100,0.729927
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,128,0.934307
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Safety Equipment ,39,0.284672
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Accessories,45,0.328467
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Electric,65,0.474453
+KWNA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Winches,53,0.386861
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Chain Blocks,54,0.54
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,67,0.67
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,100,1
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,96,0.96
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,95,0.95
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Safety Equipment ,37,0.37
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Accessories,35,0.35
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Electric,53,0.53
+KWNA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Winches,50,0.5
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Bolting Tools,31,0.227941
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Chain Blocks,60,0.441176
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,79,0.580882
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,135,0.992647
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,99,0.727941
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,134,0.985294
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Safety Equipment ,39,0.286765
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,46,0.338235
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,66,0.485294
+KWNA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Winches,53,0.389706
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Chain Blocks,31,0.584906
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Electrical Leads & Accessories,42,0.792453
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Industrial Tools & Equipment,53,1
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Miscellaneous - Tools,44,0.830189
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Power Tools & Accessories,50,0.943396
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Welders - Accessories,31,0.584906
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Welders - Electric,38,0.716981
+KWNA,HPST1000,3,Power Tools & Accessories,Winches,Winches,43,0.811321
+KWNA,HPST1000,2,Winches,Chain Blocks,,33,0.6
+KWNA,HPST1000,2,Winches,Electrical Leads & Accessories,,43,0.781818
+KWNA,HPST1000,2,Winches,Industrial Tools & Equipment,,55,1
+KWNA,HPST1000,2,Winches,Miscellaneous - Tools,,44,0.8
+KWNA,HPST1000,2,Winches,Power Tools & Accessories,,51,0.927273
+KWNA,HPST1000,2,Winches,Welders - Accessories,,33,0.6
+KWNA,HPST1000,2,Winches,Welders - Electric,,39,0.709091
+KWNA,HPST1000,2,Winches,Winches,,44,0.8
+KWNA,HPST1000,3,Winches,Chain Blocks,Industrial Tools & Equipment,33,1
+KWNA,HPST1000,3,Winches,Chain Blocks,Power Tools & Accessories,33,1
+KWNA,HPST1000,3,Winches,Miscellaneous - Tools,Electrical Leads & Accessories,36,0.818182
+KWNA,HPST1000,3,Winches,Miscellaneous - Tools,Industrial Tools & Equipment,44,1
+KWNA,HPST1000,3,Winches,Miscellaneous - Tools,Miscellaneous - Tools,42,0.954545
+KWNA,HPST1000,3,Winches,Miscellaneous - Tools,Power Tools & Accessories,44,1
+KWNA,HPST1000,3,Winches,Miscellaneous - Tools,Welders - Electric,35,0.795455
+KWNA,HPST1000,3,Winches,Electrical Leads & Accessories,Electrical Leads & Accessories,41,0.953488
+KWNA,HPST1000,3,Winches,Electrical Leads & Accessories,Industrial Tools & Equipment,43,1
+KWNA,HPST1000,3,Winches,Electrical Leads & Accessories,Miscellaneous - Tools,40,0.930233
+KWNA,HPST1000,3,Winches,Electrical Leads & Accessories,Power Tools & Accessories,43,1
+KWNA,HPST1000,3,Winches,Electrical Leads & Accessories,Welders - Electric,33,0.767442
+KWNA,HPST1000,3,Winches,Winches,Electrical Leads & Accessories,39,0.886364
+KWNA,HPST1000,3,Winches,Winches,Industrial Tools & Equipment,44,1
+KWNA,HPST1000,3,Winches,Winches,Miscellaneous - Tools,37,0.840909
+KWNA,HPST1000,3,Winches,Winches,Power Tools & Accessories,43,0.977273
+KWNA,HPST1000,3,Winches,Winches,Welders - Electric,35,0.795455
+KWNA,HPST1000,3,Winches,Winches,Winches,37,0.840909
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Chain Blocks,34,0.618182
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Electrical Leads & Accessories,40,0.727273
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Industrial Tools & Equipment,55,1
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Miscellaneous - Tools,50,0.909091
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Power Tools & Accessories,54,0.981818
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Welders - Electric,41,0.745455
+KWNA,HPST1000,3,Winches,Industrial Tools & Equipment,Winches,32,0.581818
+KWNA,HPST1000,3,Winches,Welders - Electric,Electrical Leads & Accessories,34,0.871795
+KWNA,HPST1000,3,Winches,Welders - Electric,Industrial Tools & Equipment,39,1
+KWNA,HPST1000,3,Winches,Welders - Electric,Miscellaneous - Tools,36,0.923077
+KWNA,HPST1000,3,Winches,Welders - Electric,Power Tools & Accessories,38,0.974359
+KWNA,HPST1000,3,Winches,Welders - Electric,Welders - Electric,34,0.871795
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Chain Blocks,33,0.647059
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Electrical Leads & Accessories,40,0.784314
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Industrial Tools & Equipment,51,1
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Miscellaneous - Tools,47,0.921569
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Power Tools & Accessories,51,1
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Welders - Electric,38,0.745098
+KWNA,HPST1000,3,Winches,Power Tools & Accessories,Winches,31,0.607843
+KWNA,HPST1000,3,Winches,Welders - Accessories,Industrial Tools & Equipment,33,1
+KWNA,HPST1000,3,Winches,Welders - Accessories,Power Tools & Accessories,33,1
+KWNA,HPST1000,2,Welders - Electric,Chain Blocks,,38,0.542857
+KWNA,HPST1000,2,Welders - Electric,Electrical Leads & Accessories,,51,0.728571
+KWNA,HPST1000,2,Welders - Electric,Industrial Tools & Equipment,,69,0.985714
+KWNA,HPST1000,2,Welders - Electric,Miscellaneous - Tools,,55,0.785714
+KWNA,HPST1000,2,Welders - Electric,Power Tools & Accessories,,66,0.942857
+KWNA,HPST1000,2,Welders - Electric,Welders - Accessories,,40,0.571429
+KWNA,HPST1000,2,Welders - Electric,Welders - Electric,,61,0.871429
+KWNA,HPST1000,2,Welders - Electric,Winches,,39,0.557143
+KWNA,HPST1000,3,Welders - Electric,Chain Blocks,Chain Blocks,31,0.815789
+KWNA,HPST1000,3,Welders - Electric,Chain Blocks,Electrical Leads & Accessories,33,0.868421
+KWNA,HPST1000,3,Welders - Electric,Chain Blocks,Industrial Tools & Equipment,38,1
+KWNA,HPST1000,3,Welders - Electric,Chain Blocks,Miscellaneous - Tools,33,0.868421
+KWNA,HPST1000,3,Welders - Electric,Chain Blocks,Power Tools & Accessories,38,1
+KWNA,HPST1000,3,Welders - Electric,Chain Blocks,Welders - Electric,31,0.815789
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Chain Blocks,32,0.627451
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Electrical Leads & Accessories,47,0.921569
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Industrial Tools & Equipment,50,0.980392
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Miscellaneous - Tools,43,0.843137
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Power Tools & Accessories,50,0.980392
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Welders - Electric,36,0.705882
+KWNA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Winches,32,0.627451
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Chain Blocks,39,0.565217
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Electrical Leads & Accessories,46,0.666667
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,68,0.985507
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,54,0.782609
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,67,0.971014
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Welders - Accessories,36,0.521739
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Welders - Electric,49,0.710145
+KWNA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Winches,38,0.550725
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Chain Blocks,36,0.654545
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Electrical Leads & Accessories,43,0.781818
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,55,1
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,52,0.945455
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,54,0.981818
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Welders - Electric,44,0.8
+KWNA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Winches,35,0.636364
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Chain Blocks,39,0.590909
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Electrical Leads & Accessories,45,0.681818
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,65,0.984848
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,51,0.772727
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,65,0.984848
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Welders - Accessories,34,0.515152
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Welders - Electric,47,0.712121
+KWNA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Winches,37,0.560606
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Chain Blocks,32,0.52459
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Electrical Leads & Accessories,45,0.737705
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Industrial Tools & Equipment,60,0.983607
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Miscellaneous - Tools,48,0.786885
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Power Tools & Accessories,58,0.95082
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Welders - Accessories,32,0.52459
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Welders - Electric,52,0.852459
+KWNA,HPST1000,3,Welders - Electric,Welders - Electric,Winches,36,0.590164
+KWNA,HPST1000,3,Welders - Electric,Welders - Accessories,Industrial Tools & Equipment,40,1
+KWNA,HPST1000,3,Welders - Electric,Welders - Accessories,Miscellaneous - Tools,32,0.8
+KWNA,HPST1000,3,Welders - Electric,Welders - Accessories,Power Tools & Accessories,40,1
+KWNA,HPST1000,3,Welders - Electric,Welders - Accessories,Welders - Accessories,31,0.775
+KWNA,HPST1000,3,Welders - Electric,Welders - Accessories,Welders - Electric,32,0.8
+KWNA,HPST1000,3,Welders - Electric,Winches,Electrical Leads & Accessories,32,0.820513
+KWNA,HPST1000,3,Welders - Electric,Winches,Industrial Tools & Equipment,39,1
+KWNA,HPST1000,3,Welders - Electric,Winches,Miscellaneous - Tools,32,0.820513
+KWNA,HPST1000,3,Welders - Electric,Winches,Power Tools & Accessories,37,0.948718
+KWNA,HPST1000,3,Welders - Electric,Winches,Welders - Electric,31,0.794872
+KWNA,HPST1000,3,Welders - Electric,Winches,Winches,32,0.820513
+KWNA,HPST1000,2,Safety Equipment ,Industrial Tools & Equipment,,39,0.975
+KWNA,HPST1000,2,Safety Equipment ,Miscellaneous - Tools,,37,0.925
+KWNA,HPST1000,2,Safety Equipment ,Power Tools & Accessories,,39,0.975
+KWNA,HPST1000,3,Safety Equipment ,Industrial Tools & Equipment,Industrial Tools & Equipment,38,0.974359
+KWNA,HPST1000,3,Safety Equipment ,Industrial Tools & Equipment,Miscellaneous - Tools,35,0.897436
+KWNA,HPST1000,3,Safety Equipment ,Industrial Tools & Equipment,Power Tools & Accessories,38,0.974359
+KWNA,HPST1000,3,Safety Equipment ,Miscellaneous - Tools,Industrial Tools & Equipment,37,1
+KWNA,HPST1000,3,Safety Equipment ,Miscellaneous - Tools,Miscellaneous - Tools,36,0.972973
+KWNA,HPST1000,3,Safety Equipment ,Miscellaneous - Tools,Power Tools & Accessories,37,1
+KWNA,HPST1000,3,Safety Equipment ,Power Tools & Accessories,Industrial Tools & Equipment,38,0.974359
+KWNA,HPST1000,3,Safety Equipment ,Power Tools & Accessories,Miscellaneous - Tools,35,0.897436
+KWNA,HPST1000,3,Safety Equipment ,Power Tools & Accessories,Power Tools & Accessories,38,0.974359
+KWNA,HPST1000,2,Bolting Tools,Industrial Tools & Equipment,,31,0.96875
+KWNA,HPST1000,2,Bolting Tools,Power Tools & Accessories,,31,0.96875
+KWNA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,31,1
+KWNA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Industrial Tools & Equipment,31,1
+KWNA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Power Tools & Accessories,31,1

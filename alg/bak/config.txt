@@ -1,0 +1,4 @@
+minSup=30
+maxLength=3
+maxGap=5
+upper_bound_sup=50

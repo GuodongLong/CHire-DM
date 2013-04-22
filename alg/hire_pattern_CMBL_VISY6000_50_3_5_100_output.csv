@@ -1,0 +1,4 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+CMBL,VISY6000,1,Chain Blocks,,,53,1
+CMBL,VISY6000,1,Electrical Leads & Accessories,,,63,1
+CMBL,VISY6000,1,Power Tools & Accessories,,,69,1

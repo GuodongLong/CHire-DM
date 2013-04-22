@@ -1,0 +1,86 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+BNBY,THEL6005,1,Industrial Tools & Equipment,,,60,1
+BNBY,THEL6005,1,Miscellaneous - Tools,,,58,1
+BNBY,THEL6005,1,Access - Knuckle Booms,,,54,1
+BNBY,THEL6005,1,Electrical Leads & Accessories,,,56,1
+BNBY,THEL6005,1,Power Tools & Accessories,,,57,1
+BNBY,THEL6005,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,54,0.9
+BNBY,THEL6005,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,56,0.933333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Miscellaneous - Tools,,56,0.933333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Power Tools & Accessories,,56,0.933333
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,2,Miscellaneous - Tools,Electrical Leads & Accessories,,54,0.931034
+BNBY,THEL6005,2,Miscellaneous - Tools,Industrial Tools & Equipment,,56,0.965517
+BNBY,THEL6005,2,Miscellaneous - Tools,Miscellaneous - Tools,,56,0.965517
+BNBY,THEL6005,2,Miscellaneous - Tools,Power Tools & Accessories,,56,0.965517
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,54,0.964286
+BNBY,THEL6005,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,55,0.982143
+BNBY,THEL6005,2,Electrical Leads & Accessories,Miscellaneous - Tools,,55,0.982143
+BNBY,THEL6005,2,Electrical Leads & Accessories,Power Tools & Accessories,,55,0.982143
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,52,0.945455
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,52,0.945455
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,52,0.945455
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,54,0.981818
+BNBY,THEL6005,2,Power Tools & Accessories,Electrical Leads & Accessories,,54,0.947368
+BNBY,THEL6005,2,Power Tools & Accessories,Industrial Tools & Equipment,,56,0.982456
+BNBY,THEL6005,2,Power Tools & Accessories,Miscellaneous - Tools,,56,0.982456
+BNBY,THEL6005,2,Power Tools & Accessories,Power Tools & Accessories,,56,0.982456
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,55,0.982143

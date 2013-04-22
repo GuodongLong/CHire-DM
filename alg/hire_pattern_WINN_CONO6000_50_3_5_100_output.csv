@@ -1,0 +1,28 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+WINN,CONO6000,1,Miscellaneous - Tools,,,66,1
+WINN,CONO6000,1,Industrial Tools & Equipment,,,62,1
+WINN,CONO6000,1,External Service,,,60,1
+WINN,CONO6000,2,External Service,External Service,,59,0.983333
+WINN,CONO6000,2,External Service,Industrial Tools & Equipment,,51,0.85
+WINN,CONO6000,2,External Service,Miscellaneous - Tools,,51,0.85
+WINN,CONO6000,3,External Service,External Service,External Service,58,0.983051
+WINN,CONO6000,3,External Service,External Service,Industrial Tools & Equipment,51,0.864407
+WINN,CONO6000,3,External Service,External Service,Miscellaneous - Tools,51,0.864407
+WINN,CONO6000,2,Miscellaneous - Tools,External Service,,53,0.80303
+WINN,CONO6000,2,Miscellaneous - Tools,Industrial Tools & Equipment,,56,0.848485
+WINN,CONO6000,2,Miscellaneous - Tools,Miscellaneous - Tools,,60,0.909091
+WINN,CONO6000,3,Miscellaneous - Tools,External Service,External Service,53,1
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,54,0.964286
+WINN,CONO6000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,52,0.928571
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,External Service,53,0.883333
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.916667
+WINN,CONO6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,58,0.966667
+WINN,CONO6000,2,Industrial Tools & Equipment,External Service,,52,0.83871
+WINN,CONO6000,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,57,0.919355
+WINN,CONO6000,2,Industrial Tools & Equipment,Miscellaneous - Tools,,55,0.887097
+WINN,CONO6000,3,Industrial Tools & Equipment,External Service,External Service,52,1
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,External Service,51,0.894737
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.964912
+WINN,CONO6000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,54,0.947368
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,51,0.927273
+WINN,CONO6000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,54,0.981818

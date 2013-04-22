@@ -1,0 +1,59 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+TWEE,ABIG1018,1,Landscaping Equipment,,,50,1
+TWEE,ABIG1018,1,Masonry Blades,,,50,1
+TWEE,ABIG1018,1,Pumps - Hoses,,,42,1
+TWEE,ABIG1018,1,Air Hand Tools,,,50,1
+TWEE,ABIG1018,1,Compaction - Rammers & Vibrating Plates,,,120,1
+TWEE,ABIG1018,1,Masonry Saws,,,67,1
+TWEE,ABIG1018,1,Generators - Petrol,,,63,1
+TWEE,ABIG1018,1,Water Blasters,,,56,1
+TWEE,ABIG1018,1,Demolition,,,45,1
+TWEE,ABIG1018,1,Power Tools & Accessories,,,46,1
+TWEE,ABIG1018,1,Pumps - Small,,,47,1
+TWEE,ABIG1018,1,Air Breakers,,,78,1
+TWEE,ABIG1018,1,Lighting Towers,,,76,1
+TWEE,ABIG1018,1,Concrete Vibe Units,,,68,1
+TWEE,ABIG1018,1,Air Accessories,,,85,1
+TWEE,ABIG1018,1,Air Compressors - Diesel Small,,,103,1
+TWEE,ABIG1018,1,Air Breakers - Attachments,,,67,1
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,45,0.375
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Air Breakers,,42,0.35
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,,32,0.266667
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,54,0.45
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,61,0.508333
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,36,0.3
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Landscaping Equipment,,32,0.266667
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Lighting Towers,,40,0.333333
+TWEE,ABIG1018,2,Compaction - Rammers & Vibrating Plates,Masonry Saws,,34,0.283333
+TWEE,ABIG1018,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,31,0.574074
+TWEE,ABIG1018,2,Generators - Petrol,Air Accessories,,31,0.492063
+TWEE,ABIG1018,2,Generators - Petrol,Air Compressors - Diesel Small,,32,0.507937
+TWEE,ABIG1018,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,34,0.539683
+TWEE,ABIG1018,2,Masonry Saws,Air Compressors - Diesel Small,,35,0.522388
+TWEE,ABIG1018,2,Masonry Saws,Compaction - Rammers & Vibrating Plates,,35,0.522388
+TWEE,ABIG1018,2,Air Breakers,Air Accessories,,31,0.397436
+TWEE,ABIG1018,2,Air Breakers,Air Breakers,,38,0.487179
+TWEE,ABIG1018,2,Air Breakers,Air Compressors - Diesel Small,,37,0.474359
+TWEE,ABIG1018,2,Air Breakers,Compaction - Rammers & Vibrating Plates,,40,0.512821
+TWEE,ABIG1018,2,Lighting Towers,Air Compressors - Diesel Small,,33,0.434211
+TWEE,ABIG1018,2,Lighting Towers,Compaction - Rammers & Vibrating Plates,,35,0.460526
+TWEE,ABIG1018,2,Lighting Towers,Lighting Towers,,38,0.5
+TWEE,ABIG1018,2,Concrete Vibe Units,Air Accessories,,32,0.470588
+TWEE,ABIG1018,2,Concrete Vibe Units,Air Breakers,,31,0.455882
+TWEE,ABIG1018,2,Concrete Vibe Units,Air Compressors - Diesel Small,,33,0.485294
+TWEE,ABIG1018,2,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,,36,0.529412
+TWEE,ABIG1018,2,Air Accessories,Air Accessories,,36,0.423529
+TWEE,ABIG1018,2,Air Accessories,Air Breakers,,37,0.435294
+TWEE,ABIG1018,2,Air Accessories,Air Compressors - Diesel Small,,37,0.435294
+TWEE,ABIG1018,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,45,0.529412
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Air Accessories,,42,0.407767
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Air Breakers,,44,0.427184
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Air Breakers - Attachments,,32,0.31068
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,52,0.504854
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,53,0.514563
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Concrete Vibe Units,,32,0.31068
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Generators - Petrol,,31,0.300971
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Lighting Towers,,33,0.320388
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Masonry Blades,,31,0.300971
+TWEE,ABIG1018,2,Air Compressors - Diesel Small,Masonry Saws,,36,0.349515
+TWEE,ABIG1018,2,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,,32,0.477612

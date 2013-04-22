@@ -1,0 +1,8 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+BRKL,MOBI6005,1,Air Breakers,,,70,1
+BRKL,MOBI6005,1,Masonry Saws,,,66,1
+BRKL,MOBI6005,1,Welders - Motorised,,,62,1
+BRKL,MOBI6005,1,Masonry Blades,,,67,1
+BRKL,MOBI6005,1,Air Hand Tools,,,60,1
+BRKL,MOBI6005,1,Materials Handling - Forklift,,,52,1
+BRKL,MOBI6005,2,Materials Handling - Forklift,Materials Handling - Forklift,,51,0.980769

@@ -1,0 +1,291 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+PTHE,BHPB6000,1,Access - Knuckle Booms,,,327,1
+PTHE,BHPB6000,1,Access - Scissor Lifts,,,71,1
+PTHE,BHPB6000,1,Lighting Towers,,,188,1
+PTHE,BHPB6000,1,Welders - Motorised,,,172,1
+PTHE,BHPB6000,1,Access - Straight Booms,,,94,1
+PTHE,BHPB6000,1,Generators - Diesel Small,,,61,1
+PTHE,BHPB6000,1,Welders - Accessories,,,64,1
+PTHE,BHPB6000,1,Trailers,,,106,1
+PTHE,BHPB6000,1,Air Compressors - Diesel Small,,,63,1
+PTHE,BHPB6000,2,Access - Knuckle Booms,Access - Knuckle Booms,,314,0.960245
+PTHE,BHPB6000,2,Access - Knuckle Booms,Access - Scissor Lifts,,62,0.189602
+PTHE,BHPB6000,2,Access - Knuckle Booms,Access - Straight Booms,,85,0.259939
+PTHE,BHPB6000,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,60,0.183486
+PTHE,BHPB6000,2,Access - Knuckle Booms,Generators - Diesel Small,,58,0.17737
+PTHE,BHPB6000,2,Access - Knuckle Booms,Lighting Towers,,156,0.477064
+PTHE,BHPB6000,2,Access - Knuckle Booms,Trailers,,100,0.30581
+PTHE,BHPB6000,2,Access - Knuckle Booms,Welders - Accessories,,60,0.183486
+PTHE,BHPB6000,2,Access - Knuckle Booms,Welders - Motorised,,153,0.46789
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,301,0.958599
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Scissor Lifts,56,0.178344
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Straight Booms,77,0.245223
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,57,0.181529
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Diesel Small,57,0.181529
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting Towers,145,0.461783
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Trailers,95,0.302548
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Accessories,59,0.187898
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Motorised,146,0.464968
+PTHE,BHPB6000,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Knuckle Booms,55,0.948276
+PTHE,BHPB6000,3,Access - Knuckle Booms,Generators - Diesel Small,Lighting Towers,36,0.62069
+PTHE,BHPB6000,3,Access - Knuckle Booms,Generators - Diesel Small,Trailers,33,0.568966
+PTHE,BHPB6000,3,Access - Knuckle Booms,Generators - Diesel Small,Welders - Motorised,40,0.689655
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Access - Knuckle Booms,91,0.91
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Access - Scissor Lifts,32,0.32
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Access - Straight Booms,41,0.41
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Air Compressors - Diesel Small,39,0.39
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Lighting Towers,69,0.69
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Trailers,46,0.46
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Welders - Accessories,31,0.31
+PTHE,BHPB6000,3,Access - Knuckle Booms,Trailers,Welders - Motorised,74,0.74
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Accessories,Access - Knuckle Booms,57,0.95
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Accessories,Lighting Towers,42,0.7
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Motorised,42,0.7
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Access - Knuckle Booms,135,0.882353
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Access - Scissor Lifts,38,0.248366
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Access - Straight Booms,56,0.366013
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Air Compressors - Diesel Small,44,0.287582
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Generators - Diesel Small,37,0.24183
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Lighting Towers,100,0.653595
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Trailers,66,0.431373
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Welders - Accessories,43,0.281046
+PTHE,BHPB6000,3,Access - Knuckle Booms,Welders - Motorised,Welders - Motorised,114,0.745098
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Knuckle Booms,57,0.919355
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Scissor Lifts,Lighting Towers,47,0.758065
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Scissor Lifts,Trailers,34,0.548387
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Scissor Lifts,Welders - Motorised,44,0.709677
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Straight Booms,Access - Knuckle Booms,81,0.952941
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Straight Booms,Access - Straight Booms,44,0.517647
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Straight Booms,Lighting Towers,56,0.658824
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Straight Booms,Trailers,44,0.517647
+PTHE,BHPB6000,3,Access - Knuckle Booms,Access - Straight Booms,Welders - Motorised,58,0.682353
+PTHE,BHPB6000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,59,0.983333
+PTHE,BHPB6000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Lighting Towers,48,0.8
+PTHE,BHPB6000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Trailers,33,0.55
+PTHE,BHPB6000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Welders - Motorised,45,0.75
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Access - Knuckle Booms,136,0.871795
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Access - Scissor Lifts,42,0.269231
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Access - Straight Booms,56,0.358974
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Air Compressors - Diesel Small,41,0.262821
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Generators - Diesel Small,37,0.237179
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Lighting Towers,116,0.74359
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Trailers,70,0.448718
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Welders - Accessories,44,0.282051
+PTHE,BHPB6000,3,Access - Knuckle Booms,Lighting Towers,Welders - Motorised,97,0.621795
+PTHE,BHPB6000,2,Welders - Accessories,Access - Knuckle Booms,,59,0.921875
+PTHE,BHPB6000,2,Welders - Accessories,Lighting Towers,,45,0.703125
+PTHE,BHPB6000,2,Welders - Accessories,Trailers,,32,0.5
+PTHE,BHPB6000,2,Welders - Accessories,Welders - Motorised,,45,0.703125
+PTHE,BHPB6000,3,Welders - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,55,0.932203
+PTHE,BHPB6000,3,Welders - Accessories,Access - Knuckle Booms,Lighting Towers,41,0.694915
+PTHE,BHPB6000,3,Welders - Accessories,Access - Knuckle Booms,Trailers,31,0.525424
+PTHE,BHPB6000,3,Welders - Accessories,Access - Knuckle Booms,Welders - Motorised,41,0.694915
+PTHE,BHPB6000,3,Welders - Accessories,Lighting Towers,Access - Knuckle Booms,41,0.911111
+PTHE,BHPB6000,3,Welders - Accessories,Lighting Towers,Lighting Towers,34,0.755556
+PTHE,BHPB6000,3,Welders - Accessories,Lighting Towers,Welders - Motorised,32,0.711111
+PTHE,BHPB6000,3,Welders - Accessories,Welders - Motorised,Access - Knuckle Booms,40,0.888889
+PTHE,BHPB6000,3,Welders - Accessories,Welders - Motorised,Lighting Towers,32,0.711111
+PTHE,BHPB6000,3,Welders - Accessories,Welders - Motorised,Welders - Motorised,35,0.777778
+PTHE,BHPB6000,2,Access - Scissor Lifts,Access - Knuckle Booms,,66,0.929577
+PTHE,BHPB6000,2,Access - Scissor Lifts,Lighting Towers,,53,0.746479
+PTHE,BHPB6000,2,Access - Scissor Lifts,Trailers,,40,0.56338
+PTHE,BHPB6000,2,Access - Scissor Lifts,Welders - Accessories,,31,0.43662
+PTHE,BHPB6000,2,Access - Scissor Lifts,Welders - Motorised,,50,0.704225
+PTHE,BHPB6000,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Knuckle Booms,63,0.954545
+PTHE,BHPB6000,3,Access - Scissor Lifts,Access - Knuckle Booms,Lighting Towers,45,0.681818
+PTHE,BHPB6000,3,Access - Scissor Lifts,Access - Knuckle Booms,Trailers,32,0.484848
+PTHE,BHPB6000,3,Access - Scissor Lifts,Access - Knuckle Booms,Welders - Accessories,31,0.469697
+PTHE,BHPB6000,3,Access - Scissor Lifts,Access - Knuckle Booms,Welders - Motorised,45,0.681818
+PTHE,BHPB6000,3,Access - Scissor Lifts,Lighting Towers,Access - Knuckle Booms,50,0.943396
+PTHE,BHPB6000,3,Access - Scissor Lifts,Lighting Towers,Lighting Towers,40,0.754717
+PTHE,BHPB6000,3,Access - Scissor Lifts,Lighting Towers,Welders - Motorised,38,0.716981
+PTHE,BHPB6000,3,Access - Scissor Lifts,Trailers,Access - Knuckle Booms,39,0.975
+PTHE,BHPB6000,3,Access - Scissor Lifts,Welders - Motorised,Access - Knuckle Booms,48,0.96
+PTHE,BHPB6000,3,Access - Scissor Lifts,Welders - Motorised,Lighting Towers,39,0.78
+PTHE,BHPB6000,3,Access - Scissor Lifts,Welders - Motorised,Welders - Motorised,38,0.76
+PTHE,BHPB6000,2,Access - Straight Booms,Access - Knuckle Booms,,89,0.946809
+PTHE,BHPB6000,2,Access - Straight Booms,Access - Straight Booms,,51,0.542553
+PTHE,BHPB6000,2,Access - Straight Booms,Lighting Towers,,63,0.670213
+PTHE,BHPB6000,2,Access - Straight Booms,Trailers,,45,0.478723
+PTHE,BHPB6000,2,Access - Straight Booms,Welders - Motorised,,63,0.670213
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Knuckle Booms,Access - Knuckle Booms,85,0.955056
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Knuckle Booms,Access - Straight Booms,42,0.47191
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Knuckle Booms,Lighting Towers,51,0.573034
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Knuckle Booms,Trailers,41,0.460674
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Knuckle Booms,Welders - Motorised,56,0.629213
+PTHE,BHPB6000,3,Access - Straight Booms,Welders - Motorised,Access - Knuckle Booms,58,0.920635
+PTHE,BHPB6000,3,Access - Straight Booms,Welders - Motorised,Access - Straight Booms,31,0.492063
+PTHE,BHPB6000,3,Access - Straight Booms,Welders - Motorised,Lighting Towers,45,0.714286
+PTHE,BHPB6000,3,Access - Straight Booms,Welders - Motorised,Trailers,31,0.492063
+PTHE,BHPB6000,3,Access - Straight Booms,Welders - Motorised,Welders - Motorised,47,0.746032
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Straight Booms,Access - Knuckle Booms,48,0.941176
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Straight Booms,Lighting Towers,32,0.627451
+PTHE,BHPB6000,3,Access - Straight Booms,Access - Straight Booms,Welders - Motorised,35,0.686275
+PTHE,BHPB6000,3,Access - Straight Booms,Trailers,Access - Knuckle Booms,41,0.911111
+PTHE,BHPB6000,3,Access - Straight Booms,Trailers,Lighting Towers,31,0.688889
+PTHE,BHPB6000,3,Access - Straight Booms,Trailers,Welders - Motorised,36,0.8
+PTHE,BHPB6000,3,Access - Straight Booms,Lighting Towers,Access - Knuckle Booms,58,0.920635
+PTHE,BHPB6000,3,Access - Straight Booms,Lighting Towers,Access - Straight Booms,35,0.555556
+PTHE,BHPB6000,3,Access - Straight Booms,Lighting Towers,Lighting Towers,44,0.698413
+PTHE,BHPB6000,3,Access - Straight Booms,Lighting Towers,Trailers,35,0.555556
+PTHE,BHPB6000,3,Access - Straight Booms,Lighting Towers,Welders - Motorised,43,0.68254
+PTHE,BHPB6000,2,Lighting Towers,Access - Knuckle Booms,,150,0.797872
+PTHE,BHPB6000,2,Lighting Towers,Access - Scissor Lifts,,46,0.244681
+PTHE,BHPB6000,2,Lighting Towers,Access - Straight Booms,,61,0.324468
+PTHE,BHPB6000,2,Lighting Towers,Air Compressors - Diesel Small,,42,0.223404
+PTHE,BHPB6000,2,Lighting Towers,Generators - Diesel Small,,38,0.202128
+PTHE,BHPB6000,2,Lighting Towers,Lighting Towers,,141,0.75
+PTHE,BHPB6000,2,Lighting Towers,Trailers,,74,0.393617
+PTHE,BHPB6000,2,Lighting Towers,Welders - Accessories,,44,0.234043
+PTHE,BHPB6000,2,Lighting Towers,Welders - Motorised,,103,0.547872
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Access - Knuckle Booms,141,0.94
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Access - Scissor Lifts,39,0.26
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Access - Straight Booms,53,0.353333
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Air Compressors - Diesel Small,37,0.246667
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Generators - Diesel Small,35,0.233333
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Lighting Towers,89,0.593333
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Trailers,73,0.486667
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Welders - Accessories,45,0.3
+PTHE,BHPB6000,3,Lighting Towers,Access - Knuckle Booms,Welders - Motorised,94,0.626667
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Access - Knuckle Booms,111,0.787234
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Access - Scissor Lifts,33,0.234043
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Access - Straight Booms,38,0.269504
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Lighting Towers,102,0.723404
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Trailers,54,0.382979
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Welders - Accessories,35,0.248227
+PTHE,BHPB6000,3,Lighting Towers,Lighting Towers,Welders - Motorised,74,0.524823
+PTHE,BHPB6000,3,Lighting Towers,Access - Scissor Lifts,Access - Knuckle Booms,43,0.934783
+PTHE,BHPB6000,3,Lighting Towers,Access - Scissor Lifts,Lighting Towers,33,0.717391
+PTHE,BHPB6000,3,Lighting Towers,Access - Scissor Lifts,Trailers,32,0.695652
+PTHE,BHPB6000,3,Lighting Towers,Access - Scissor Lifts,Welders - Motorised,35,0.76087
+PTHE,BHPB6000,3,Lighting Towers,Access - Straight Booms,Access - Knuckle Booms,59,0.967213
+PTHE,BHPB6000,3,Lighting Towers,Access - Straight Booms,Lighting Towers,39,0.639344
+PTHE,BHPB6000,3,Lighting Towers,Access - Straight Booms,Trailers,35,0.57377
+PTHE,BHPB6000,3,Lighting Towers,Access - Straight Booms,Welders - Motorised,45,0.737705
+PTHE,BHPB6000,3,Lighting Towers,Air Compressors - Diesel Small,Access - Knuckle Booms,42,1
+PTHE,BHPB6000,3,Lighting Towers,Air Compressors - Diesel Small,Lighting Towers,34,0.809524
+PTHE,BHPB6000,3,Lighting Towers,Generators - Diesel Small,Access - Knuckle Booms,36,0.947368
+PTHE,BHPB6000,3,Lighting Towers,Trailers,Access - Knuckle Booms,66,0.891892
+PTHE,BHPB6000,3,Lighting Towers,Trailers,Lighting Towers,49,0.662162
+PTHE,BHPB6000,3,Lighting Towers,Trailers,Trailers,34,0.459459
+PTHE,BHPB6000,3,Lighting Towers,Trailers,Welders - Motorised,51,0.689189
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Access - Knuckle Booms,91,0.883495
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Access - Straight Booms,40,0.38835
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Air Compressors - Diesel Small,32,0.31068
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Lighting Towers,68,0.660194
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Trailers,49,0.475728
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Welders - Accessories,31,0.300971
+PTHE,BHPB6000,3,Lighting Towers,Welders - Motorised,Welders - Motorised,74,0.718447
+PTHE,BHPB6000,3,Lighting Towers,Welders - Accessories,Access - Knuckle Booms,40,0.909091
+PTHE,BHPB6000,2,Generators - Diesel Small,Access - Knuckle Booms,,57,0.934426
+PTHE,BHPB6000,2,Generators - Diesel Small,Lighting Towers,,38,0.622951
+PTHE,BHPB6000,2,Generators - Diesel Small,Trailers,,33,0.540984
+PTHE,BHPB6000,2,Generators - Diesel Small,Welders - Motorised,,40,0.655738
+PTHE,BHPB6000,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,56,0.982456
+PTHE,BHPB6000,3,Generators - Diesel Small,Access - Knuckle Booms,Lighting Towers,38,0.666667
+PTHE,BHPB6000,3,Generators - Diesel Small,Access - Knuckle Booms,Trailers,35,0.614035
+PTHE,BHPB6000,3,Generators - Diesel Small,Access - Knuckle Booms,Welders - Motorised,44,0.77193
+PTHE,BHPB6000,3,Generators - Diesel Small,Lighting Towers,Access - Knuckle Booms,37,0.973684
+PTHE,BHPB6000,3,Generators - Diesel Small,Lighting Towers,Lighting Towers,32,0.842105
+PTHE,BHPB6000,3,Generators - Diesel Small,Lighting Towers,Welders - Motorised,33,0.868421
+PTHE,BHPB6000,3,Generators - Diesel Small,Trailers,Access - Knuckle Booms,31,0.939394
+PTHE,BHPB6000,3,Generators - Diesel Small,Welders - Motorised,Access - Knuckle Booms,38,0.95
+PTHE,BHPB6000,3,Generators - Diesel Small,Welders - Motorised,Welders - Motorised,32,0.8
+PTHE,BHPB6000,2,Welders - Motorised,Access - Knuckle Booms,,148,0.860465
+PTHE,BHPB6000,2,Welders - Motorised,Access - Scissor Lifts,,42,0.244186
+PTHE,BHPB6000,2,Welders - Motorised,Access - Straight Booms,,62,0.360465
+PTHE,BHPB6000,2,Welders - Motorised,Air Compressors - Diesel Small,,49,0.284884
+PTHE,BHPB6000,2,Welders - Motorised,Generators - Diesel Small,,40,0.232558
+PTHE,BHPB6000,2,Welders - Motorised,Lighting Towers,,115,0.668605
+PTHE,BHPB6000,2,Welders - Motorised,Trailers,,73,0.424419
+PTHE,BHPB6000,2,Welders - Motorised,Welders - Accessories,,47,0.273256
+PTHE,BHPB6000,2,Welders - Motorised,Welders - Motorised,,129,0.75
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Access - Knuckle Booms,141,0.952703
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Access - Scissor Lifts,44,0.297297
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Access - Straight Booms,48,0.324324
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Air Compressors - Diesel Small,37,0.25
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Generators - Diesel Small,38,0.256757
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Lighting Towers,86,0.581081
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Trailers,68,0.459459
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Welders - Accessories,41,0.277027
+PTHE,BHPB6000,3,Welders - Motorised,Access - Knuckle Booms,Welders - Motorised,90,0.608108
+PTHE,BHPB6000,3,Welders - Motorised,Access - Scissor Lifts,Access - Knuckle Booms,39,0.928571
+PTHE,BHPB6000,3,Welders - Motorised,Access - Scissor Lifts,Lighting Towers,31,0.738095
+PTHE,BHPB6000,3,Welders - Motorised,Access - Scissor Lifts,Welders - Motorised,32,0.761905
+PTHE,BHPB6000,3,Welders - Motorised,Access - Straight Booms,Access - Knuckle Booms,58,0.935484
+PTHE,BHPB6000,3,Welders - Motorised,Access - Straight Booms,Access - Straight Booms,32,0.516129
+PTHE,BHPB6000,3,Welders - Motorised,Access - Straight Booms,Lighting Towers,43,0.693548
+PTHE,BHPB6000,3,Welders - Motorised,Access - Straight Booms,Trailers,31,0.5
+PTHE,BHPB6000,3,Welders - Motorised,Access - Straight Booms,Welders - Motorised,43,0.693548
+PTHE,BHPB6000,3,Welders - Motorised,Air Compressors - Diesel Small,Access - Knuckle Booms,47,0.959184
+PTHE,BHPB6000,3,Welders - Motorised,Air Compressors - Diesel Small,Lighting Towers,39,0.795918
+PTHE,BHPB6000,3,Welders - Motorised,Air Compressors - Diesel Small,Welders - Motorised,34,0.693878
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Accessories,Access - Knuckle Booms,43,0.914894
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Accessories,Lighting Towers,33,0.702128
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Accessories,Welders - Motorised,32,0.680851
+PTHE,BHPB6000,3,Welders - Motorised,Generators - Diesel Small,Access - Knuckle Booms,39,0.975
+PTHE,BHPB6000,3,Welders - Motorised,Trailers,Access - Knuckle Booms,65,0.890411
+PTHE,BHPB6000,3,Welders - Motorised,Trailers,Lighting Towers,50,0.684932
+PTHE,BHPB6000,3,Welders - Motorised,Trailers,Trailers,35,0.479452
+PTHE,BHPB6000,3,Welders - Motorised,Trailers,Welders - Motorised,55,0.753425
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Access - Knuckle Booms,101,0.878261
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Access - Scissor Lifts,36,0.313043
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Access - Straight Booms,45,0.391304
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Lighting Towers,86,0.747826
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Trailers,53,0.46087
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Welders - Accessories,35,0.304348
+PTHE,BHPB6000,3,Welders - Motorised,Lighting Towers,Welders - Motorised,74,0.643478
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Access - Knuckle Booms,111,0.860465
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Access - Straight Booms,40,0.310078
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Air Compressors - Diesel Small,35,0.271318
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Lighting Towers,85,0.658915
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Trailers,57,0.44186
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Welders - Accessories,40,0.310078
+PTHE,BHPB6000,3,Welders - Motorised,Welders - Motorised,Welders - Motorised,97,0.751938
+PTHE,BHPB6000,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,60,0.952381
+PTHE,BHPB6000,2,Air Compressors - Diesel Small,Lighting Towers,,49,0.777778
+PTHE,BHPB6000,2,Air Compressors - Diesel Small,Trailers,,33,0.52381
+PTHE,BHPB6000,2,Air Compressors - Diesel Small,Welders - Motorised,,45,0.714286
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,55,0.916667
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Lighting Towers,40,0.666667
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Trailers,36,0.6
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Welders - Motorised,44,0.733333
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Lighting Towers,Access - Knuckle Booms,44,0.897959
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Lighting Towers,Lighting Towers,35,0.714286
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Lighting Towers,Welders - Motorised,34,0.693878
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Welders - Motorised,Access - Knuckle Booms,40,0.888889
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Welders - Motorised,Lighting Towers,31,0.688889
+PTHE,BHPB6000,3,Air Compressors - Diesel Small,Welders - Motorised,Welders - Motorised,36,0.8
+PTHE,BHPB6000,2,Trailers,Access - Knuckle Booms,,95,0.896226
+PTHE,BHPB6000,2,Trailers,Access - Scissor Lifts,,33,0.311321
+PTHE,BHPB6000,2,Trailers,Access - Straight Booms,,44,0.415094
+PTHE,BHPB6000,2,Trailers,Air Compressors - Diesel Small,,40,0.377358
+PTHE,BHPB6000,2,Trailers,Lighting Towers,,73,0.688679
+PTHE,BHPB6000,2,Trailers,Trailers,,50,0.471698
+PTHE,BHPB6000,2,Trailers,Welders - Accessories,,33,0.311321
+PTHE,BHPB6000,2,Trailers,Welders - Motorised,,78,0.735849
+PTHE,BHPB6000,3,Trailers,Access - Knuckle Booms,Access - Knuckle Booms,92,0.968421
+PTHE,BHPB6000,3,Trailers,Access - Knuckle Booms,Access - Scissor Lifts,38,0.4
+PTHE,BHPB6000,3,Trailers,Access - Knuckle Booms,Access - Straight Booms,34,0.357895
+PTHE,BHPB6000,3,Trailers,Access - Knuckle Booms,Lighting Towers,59,0.621053
+PTHE,BHPB6000,3,Trailers,Access - Knuckle Booms,Trailers,43,0.452632
+PTHE,BHPB6000,3,Trailers,Access - Knuckle Booms,Welders - Motorised,61,0.642105
+PTHE,BHPB6000,3,Trailers,Lighting Towers,Access - Knuckle Booms,70,0.958904
+PTHE,BHPB6000,3,Trailers,Lighting Towers,Access - Straight Booms,35,0.479452
+PTHE,BHPB6000,3,Trailers,Lighting Towers,Lighting Towers,56,0.767123
+PTHE,BHPB6000,3,Trailers,Lighting Towers,Trailers,41,0.561644
+PTHE,BHPB6000,3,Trailers,Lighting Towers,Welders - Motorised,53,0.726027
+PTHE,BHPB6000,3,Trailers,Trailers,Access - Knuckle Booms,46,0.92
+PTHE,BHPB6000,3,Trailers,Trailers,Lighting Towers,37,0.74
+PTHE,BHPB6000,3,Trailers,Trailers,Welders - Motorised,40,0.8
+PTHE,BHPB6000,3,Trailers,Access - Scissor Lifts,Access - Knuckle Booms,32,0.969697
+PTHE,BHPB6000,3,Trailers,Access - Straight Booms,Access - Knuckle Booms,40,0.909091
+PTHE,BHPB6000,3,Trailers,Access - Straight Booms,Lighting Towers,32,0.727273
+PTHE,BHPB6000,3,Trailers,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+PTHE,BHPB6000,3,Trailers,Welders - Motorised,Access - Knuckle Booms,73,0.935897
+PTHE,BHPB6000,3,Trailers,Welders - Motorised,Access - Straight Booms,32,0.410256
+PTHE,BHPB6000,3,Trailers,Welders - Motorised,Lighting Towers,59,0.75641
+PTHE,BHPB6000,3,Trailers,Welders - Motorised,Trailers,39,0.5
+PTHE,BHPB6000,3,Trailers,Welders - Motorised,Welders - Motorised,57,0.730769
+PTHE,BHPB6000,3,Trailers,Air Compressors - Diesel Small,Access - Knuckle Booms,38,0.95
+PTHE,BHPB6000,3,Trailers,Air Compressors - Diesel Small,Lighting Towers,35,0.875

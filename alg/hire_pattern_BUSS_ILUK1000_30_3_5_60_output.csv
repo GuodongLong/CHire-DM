@@ -1,0 +1,1741 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+BUSS,ILUK1000,1,Welders - Electric,,,42,1
+BUSS,ILUK1000,1,Electrical Leads & Accessories,,,48,1
+BUSS,ILUK1000,1,Miscellaneous - Tools,,,50,1
+BUSS,ILUK1000,1,Jacking,,,34,1
+BUSS,ILUK1000,1,Lighting - Other,,,33,1
+BUSS,ILUK1000,1,Access - Knuckle Booms,,,55,1
+BUSS,ILUK1000,1,Industrial Tools & Equipment,,,51,1
+BUSS,ILUK1000,1,Generators - Accessories,,,38,1
+BUSS,ILUK1000,1,Power Tools & Accessories,,,46,1
+BUSS,ILUK1000,1,Chain Blocks,,,44,1
+BUSS,ILUK1000,1,Winches,,,44,1
+BUSS,ILUK1000,1,Slings  Shackles & Clamps,,,40,1
+BUSS,ILUK1000,1,Welders - Accessories,,,34,1
+BUSS,ILUK1000,2,Generators - Accessories,Access - Knuckle Booms,,35,0.921053
+BUSS,ILUK1000,2,Generators - Accessories,Chain Blocks,,35,0.921053
+BUSS,ILUK1000,2,Generators - Accessories,Electrical Leads & Accessories,,36,0.947368
+BUSS,ILUK1000,2,Generators - Accessories,Generators - Accessories,,35,0.921053
+BUSS,ILUK1000,2,Generators - Accessories,Industrial Tools & Equipment,,36,0.947368
+BUSS,ILUK1000,2,Generators - Accessories,Miscellaneous - Tools,,35,0.921053
+BUSS,ILUK1000,2,Generators - Accessories,Power Tools & Accessories,,36,0.947368
+BUSS,ILUK1000,2,Generators - Accessories,Slings  Shackles & Clamps,,33,0.868421
+BUSS,ILUK1000,2,Generators - Accessories,Welders - Electric,,33,0.868421
+BUSS,ILUK1000,2,Generators - Accessories,Winches,,35,0.921053
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Chain Blocks,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Electrical Leads & Accessories,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Miscellaneous - Tools,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Slings  Shackles & Clamps,33,0.942857
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Welders - Electric,33,0.942857
+BUSS,ILUK1000,3,Generators - Accessories,Access - Knuckle Booms,Winches,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Access - Knuckle Booms,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Chain Blocks,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Generators - Accessories,31,0.861111
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,36,1
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Slings  Shackles & Clamps,34,0.944444
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Welders - Electric,34,0.944444
+BUSS,ILUK1000,3,Generators - Accessories,Industrial Tools & Equipment,Winches,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Access - Knuckle Booms,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Chain Blocks,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Electrical Leads & Accessories,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Miscellaneous - Tools,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Power Tools & Accessories,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Slings  Shackles & Clamps,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Welders - Electric,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Slings  Shackles & Clamps,Winches,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Access - Knuckle Booms,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Chain Blocks,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Electrical Leads & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Generators - Accessories,31,0.885714
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Miscellaneous - Tools,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Slings  Shackles & Clamps,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Welders - Electric,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Chain Blocks,Winches,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Access - Knuckle Booms,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Chain Blocks,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Generators - Accessories,31,0.861111
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,36,1
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,36,1
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Slings  Shackles & Clamps,34,0.944444
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Welders - Electric,34,0.944444
+BUSS,ILUK1000,3,Generators - Accessories,Electrical Leads & Accessories,Winches,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Access - Knuckle Booms,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Chain Blocks,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Electrical Leads & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Generators - Accessories,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Miscellaneous - Tools,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Slings  Shackles & Clamps,33,0.942857
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Welders - Electric,33,0.942857
+BUSS,ILUK1000,3,Generators - Accessories,Generators - Accessories,Winches,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Access - Knuckle Booms,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Chain Blocks,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Electrical Leads & Accessories,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Miscellaneous - Tools,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Power Tools & Accessories,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Slings  Shackles & Clamps,32,0.969697
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Welders - Electric,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Welders - Electric,Winches,33,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Access - Knuckle Booms,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Chain Blocks,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Generators - Accessories,31,0.885714
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Slings  Shackles & Clamps,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Welders - Electric,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Miscellaneous - Tools,Winches,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Access - Knuckle Booms,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Chain Blocks,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Electrical Leads & Accessories,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Generators - Accessories,31,0.861111
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,36,1
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Miscellaneous - Tools,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Power Tools & Accessories,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Slings  Shackles & Clamps,34,0.944444
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Welders - Electric,34,0.944444
+BUSS,ILUK1000,3,Generators - Accessories,Power Tools & Accessories,Winches,35,0.972222
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Access - Knuckle Booms,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Chain Blocks,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Electrical Leads & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Generators - Accessories,31,0.885714
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Miscellaneous - Tools,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Slings  Shackles & Clamps,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Welders - Electric,34,0.971429
+BUSS,ILUK1000,3,Generators - Accessories,Winches,Winches,35,1
+BUSS,ILUK1000,2,Welders - Electric,Access - Knuckle Booms,,40,0.952381
+BUSS,ILUK1000,2,Welders - Electric,Chain Blocks,,41,0.97619
+BUSS,ILUK1000,2,Welders - Electric,Electrical Leads & Accessories,,42,1
+BUSS,ILUK1000,2,Welders - Electric,Generators - Accessories,,32,0.761905
+BUSS,ILUK1000,2,Welders - Electric,Industrial Tools & Equipment,,42,1
+BUSS,ILUK1000,2,Welders - Electric,Jacking,,32,0.761905
+BUSS,ILUK1000,2,Welders - Electric,Miscellaneous - Tools,,41,0.97619
+BUSS,ILUK1000,2,Welders - Electric,Power Tools & Accessories,,42,1
+BUSS,ILUK1000,2,Welders - Electric,Slings  Shackles & Clamps,,38,0.904762
+BUSS,ILUK1000,2,Welders - Electric,Welders - Accessories,,31,0.738095
+BUSS,ILUK1000,2,Welders - Electric,Welders - Electric,,41,0.97619
+BUSS,ILUK1000,2,Welders - Electric,Winches,,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Electrical Leads & Accessories,39,0.975
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Generators - Accessories,31,0.775
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Jacking,31,0.775
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Slings  Shackles & Clamps,36,0.9
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Welders - Accessories,31,0.775
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Welders - Electric,Access - Knuckle Booms,Winches,39,0.975
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Access - Knuckle Booms,39,0.95122
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Chain Blocks,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Electrical Leads & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Generators - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Industrial Tools & Equipment,41,1
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Jacking,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Miscellaneous - Tools,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Power Tools & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Slings  Shackles & Clamps,37,0.902439
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Welders - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Welders - Electric,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Chain Blocks,Winches,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Access - Knuckle Booms,39,0.928571
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Chain Blocks,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Electrical Leads & Accessories,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Generators - Accessories,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Industrial Tools & Equipment,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Jacking,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Miscellaneous - Tools,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Power Tools & Accessories,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Slings  Shackles & Clamps,37,0.880952
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Welders - Electric,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Electrical Leads & Accessories,Winches,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Generators - Accessories,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Generators - Accessories,Winches,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Access - Knuckle Booms,39,0.95122
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Chain Blocks,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Electrical Leads & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Generators - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,41,1
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Jacking,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Slings  Shackles & Clamps,37,0.902439
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Welders - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Welders - Electric,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Miscellaneous - Tools,Winches,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Access - Knuckle Booms,39,0.928571
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Chain Blocks,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Electrical Leads & Accessories,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Generators - Accessories,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Jacking,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Slings  Shackles & Clamps,37,0.880952
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Welders - Electric,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Industrial Tools & Equipment,Winches,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Access - Knuckle Booms,37,0.973684
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Chain Blocks,37,0.973684
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Electrical Leads & Accessories,38,1
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Industrial Tools & Equipment,38,1
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Miscellaneous - Tools,37,0.973684
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Power Tools & Accessories,38,1
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Slings  Shackles & Clamps,37,0.973684
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Welders - Electric,37,0.973684
+BUSS,ILUK1000,3,Welders - Electric,Slings  Shackles & Clamps,Winches,37,0.973684
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Jacking,31,0.96875
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Electric,Jacking,Winches,32,1
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Access - Knuckle Booms,39,0.928571
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Chain Blocks,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Electrical Leads & Accessories,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Generators - Accessories,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Jacking,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,41,0.97619
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Slings  Shackles & Clamps,37,0.880952
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Welders - Electric,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Power Tools & Accessories,Winches,40,0.952381
+BUSS,ILUK1000,3,Welders - Electric,Welders - Accessories,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Access - Knuckle Booms,39,0.95122
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Chain Blocks,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Electrical Leads & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Generators - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Industrial Tools & Equipment,41,1
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Jacking,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Miscellaneous - Tools,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Power Tools & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Slings  Shackles & Clamps,37,0.902439
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Welders - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Welders - Electric,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Welders - Electric,Winches,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Winches,Access - Knuckle Booms,39,0.95122
+BUSS,ILUK1000,3,Welders - Electric,Winches,Chain Blocks,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Winches,Electrical Leads & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Winches,Generators - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Winches,Industrial Tools & Equipment,41,1
+BUSS,ILUK1000,3,Welders - Electric,Winches,Jacking,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Winches,Miscellaneous - Tools,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Winches,Power Tools & Accessories,41,1
+BUSS,ILUK1000,3,Welders - Electric,Winches,Slings  Shackles & Clamps,37,0.902439
+BUSS,ILUK1000,3,Welders - Electric,Winches,Welders - Accessories,31,0.756098
+BUSS,ILUK1000,3,Welders - Electric,Winches,Welders - Electric,40,0.97561
+BUSS,ILUK1000,3,Welders - Electric,Winches,Winches,40,0.97561
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Access - Knuckle Booms,,43,0.895833
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Chain Blocks,,44,0.916667
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,45,0.9375
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Generators - Accessories,,35,0.729167
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,45,0.9375
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Jacking,,34,0.708333
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Lighting - Other,,32,0.666667
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Miscellaneous - Tools,,44,0.916667
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Power Tools & Accessories,,45,0.9375
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Slings  Shackles & Clamps,,40,0.833333
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Welders - Accessories,,33,0.6875
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Welders - Electric,,42,0.875
+BUSS,ILUK1000,2,Electrical Leads & Accessories,Winches,,44,0.916667
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Access - Knuckle Booms,42,0.976744
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Electrical Leads & Accessories,42,0.976744
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Generators - Accessories,34,0.790698
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Jacking,34,0.790698
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Welders - Accessories,33,0.767442
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Welders - Electric,41,0.953488
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Access - Knuckle Booms,Winches,42,0.976744
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Jacking,34,0.772727
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Chain Blocks,Winches,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Access - Knuckle Booms,42,0.933333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Chain Blocks,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Generators - Accessories,34,0.755556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,45,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Jacking,34,0.755556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Lighting - Other,31,0.688889
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Slings  Shackles & Clamps,40,0.888889
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Accessories,33,0.733333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Electric,42,0.933333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Winches,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Access - Knuckle Booms,42,0.933333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Chain Blocks,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Generators - Accessories,34,0.755556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Jacking,34,0.755556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Lighting - Other,31,0.688889
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Slings  Shackles & Clamps,40,0.888889
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Accessories,33,0.733333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Electric,42,0.933333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Winches,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Access - Knuckle Booms,34,0.971429
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Chain Blocks,34,0.971429
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Electrical Leads & Accessories,35,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Generators - Accessories,34,0.971429
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Miscellaneous - Tools,34,0.971429
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Slings  Shackles & Clamps,33,0.942857
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Welders - Electric,33,0.942857
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Generators - Accessories,Winches,34,0.971429
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Electrical Leads & Accessories,40,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,0.975
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Slings  Shackles & Clamps,Winches,39,0.975
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Lighting - Other,31,0.96875
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Lighting - Other,Winches,31,0.96875
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Jacking,34,0.772727
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Winches,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Access - Knuckle Booms,42,0.933333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Chain Blocks,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Generators - Accessories,34,0.755556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,45,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Jacking,34,0.755556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Lighting - Other,31,0.688889
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,44,0.977778
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Slings  Shackles & Clamps,40,0.888889
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Accessories,33,0.733333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Electric,42,0.933333
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Winches,43,0.955556
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Accessories,31,0.939394
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Accessories,Winches,32,0.969697
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Access - Knuckle Booms,40,0.952381
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Electrical Leads & Accessories,42,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Generators - Accessories,32,0.761905
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Jacking,32,0.761905
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Welders - Electric,Winches,41,0.97619
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Jacking,34,0.772727
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Electrical Leads & Accessories,Winches,Winches,43,0.977273
+BUSS,ILUK1000,2,Jacking,Access - Knuckle Booms,,33,0.970588
+BUSS,ILUK1000,2,Jacking,Chain Blocks,,34,1
+BUSS,ILUK1000,2,Jacking,Electrical Leads & Accessories,,34,1
+BUSS,ILUK1000,2,Jacking,Industrial Tools & Equipment,,34,1
+BUSS,ILUK1000,2,Jacking,Jacking,,33,0.970588
+BUSS,ILUK1000,2,Jacking,Miscellaneous - Tools,,34,1
+BUSS,ILUK1000,2,Jacking,Power Tools & Accessories,,34,1
+BUSS,ILUK1000,2,Jacking,Slings  Shackles & Clamps,,31,0.911765
+BUSS,ILUK1000,2,Jacking,Welders - Electric,,34,1
+BUSS,ILUK1000,2,Jacking,Winches,,34,1
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Power Tools & Accessories,33,1
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Jacking,Access - Knuckle Booms,Winches,32,0.969697
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Chain Blocks,Winches,33,0.970588
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Power Tools & Accessories,Winches,33,0.970588
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Electrical Leads & Accessories,Winches,33,0.970588
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Miscellaneous - Tools,Winches,33,0.970588
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Industrial Tools & Equipment,Winches,33,0.970588
+BUSS,ILUK1000,3,Jacking,Jacking,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Jacking,Jacking,Chain Blocks,33,1
+BUSS,ILUK1000,3,Jacking,Jacking,Electrical Leads & Accessories,33,1
+BUSS,ILUK1000,3,Jacking,Jacking,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Jacking,Jacking,Jacking,32,0.969697
+BUSS,ILUK1000,3,Jacking,Jacking,Miscellaneous - Tools,33,1
+BUSS,ILUK1000,3,Jacking,Jacking,Power Tools & Accessories,33,1
+BUSS,ILUK1000,3,Jacking,Jacking,Welders - Electric,33,1
+BUSS,ILUK1000,3,Jacking,Jacking,Winches,33,1
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Welders - Electric,Winches,33,0.970588
+BUSS,ILUK1000,3,Jacking,Slings  Shackles & Clamps,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Jacking,Slings  Shackles & Clamps,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Jacking,Slings  Shackles & Clamps,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Jacking,Winches,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Jacking,Winches,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Jacking,Winches,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Winches,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Jacking,Winches,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Jacking,Winches,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Jacking,Winches,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Jacking,Winches,Winches,33,0.970588
+BUSS,ILUK1000,2,Miscellaneous - Tools,Access - Knuckle Booms,,44,0.88
+BUSS,ILUK1000,2,Miscellaneous - Tools,Chain Blocks,,44,0.88
+BUSS,ILUK1000,2,Miscellaneous - Tools,Electrical Leads & Accessories,,46,0.92
+BUSS,ILUK1000,2,Miscellaneous - Tools,Generators - Accessories,,36,0.72
+BUSS,ILUK1000,2,Miscellaneous - Tools,Industrial Tools & Equipment,,47,0.94
+BUSS,ILUK1000,2,Miscellaneous - Tools,Jacking,,34,0.68
+BUSS,ILUK1000,2,Miscellaneous - Tools,Lighting - Other,,32,0.64
+BUSS,ILUK1000,2,Miscellaneous - Tools,Miscellaneous - Tools,,47,0.94
+BUSS,ILUK1000,2,Miscellaneous - Tools,Power Tools & Accessories,,46,0.92
+BUSS,ILUK1000,2,Miscellaneous - Tools,Slings  Shackles & Clamps,,40,0.8
+BUSS,ILUK1000,2,Miscellaneous - Tools,Welders - Accessories,,33,0.66
+BUSS,ILUK1000,2,Miscellaneous - Tools,Welders - Electric,,42,0.84
+BUSS,ILUK1000,2,Miscellaneous - Tools,Winches,,44,0.88
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Access - Knuckle Booms,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Generators - Accessories,35,0.795455
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Jacking,34,0.772727
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Lighting - Other,32,0.727273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Welders - Electric,41,0.931818
+BUSS,ILUK1000,3,Miscellaneous - Tools,Access - Knuckle Booms,Winches,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Access - Knuckle Booms,43,0.934783
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Chain Blocks,44,0.956522
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,45,0.978261
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Generators - Accessories,35,0.76087
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,46,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Jacking,34,0.73913
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Lighting - Other,32,0.695652
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,44,0.956522
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,45,0.978261
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Slings  Shackles & Clamps,40,0.869565
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Accessories,33,0.717391
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Electric,42,0.913043
+BUSS,ILUK1000,3,Miscellaneous - Tools,Power Tools & Accessories,Winches,44,0.956522
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Jacking,34,0.772727
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Miscellaneous - Tools,Chain Blocks,Winches,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Access - Knuckle Booms,43,0.934783
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Chain Blocks,44,0.956522
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,45,0.978261
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Generators - Accessories,35,0.76087
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,45,0.978261
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Jacking,34,0.73913
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Lighting - Other,32,0.695652
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,44,0.956522
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,45,0.978261
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Slings  Shackles & Clamps,40,0.869565
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Accessories,33,0.717391
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Electric,42,0.913043
+BUSS,ILUK1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Winches,44,0.956522
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Access - Knuckle Booms,35,0.972222
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Chain Blocks,35,0.972222
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Electrical Leads & Accessories,36,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Generators - Accessories,35,0.972222
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Industrial Tools & Equipment,36,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Miscellaneous - Tools,35,0.972222
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Power Tools & Accessories,36,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Slings  Shackles & Clamps,33,0.916667
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Welders - Electric,33,0.916667
+BUSS,ILUK1000,3,Miscellaneous - Tools,Generators - Accessories,Winches,35,0.972222
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Access - Knuckle Booms,44,0.93617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Chain Blocks,44,0.93617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,46,0.978723
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Generators - Accessories,36,0.765957
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,47,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Jacking,34,0.723404
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting - Other,32,0.680851
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,46,0.978723
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,46,0.978723
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Slings  Shackles & Clamps,40,0.851064
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Accessories,33,0.702128
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,42,0.893617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,44,0.93617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Access - Knuckle Booms,44,0.93617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Chain Blocks,44,0.93617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,46,0.978723
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Generators - Accessories,36,0.765957
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,47,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Jacking,34,0.723404
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting - Other,32,0.680851
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,45,0.957447
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,46,0.978723
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Slings  Shackles & Clamps,40,0.851064
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Accessories,33,0.702128
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Electric,42,0.893617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Winches,44,0.93617
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Lighting - Other,31,0.96875
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Miscellaneous - Tools,Lighting - Other,Winches,31,0.96875
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Electrical Leads & Accessories,40,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,0.975
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Miscellaneous - Tools,Slings  Shackles & Clamps,Winches,39,0.975
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Accessories,31,0.939394
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Accessories,Winches,32,0.969697
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Access - Knuckle Booms,40,0.952381
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Electrical Leads & Accessories,42,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Generators - Accessories,32,0.761905
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Jacking,32,0.761905
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Miscellaneous - Tools,Welders - Electric,Winches,41,0.97619
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Jacking,34,0.772727
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Miscellaneous - Tools,Winches,Winches,43,0.977273
+BUSS,ILUK1000,2,Lighting - Other,Access - Knuckle Booms,,32,0.969697
+BUSS,ILUK1000,2,Lighting - Other,Chain Blocks,,31,0.939394
+BUSS,ILUK1000,2,Lighting - Other,Electrical Leads & Accessories,,32,0.969697
+BUSS,ILUK1000,2,Lighting - Other,Industrial Tools & Equipment,,32,0.969697
+BUSS,ILUK1000,2,Lighting - Other,Lighting - Other,,31,0.939394
+BUSS,ILUK1000,2,Lighting - Other,Miscellaneous - Tools,,31,0.939394
+BUSS,ILUK1000,2,Lighting - Other,Power Tools & Accessories,,32,0.969697
+BUSS,ILUK1000,2,Lighting - Other,Welders - Electric,,31,0.939394
+BUSS,ILUK1000,2,Lighting - Other,Winches,,31,0.939394
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Electrical Leads & Accessories,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Access - Knuckle Booms,Winches,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Electrical Leads & Accessories,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Power Tools & Accessories,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Industrial Tools & Equipment,Winches,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Chain Blocks,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Miscellaneous - Tools,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Welders - Electric,31,1
+BUSS,ILUK1000,3,Lighting - Other,Chain Blocks,Winches,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Chain Blocks,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Miscellaneous - Tools,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Welders - Electric,31,1
+BUSS,ILUK1000,3,Lighting - Other,Winches,Winches,31,1
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Electrical Leads & Accessories,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Electrical Leads & Accessories,Winches,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Lighting - Other,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Lighting - Other,Lighting - Other,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Lighting - Other,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Lighting - Other,Lighting - Other,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Chain Blocks,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Welders - Electric,31,1
+BUSS,ILUK1000,3,Lighting - Other,Miscellaneous - Tools,Winches,31,1
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Electrical Leads & Accessories,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Power Tools & Accessories,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Power Tools & Accessories,Winches,31,0.96875
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Chain Blocks,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Miscellaneous - Tools,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Welders - Electric,31,1
+BUSS,ILUK1000,3,Lighting - Other,Welders - Electric,Winches,31,1
+BUSS,ILUK1000,2,Access - Knuckle Booms,Access - Knuckle Booms,,44,0.8
+BUSS,ILUK1000,2,Access - Knuckle Booms,Chain Blocks,,43,0.781818
+BUSS,ILUK1000,2,Access - Knuckle Booms,Electrical Leads & Accessories,,43,0.781818
+BUSS,ILUK1000,2,Access - Knuckle Booms,Generators - Accessories,,36,0.654545
+BUSS,ILUK1000,2,Access - Knuckle Booms,Industrial Tools & Equipment,,44,0.8
+BUSS,ILUK1000,2,Access - Knuckle Booms,Jacking,,34,0.618182
+BUSS,ILUK1000,2,Access - Knuckle Booms,Lighting - Other,,32,0.581818
+BUSS,ILUK1000,2,Access - Knuckle Booms,Miscellaneous - Tools,,44,0.8
+BUSS,ILUK1000,2,Access - Knuckle Booms,Power Tools & Accessories,,44,0.8
+BUSS,ILUK1000,2,Access - Knuckle Booms,Slings  Shackles & Clamps,,39,0.709091
+BUSS,ILUK1000,2,Access - Knuckle Booms,Welders - Accessories,,34,0.618182
+BUSS,ILUK1000,2,Access - Knuckle Booms,Welders - Electric,,41,0.745455
+BUSS,ILUK1000,2,Access - Knuckle Booms,Winches,,43,0.781818
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Electrical Leads & Accessories,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Industrial Tools & Equipment,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Jacking,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Electric,41,0.931818
+BUSS,ILUK1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Winches,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Access - Knuckle Booms,42,0.976744
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Chain Blocks,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Generators - Accessories,34,0.790698
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Jacking,34,0.790698
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Miscellaneous - Tools,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Slings  Shackles & Clamps,40,0.930233
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Welders - Accessories,33,0.767442
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Access - Knuckle Booms,Chain Blocks,Winches,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Jacking,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Lighting - Other,32,0.727273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Industrial Tools & Equipment,Winches,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Access - Knuckle Booms,42,0.976744
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Chain Blocks,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Generators - Accessories,34,0.790698
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Jacking,34,0.790698
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Lighting - Other,32,0.744186
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Miscellaneous - Tools,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Slings  Shackles & Clamps,40,0.930233
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Welders - Accessories,33,0.767442
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Access - Knuckle Booms,Electrical Leads & Accessories,Winches,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Access - Knuckle Booms,34,0.944444
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Chain Blocks,34,0.944444
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Electrical Leads & Accessories,35,0.972222
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Generators - Accessories,34,0.944444
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Industrial Tools & Equipment,35,0.972222
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Miscellaneous - Tools,34,0.944444
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Power Tools & Accessories,35,0.972222
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Slings  Shackles & Clamps,33,0.916667
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Welders - Electric,33,0.916667
+BUSS,ILUK1000,3,Access - Knuckle Booms,Generators - Accessories,Winches,34,0.944444
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Lighting - Other,31,0.96875
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Access - Knuckle Booms,Lighting - Other,Winches,31,0.96875
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Industrial Tools & Equipment,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Jacking,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Lighting - Other,32,0.727273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Miscellaneous - Tools,Winches,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Jacking,34,0.772727
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Lighting - Other,32,0.727273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Access - Knuckle Booms,Power Tools & Accessories,Winches,43,0.977273
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Access - Knuckle Booms,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Chain Blocks,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Electrical Leads & Accessories,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Generators - Accessories,32,0.820513
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Miscellaneous - Tools,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Welders - Electric,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Slings  Shackles & Clamps,Winches,39,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Access - Knuckle Booms,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Chain Blocks,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Electrical Leads & Accessories,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Industrial Tools & Equipment,33,0.970588
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Miscellaneous - Tools,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Power Tools & Accessories,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Accessories,31,0.911765
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Electric,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Accessories,Winches,32,0.941176
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Access - Knuckle Booms,40,0.97561
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Chain Blocks,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Electrical Leads & Accessories,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Generators - Accessories,32,0.780488
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Industrial Tools & Equipment,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Jacking,32,0.780488
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Miscellaneous - Tools,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Power Tools & Accessories,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Slings  Shackles & Clamps,38,0.926829
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Welders - Accessories,31,0.756098
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Welders - Electric,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Welders - Electric,Winches,41,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Access - Knuckle Booms,42,0.976744
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Chain Blocks,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Generators - Accessories,34,0.790698
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Jacking,34,0.790698
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Miscellaneous - Tools,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Slings  Shackles & Clamps,40,0.930233
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Welders - Accessories,33,0.767442
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Access - Knuckle Booms,Winches,Winches,43,1
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Access - Knuckle Booms,,44,0.862745
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Chain Blocks,,44,0.862745
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,46,0.901961
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Generators - Accessories,,36,0.705882
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,50,0.980392
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Jacking,,34,0.666667
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Lighting - Other,,32,0.627451
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Miscellaneous - Tools,,46,0.901961
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Power Tools & Accessories,,46,0.901961
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Slings  Shackles & Clamps,,40,0.784314
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Welders - Accessories,,33,0.647059
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Welders - Electric,,42,0.823529
+BUSS,ILUK1000,2,Industrial Tools & Equipment,Winches,,44,0.862745
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Access - Knuckle Booms,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Generators - Accessories,35,0.795455
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Jacking,34,0.772727
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Lighting - Other,32,0.727273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Welders - Electric,41,0.931818
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Access - Knuckle Booms,Winches,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Jacking,34,0.772727
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Chain Blocks,Winches,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Jacking,34,0.772727
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Winches,Winches,43,0.977273
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Lighting - Other,31,0.96875
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Lighting - Other,Winches,31,0.96875
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Access - Knuckle Booms,43,0.934783
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Chain Blocks,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,45,0.978261
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Generators - Accessories,35,0.76087
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,45,0.978261
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Jacking,34,0.73913
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Lighting - Other,32,0.695652
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,45,0.978261
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Slings  Shackles & Clamps,40,0.869565
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Accessories,33,0.717391
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Electric,42,0.913043
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Winches,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Access - Knuckle Booms,40,0.952381
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Electrical Leads & Accessories,42,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Generators - Accessories,32,0.761905
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Jacking,32,0.761905
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Electric,Winches,41,0.97619
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Access - Knuckle Booms,43,0.934783
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Chain Blocks,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,46,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Generators - Accessories,35,0.76087
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,46,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Jacking,34,0.73913
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting - Other,32,0.695652
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,45,0.978261
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,46,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Slings  Shackles & Clamps,40,0.869565
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Accessories,33,0.717391
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Electric,42,0.913043
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Winches,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Access - Knuckle Booms,35,0.972222
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Chain Blocks,35,0.972222
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Electrical Leads & Accessories,36,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Generators - Accessories,35,0.972222
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Industrial Tools & Equipment,36,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Miscellaneous - Tools,35,0.972222
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Power Tools & Accessories,36,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Slings  Shackles & Clamps,33,0.916667
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Welders - Electric,33,0.916667
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Generators - Accessories,Winches,35,0.972222
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Access - Knuckle Booms,43,0.934783
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Chain Blocks,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,45,0.978261
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Generators - Accessories,35,0.76087
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,46,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Jacking,34,0.73913
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Lighting - Other,32,0.695652
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,45,0.978261
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Slings  Shackles & Clamps,40,0.869565
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Accessories,33,0.717391
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Electric,42,0.913043
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Winches,44,0.956522
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Access - Knuckle Booms,44,0.88
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Chain Blocks,44,0.88
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,46,0.92
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Generators - Accessories,36,0.72
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,49,0.98
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Jacking,34,0.68
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting - Other,32,0.64
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,46,0.92
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,46,0.92
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Slings  Shackles & Clamps,40,0.8
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Accessories,33,0.66
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Electric,42,0.84
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Winches,44,0.88
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Electrical Leads & Accessories,40,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,0.975
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Slings  Shackles & Clamps,Winches,39,0.975
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Accessories,31,0.939394
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Industrial Tools & Equipment,Welders - Accessories,Winches,32,0.969697
+BUSS,ILUK1000,2,Power Tools & Accessories,Access - Knuckle Booms,,43,0.934783
+BUSS,ILUK1000,2,Power Tools & Accessories,Chain Blocks,,44,0.956522
+BUSS,ILUK1000,2,Power Tools & Accessories,Electrical Leads & Accessories,,45,0.978261
+BUSS,ILUK1000,2,Power Tools & Accessories,Generators - Accessories,,35,0.76087
+BUSS,ILUK1000,2,Power Tools & Accessories,Industrial Tools & Equipment,,46,1
+BUSS,ILUK1000,2,Power Tools & Accessories,Jacking,,34,0.73913
+BUSS,ILUK1000,2,Power Tools & Accessories,Lighting - Other,,32,0.695652
+BUSS,ILUK1000,2,Power Tools & Accessories,Miscellaneous - Tools,,44,0.956522
+BUSS,ILUK1000,2,Power Tools & Accessories,Power Tools & Accessories,,45,0.978261
+BUSS,ILUK1000,2,Power Tools & Accessories,Slings  Shackles & Clamps,,40,0.869565
+BUSS,ILUK1000,2,Power Tools & Accessories,Welders - Accessories,,33,0.717391
+BUSS,ILUK1000,2,Power Tools & Accessories,Welders - Electric,,42,0.913043
+BUSS,ILUK1000,2,Power Tools & Accessories,Winches,,44,0.956522
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Access - Knuckle Booms,42,0.976744
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Electrical Leads & Accessories,42,0.976744
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Generators - Accessories,34,0.790698
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Jacking,34,0.790698
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Welders - Accessories,33,0.767442
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Welders - Electric,41,0.953488
+BUSS,ILUK1000,3,Power Tools & Accessories,Access - Knuckle Booms,Winches,42,0.976744
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Jacking,34,0.772727
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Power Tools & Accessories,Miscellaneous - Tools,Winches,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Access - Knuckle Booms,42,0.933333
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Chain Blocks,43,0.955556
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,44,0.977778
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Generators - Accessories,34,0.755556
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,45,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Jacking,34,0.755556
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Lighting - Other,31,0.688889
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,43,0.955556
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,44,0.977778
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Slings  Shackles & Clamps,40,0.888889
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,33,0.733333
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,42,0.933333
+BUSS,ILUK1000,3,Power Tools & Accessories,Power Tools & Accessories,Winches,43,0.955556
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Jacking,34,0.772727
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Power Tools & Accessories,Chain Blocks,Winches,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Lighting - Other,31,0.96875
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Power Tools & Accessories,Lighting - Other,Winches,31,0.96875
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Access - Knuckle Booms,42,0.933333
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Chain Blocks,43,0.955556
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,44,0.977778
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Generators - Accessories,34,0.755556
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,44,0.977778
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Jacking,34,0.755556
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Lighting - Other,31,0.688889
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,43,0.955556
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,44,0.977778
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Slings  Shackles & Clamps,40,0.888889
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Accessories,33,0.733333
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Electric,42,0.933333
+BUSS,ILUK1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Winches,43,0.955556
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Access - Knuckle Booms,34,0.971429
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Chain Blocks,34,0.971429
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Electrical Leads & Accessories,35,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Generators - Accessories,34,0.971429
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Industrial Tools & Equipment,35,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Miscellaneous - Tools,34,0.971429
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Power Tools & Accessories,35,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Slings  Shackles & Clamps,33,0.942857
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Welders - Electric,33,0.942857
+BUSS,ILUK1000,3,Power Tools & Accessories,Generators - Accessories,Winches,34,0.971429
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Access - Knuckle Booms,42,0.913043
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Chain Blocks,43,0.934783
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,44,0.956522
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Generators - Accessories,34,0.73913
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,45,0.978261
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Jacking,34,0.73913
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Lighting - Other,31,0.673913
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,43,0.934783
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,44,0.956522
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Slings  Shackles & Clamps,40,0.869565
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Accessories,33,0.717391
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Electric,42,0.913043
+BUSS,ILUK1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Winches,43,0.934783
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Electrical Leads & Accessories,40,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,0.975
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Power Tools & Accessories,Slings  Shackles & Clamps,Winches,39,0.975
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Access - Knuckle Booms,42,0.954545
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Chain Blocks,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Electrical Leads & Accessories,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Generators - Accessories,34,0.772727
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Jacking,34,0.772727
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Miscellaneous - Tools,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Power Tools & Accessories,44,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Slings  Shackles & Clamps,40,0.909091
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Welders - Accessories,33,0.75
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Power Tools & Accessories,Winches,Winches,43,0.977273
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,31,0.939394
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Accessories,Winches,32,0.969697
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Access - Knuckle Booms,40,0.952381
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Electrical Leads & Accessories,42,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Generators - Accessories,32,0.761905
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Jacking,32,0.761905
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Power Tools & Accessories,Welders - Electric,Winches,41,0.97619
+BUSS,ILUK1000,2,Chain Blocks,Access - Knuckle Booms,,42,0.954545
+BUSS,ILUK1000,2,Chain Blocks,Chain Blocks,,43,0.977273
+BUSS,ILUK1000,2,Chain Blocks,Electrical Leads & Accessories,,44,1
+BUSS,ILUK1000,2,Chain Blocks,Generators - Accessories,,34,0.772727
+BUSS,ILUK1000,2,Chain Blocks,Industrial Tools & Equipment,,44,1
+BUSS,ILUK1000,2,Chain Blocks,Jacking,,34,0.772727
+BUSS,ILUK1000,2,Chain Blocks,Lighting - Other,,31,0.704545
+BUSS,ILUK1000,2,Chain Blocks,Miscellaneous - Tools,,43,0.977273
+BUSS,ILUK1000,2,Chain Blocks,Power Tools & Accessories,,44,1
+BUSS,ILUK1000,2,Chain Blocks,Slings  Shackles & Clamps,,40,0.909091
+BUSS,ILUK1000,2,Chain Blocks,Welders - Accessories,,33,0.75
+BUSS,ILUK1000,2,Chain Blocks,Welders - Electric,,42,0.954545
+BUSS,ILUK1000,2,Chain Blocks,Winches,,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Access - Knuckle Booms,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Electrical Leads & Accessories,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Generators - Accessories,33,0.785714
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Jacking,33,0.785714
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Lighting - Other,31,0.738095
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Welders - Accessories,32,0.761905
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Access - Knuckle Booms,Winches,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Access - Knuckle Booms,41,0.931818
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Generators - Accessories,33,0.75
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Jacking,33,0.75
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Welders - Accessories,32,0.727273
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Industrial Tools & Equipment,Winches,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Lighting - Other,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Chain Blocks,Lighting - Other,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Chain Blocks,Lighting - Other,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Chain Blocks,Lighting - Other,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Access - Knuckle Booms,41,0.953488
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Generators - Accessories,33,0.767442
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Jacking,33,0.767442
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Welders - Accessories,32,0.744186
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Chain Blocks,Winches,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Access - Knuckle Booms,41,0.931818
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Generators - Accessories,33,0.75
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Industrial Tools & Equipment,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Jacking,33,0.75
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Welders - Accessories,32,0.727273
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Electrical Leads & Accessories,Winches,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Generators - Accessories,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Slings  Shackles & Clamps,32,0.941176
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Generators - Accessories,Winches,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Access - Knuckle Booms,41,0.931818
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Generators - Accessories,33,0.75
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Jacking,33,0.75
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Welders - Accessories,32,0.727273
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Power Tools & Accessories,Winches,42,0.954545
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Chain Blocks,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Access - Knuckle Booms,41,0.953488
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Generators - Accessories,33,0.767442
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Jacking,33,0.767442
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Welders - Accessories,32,0.744186
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Miscellaneous - Tools,Winches,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Electrical Leads & Accessories,40,1
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,0.975
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Chain Blocks,Slings  Shackles & Clamps,Winches,39,0.975
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Welders - Accessories,31,0.939394
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Accessories,Winches,32,0.969697
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Access - Knuckle Booms,40,0.952381
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Electrical Leads & Accessories,42,1
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Generators - Accessories,32,0.761905
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Jacking,32,0.761905
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Welders - Electric,Winches,41,0.97619
+BUSS,ILUK1000,3,Chain Blocks,Winches,Access - Knuckle Booms,41,0.953488
+BUSS,ILUK1000,3,Chain Blocks,Winches,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Winches,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Chain Blocks,Winches,Generators - Accessories,33,0.767442
+BUSS,ILUK1000,3,Chain Blocks,Winches,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Chain Blocks,Winches,Jacking,33,0.767442
+BUSS,ILUK1000,3,Chain Blocks,Winches,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Chain Blocks,Winches,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Winches,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Chain Blocks,Winches,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Chain Blocks,Winches,Welders - Accessories,32,0.744186
+BUSS,ILUK1000,3,Chain Blocks,Winches,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Chain Blocks,Winches,Winches,42,0.976744
+BUSS,ILUK1000,2,Winches,Access - Knuckle Booms,,42,0.954545
+BUSS,ILUK1000,2,Winches,Chain Blocks,,43,0.977273
+BUSS,ILUK1000,2,Winches,Electrical Leads & Accessories,,44,1
+BUSS,ILUK1000,2,Winches,Generators - Accessories,,34,0.772727
+BUSS,ILUK1000,2,Winches,Industrial Tools & Equipment,,44,1
+BUSS,ILUK1000,2,Winches,Jacking,,34,0.772727
+BUSS,ILUK1000,2,Winches,Lighting - Other,,31,0.704545
+BUSS,ILUK1000,2,Winches,Miscellaneous - Tools,,43,0.977273
+BUSS,ILUK1000,2,Winches,Power Tools & Accessories,,44,1
+BUSS,ILUK1000,2,Winches,Slings  Shackles & Clamps,,40,0.909091
+BUSS,ILUK1000,2,Winches,Welders - Accessories,,33,0.75
+BUSS,ILUK1000,2,Winches,Welders - Electric,,42,0.954545
+BUSS,ILUK1000,2,Winches,Winches,,43,0.977273
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Access - Knuckle Booms,41,0.97619
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Electrical Leads & Accessories,41,0.97619
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Generators - Accessories,33,0.785714
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Jacking,33,0.785714
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Lighting - Other,31,0.738095
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Welders - Accessories,32,0.761905
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Winches,Access - Knuckle Booms,Winches,41,0.97619
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Access - Knuckle Booms,41,0.931818
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Generators - Accessories,33,0.75
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Jacking,33,0.75
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Welders - Accessories,32,0.727273
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Winches,Power Tools & Accessories,Winches,42,0.954545
+BUSS,ILUK1000,3,Winches,Chain Blocks,Access - Knuckle Booms,41,0.953488
+BUSS,ILUK1000,3,Winches,Chain Blocks,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Winches,Chain Blocks,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Winches,Chain Blocks,Generators - Accessories,33,0.767442
+BUSS,ILUK1000,3,Winches,Chain Blocks,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Winches,Chain Blocks,Jacking,33,0.767442
+BUSS,ILUK1000,3,Winches,Chain Blocks,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Winches,Chain Blocks,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Winches,Chain Blocks,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Winches,Chain Blocks,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Winches,Chain Blocks,Welders - Accessories,32,0.744186
+BUSS,ILUK1000,3,Winches,Chain Blocks,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Winches,Chain Blocks,Winches,42,0.976744
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Access - Knuckle Booms,41,0.953488
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Generators - Accessories,33,0.767442
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Jacking,33,0.767442
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Welders - Accessories,32,0.744186
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Winches,Miscellaneous - Tools,Winches,42,0.976744
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Access - Knuckle Booms,41,0.931818
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Generators - Accessories,33,0.75
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Industrial Tools & Equipment,43,0.977273
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Jacking,33,0.75
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Welders - Accessories,32,0.727273
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Winches,Electrical Leads & Accessories,Winches,42,0.954545
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Chain Blocks,33,0.970588
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Generators - Accessories,33,0.970588
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Miscellaneous - Tools,33,0.970588
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Slings  Shackles & Clamps,32,0.941176
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Welders - Electric,33,0.970588
+BUSS,ILUK1000,3,Winches,Generators - Accessories,Winches,33,0.970588
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Access - Knuckle Booms,41,0.931818
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Chain Blocks,42,0.954545
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Electrical Leads & Accessories,43,0.977273
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Generators - Accessories,33,0.75
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Industrial Tools & Equipment,44,1
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Jacking,33,0.75
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Lighting - Other,31,0.704545
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.954545
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Power Tools & Accessories,43,0.977273
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Slings  Shackles & Clamps,39,0.886364
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Welders - Accessories,32,0.727273
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Welders - Electric,42,0.954545
+BUSS,ILUK1000,3,Winches,Industrial Tools & Equipment,Winches,42,0.954545
+BUSS,ILUK1000,3,Winches,Jacking,Access - Knuckle Booms,33,0.970588
+BUSS,ILUK1000,3,Winches,Jacking,Chain Blocks,34,1
+BUSS,ILUK1000,3,Winches,Jacking,Electrical Leads & Accessories,34,1
+BUSS,ILUK1000,3,Winches,Jacking,Industrial Tools & Equipment,34,1
+BUSS,ILUK1000,3,Winches,Jacking,Jacking,33,0.970588
+BUSS,ILUK1000,3,Winches,Jacking,Miscellaneous - Tools,34,1
+BUSS,ILUK1000,3,Winches,Jacking,Power Tools & Accessories,34,1
+BUSS,ILUK1000,3,Winches,Jacking,Slings  Shackles & Clamps,31,0.911765
+BUSS,ILUK1000,3,Winches,Jacking,Welders - Electric,34,1
+BUSS,ILUK1000,3,Winches,Jacking,Winches,34,1
+BUSS,ILUK1000,3,Winches,Lighting - Other,Access - Knuckle Booms,31,1
+BUSS,ILUK1000,3,Winches,Lighting - Other,Electrical Leads & Accessories,31,1
+BUSS,ILUK1000,3,Winches,Lighting - Other,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Winches,Lighting - Other,Power Tools & Accessories,31,1
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Access - Knuckle Booms,39,0.975
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Chain Blocks,39,0.975
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Electrical Leads & Accessories,40,1
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Miscellaneous - Tools,39,0.975
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Power Tools & Accessories,40,1
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Slings  Shackles & Clamps,39,0.975
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Welders - Electric,39,0.975
+BUSS,ILUK1000,3,Winches,Slings  Shackles & Clamps,Winches,39,0.975
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Industrial Tools & Equipment,33,1
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Welders - Accessories,31,0.939394
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Accessories,Winches,32,0.969697
+BUSS,ILUK1000,3,Winches,Welders - Electric,Access - Knuckle Booms,40,0.952381
+BUSS,ILUK1000,3,Winches,Welders - Electric,Chain Blocks,41,0.97619
+BUSS,ILUK1000,3,Winches,Welders - Electric,Electrical Leads & Accessories,42,1
+BUSS,ILUK1000,3,Winches,Welders - Electric,Generators - Accessories,32,0.761905
+BUSS,ILUK1000,3,Winches,Welders - Electric,Industrial Tools & Equipment,42,1
+BUSS,ILUK1000,3,Winches,Welders - Electric,Jacking,32,0.761905
+BUSS,ILUK1000,3,Winches,Welders - Electric,Miscellaneous - Tools,41,0.97619
+BUSS,ILUK1000,3,Winches,Welders - Electric,Power Tools & Accessories,42,1
+BUSS,ILUK1000,3,Winches,Welders - Electric,Slings  Shackles & Clamps,38,0.904762
+BUSS,ILUK1000,3,Winches,Welders - Electric,Welders - Accessories,31,0.738095
+BUSS,ILUK1000,3,Winches,Welders - Electric,Welders - Electric,41,0.97619
+BUSS,ILUK1000,3,Winches,Welders - Electric,Winches,41,0.97619
+BUSS,ILUK1000,3,Winches,Winches,Access - Knuckle Booms,41,0.953488
+BUSS,ILUK1000,3,Winches,Winches,Chain Blocks,42,0.976744
+BUSS,ILUK1000,3,Winches,Winches,Electrical Leads & Accessories,43,1
+BUSS,ILUK1000,3,Winches,Winches,Generators - Accessories,33,0.767442
+BUSS,ILUK1000,3,Winches,Winches,Industrial Tools & Equipment,43,1
+BUSS,ILUK1000,3,Winches,Winches,Jacking,33,0.767442
+BUSS,ILUK1000,3,Winches,Winches,Lighting - Other,31,0.72093
+BUSS,ILUK1000,3,Winches,Winches,Miscellaneous - Tools,42,0.976744
+BUSS,ILUK1000,3,Winches,Winches,Power Tools & Accessories,43,1
+BUSS,ILUK1000,3,Winches,Winches,Slings  Shackles & Clamps,39,0.906977
+BUSS,ILUK1000,3,Winches,Winches,Welders - Accessories,32,0.744186
+BUSS,ILUK1000,3,Winches,Winches,Welders - Electric,42,0.976744
+BUSS,ILUK1000,3,Winches,Winches,Winches,42,0.976744
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Access - Knuckle Booms,,39,0.975
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Chain Blocks,,39,0.975
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Electrical Leads & Accessories,,40,1
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Generators - Accessories,,32,0.8
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Industrial Tools & Equipment,,40,1
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Miscellaneous - Tools,,39,0.975
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Power Tools & Accessories,,40,1
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Slings  Shackles & Clamps,,39,0.975
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Welders - Electric,,39,0.975
+BUSS,ILUK1000,2,Slings  Shackles & Clamps,Winches,,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Access - Knuckle Booms,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Chain Blocks,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Electrical Leads & Accessories,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Generators - Accessories,32,0.820513
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Miscellaneous - Tools,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Slings  Shackles & Clamps,35,0.897436
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Welders - Electric,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Access - Knuckle Booms,Winches,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Access - Knuckle Booms,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Chain Blocks,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Electrical Leads & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Generators - Accessories,32,0.820513
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Miscellaneous - Tools,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Slings  Shackles & Clamps,35,0.897436
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Welders - Electric,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Welders - Electric,Winches,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Access - Knuckle Booms,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Chain Blocks,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Electrical Leads & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Generators - Accessories,32,0.820513
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Miscellaneous - Tools,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Slings  Shackles & Clamps,35,0.897436
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Welders - Electric,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Chain Blocks,Winches,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Access - Knuckle Booms,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Chain Blocks,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Electrical Leads & Accessories,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Miscellaneous - Tools,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Power Tools & Accessories,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Slings  Shackles & Clamps,35,0.875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Welders - Electric,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Power Tools & Accessories,Winches,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Access - Knuckle Booms,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Chain Blocks,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Electrical Leads & Accessories,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Industrial Tools & Equipment,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Miscellaneous - Tools,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Power Tools & Accessories,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Slings  Shackles & Clamps,35,0.875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Welders - Electric,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Electrical Leads & Accessories,Winches,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Generators - Accessories,31,0.96875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Generators - Accessories,Winches,31,0.96875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Access - Knuckle Booms,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Chain Blocks,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Electrical Leads & Accessories,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Generators - Accessories,32,0.8
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Industrial Tools & Equipment,40,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Miscellaneous - Tools,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Power Tools & Accessories,39,0.975
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Slings  Shackles & Clamps,35,0.875
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Welders - Electric,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Industrial Tools & Equipment,Winches,38,0.95
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Access - Knuckle Booms,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Chain Blocks,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Electrical Leads & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Generators - Accessories,32,0.820513
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Miscellaneous - Tools,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Slings  Shackles & Clamps,35,0.897436
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Welders - Electric,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Miscellaneous - Tools,Winches,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Access - Knuckle Booms,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Chain Blocks,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Electrical Leads & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Generators - Accessories,31,0.794872
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Miscellaneous - Tools,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Slings  Shackles & Clamps,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Welders - Electric,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Slings  Shackles & Clamps,Winches,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Access - Knuckle Booms,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Chain Blocks,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Electrical Leads & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Generators - Accessories,32,0.820513
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Industrial Tools & Equipment,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Miscellaneous - Tools,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Power Tools & Accessories,39,1
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Slings  Shackles & Clamps,35,0.897436
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Welders - Electric,38,0.974359
+BUSS,ILUK1000,3,Slings  Shackles & Clamps,Winches,Winches,38,0.974359
+BUSS,ILUK1000,2,Welders - Accessories,Access - Knuckle Booms,,32,0.941176
+BUSS,ILUK1000,2,Welders - Accessories,Chain Blocks,,32,0.941176
+BUSS,ILUK1000,2,Welders - Accessories,Electrical Leads & Accessories,,32,0.941176
+BUSS,ILUK1000,2,Welders - Accessories,Industrial Tools & Equipment,,33,0.970588
+BUSS,ILUK1000,2,Welders - Accessories,Miscellaneous - Tools,,32,0.941176
+BUSS,ILUK1000,2,Welders - Accessories,Power Tools & Accessories,,32,0.941176
+BUSS,ILUK1000,2,Welders - Accessories,Welders - Accessories,,31,0.911765
+BUSS,ILUK1000,2,Welders - Accessories,Welders - Electric,,32,0.941176
+BUSS,ILUK1000,2,Welders - Accessories,Winches,,32,0.941176
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,31,0.96875
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Chain Blocks,31,0.96875
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Electrical Leads & Accessories,31,0.96875
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Miscellaneous - Tools,31,0.96875
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Welders - Electric,31,0.96875
+BUSS,ILUK1000,3,Welders - Accessories,Access - Knuckle Booms,Winches,31,0.96875
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Chain Blocks,Winches,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Accessories,Industrial Tools & Equipment,31,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Electrical Leads & Accessories,Winches,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Winches,Winches,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Access - Knuckle Booms,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Chain Blocks,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Electric,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Industrial Tools & Equipment,Winches,32,0.969697
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Miscellaneous - Tools,Winches,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Power Tools & Accessories,Winches,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Access - Knuckle Booms,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Chain Blocks,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Electrical Leads & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Industrial Tools & Equipment,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Miscellaneous - Tools,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Power Tools & Accessories,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Welders - Electric,32,1
+BUSS,ILUK1000,3,Welders - Accessories,Welders - Electric,Winches,32,1

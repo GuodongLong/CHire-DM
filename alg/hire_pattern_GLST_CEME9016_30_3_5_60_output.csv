@@ -1,0 +1,1019 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+GLST,CEME9016,1,Air Accessories,,,55,1
+GLST,CEME9016,1,Lighting Towers,,,31,1
+GLST,CEME9016,1,Welders - Accessories,,,63,1
+GLST,CEME9016,1,Access - Scissor Lifts,,,35,1
+GLST,CEME9016,1,Industrial Tools & Equipment,,,65,1
+GLST,CEME9016,1,Air Compressors - Diesel Small,,,36,1
+GLST,CEME9016,1,Access - Knuckle Booms,,,44,1
+GLST,CEME9016,1,Welders - Motorised,,,48,1
+GLST,CEME9016,1,Jacking,,,45,1
+GLST,CEME9016,1,Power Tools & Accessories,,,66,1
+GLST,CEME9016,1,Electrical Leads & Accessories,,,57,1
+GLST,CEME9016,1,Fans,,,39,1
+GLST,CEME9016,1,Lighting - Other,,,37,1
+GLST,CEME9016,1,Welders - Electric,,,50,1
+GLST,CEME9016,1,Air Hand Tools,,,38,1
+GLST,CEME9016,1,Chain Blocks,,,45,1
+GLST,CEME9016,1,Miscellaneous - Tools,,,66,1
+GLST,CEME9016,1,Winches,,,44,1
+GLST,CEME9016,2,Air Accessories,Air Accessories,,36,0.654545
+GLST,CEME9016,2,Air Accessories,Electrical Leads & Accessories,,34,0.618182
+GLST,CEME9016,2,Air Accessories,Industrial Tools & Equipment,,36,0.654545
+GLST,CEME9016,2,Air Accessories,Miscellaneous - Tools,,35,0.636364
+GLST,CEME9016,2,Air Accessories,Power Tools & Accessories,,35,0.636364
+GLST,CEME9016,2,Air Accessories,Welders - Accessories,,31,0.563636
+GLST,CEME9016,3,Air Accessories,Air Accessories,Industrial Tools & Equipment,32,0.888889
+GLST,CEME9016,3,Air Accessories,Air Accessories,Power Tools & Accessories,32,0.888889
+GLST,CEME9016,3,Air Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,32,0.941176
+GLST,CEME9016,3,Air Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Air Accessories,Electrical Leads & Accessories,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Air Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,33,0.916667
+GLST,CEME9016,3,Air Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,34,0.944444
+GLST,CEME9016,3,Air Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,31,0.861111
+GLST,CEME9016,3,Air Accessories,Industrial Tools & Equipment,Power Tools & Accessories,33,0.916667
+GLST,CEME9016,3,Air Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,32,0.914286
+GLST,CEME9016,3,Air Accessories,Miscellaneous - Tools,Miscellaneous - Tools,33,0.942857
+GLST,CEME9016,3,Air Accessories,Miscellaneous - Tools,Power Tools & Accessories,32,0.914286
+GLST,CEME9016,3,Air Accessories,Power Tools & Accessories,Electrical Leads & Accessories,31,0.885714
+GLST,CEME9016,3,Air Accessories,Power Tools & Accessories,Industrial Tools & Equipment,33,0.942857
+GLST,CEME9016,3,Air Accessories,Power Tools & Accessories,Power Tools & Accessories,33,0.942857
+GLST,CEME9016,2,Power Tools & Accessories,Air Accessories,,33,0.5
+GLST,CEME9016,2,Power Tools & Accessories,Air Hand Tools,,32,0.484848
+GLST,CEME9016,2,Power Tools & Accessories,Chain Blocks,,42,0.636364
+GLST,CEME9016,2,Power Tools & Accessories,Electrical Leads & Accessories,,49,0.742424
+GLST,CEME9016,2,Power Tools & Accessories,Fans,,31,0.469697
+GLST,CEME9016,2,Power Tools & Accessories,Industrial Tools & Equipment,,57,0.863636
+GLST,CEME9016,2,Power Tools & Accessories,Jacking,,42,0.636364
+GLST,CEME9016,2,Power Tools & Accessories,Lighting - Other,,33,0.5
+GLST,CEME9016,2,Power Tools & Accessories,Miscellaneous - Tools,,55,0.833333
+GLST,CEME9016,2,Power Tools & Accessories,Power Tools & Accessories,,58,0.878788
+GLST,CEME9016,2,Power Tools & Accessories,Welders - Accessories,,46,0.69697
+GLST,CEME9016,2,Power Tools & Accessories,Welders - Electric,,46,0.69697
+GLST,CEME9016,2,Power Tools & Accessories,Welders - Motorised,,31,0.469697
+GLST,CEME9016,2,Power Tools & Accessories,Winches,,40,0.606061
+GLST,CEME9016,3,Power Tools & Accessories,Air Accessories,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Power Tools & Accessories,Air Accessories,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Power Tools & Accessories,Air Hand Tools,Miscellaneous - Tools,31,0.96875
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Air Hand Tools,31,0.54386
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Chain Blocks,39,0.684211
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,45,0.789474
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Fans,31,0.54386
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,54,0.947368
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Jacking,38,0.666667
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Lighting - Other,32,0.561404
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,51,0.894737
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,51,0.894737
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Accessories,41,0.719298
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Electric,42,0.736842
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Winches,36,0.631579
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Chain Blocks,34,0.809524
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Electrical Leads & Accessories,34,0.809524
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Industrial Tools & Equipment,41,0.97619
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Jacking,40,0.952381
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Miscellaneous - Tools,41,0.97619
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Power Tools & Accessories,41,0.97619
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Welders - Accessories,33,0.785714
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Welders - Electric,35,0.833333
+GLST,CEME9016,3,Power Tools & Accessories,Jacking,Winches,34,0.809524
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Chain Blocks,39,0.928571
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Electrical Leads & Accessories,35,0.833333
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Industrial Tools & Equipment,41,0.97619
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Jacking,35,0.833333
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Miscellaneous - Tools,41,0.97619
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Power Tools & Accessories,42,1
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Welders - Accessories,33,0.785714
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Welders - Electric,36,0.857143
+GLST,CEME9016,3,Power Tools & Accessories,Chain Blocks,Winches,32,0.761905
+GLST,CEME9016,3,Power Tools & Accessories,Lighting - Other,Electrical Leads & Accessories,31,0.939394
+GLST,CEME9016,3,Power Tools & Accessories,Lighting - Other,Industrial Tools & Equipment,33,1
+GLST,CEME9016,3,Power Tools & Accessories,Lighting - Other,Lighting - Other,31,0.939394
+GLST,CEME9016,3,Power Tools & Accessories,Lighting - Other,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Power Tools & Accessories,Lighting - Other,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Chain Blocks,37,0.755102
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,46,0.938776
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,47,0.959184
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Jacking,35,0.714286
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Lighting - Other,31,0.632653
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,45,0.918367
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,46,0.938776
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Accessories,38,0.77551
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Electric,39,0.795918
+GLST,CEME9016,3,Power Tools & Accessories,Electrical Leads & Accessories,Winches,34,0.693878
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Air Hand Tools,32,0.581818
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Chain Blocks,38,0.690909
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,41,0.745455
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Fans,31,0.563636
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,51,0.927273
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Jacking,38,0.690909
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Lighting - Other,32,0.581818
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,53,0.963636
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,51,0.927273
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Accessories,42,0.763636
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Electric,42,0.763636
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Winches,35,0.636364
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Air Accessories,31,0.534483
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Air Hand Tools,31,0.534483
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Chain Blocks,40,0.689655
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,45,0.775862
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,54,0.931034
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Jacking,41,0.706897
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Lighting - Other,33,0.568966
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,52,0.896552
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,55,0.948276
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,43,0.741379
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,45,0.775862
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Winches,38,0.655172
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Chain Blocks,36,0.782609
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Electrical Leads & Accessories,38,0.826087
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Industrial Tools & Equipment,42,0.913043
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Jacking,36,0.782609
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Lighting - Other,31,0.673913
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Miscellaneous - Tools,44,0.956522
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,42,0.913043
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,44,0.956522
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Welders - Electric,35,0.76087
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Accessories,Winches,32,0.695652
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Chain Blocks,33,0.717391
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Electrical Leads & Accessories,36,0.782609
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Industrial Tools & Equipment,43,0.934783
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Jacking,34,0.73913
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Miscellaneous - Tools,42,0.913043
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,43,0.934783
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Welders - Accessories,32,0.695652
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Welders - Electric,43,0.934783
+GLST,CEME9016,3,Power Tools & Accessories,Welders - Electric,Winches,33,0.717391
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Chain Blocks,31,0.775
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Electrical Leads & Accessories,32,0.8
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Industrial Tools & Equipment,39,0.975
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Jacking,34,0.85
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Miscellaneous - Tools,39,0.975
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Power Tools & Accessories,40,1
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Welders - Accessories,31,0.775
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Welders - Electric,36,0.9
+GLST,CEME9016,3,Power Tools & Accessories,Winches,Winches,36,0.9
+GLST,CEME9016,2,Welders - Motorised,Electrical Leads & Accessories,,33,0.6875
+GLST,CEME9016,2,Welders - Motorised,Industrial Tools & Equipment,,33,0.6875
+GLST,CEME9016,2,Welders - Motorised,Miscellaneous - Tools,,32,0.666667
+GLST,CEME9016,2,Welders - Motorised,Power Tools & Accessories,,34,0.708333
+GLST,CEME9016,2,Welders - Motorised,Welders - Accessories,,35,0.729167
+GLST,CEME9016,2,Welders - Motorised,Welders - Motorised,,32,0.666667
+GLST,CEME9016,3,Welders - Motorised,Electrical Leads & Accessories,Electrical Leads & Accessories,32,0.969697
+GLST,CEME9016,3,Welders - Motorised,Electrical Leads & Accessories,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Welders - Motorised,Electrical Leads & Accessories,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Welders - Motorised,Power Tools & Accessories,Electrical Leads & Accessories,31,0.911765
+GLST,CEME9016,3,Welders - Motorised,Power Tools & Accessories,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Welders - Motorised,Power Tools & Accessories,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Welders - Motorised,Welders - Accessories,Welders - Accessories,32,0.914286
+GLST,CEME9016,3,Welders - Motorised,Industrial Tools & Equipment,Electrical Leads & Accessories,32,0.969697
+GLST,CEME9016,3,Welders - Motorised,Industrial Tools & Equipment,Industrial Tools & Equipment,32,0.969697
+GLST,CEME9016,3,Welders - Motorised,Industrial Tools & Equipment,Power Tools & Accessories,32,0.969697
+GLST,CEME9016,3,Welders - Motorised,Miscellaneous - Tools,Industrial Tools & Equipment,31,0.96875
+GLST,CEME9016,3,Welders - Motorised,Miscellaneous - Tools,Miscellaneous - Tools,31,0.96875
+GLST,CEME9016,3,Welders - Motorised,Miscellaneous - Tools,Power Tools & Accessories,31,0.96875
+GLST,CEME9016,2,Industrial Tools & Equipment,Air Accessories,,34,0.523077
+GLST,CEME9016,2,Industrial Tools & Equipment,Air Hand Tools,,35,0.538462
+GLST,CEME9016,2,Industrial Tools & Equipment,Chain Blocks,,44,0.676923
+GLST,CEME9016,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,52,0.8
+GLST,CEME9016,2,Industrial Tools & Equipment,Fans,,34,0.523077
+GLST,CEME9016,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,60,0.923077
+GLST,CEME9016,2,Industrial Tools & Equipment,Jacking,,43,0.661538
+GLST,CEME9016,2,Industrial Tools & Equipment,Lighting - Other,,35,0.538462
+GLST,CEME9016,2,Industrial Tools & Equipment,Miscellaneous - Tools,,58,0.892308
+GLST,CEME9016,2,Industrial Tools & Equipment,Power Tools & Accessories,,58,0.892308
+GLST,CEME9016,2,Industrial Tools & Equipment,Welders - Accessories,,48,0.738462
+GLST,CEME9016,2,Industrial Tools & Equipment,Welders - Electric,,46,0.707692
+GLST,CEME9016,2,Industrial Tools & Equipment,Welders - Motorised,,32,0.492308
+GLST,CEME9016,2,Industrial Tools & Equipment,Winches,,41,0.630769
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Accessories,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Accessories,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Air Accessories,31,0.516667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Air Hand Tools,33,0.55
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Chain Blocks,41,0.683333
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,48,0.8
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Fans,32,0.533333
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,58,0.966667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Jacking,41,0.683333
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting - Other,34,0.566667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,55,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Accessories,43,0.716667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Electric,45,0.75
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Winches,38,0.633333
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Hand Tools,Air Hand Tools,32,0.914286
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Hand Tools,Industrial Tools & Equipment,34,0.971429
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Hand Tools,Miscellaneous - Tools,35,1
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Hand Tools,Power Tools & Accessories,34,0.971429
+GLST,CEME9016,3,Industrial Tools & Equipment,Air Hand Tools,Welders - Electric,31,0.885714
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Air Hand Tools,32,0.615385
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Chain Blocks,38,0.730769
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,48,0.923077
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,50,0.961538
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Jacking,37,0.711538
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Lighting - Other,32,0.615385
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,48,0.923077
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,49,0.942308
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Accessories,39,0.75
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Electric,41,0.788462
+GLST,CEME9016,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Winches,35,0.673077
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Chain Blocks,34,0.73913
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Electrical Leads & Accessories,37,0.804348
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,44,0.956522
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Jacking,35,0.76087
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Miscellaneous - Tools,43,0.934783
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Power Tools & Accessories,44,0.956522
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Welders - Accessories,32,0.695652
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Welders - Electric,44,0.956522
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Electric,Winches,34,0.73913
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Air Hand Tools,34,0.586207
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Chain Blocks,39,0.672414
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,45,0.775862
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Fans,32,0.551724
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,54,0.931034
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Jacking,40,0.689655
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting - Other,34,0.586207
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,56,0.965517
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,54,0.931034
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Accessories,44,0.758621
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Electric,44,0.758621
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Winches,37,0.637931
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Chain Blocks,41,0.931818
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Electrical Leads & Accessories,37,0.840909
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Industrial Tools & Equipment,43,0.977273
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Jacking,36,0.818182
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Lighting - Other,31,0.704545
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Miscellaneous - Tools,43,0.977273
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Power Tools & Accessories,44,1
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Welders - Accessories,35,0.795455
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Welders - Electric,37,0.840909
+GLST,CEME9016,3,Industrial Tools & Equipment,Chain Blocks,Winches,33,0.75
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Chain Blocks,32,0.780488
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Electrical Leads & Accessories,33,0.804878
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,40,0.97561
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Jacking,35,0.853659
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,40,0.97561
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,41,1
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Welders - Accessories,32,0.780488
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Welders - Electric,36,0.878049
+GLST,CEME9016,3,Industrial Tools & Equipment,Winches,Winches,37,0.902439
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Chain Blocks,32,0.914286
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Electrical Leads & Accessories,33,0.942857
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Industrial Tools & Equipment,35,1
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Lighting - Other,33,0.942857
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Miscellaneous - Tools,34,0.971429
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Power Tools & Accessories,35,1
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Welders - Accessories,31,0.885714
+GLST,CEME9016,3,Industrial Tools & Equipment,Lighting - Other,Welders - Electric,31,0.885714
+GLST,CEME9016,3,Industrial Tools & Equipment,Fans,Electrical Leads & Accessories,31,0.911765
+GLST,CEME9016,3,Industrial Tools & Equipment,Fans,Fans,32,0.941176
+GLST,CEME9016,3,Industrial Tools & Equipment,Fans,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Industrial Tools & Equipment,Fans,Miscellaneous - Tools,33,0.970588
+GLST,CEME9016,3,Industrial Tools & Equipment,Fans,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Chain Blocks,34,0.790698
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Electrical Leads & Accessories,36,0.837209
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Industrial Tools & Equipment,42,0.976744
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Jacking,41,0.953488
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Miscellaneous - Tools,42,0.976744
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Power Tools & Accessories,42,0.976744
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Welders - Accessories,34,0.790698
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Welders - Electric,35,0.813953
+GLST,CEME9016,3,Industrial Tools & Equipment,Jacking,Winches,35,0.813953
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Air Accessories,31,0.534483
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Air Hand Tools,31,0.534483
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Chain Blocks,39,0.672414
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,46,0.793103
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,54,0.931034
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Jacking,40,0.689655
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Lighting - Other,33,0.568966
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,52,0.896552
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,55,0.948276
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Accessories,42,0.724138
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Electric,44,0.758621
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Winches,38,0.655172
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Air Hand Tools,31,0.645833
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Chain Blocks,37,0.770833
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Electrical Leads & Accessories,40,0.833333
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Industrial Tools & Equipment,44,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Jacking,37,0.770833
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Lighting - Other,32,0.666667
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Miscellaneous - Tools,46,0.958333
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Power Tools & Accessories,44,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Accessories,44,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Electric,36,0.75
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Accessories,Winches,33,0.6875
+GLST,CEME9016,3,Industrial Tools & Equipment,Welders - Motorised,Power Tools & Accessories,31,0.96875
+GLST,CEME9016,2,Welders - Accessories,Air Hand Tools,,32,0.507937
+GLST,CEME9016,2,Welders - Accessories,Chain Blocks,,38,0.603175
+GLST,CEME9016,2,Welders - Accessories,Electrical Leads & Accessories,,42,0.666667
+GLST,CEME9016,2,Welders - Accessories,Fans,,31,0.492063
+GLST,CEME9016,2,Welders - Accessories,Industrial Tools & Equipment,,46,0.730159
+GLST,CEME9016,2,Welders - Accessories,Jacking,,38,0.603175
+GLST,CEME9016,2,Welders - Accessories,Lighting - Other,,32,0.507937
+GLST,CEME9016,2,Welders - Accessories,Miscellaneous - Tools,,47,0.746032
+GLST,CEME9016,2,Welders - Accessories,Power Tools & Accessories,,46,0.730159
+GLST,CEME9016,2,Welders - Accessories,Welders - Accessories,,49,0.777778
+GLST,CEME9016,2,Welders - Accessories,Welders - Electric,,37,0.587302
+GLST,CEME9016,2,Welders - Accessories,Winches,,33,0.52381
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Chain Blocks,37,0.973684
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Electrical Leads & Accessories,34,0.894737
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Industrial Tools & Equipment,38,1
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Jacking,34,0.894737
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Miscellaneous - Tools,37,0.973684
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Power Tools & Accessories,38,1
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Welders - Accessories,32,0.842105
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Welders - Electric,33,0.868421
+GLST,CEME9016,3,Welders - Accessories,Chain Blocks,Winches,31,0.815789
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Chain Blocks,32,0.761905
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,41,0.97619
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,40,0.952381
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Jacking,34,0.809524
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,37,0.880952
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,39,0.928571
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Accessories,34,0.809524
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Electric,33,0.785714
+GLST,CEME9016,3,Welders - Accessories,Electrical Leads & Accessories,Winches,31,0.738095
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Chain Blocks,35,0.76087
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,40,0.869565
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,45,0.978261
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Jacking,37,0.804348
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.913043
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,43,0.934783
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Accessories,39,0.847826
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Electric,35,0.76087
+GLST,CEME9016,3,Welders - Accessories,Industrial Tools & Equipment,Winches,33,0.717391
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Air Hand Tools,32,0.680851
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Chain Blocks,37,0.787234
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,38,0.808511
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,45,0.957447
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Jacking,39,0.829787
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Lighting - Other,32,0.680851
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,46,0.978723
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Power Tools & Accessories,44,0.93617
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Welders - Accessories,41,0.87234
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Welders - Electric,38,0.808511
+GLST,CEME9016,3,Welders - Accessories,Miscellaneous - Tools,Winches,34,0.723404
+GLST,CEME9016,3,Welders - Accessories,Jacking,Chain Blocks,32,0.842105
+GLST,CEME9016,3,Welders - Accessories,Jacking,Electrical Leads & Accessories,33,0.868421
+GLST,CEME9016,3,Welders - Accessories,Jacking,Industrial Tools & Equipment,37,0.973684
+GLST,CEME9016,3,Welders - Accessories,Jacking,Jacking,38,1
+GLST,CEME9016,3,Welders - Accessories,Jacking,Miscellaneous - Tools,37,0.973684
+GLST,CEME9016,3,Welders - Accessories,Jacking,Power Tools & Accessories,37,0.973684
+GLST,CEME9016,3,Welders - Accessories,Jacking,Welders - Accessories,33,0.868421
+GLST,CEME9016,3,Welders - Accessories,Jacking,Welders - Electric,32,0.842105
+GLST,CEME9016,3,Welders - Accessories,Jacking,Winches,32,0.842105
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Chain Blocks,35,0.76087
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Electrical Leads & Accessories,38,0.826087
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,43,0.934783
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Jacking,37,0.804348
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Miscellaneous - Tools,41,0.891304
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,44,0.956522
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Welders - Accessories,38,0.826087
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Welders - Electric,36,0.782609
+GLST,CEME9016,3,Welders - Accessories,Power Tools & Accessories,Winches,33,0.717391
+GLST,CEME9016,3,Welders - Accessories,Lighting - Other,Industrial Tools & Equipment,32,1
+GLST,CEME9016,3,Welders - Accessories,Lighting - Other,Miscellaneous - Tools,31,0.96875
+GLST,CEME9016,3,Welders - Accessories,Lighting - Other,Power Tools & Accessories,32,1
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Air Hand Tools,31,0.632653
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Chain Blocks,36,0.734694
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Electrical Leads & Accessories,39,0.795918
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Industrial Tools & Equipment,43,0.877551
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Jacking,37,0.755102
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Lighting - Other,32,0.653061
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Miscellaneous - Tools,44,0.897959
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Power Tools & Accessories,42,0.857143
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,45,0.918367
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Welders - Electric,36,0.734694
+GLST,CEME9016,3,Welders - Accessories,Welders - Accessories,Winches,33,0.673469
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Chain Blocks,31,0.837838
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Electrical Leads & Accessories,33,0.891892
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Industrial Tools & Equipment,36,0.972973
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Jacking,32,0.864865
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Miscellaneous - Tools,35,0.945946
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Power Tools & Accessories,36,0.972973
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Welders - Accessories,31,0.837838
+GLST,CEME9016,3,Welders - Accessories,Welders - Electric,Welders - Electric,36,0.972973
+GLST,CEME9016,3,Welders - Accessories,Winches,Industrial Tools & Equipment,33,1
+GLST,CEME9016,3,Welders - Accessories,Winches,Jacking,31,0.939394
+GLST,CEME9016,3,Welders - Accessories,Winches,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Welders - Accessories,Winches,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Welders - Accessories,Winches,Winches,33,1
+GLST,CEME9016,2,Jacking,Chain Blocks,,35,0.777778
+GLST,CEME9016,2,Jacking,Electrical Leads & Accessories,,36,0.8
+GLST,CEME9016,2,Jacking,Industrial Tools & Equipment,,43,0.955556
+GLST,CEME9016,2,Jacking,Jacking,,42,0.933333
+GLST,CEME9016,2,Jacking,Miscellaneous - Tools,,43,0.955556
+GLST,CEME9016,2,Jacking,Power Tools & Accessories,,43,0.955556
+GLST,CEME9016,2,Jacking,Welders - Accessories,,35,0.777778
+GLST,CEME9016,2,Jacking,Welders - Electric,,36,0.8
+GLST,CEME9016,2,Jacking,Winches,,35,0.777778
+GLST,CEME9016,3,Jacking,Chain Blocks,Chain Blocks,33,0.942857
+GLST,CEME9016,3,Jacking,Chain Blocks,Industrial Tools & Equipment,35,1
+GLST,CEME9016,3,Jacking,Chain Blocks,Jacking,31,0.885714
+GLST,CEME9016,3,Jacking,Chain Blocks,Miscellaneous - Tools,34,0.971429
+GLST,CEME9016,3,Jacking,Chain Blocks,Power Tools & Accessories,35,1
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Chain Blocks,32,0.744186
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Electrical Leads & Accessories,33,0.767442
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Industrial Tools & Equipment,41,0.953488
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Jacking,34,0.790698
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Miscellaneous - Tools,40,0.930233
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Power Tools & Accessories,42,0.976744
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Welders - Accessories,31,0.72093
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Welders - Electric,35,0.813953
+GLST,CEME9016,3,Jacking,Power Tools & Accessories,Winches,33,0.767442
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Electrical Leads & Accessories,34,0.944444
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Industrial Tools & Equipment,36,1
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Jacking,31,0.861111
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Miscellaneous - Tools,34,0.944444
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Power Tools & Accessories,35,0.972222
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Welders - Electric,31,0.861111
+GLST,CEME9016,3,Jacking,Electrical Leads & Accessories,Winches,31,0.861111
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Chain Blocks,32,0.744186
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Electrical Leads & Accessories,33,0.767442
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Industrial Tools & Equipment,41,0.953488
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Jacking,34,0.790698
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,42,0.976744
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Power Tools & Accessories,41,0.953488
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Welders - Accessories,32,0.744186
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Welders - Electric,35,0.813953
+GLST,CEME9016,3,Jacking,Miscellaneous - Tools,Winches,31,0.72093
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Chain Blocks,32,0.744186
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Electrical Leads & Accessories,34,0.790698
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Industrial Tools & Equipment,42,0.976744
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Jacking,34,0.790698
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.930233
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Power Tools & Accessories,41,0.953488
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Welders - Accessories,31,0.72093
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Welders - Electric,35,0.813953
+GLST,CEME9016,3,Jacking,Industrial Tools & Equipment,Winches,32,0.744186
+GLST,CEME9016,3,Jacking,Winches,Industrial Tools & Equipment,35,1
+GLST,CEME9016,3,Jacking,Winches,Jacking,31,0.885714
+GLST,CEME9016,3,Jacking,Winches,Miscellaneous - Tools,34,0.971429
+GLST,CEME9016,3,Jacking,Winches,Power Tools & Accessories,35,1
+GLST,CEME9016,3,Jacking,Winches,Welders - Electric,32,0.914286
+GLST,CEME9016,3,Jacking,Winches,Winches,33,0.942857
+GLST,CEME9016,3,Jacking,Jacking,Chain Blocks,33,0.785714
+GLST,CEME9016,3,Jacking,Jacking,Electrical Leads & Accessories,34,0.809524
+GLST,CEME9016,3,Jacking,Jacking,Industrial Tools & Equipment,41,0.97619
+GLST,CEME9016,3,Jacking,Jacking,Jacking,40,0.952381
+GLST,CEME9016,3,Jacking,Jacking,Miscellaneous - Tools,41,0.97619
+GLST,CEME9016,3,Jacking,Jacking,Power Tools & Accessories,41,0.97619
+GLST,CEME9016,3,Jacking,Jacking,Welders - Accessories,33,0.785714
+GLST,CEME9016,3,Jacking,Jacking,Welders - Electric,35,0.833333
+GLST,CEME9016,3,Jacking,Jacking,Winches,34,0.809524
+GLST,CEME9016,3,Jacking,Welders - Accessories,Chain Blocks,31,0.885714
+GLST,CEME9016,3,Jacking,Welders - Accessories,Electrical Leads & Accessories,31,0.885714
+GLST,CEME9016,3,Jacking,Welders - Accessories,Industrial Tools & Equipment,34,0.971429
+GLST,CEME9016,3,Jacking,Welders - Accessories,Jacking,31,0.885714
+GLST,CEME9016,3,Jacking,Welders - Accessories,Miscellaneous - Tools,35,1
+GLST,CEME9016,3,Jacking,Welders - Accessories,Power Tools & Accessories,34,0.971429
+GLST,CEME9016,3,Jacking,Welders - Accessories,Welders - Accessories,33,0.942857
+GLST,CEME9016,3,Jacking,Welders - Electric,Industrial Tools & Equipment,36,1
+GLST,CEME9016,3,Jacking,Welders - Electric,Miscellaneous - Tools,35,0.972222
+GLST,CEME9016,3,Jacking,Welders - Electric,Power Tools & Accessories,36,1
+GLST,CEME9016,3,Jacking,Welders - Electric,Welders - Electric,35,0.972222
+GLST,CEME9016,2,Electrical Leads & Accessories,Air Accessories,,32,0.561404
+GLST,CEME9016,2,Electrical Leads & Accessories,Air Hand Tools,,34,0.596491
+GLST,CEME9016,2,Electrical Leads & Accessories,Chain Blocks,,40,0.701754
+GLST,CEME9016,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,53,0.929825
+GLST,CEME9016,2,Electrical Leads & Accessories,Fans,,31,0.54386
+GLST,CEME9016,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,53,0.929825
+GLST,CEME9016,2,Electrical Leads & Accessories,Jacking,,38,0.666667
+GLST,CEME9016,2,Electrical Leads & Accessories,Lighting - Other,,33,0.578947
+GLST,CEME9016,2,Electrical Leads & Accessories,Miscellaneous - Tools,,51,0.894737
+GLST,CEME9016,2,Electrical Leads & Accessories,Power Tools & Accessories,,50,0.877193
+GLST,CEME9016,2,Electrical Leads & Accessories,Welders - Accessories,,43,0.754386
+GLST,CEME9016,2,Electrical Leads & Accessories,Welders - Electric,,41,0.719298
+GLST,CEME9016,2,Electrical Leads & Accessories,Welders - Motorised,,34,0.596491
+GLST,CEME9016,2,Electrical Leads & Accessories,Winches,,38,0.666667
+GLST,CEME9016,3,Electrical Leads & Accessories,Air Accessories,Industrial Tools & Equipment,31,0.96875
+GLST,CEME9016,3,Electrical Leads & Accessories,Air Accessories,Power Tools & Accessories,31,0.96875
+GLST,CEME9016,3,Electrical Leads & Accessories,Lighting - Other,Chain Blocks,31,0.939394
+GLST,CEME9016,3,Electrical Leads & Accessories,Lighting - Other,Electrical Leads & Accessories,31,0.939394
+GLST,CEME9016,3,Electrical Leads & Accessories,Lighting - Other,Industrial Tools & Equipment,33,1
+GLST,CEME9016,3,Electrical Leads & Accessories,Lighting - Other,Lighting - Other,31,0.939394
+GLST,CEME9016,3,Electrical Leads & Accessories,Lighting - Other,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Electrical Leads & Accessories,Lighting - Other,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Chain Blocks,32,0.842105
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Electrical Leads & Accessories,33,0.868421
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Industrial Tools & Equipment,37,0.973684
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Jacking,36,0.947368
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Miscellaneous - Tools,37,0.973684
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Power Tools & Accessories,38,1
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Welders - Accessories,31,0.815789
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Welders - Electric,32,0.842105
+GLST,CEME9016,3,Electrical Leads & Accessories,Jacking,Winches,33,0.868421
+GLST,CEME9016,3,Electrical Leads & Accessories,Air Hand Tools,Air Hand Tools,31,0.911765
+GLST,CEME9016,3,Electrical Leads & Accessories,Air Hand Tools,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Electrical Leads & Accessories,Air Hand Tools,Miscellaneous - Tools,33,0.970588
+GLST,CEME9016,3,Electrical Leads & Accessories,Air Hand Tools,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Chain Blocks,37,0.925
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Electrical Leads & Accessories,34,0.85
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Industrial Tools & Equipment,39,0.975
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Jacking,34,0.85
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Miscellaneous - Tools,39,0.975
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Power Tools & Accessories,40,1
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Welders - Accessories,33,0.825
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Welders - Electric,34,0.85
+GLST,CEME9016,3,Electrical Leads & Accessories,Chain Blocks,Winches,31,0.775
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Air Hand Tools,34,0.641509
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Chain Blocks,38,0.716981
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,45,0.849057
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Fans,32,0.603774
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,52,0.981132
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Jacking,37,0.698113
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Lighting - Other,32,0.603774
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,49,0.924528
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,50,0.943396
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Accessories,41,0.773585
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Electric,39,0.735849
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Winches,36,0.679245
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Air Hand Tools,33,0.622642
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Chain Blocks,38,0.716981
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,49,0.924528
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,50,0.943396
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Jacking,38,0.716981
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Lighting - Other,33,0.622642
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,48,0.90566
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,49,0.924528
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Accessories,41,0.773585
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Electric,40,0.754717
+GLST,CEME9016,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Winches,36,0.679245
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Air Hand Tools,36,0.705882
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Chain Blocks,36,0.705882
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,41,0.803922
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Fans,32,0.627451
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,48,0.941176
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Jacking,36,0.705882
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Lighting - Other,32,0.627451
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,50,0.980392
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,49,0.960784
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Accessories,42,0.823529
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Electric,38,0.745098
+GLST,CEME9016,3,Electrical Leads & Accessories,Miscellaneous - Tools,Winches,35,0.686275
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Air Hand Tools,31,0.62
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Chain Blocks,36,0.72
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,42,0.84
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,48,0.96
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Jacking,36,0.72
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,46,0.92
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,49,0.98
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Accessories,39,0.78
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Electric,39,0.78
+GLST,CEME9016,3,Electrical Leads & Accessories,Power Tools & Accessories,Winches,35,0.7
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Air Hand Tools,32,0.744186
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Chain Blocks,32,0.744186
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Electrical Leads & Accessories,36,0.837209
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Industrial Tools & Equipment,38,0.883721
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Jacking,32,0.744186
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Miscellaneous - Tools,40,0.930233
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Power Tools & Accessories,39,0.906977
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Accessories,41,0.953488
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Electric,32,0.744186
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Chain Blocks,32,0.780488
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Electrical Leads & Accessories,34,0.829268
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Industrial Tools & Equipment,40,0.97561
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Jacking,32,0.780488
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Miscellaneous - Tools,39,0.95122
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Power Tools & Accessories,40,0.97561
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Welders - Accessories,32,0.780488
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Welders - Electric,39,0.95122
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Electric,Winches,32,0.780488
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Motorised,Electrical Leads & Accessories,31,0.911765
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Motorised,Industrial Tools & Equipment,31,0.911765
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Motorised,Miscellaneous - Tools,31,0.911765
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Motorised,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Electrical Leads & Accessories,Welders - Motorised,Welders - Accessories,32,0.941176
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Chain Blocks,32,0.842105
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Electrical Leads & Accessories,31,0.815789
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Industrial Tools & Equipment,37,0.973684
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Jacking,32,0.842105
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Miscellaneous - Tools,37,0.973684
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Power Tools & Accessories,38,1
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Welders - Accessories,31,0.815789
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Welders - Electric,33,0.868421
+GLST,CEME9016,3,Electrical Leads & Accessories,Winches,Winches,35,0.921053
+GLST,CEME9016,2,Fans,Electrical Leads & Accessories,,33,0.846154
+GLST,CEME9016,2,Fans,Fans,,33,0.846154
+GLST,CEME9016,2,Fans,Industrial Tools & Equipment,,33,0.846154
+GLST,CEME9016,2,Fans,Miscellaneous - Tools,,34,0.871795
+GLST,CEME9016,2,Fans,Power Tools & Accessories,,32,0.820513
+GLST,CEME9016,2,Fans,Welders - Accessories,,31,0.794872
+GLST,CEME9016,3,Fans,Electrical Leads & Accessories,Electrical Leads & Accessories,32,0.969697
+GLST,CEME9016,3,Fans,Electrical Leads & Accessories,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Fans,Electrical Leads & Accessories,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Fans,Miscellaneous - Tools,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Fans,Miscellaneous - Tools,Miscellaneous - Tools,33,0.970588
+GLST,CEME9016,3,Fans,Miscellaneous - Tools,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Fans,Miscellaneous - Tools,Welders - Accessories,31,0.911765
+GLST,CEME9016,3,Fans,Power Tools & Accessories,Industrial Tools & Equipment,31,0.96875
+GLST,CEME9016,3,Fans,Power Tools & Accessories,Power Tools & Accessories,31,0.96875
+GLST,CEME9016,3,Fans,Fans,Miscellaneous - Tools,31,0.939394
+GLST,CEME9016,3,Fans,Industrial Tools & Equipment,Electrical Leads & Accessories,31,0.939394
+GLST,CEME9016,3,Fans,Industrial Tools & Equipment,Industrial Tools & Equipment,32,0.969697
+GLST,CEME9016,3,Fans,Industrial Tools & Equipment,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,2,Lighting - Other,Chain Blocks,,33,0.891892
+GLST,CEME9016,2,Lighting - Other,Electrical Leads & Accessories,,35,0.945946
+GLST,CEME9016,2,Lighting - Other,Industrial Tools & Equipment,,36,0.972973
+GLST,CEME9016,2,Lighting - Other,Lighting - Other,,33,0.891892
+GLST,CEME9016,2,Lighting - Other,Miscellaneous - Tools,,35,0.945946
+GLST,CEME9016,2,Lighting - Other,Power Tools & Accessories,,36,0.972973
+GLST,CEME9016,2,Lighting - Other,Welders - Accessories,,33,0.891892
+GLST,CEME9016,2,Lighting - Other,Welders - Electric,,31,0.837838
+GLST,CEME9016,2,Lighting - Other,Winches,,31,0.837838
+GLST,CEME9016,3,Lighting - Other,Chain Blocks,Chain Blocks,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Chain Blocks,Industrial Tools & Equipment,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Chain Blocks,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Chain Blocks,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Lighting - Other,Chain Blocks,Welders - Electric,31,0.939394
+GLST,CEME9016,3,Lighting - Other,Winches,Power Tools & Accessories,31,1
+GLST,CEME9016,3,Lighting - Other,Electrical Leads & Accessories,Electrical Leads & Accessories,33,0.942857
+GLST,CEME9016,3,Lighting - Other,Electrical Leads & Accessories,Industrial Tools & Equipment,33,0.942857
+GLST,CEME9016,3,Lighting - Other,Electrical Leads & Accessories,Miscellaneous - Tools,31,0.885714
+GLST,CEME9016,3,Lighting - Other,Electrical Leads & Accessories,Power Tools & Accessories,33,0.942857
+GLST,CEME9016,3,Lighting - Other,Industrial Tools & Equipment,Electrical Leads & Accessories,35,0.972222
+GLST,CEME9016,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,35,0.972222
+GLST,CEME9016,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,32,0.888889
+GLST,CEME9016,3,Lighting - Other,Industrial Tools & Equipment,Power Tools & Accessories,34,0.944444
+GLST,CEME9016,3,Lighting - Other,Welders - Accessories,Electrical Leads & Accessories,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Welders - Accessories,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Lighting - Other,Welders - Accessories,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Welders - Accessories,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Lighting - Other,Welders - Accessories,Welders - Accessories,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Lighting - Other,Electrical Leads & Accessories,31,0.939394
+GLST,CEME9016,3,Lighting - Other,Lighting - Other,Industrial Tools & Equipment,33,1
+GLST,CEME9016,3,Lighting - Other,Lighting - Other,Lighting - Other,31,0.939394
+GLST,CEME9016,3,Lighting - Other,Lighting - Other,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Lighting - Other,Lighting - Other,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Lighting - Other,Miscellaneous - Tools,Electrical Leads & Accessories,33,0.942857
+GLST,CEME9016,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,34,0.971429
+GLST,CEME9016,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,35,1
+GLST,CEME9016,3,Lighting - Other,Miscellaneous - Tools,Power Tools & Accessories,34,0.971429
+GLST,CEME9016,3,Lighting - Other,Miscellaneous - Tools,Welders - Accessories,31,0.885714
+GLST,CEME9016,3,Lighting - Other,Miscellaneous - Tools,Welders - Electric,31,0.885714
+GLST,CEME9016,3,Lighting - Other,Power Tools & Accessories,Electrical Leads & Accessories,34,0.944444
+GLST,CEME9016,3,Lighting - Other,Power Tools & Accessories,Industrial Tools & Equipment,35,0.972222
+GLST,CEME9016,3,Lighting - Other,Power Tools & Accessories,Miscellaneous - Tools,32,0.888889
+GLST,CEME9016,3,Lighting - Other,Power Tools & Accessories,Power Tools & Accessories,35,0.972222
+GLST,CEME9016,3,Lighting - Other,Power Tools & Accessories,Welders - Electric,31,0.861111
+GLST,CEME9016,3,Lighting - Other,Welders - Electric,Industrial Tools & Equipment,31,1
+GLST,CEME9016,3,Lighting - Other,Welders - Electric,Power Tools & Accessories,31,1
+GLST,CEME9016,3,Lighting - Other,Welders - Electric,Welders - Electric,31,1
+GLST,CEME9016,2,Welders - Electric,Chain Blocks,,36,0.72
+GLST,CEME9016,2,Welders - Electric,Electrical Leads & Accessories,,40,0.8
+GLST,CEME9016,2,Welders - Electric,Industrial Tools & Equipment,,46,0.92
+GLST,CEME9016,2,Welders - Electric,Jacking,,36,0.72
+GLST,CEME9016,2,Welders - Electric,Miscellaneous - Tools,,45,0.9
+GLST,CEME9016,2,Welders - Electric,Power Tools & Accessories,,46,0.92
+GLST,CEME9016,2,Welders - Electric,Welders - Accessories,,36,0.72
+GLST,CEME9016,2,Welders - Electric,Welders - Electric,,45,0.9
+GLST,CEME9016,2,Welders - Electric,Winches,,36,0.72
+GLST,CEME9016,3,Welders - Electric,Chain Blocks,Chain Blocks,33,0.916667
+GLST,CEME9016,3,Welders - Electric,Chain Blocks,Industrial Tools & Equipment,35,0.972222
+GLST,CEME9016,3,Welders - Electric,Chain Blocks,Jacking,31,0.861111
+GLST,CEME9016,3,Welders - Electric,Chain Blocks,Miscellaneous - Tools,35,0.972222
+GLST,CEME9016,3,Welders - Electric,Chain Blocks,Power Tools & Accessories,36,1
+GLST,CEME9016,3,Welders - Electric,Chain Blocks,Welders - Electric,32,0.888889
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Chain Blocks,31,0.775
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Electrical Leads & Accessories,37,0.925
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Industrial Tools & Equipment,38,0.95
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Jacking,31,0.775
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Miscellaneous - Tools,37,0.925
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Power Tools & Accessories,39,0.975
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Welders - Accessories,31,0.775
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Welders - Electric,36,0.9
+GLST,CEME9016,3,Welders - Electric,Electrical Leads & Accessories,Winches,31,0.775
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Chain Blocks,31,0.673913
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Electrical Leads & Accessories,35,0.76087
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,43,0.934783
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Jacking,33,0.717391
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,41,0.891304
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,42,0.913043
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Welders - Accessories,32,0.695652
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Welders - Electric,37,0.804348
+GLST,CEME9016,3,Welders - Electric,Industrial Tools & Equipment,Winches,32,0.695652
+GLST,CEME9016,3,Welders - Electric,Jacking,Industrial Tools & Equipment,35,0.972222
+GLST,CEME9016,3,Welders - Electric,Jacking,Jacking,34,0.944444
+GLST,CEME9016,3,Welders - Electric,Jacking,Miscellaneous - Tools,35,0.972222
+GLST,CEME9016,3,Welders - Electric,Jacking,Power Tools & Accessories,36,1
+GLST,CEME9016,3,Welders - Electric,Jacking,Welders - Electric,31,0.861111
+GLST,CEME9016,3,Welders - Electric,Jacking,Winches,31,0.861111
+GLST,CEME9016,3,Welders - Electric,Winches,Industrial Tools & Equipment,35,0.972222
+GLST,CEME9016,3,Welders - Electric,Winches,Miscellaneous - Tools,35,0.972222
+GLST,CEME9016,3,Welders - Electric,Winches,Power Tools & Accessories,36,1
+GLST,CEME9016,3,Welders - Electric,Winches,Welders - Electric,32,0.888889
+GLST,CEME9016,3,Welders - Electric,Winches,Winches,32,0.888889
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Electrical Leads & Accessories,33,0.733333
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,41,0.911111
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Jacking,32,0.711111
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,43,0.955556
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,42,0.933333
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Welders - Accessories,32,0.711111
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Welders - Electric,37,0.822222
+GLST,CEME9016,3,Welders - Electric,Miscellaneous - Tools,Winches,31,0.688889
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Chain Blocks,31,0.673913
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Electrical Leads & Accessories,35,0.76087
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,42,0.913043
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Jacking,34,0.73913
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,41,0.891304
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,43,0.934783
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Welders - Accessories,32,0.695652
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Welders - Electric,38,0.826087
+GLST,CEME9016,3,Welders - Electric,Power Tools & Accessories,Winches,33,0.717391
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Chain Blocks,34,0.755556
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Electrical Leads & Accessories,36,0.8
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Industrial Tools & Equipment,43,0.955556
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Jacking,34,0.755556
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Miscellaneous - Tools,42,0.933333
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Power Tools & Accessories,43,0.955556
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Welders - Accessories,31,0.688889
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Welders - Electric,43,0.955556
+GLST,CEME9016,3,Welders - Electric,Welders - Electric,Winches,33,0.733333
+GLST,CEME9016,3,Welders - Electric,Welders - Accessories,Industrial Tools & Equipment,32,0.888889
+GLST,CEME9016,3,Welders - Electric,Welders - Accessories,Miscellaneous - Tools,34,0.944444
+GLST,CEME9016,3,Welders - Electric,Welders - Accessories,Power Tools & Accessories,33,0.916667
+GLST,CEME9016,3,Welders - Electric,Welders - Accessories,Welders - Accessories,33,0.916667
+GLST,CEME9016,2,Air Hand Tools,Air Hand Tools,,33,0.868421
+GLST,CEME9016,2,Air Hand Tools,Industrial Tools & Equipment,,35,0.921053
+GLST,CEME9016,2,Air Hand Tools,Miscellaneous - Tools,,35,0.921053
+GLST,CEME9016,2,Air Hand Tools,Power Tools & Accessories,,34,0.894737
+GLST,CEME9016,2,Air Hand Tools,Welders - Accessories,,32,0.842105
+GLST,CEME9016,2,Air Hand Tools,Welders - Electric,,31,0.815789
+GLST,CEME9016,3,Air Hand Tools,Air Hand Tools,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Air Hand Tools,Air Hand Tools,Miscellaneous - Tools,31,0.939394
+GLST,CEME9016,3,Air Hand Tools,Power Tools & Accessories,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Air Hand Tools,Power Tools & Accessories,Power Tools & Accessories,32,0.941176
+GLST,CEME9016,3,Air Hand Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,33,0.942857
+GLST,CEME9016,3,Air Hand Tools,Industrial Tools & Equipment,Miscellaneous - Tools,31,0.885714
+GLST,CEME9016,3,Air Hand Tools,Industrial Tools & Equipment,Power Tools & Accessories,33,0.942857
+GLST,CEME9016,3,Air Hand Tools,Miscellaneous - Tools,Industrial Tools & Equipment,33,0.942857
+GLST,CEME9016,3,Air Hand Tools,Miscellaneous - Tools,Miscellaneous - Tools,33,0.942857
+GLST,CEME9016,3,Air Hand Tools,Miscellaneous - Tools,Power Tools & Accessories,33,0.942857
+GLST,CEME9016,3,Air Hand Tools,Miscellaneous - Tools,Welders - Electric,31,0.885714
+GLST,CEME9016,2,Chain Blocks,Chain Blocks,,41,0.911111
+GLST,CEME9016,2,Chain Blocks,Electrical Leads & Accessories,,38,0.844444
+GLST,CEME9016,2,Chain Blocks,Industrial Tools & Equipment,,44,0.977778
+GLST,CEME9016,2,Chain Blocks,Jacking,,36,0.8
+GLST,CEME9016,2,Chain Blocks,Lighting - Other,,31,0.688889
+GLST,CEME9016,2,Chain Blocks,Miscellaneous - Tools,,43,0.955556
+GLST,CEME9016,2,Chain Blocks,Power Tools & Accessories,,44,0.977778
+GLST,CEME9016,2,Chain Blocks,Welders - Accessories,,36,0.8
+GLST,CEME9016,2,Chain Blocks,Welders - Electric,,37,0.822222
+GLST,CEME9016,2,Chain Blocks,Winches,,33,0.733333
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Chain Blocks,39,0.95122
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Electrical Leads & Accessories,35,0.853659
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Industrial Tools & Equipment,41,1
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Jacking,36,0.878049
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Lighting - Other,31,0.756098
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Miscellaneous - Tools,40,0.97561
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Power Tools & Accessories,41,1
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Welders - Accessories,33,0.804878
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Welders - Electric,35,0.853659
+GLST,CEME9016,3,Chain Blocks,Chain Blocks,Winches,33,0.804878
+GLST,CEME9016,3,Chain Blocks,Electrical Leads & Accessories,Electrical Leads & Accessories,36,0.947368
+GLST,CEME9016,3,Chain Blocks,Electrical Leads & Accessories,Industrial Tools & Equipment,37,0.973684
+GLST,CEME9016,3,Chain Blocks,Electrical Leads & Accessories,Jacking,31,0.815789
+GLST,CEME9016,3,Chain Blocks,Electrical Leads & Accessories,Miscellaneous - Tools,34,0.894737
+GLST,CEME9016,3,Chain Blocks,Electrical Leads & Accessories,Power Tools & Accessories,37,0.973684
+GLST,CEME9016,3,Chain Blocks,Electrical Leads & Accessories,Welders - Electric,31,0.815789
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Chain Blocks,31,0.704545
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Electrical Leads & Accessories,35,0.795455
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Industrial Tools & Equipment,41,0.931818
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Jacking,34,0.772727
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Miscellaneous - Tools,39,0.886364
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Power Tools & Accessories,42,0.954545
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Welders - Accessories,33,0.75
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Welders - Electric,33,0.75
+GLST,CEME9016,3,Chain Blocks,Power Tools & Accessories,Winches,33,0.75
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Chain Blocks,32,0.727273
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Electrical Leads & Accessories,36,0.818182
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Industrial Tools & Equipment,42,0.954545
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Jacking,34,0.772727
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Miscellaneous - Tools,39,0.886364
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Power Tools & Accessories,42,0.954545
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Welders - Accessories,33,0.75
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Welders - Electric,33,0.75
+GLST,CEME9016,3,Chain Blocks,Industrial Tools & Equipment,Winches,33,0.75
+GLST,CEME9016,3,Chain Blocks,Lighting - Other,Industrial Tools & Equipment,31,1
+GLST,CEME9016,3,Chain Blocks,Lighting - Other,Power Tools & Accessories,31,1
+GLST,CEME9016,3,Chain Blocks,Welders - Accessories,Electrical Leads & Accessories,32,0.888889
+GLST,CEME9016,3,Chain Blocks,Welders - Accessories,Industrial Tools & Equipment,33,0.916667
+GLST,CEME9016,3,Chain Blocks,Welders - Accessories,Jacking,31,0.861111
+GLST,CEME9016,3,Chain Blocks,Welders - Accessories,Miscellaneous - Tools,34,0.944444
+GLST,CEME9016,3,Chain Blocks,Welders - Accessories,Power Tools & Accessories,34,0.944444
+GLST,CEME9016,3,Chain Blocks,Welders - Accessories,Welders - Accessories,34,0.944444
+GLST,CEME9016,3,Chain Blocks,Jacking,Chain Blocks,31,0.861111
+GLST,CEME9016,3,Chain Blocks,Jacking,Industrial Tools & Equipment,35,0.972222
+GLST,CEME9016,3,Chain Blocks,Jacking,Jacking,34,0.944444
+GLST,CEME9016,3,Chain Blocks,Jacking,Miscellaneous - Tools,35,0.972222
+GLST,CEME9016,3,Chain Blocks,Jacking,Power Tools & Accessories,36,1
+GLST,CEME9016,3,Chain Blocks,Jacking,Winches,32,0.888889
+GLST,CEME9016,3,Chain Blocks,Welders - Electric,Electrical Leads & Accessories,31,0.837838
+GLST,CEME9016,3,Chain Blocks,Welders - Electric,Industrial Tools & Equipment,36,0.972973
+GLST,CEME9016,3,Chain Blocks,Welders - Electric,Jacking,31,0.837838
+GLST,CEME9016,3,Chain Blocks,Welders - Electric,Miscellaneous - Tools,35,0.945946
+GLST,CEME9016,3,Chain Blocks,Welders - Electric,Power Tools & Accessories,36,0.972973
+GLST,CEME9016,3,Chain Blocks,Welders - Electric,Welders - Electric,35,0.945946
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Chain Blocks,32,0.744186
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Electrical Leads & Accessories,34,0.790698
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Industrial Tools & Equipment,40,0.930233
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Jacking,34,0.790698
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Miscellaneous - Tools,41,0.953488
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Power Tools & Accessories,41,0.953488
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Welders - Accessories,34,0.790698
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Welders - Electric,34,0.790698
+GLST,CEME9016,3,Chain Blocks,Miscellaneous - Tools,Winches,33,0.767442
+GLST,CEME9016,3,Chain Blocks,Winches,Industrial Tools & Equipment,33,1
+GLST,CEME9016,3,Chain Blocks,Winches,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Chain Blocks,Winches,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Chain Blocks,Winches,Winches,31,0.939394
+GLST,CEME9016,2,Miscellaneous - Tools,Air Accessories,,33,0.5
+GLST,CEME9016,2,Miscellaneous - Tools,Air Hand Tools,,36,0.545455
+GLST,CEME9016,2,Miscellaneous - Tools,Chain Blocks,,42,0.636364
+GLST,CEME9016,2,Miscellaneous - Tools,Electrical Leads & Accessories,,49,0.742424
+GLST,CEME9016,2,Miscellaneous - Tools,Fans,,33,0.5
+GLST,CEME9016,2,Miscellaneous - Tools,Industrial Tools & Equipment,,59,0.893939
+GLST,CEME9016,2,Miscellaneous - Tools,Jacking,,43,0.651515
+GLST,CEME9016,2,Miscellaneous - Tools,Lighting - Other,,35,0.530303
+GLST,CEME9016,2,Miscellaneous - Tools,Miscellaneous - Tools,,60,0.909091
+GLST,CEME9016,2,Miscellaneous - Tools,Power Tools & Accessories,,57,0.863636
+GLST,CEME9016,2,Miscellaneous - Tools,Welders - Accessories,,49,0.742424
+GLST,CEME9016,2,Miscellaneous - Tools,Welders - Electric,,46,0.69697
+GLST,CEME9016,2,Miscellaneous - Tools,Welders - Motorised,,33,0.5
+GLST,CEME9016,2,Miscellaneous - Tools,Winches,,40,0.606061
+GLST,CEME9016,3,Miscellaneous - Tools,Air Accessories,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Air Accessories,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Air Hand Tools,31,0.525424
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Chain Blocks,39,0.661017
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,48,0.813559
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Fans,33,0.559322
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,56,0.949153
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Jacking,41,0.694915
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting - Other,33,0.559322
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,53,0.898305
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,54,0.915254
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Accessories,45,0.762712
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Electric,42,0.711864
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Winches,38,0.644068
+GLST,CEME9016,3,Miscellaneous - Tools,Air Hand Tools,Air Hand Tools,32,0.888889
+GLST,CEME9016,3,Miscellaneous - Tools,Air Hand Tools,Industrial Tools & Equipment,34,0.944444
+GLST,CEME9016,3,Miscellaneous - Tools,Air Hand Tools,Miscellaneous - Tools,34,0.944444
+GLST,CEME9016,3,Miscellaneous - Tools,Air Hand Tools,Power Tools & Accessories,33,0.916667
+GLST,CEME9016,3,Miscellaneous - Tools,Air Hand Tools,Welders - Electric,31,0.861111
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Chain Blocks,40,0.952381
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Electrical Leads & Accessories,37,0.880952
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Industrial Tools & Equipment,42,1
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Jacking,35,0.833333
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Lighting - Other,31,0.738095
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Miscellaneous - Tools,41,0.97619
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Power Tools & Accessories,42,1
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Welders - Accessories,34,0.809524
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Welders - Electric,35,0.833333
+GLST,CEME9016,3,Miscellaneous - Tools,Chain Blocks,Winches,32,0.761905
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Chain Blocks,36,0.734694
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,48,0.979592
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,48,0.979592
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Jacking,36,0.734694
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Lighting - Other,31,0.632653
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,45,0.918367
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,47,0.959184
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Accessories,39,0.795918
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Electric,37,0.755102
+GLST,CEME9016,3,Miscellaneous - Tools,Electrical Leads & Accessories,Winches,34,0.693878
+GLST,CEME9016,3,Miscellaneous - Tools,Fans,Electrical Leads & Accessories,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Fans,Fans,32,0.969697
+GLST,CEME9016,3,Miscellaneous - Tools,Fans,Industrial Tools & Equipment,32,0.969697
+GLST,CEME9016,3,Miscellaneous - Tools,Fans,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Miscellaneous - Tools,Fans,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Air Hand Tools,35,0.583333
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Chain Blocks,41,0.683333
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,46,0.766667
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Fans,33,0.55
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,56,0.933333
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Jacking,42,0.7
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting - Other,35,0.583333
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,57,0.95
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,55,0.916667
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Accessories,46,0.766667
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,45,0.75
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Motorised,31,0.516667
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,38,0.633333
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Chain Blocks,34,0.790698
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Electrical Leads & Accessories,36,0.837209
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Industrial Tools & Equipment,42,0.976744
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Jacking,41,0.953488
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Miscellaneous - Tools,42,0.976744
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Power Tools & Accessories,42,0.976744
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Welders - Accessories,35,0.813953
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Welders - Electric,35,0.813953
+GLST,CEME9016,3,Miscellaneous - Tools,Jacking,Winches,34,0.790698
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Chain Blocks,32,0.914286
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Electrical Leads & Accessories,33,0.942857
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Industrial Tools & Equipment,35,1
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Lighting - Other,33,0.942857
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Miscellaneous - Tools,34,0.971429
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Power Tools & Accessories,35,1
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Welders - Accessories,31,0.885714
+GLST,CEME9016,3,Miscellaneous - Tools,Lighting - Other,Welders - Electric,31,0.885714
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Chain Blocks,38,0.666667
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,45,0.789474
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,53,0.929825
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Jacking,40,0.701754
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Lighting - Other,32,0.561404
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,51,0.894737
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,54,0.947368
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Accessories,43,0.754386
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Electric,43,0.754386
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Winches,37,0.649123
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Air Hand Tools,31,0.632653
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Chain Blocks,38,0.77551
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Electrical Leads & Accessories,41,0.836735
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Industrial Tools & Equipment,45,0.918367
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Jacking,38,0.77551
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Lighting - Other,32,0.653061
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Miscellaneous - Tools,46,0.938776
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Power Tools & Accessories,44,0.897959
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Welders - Accessories,47,0.959184
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Welders - Electric,37,0.755102
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Accessories,Winches,33,0.673469
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Chain Blocks,33,0.717391
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Electrical Leads & Accessories,37,0.804348
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,43,0.934783
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Jacking,35,0.76087
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,42,0.913043
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,43,0.934783
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Welders - Accessories,34,0.73913
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Welders - Electric,43,0.934783
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Electric,Winches,34,0.73913
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Motorised,Electrical Leads & Accessories,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Motorised,Industrial Tools & Equipment,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Motorised,Power Tools & Accessories,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Welders - Motorised,Welders - Accessories,31,0.939394
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Chain Blocks,32,0.8
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Electrical Leads & Accessories,34,0.85
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,40,1
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Jacking,35,0.875
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,39,0.975
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,40,1
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Welders - Accessories,32,0.8
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Welders - Electric,34,0.85
+GLST,CEME9016,3,Miscellaneous - Tools,Winches,Winches,37,0.925
+GLST,CEME9016,2,Winches,Chain Blocks,,33,0.75
+GLST,CEME9016,2,Winches,Electrical Leads & Accessories,,35,0.795455
+GLST,CEME9016,2,Winches,Industrial Tools & Equipment,,42,0.954545
+GLST,CEME9016,2,Winches,Jacking,,36,0.818182
+GLST,CEME9016,2,Winches,Miscellaneous - Tools,,41,0.931818
+GLST,CEME9016,2,Winches,Power Tools & Accessories,,42,0.954545
+GLST,CEME9016,2,Winches,Welders - Accessories,,34,0.772727
+GLST,CEME9016,2,Winches,Welders - Electric,,36,0.818182
+GLST,CEME9016,2,Winches,Winches,,38,0.863636
+GLST,CEME9016,3,Winches,Chain Blocks,Chain Blocks,31,0.939394
+GLST,CEME9016,3,Winches,Chain Blocks,Industrial Tools & Equipment,33,1
+GLST,CEME9016,3,Winches,Chain Blocks,Miscellaneous - Tools,32,0.969697
+GLST,CEME9016,3,Winches,Chain Blocks,Power Tools & Accessories,33,1
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Electrical Leads & Accessories,32,0.780488
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Industrial Tools & Equipment,38,0.926829
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Jacking,31,0.756098
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Miscellaneous - Tools,38,0.926829
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Power Tools & Accessories,37,0.902439
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Welders - Electric,34,0.829268
+GLST,CEME9016,3,Winches,Miscellaneous - Tools,Winches,31,0.756098
+GLST,CEME9016,3,Winches,Electrical Leads & Accessories,Electrical Leads & Accessories,33,0.942857
+GLST,CEME9016,3,Winches,Electrical Leads & Accessories,Industrial Tools & Equipment,34,0.971429
+GLST,CEME9016,3,Winches,Electrical Leads & Accessories,Miscellaneous - Tools,32,0.914286
+GLST,CEME9016,3,Winches,Electrical Leads & Accessories,Power Tools & Accessories,33,0.942857
+GLST,CEME9016,3,Winches,Winches,Electrical Leads & Accessories,31,0.815789
+GLST,CEME9016,3,Winches,Winches,Industrial Tools & Equipment,38,1
+GLST,CEME9016,3,Winches,Winches,Jacking,33,0.868421
+GLST,CEME9016,3,Winches,Winches,Miscellaneous - Tools,37,0.973684
+GLST,CEME9016,3,Winches,Winches,Power Tools & Accessories,38,1
+GLST,CEME9016,3,Winches,Winches,Welders - Electric,33,0.868421
+GLST,CEME9016,3,Winches,Winches,Winches,36,0.947368
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Electrical Leads & Accessories,34,0.809524
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Industrial Tools & Equipment,39,0.928571
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Jacking,32,0.761905
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Miscellaneous - Tools,37,0.880952
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Power Tools & Accessories,38,0.904762
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Welders - Electric,33,0.785714
+GLST,CEME9016,3,Winches,Industrial Tools & Equipment,Winches,32,0.761905
+GLST,CEME9016,3,Winches,Welders - Electric,Industrial Tools & Equipment,34,0.944444
+GLST,CEME9016,3,Winches,Welders - Electric,Miscellaneous - Tools,33,0.916667
+GLST,CEME9016,3,Winches,Welders - Electric,Power Tools & Accessories,34,0.944444
+GLST,CEME9016,3,Winches,Welders - Electric,Welders - Electric,34,0.944444
+GLST,CEME9016,3,Winches,Jacking,Electrical Leads & Accessories,31,0.861111
+GLST,CEME9016,3,Winches,Jacking,Industrial Tools & Equipment,36,1
+GLST,CEME9016,3,Winches,Jacking,Jacking,34,0.944444
+GLST,CEME9016,3,Winches,Jacking,Miscellaneous - Tools,35,0.972222
+GLST,CEME9016,3,Winches,Jacking,Power Tools & Accessories,35,0.972222
+GLST,CEME9016,3,Winches,Jacking,Winches,31,0.861111
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Electrical Leads & Accessories,33,0.785714
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Industrial Tools & Equipment,39,0.928571
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Jacking,32,0.761905
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Miscellaneous - Tools,37,0.880952
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Power Tools & Accessories,39,0.928571
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Welders - Electric,35,0.833333
+GLST,CEME9016,3,Winches,Power Tools & Accessories,Winches,32,0.761905
+GLST,CEME9016,3,Winches,Welders - Accessories,Electrical Leads & Accessories,31,0.911765
+GLST,CEME9016,3,Winches,Welders - Accessories,Industrial Tools & Equipment,32,0.941176
+GLST,CEME9016,3,Winches,Welders - Accessories,Miscellaneous - Tools,32,0.941176
+GLST,CEME9016,3,Winches,Welders - Accessories,Power Tools & Accessories,31,0.911765
+GLST,CEME9016,3,Winches,Welders - Accessories,Welders - Accessories,32,0.941176

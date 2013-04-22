@@ -1,0 +1,9 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+WARR,ORIG6000,1,Miscellaneous - Tools,,,36,1
+WARR,ORIG6000,1,Industrial Tools & Equipment,,,36,1
+WARR,ORIG6000,2,Miscellaneous - Tools,Industrial Tools & Equipment,,31,0.861111
+WARR,ORIG6000,2,Miscellaneous - Tools,Miscellaneous - Tools,,32,0.888889
+WARR,ORIG6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,31,0.96875
+WARR,ORIG6000,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,31,0.96875
+WARR,ORIG6000,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,31,0.861111
+WARR,ORIG6000,2,Industrial Tools & Equipment,Miscellaneous - Tools,,32,0.888889

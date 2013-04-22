@@ -1,0 +1,55 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+KART,WOOD6019,1,Bolting Tools,,,75,1
+KART,WOOD6019,1,Air Compressors - Diesel Small,,,31,1
+KART,WOOD6019,1,External Service,,,36,1
+KART,WOOD6019,1,Industrial Tools & Equipment,,,49,1
+KART,WOOD6019,1,Air Hand Tools,,,33,1
+KART,WOOD6019,1,Miscellaneous - Tools,,,42,1
+KART,WOOD6019,1,Electrical Leads & Accessories,,,38,1
+KART,WOOD6019,1,Lighting - Other,,,32,1
+KART,WOOD6019,2,Bolting Tools,Bolting Tools,,45,0.6
+KART,WOOD6019,2,Bolting Tools,Electrical Leads & Accessories,,33,0.44
+KART,WOOD6019,2,Bolting Tools,External Service,,31,0.413333
+KART,WOOD6019,2,Bolting Tools,Industrial Tools & Equipment,,38,0.506667
+KART,WOOD6019,2,Bolting Tools,Miscellaneous - Tools,,38,0.506667
+KART,WOOD6019,3,Bolting Tools,Bolting Tools,Bolting Tools,37,0.822222
+KART,WOOD6019,3,Bolting Tools,Bolting Tools,Industrial Tools & Equipment,36,0.8
+KART,WOOD6019,3,Bolting Tools,Bolting Tools,Miscellaneous - Tools,34,0.755556
+KART,WOOD6019,3,Bolting Tools,External Service,External Service,31,1
+KART,WOOD6019,3,Bolting Tools,Industrial Tools & Equipment,Bolting Tools,33,0.868421
+KART,WOOD6019,3,Bolting Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,34,0.894737
+KART,WOOD6019,3,Bolting Tools,Industrial Tools & Equipment,Miscellaneous - Tools,33,0.868421
+KART,WOOD6019,3,Bolting Tools,Miscellaneous - Tools,Bolting Tools,33,0.868421
+KART,WOOD6019,3,Bolting Tools,Miscellaneous - Tools,Industrial Tools & Equipment,34,0.894737
+KART,WOOD6019,3,Bolting Tools,Miscellaneous - Tools,Miscellaneous - Tools,33,0.868421
+KART,WOOD6019,2,Industrial Tools & Equipment,Bolting Tools,,39,0.795918
+KART,WOOD6019,2,Industrial Tools & Equipment,External Service,,31,0.632653
+KART,WOOD6019,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,37,0.755102
+KART,WOOD6019,2,Industrial Tools & Equipment,Miscellaneous - Tools,,36,0.734694
+KART,WOOD6019,3,Industrial Tools & Equipment,Bolting Tools,Bolting Tools,36,0.923077
+KART,WOOD6019,3,Industrial Tools & Equipment,Bolting Tools,Industrial Tools & Equipment,35,0.897436
+KART,WOOD6019,3,Industrial Tools & Equipment,Bolting Tools,Miscellaneous - Tools,34,0.871795
+KART,WOOD6019,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Bolting Tools,34,0.918919
+KART,WOOD6019,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,35,0.945946
+KART,WOOD6019,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,34,0.918919
+KART,WOOD6019,3,Industrial Tools & Equipment,Miscellaneous - Tools,Bolting Tools,34,0.944444
+KART,WOOD6019,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,35,0.972222
+KART,WOOD6019,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,34,0.944444
+KART,WOOD6019,2,External Service,Bolting Tools,,31,0.861111
+KART,WOOD6019,2,External Service,External Service,,35,0.972222
+KART,WOOD6019,3,External Service,External Service,Bolting Tools,31,0.885714
+KART,WOOD6019,3,External Service,External Service,External Service,34,0.971429
+KART,WOOD6019,2,Miscellaneous - Tools,Bolting Tools,,36,0.857143
+KART,WOOD6019,2,Miscellaneous - Tools,External Service,,31,0.738095
+KART,WOOD6019,2,Miscellaneous - Tools,Industrial Tools & Equipment,,36,0.857143
+KART,WOOD6019,2,Miscellaneous - Tools,Miscellaneous - Tools,,35,0.833333
+KART,WOOD6019,3,Miscellaneous - Tools,Bolting Tools,Bolting Tools,35,0.972222
+KART,WOOD6019,3,Miscellaneous - Tools,Bolting Tools,Industrial Tools & Equipment,35,0.972222
+KART,WOOD6019,3,Miscellaneous - Tools,Bolting Tools,Miscellaneous - Tools,34,0.944444
+KART,WOOD6019,3,Miscellaneous - Tools,External Service,External Service,31,1
+KART,WOOD6019,3,Miscellaneous - Tools,Industrial Tools & Equipment,Bolting Tools,34,0.944444
+KART,WOOD6019,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,35,0.972222
+KART,WOOD6019,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,34,0.944444
+KART,WOOD6019,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,34,0.971429
+KART,WOOD6019,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,35,1
+KART,WOOD6019,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,34,0.971429

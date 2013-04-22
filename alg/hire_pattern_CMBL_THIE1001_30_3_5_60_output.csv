@@ -1,0 +1,212 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+CMBL,THIE1001,1,Masonry Blades,,,68,1
+CMBL,THIE1001,1,Air Hand Tools,,,81,1
+CMBL,THIE1001,1,Compaction - Rammers & Vibrating Plates,,,117,1
+CMBL,THIE1001,1,Masonry Saws,,,81,1
+CMBL,THIE1001,1,Floor Equipment,,,60,1
+CMBL,THIE1001,1,Gas Equipment,,,88,1
+CMBL,THIE1001,1,Landscaping Equipment,,,55,1
+CMBL,THIE1001,1,Pumps - Small,,,34,1
+CMBL,THIE1001,1,Trailers,,,40,1
+CMBL,THIE1001,1,Air Accessories,,,120,1
+CMBL,THIE1001,1,Concrete,,,31,1
+CMBL,THIE1001,1,Water Blasters,,,63,1
+CMBL,THIE1001,1,Pumps - Hoses,,,37,1
+CMBL,THIE1001,1,Concrete Vibe Units,,,142,1
+CMBL,THIE1001,1,Air Compressors - Diesel Small,,,116,1
+CMBL,THIE1001,1,Demolition,,,53,1
+CMBL,THIE1001,1,Generators - Petrol,,,73,1
+CMBL,THIE1001,1,Power Tools & Accessories,,,73,1
+CMBL,THIE1001,1,Air Breakers,,,80,1
+CMBL,THIE1001,1,Miscellaneous - Tools,,,34,1
+CMBL,THIE1001,2,Masonry Blades,Air Accessories,,31,0.455882
+CMBL,THIE1001,2,Masonry Blades,Air Compressors - Diesel Small,,36,0.529412
+CMBL,THIE1001,2,Masonry Blades,Compaction - Rammers & Vibrating Plates,,35,0.514706
+CMBL,THIE1001,2,Masonry Blades,Concrete Vibe Units,,39,0.573529
+CMBL,THIE1001,2,Masonry Blades,Masonry Saws,,32,0.470588
+CMBL,THIE1001,2,Air Hand Tools,Air Accessories,,45,0.555556
+CMBL,THIE1001,2,Air Hand Tools,Air Breakers,,31,0.382716
+CMBL,THIE1001,2,Air Hand Tools,Air Compressors - Diesel Small,,41,0.506173
+CMBL,THIE1001,2,Air Hand Tools,Air Hand Tools,,39,0.481481
+CMBL,THIE1001,2,Air Hand Tools,Compaction - Rammers & Vibrating Plates,,36,0.444444
+CMBL,THIE1001,2,Air Hand Tools,Concrete Vibe Units,,37,0.45679
+CMBL,THIE1001,2,Air Hand Tools,Gas Equipment,,36,0.444444
+CMBL,THIE1001,2,Air Hand Tools,Masonry Saws,,32,0.395062
+CMBL,THIE1001,3,Air Hand Tools,Air Accessories,Air Accessories,35,0.777778
+CMBL,THIE1001,3,Air Hand Tools,Air Accessories,Air Compressors - Diesel Small,31,0.688889
+CMBL,THIE1001,3,Air Hand Tools,Air Compressors - Diesel Small,Air Accessories,32,0.780488
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,51,0.435897
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Air Breakers,,39,0.333333
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,49,0.418803
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Air Hand Tools,,34,0.290598
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,71,0.606838
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,,58,0.495726
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,32,0.273504
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Masonry Saws,,34,0.290598
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Power Tools & Accessories,,35,0.299145
+CMBL,THIE1001,2,Compaction - Rammers & Vibrating Plates,Water Blasters,,35,0.299145
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Accessories,35,0.686275
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Compressors - Diesel Small,34,0.666667
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Accessories,35,0.714286
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Compressors - Diesel Small,34,0.693878
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Accessories,34,0.586207
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Air Compressors - Diesel Small,37,0.637931
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Concrete Vibe Units,37,0.637931
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Accessories,35,0.492958
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,33,0.464789
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,45,0.633803
+CMBL,THIE1001,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,37,0.521127
+CMBL,THIE1001,2,Floor Equipment,Air Compressors - Diesel Small,,32,0.533333
+CMBL,THIE1001,2,Floor Equipment,Concrete Vibe Units,,37,0.616667
+CMBL,THIE1001,2,Masonry Saws,Air Accessories,,40,0.493827
+CMBL,THIE1001,2,Masonry Saws,Air Breakers,,34,0.419753
+CMBL,THIE1001,2,Masonry Saws,Air Compressors - Diesel Small,,43,0.530864
+CMBL,THIE1001,2,Masonry Saws,Compaction - Rammers & Vibrating Plates,,44,0.54321
+CMBL,THIE1001,2,Masonry Saws,Concrete Vibe Units,,44,0.54321
+CMBL,THIE1001,2,Masonry Saws,Gas Equipment,,38,0.469136
+CMBL,THIE1001,2,Masonry Saws,Masonry Blades,,32,0.395062
+CMBL,THIE1001,2,Masonry Saws,Masonry Saws,,38,0.469136
+CMBL,THIE1001,2,Gas Equipment,Air Accessories,,50,0.568182
+CMBL,THIE1001,2,Gas Equipment,Air Breakers,,38,0.431818
+CMBL,THIE1001,2,Gas Equipment,Air Compressors - Diesel Small,,53,0.602273
+CMBL,THIE1001,2,Gas Equipment,Air Hand Tools,,38,0.431818
+CMBL,THIE1001,2,Gas Equipment,Compaction - Rammers & Vibrating Plates,,42,0.477273
+CMBL,THIE1001,2,Gas Equipment,Concrete Vibe Units,,47,0.534091
+CMBL,THIE1001,2,Gas Equipment,Gas Equipment,,46,0.522727
+CMBL,THIE1001,3,Gas Equipment,Air Accessories,Air Accessories,31,0.62
+CMBL,THIE1001,3,Gas Equipment,Air Compressors - Diesel Small,Air Accessories,35,0.660377
+CMBL,THIE1001,3,Gas Equipment,Air Compressors - Diesel Small,Air Compressors - Diesel Small,34,0.641509
+CMBL,THIE1001,3,Gas Equipment,Air Compressors - Diesel Small,Concrete Vibe Units,33,0.622642
+CMBL,THIE1001,2,Landscaping Equipment,Air Accessories,,35,0.636364
+CMBL,THIE1001,2,Landscaping Equipment,Air Compressors - Diesel Small,,32,0.581818
+CMBL,THIE1001,2,Landscaping Equipment,Compaction - Rammers & Vibrating Plates,,31,0.563636
+CMBL,THIE1001,2,Landscaping Equipment,Concrete Vibe Units,,34,0.618182
+CMBL,THIE1001,2,Air Accessories,Air Accessories,,75,0.625
+CMBL,THIE1001,2,Air Accessories,Air Breakers,,46,0.383333
+CMBL,THIE1001,2,Air Accessories,Air Compressors - Diesel Small,,67,0.558333
+CMBL,THIE1001,2,Air Accessories,Air Hand Tools,,44,0.366667
+CMBL,THIE1001,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,53,0.441667
+CMBL,THIE1001,2,Air Accessories,Concrete Vibe Units,,57,0.475
+CMBL,THIE1001,2,Air Accessories,Gas Equipment,,45,0.375
+CMBL,THIE1001,2,Air Accessories,Generators - Petrol,,34,0.283333
+CMBL,THIE1001,2,Air Accessories,Masonry Blades,,31,0.258333
+CMBL,THIE1001,2,Air Accessories,Masonry Saws,,38,0.316667
+CMBL,THIE1001,2,Air Accessories,Power Tools & Accessories,,32,0.266667
+CMBL,THIE1001,2,Air Accessories,Water Blasters,,35,0.291667
+CMBL,THIE1001,3,Air Accessories,Air Accessories,Air Accessories,51,0.68
+CMBL,THIE1001,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,44,0.586667
+CMBL,THIE1001,3,Air Accessories,Air Accessories,Air Hand Tools,34,0.453333
+CMBL,THIE1001,3,Air Accessories,Air Accessories,Compaction - Rammers & Vibrating Plates,32,0.426667
+CMBL,THIE1001,3,Air Accessories,Air Accessories,Concrete Vibe Units,35,0.466667
+CMBL,THIE1001,3,Air Accessories,Air Breakers,Air Accessories,31,0.673913
+CMBL,THIE1001,3,Air Accessories,Air Breakers,Air Compressors - Diesel Small,31,0.673913
+CMBL,THIE1001,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,45,0.671642
+CMBL,THIE1001,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,46,0.686567
+CMBL,THIE1001,3,Air Accessories,Air Compressors - Diesel Small,Air Hand Tools,33,0.492537
+CMBL,THIE1001,3,Air Accessories,Air Compressors - Diesel Small,Concrete Vibe Units,39,0.58209
+CMBL,THIE1001,3,Air Accessories,Air Compressors - Diesel Small,Gas Equipment,32,0.477612
+CMBL,THIE1001,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Air Accessories,31,0.584906
+CMBL,THIE1001,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,31,0.584906
+CMBL,THIE1001,3,Air Accessories,Concrete Vibe Units,Air Accessories,34,0.596491
+CMBL,THIE1001,3,Air Accessories,Concrete Vibe Units,Air Compressors - Diesel Small,34,0.596491
+CMBL,THIE1001,3,Air Accessories,Concrete Vibe Units,Concrete Vibe Units,38,0.666667
+CMBL,THIE1001,2,Water Blasters,Air Accessories,,42,0.666667
+CMBL,THIE1001,2,Water Blasters,Air Compressors - Diesel Small,,44,0.698413
+CMBL,THIE1001,2,Water Blasters,Compaction - Rammers & Vibrating Plates,,31,0.492063
+CMBL,THIE1001,2,Water Blasters,Concrete Vibe Units,,39,0.619048
+CMBL,THIE1001,2,Demolition,Air Compressors - Diesel Small,,31,0.584906
+CMBL,THIE1001,2,Demolition,Compaction - Rammers & Vibrating Plates,,33,0.622642
+CMBL,THIE1001,2,Demolition,Concrete Vibe Units,,36,0.679245
+CMBL,THIE1001,2,Concrete Vibe Units,Air Accessories,,68,0.478873
+CMBL,THIE1001,2,Concrete Vibe Units,Air Breakers,,52,0.366197
+CMBL,THIE1001,2,Concrete Vibe Units,Air Compressors - Diesel Small,,68,0.478873
+CMBL,THIE1001,2,Concrete Vibe Units,Air Hand Tools,,42,0.295775
+CMBL,THIE1001,2,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,,58,0.408451
+CMBL,THIE1001,2,Concrete Vibe Units,Concrete Vibe Units,,95,0.669014
+CMBL,THIE1001,2,Concrete Vibe Units,Demolition,,36,0.253521
+CMBL,THIE1001,2,Concrete Vibe Units,Floor Equipment,,36,0.253521
+CMBL,THIE1001,2,Concrete Vibe Units,Gas Equipment,,51,0.359155
+CMBL,THIE1001,2,Concrete Vibe Units,Generators - Petrol,,53,0.373239
+CMBL,THIE1001,2,Concrete Vibe Units,Landscaping Equipment,,33,0.232394
+CMBL,THIE1001,2,Concrete Vibe Units,Masonry Blades,,42,0.295775
+CMBL,THIE1001,2,Concrete Vibe Units,Masonry Saws,,50,0.352113
+CMBL,THIE1001,2,Concrete Vibe Units,Power Tools & Accessories,,40,0.28169
+CMBL,THIE1001,2,Concrete Vibe Units,Water Blasters,,41,0.288732
+CMBL,THIE1001,3,Concrete Vibe Units,Air Accessories,Air Accessories,37,0.544118
+CMBL,THIE1001,3,Concrete Vibe Units,Air Accessories,Air Compressors - Diesel Small,35,0.514706
+CMBL,THIE1001,3,Concrete Vibe Units,Air Accessories,Compaction - Rammers & Vibrating Plates,32,0.470588
+CMBL,THIE1001,3,Concrete Vibe Units,Air Accessories,Concrete Vibe Units,43,0.632353
+CMBL,THIE1001,3,Concrete Vibe Units,Air Breakers,Concrete Vibe Units,34,0.653846
+CMBL,THIE1001,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Accessories,37,0.544118
+CMBL,THIE1001,3,Concrete Vibe Units,Air Compressors - Diesel Small,Air Compressors - Diesel Small,39,0.573529
+CMBL,THIE1001,3,Concrete Vibe Units,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,33,0.485294
+CMBL,THIE1001,3,Concrete Vibe Units,Air Compressors - Diesel Small,Concrete Vibe Units,45,0.661765
+CMBL,THIE1001,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,31,0.534483
+CMBL,THIE1001,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,33,0.568966
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Air Accessories,41,0.431579
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Air Breakers,34,0.357895
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Air Compressors - Diesel Small,41,0.431579
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,36,0.378947
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Concrete Vibe Units,67,0.705263
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Gas Equipment,33,0.347368
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Generators - Petrol,35,0.368421
+CMBL,THIE1001,3,Concrete Vibe Units,Concrete Vibe Units,Masonry Saws,33,0.347368
+CMBL,THIE1001,3,Concrete Vibe Units,Generators - Petrol,Concrete Vibe Units,39,0.735849
+CMBL,THIE1001,3,Concrete Vibe Units,Masonry Saws,Air Compressors - Diesel Small,31,0.62
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Air Accessories,,71,0.612069
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Air Breakers,,47,0.405172
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,75,0.646552
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Air Hand Tools,,48,0.413793
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,49,0.422414
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Concrete Vibe Units,,62,0.534483
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Gas Equipment,,48,0.413793
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Generators - Petrol,,38,0.327586
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Landscaping Equipment,,34,0.293103
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Masonry Saws,,37,0.318966
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Power Tools & Accessories,,33,0.284483
+CMBL,THIE1001,2,Air Compressors - Diesel Small,Water Blasters,,35,0.301724
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,48,0.676056
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,46,0.647887
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Accessories,Air Hand Tools,35,0.492958
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Accessories,Compaction - Rammers & Vibrating Plates,32,0.450704
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Accessories,Concrete Vibe Units,36,0.507042
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Accessories,Gas Equipment,34,0.478873
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Breakers,Air Accessories,33,0.702128
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Breakers,Air Compressors - Diesel Small,34,0.723404
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Breakers,Concrete Vibe Units,32,0.680851
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Gas Equipment,Air Accessories,32,0.666667
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Gas Equipment,Air Compressors - Diesel Small,33,0.6875
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,49,0.653333
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,53,0.706667
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Hand Tools,36,0.48
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Concrete Vibe Units,41,0.546667
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Gas Equipment,35,0.466667
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Accessories,35,0.564516
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Concrete Vibe Units,Air Compressors - Diesel Small,36,0.580645
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Concrete Vibe Units,Concrete Vibe Units,42,0.677419
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Air Hand Tools,Air Accessories,31,0.645833
+CMBL,THIE1001,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,31,0.632653
+CMBL,THIE1001,2,Generators - Petrol,Air Accessories,,37,0.506849
+CMBL,THIE1001,2,Generators - Petrol,Air Compressors - Diesel Small,,38,0.520548
+CMBL,THIE1001,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,37,0.506849
+CMBL,THIE1001,2,Generators - Petrol,Concrete Vibe Units,,51,0.69863
+CMBL,THIE1001,2,Generators - Petrol,Gas Equipment,,34,0.465753
+CMBL,THIE1001,2,Generators - Petrol,Generators - Petrol,,32,0.438356
+CMBL,THIE1001,3,Generators - Petrol,Concrete Vibe Units,Concrete Vibe Units,33,0.647059
+CMBL,THIE1001,2,Power Tools & Accessories,Air Accessories,,34,0.465753
+CMBL,THIE1001,2,Power Tools & Accessories,Air Compressors - Diesel Small,,37,0.506849
+CMBL,THIE1001,2,Power Tools & Accessories,Compaction - Rammers & Vibrating Plates,,40,0.547945
+CMBL,THIE1001,2,Power Tools & Accessories,Concrete Vibe Units,,41,0.561644
+CMBL,THIE1001,2,Power Tools & Accessories,Power Tools & Accessories,,31,0.424658
+CMBL,THIE1001,2,Air Breakers,Air Accessories,,47,0.5875
+CMBL,THIE1001,2,Air Breakers,Air Breakers,,39,0.4875
+CMBL,THIE1001,2,Air Breakers,Air Compressors - Diesel Small,,46,0.575
+CMBL,THIE1001,2,Air Breakers,Air Hand Tools,,34,0.425
+CMBL,THIE1001,2,Air Breakers,Compaction - Rammers & Vibrating Plates,,34,0.425
+CMBL,THIE1001,2,Air Breakers,Concrete Vibe Units,,48,0.6
+CMBL,THIE1001,2,Air Breakers,Gas Equipment,,36,0.45
+CMBL,THIE1001,3,Air Breakers,Air Accessories,Air Accessories,31,0.659574
+CMBL,THIE1001,3,Air Breakers,Concrete Vibe Units,Air Accessories,31,0.645833
+CMBL,THIE1001,3,Air Breakers,Concrete Vibe Units,Concrete Vibe Units,33,0.6875
+CMBL,THIE1001,3,Air Breakers,Air Compressors - Diesel Small,Air Accessories,31,0.673913
+CMBL,THIE1001,3,Air Breakers,Air Compressors - Diesel Small,Air Compressors - Diesel Small,31,0.673913

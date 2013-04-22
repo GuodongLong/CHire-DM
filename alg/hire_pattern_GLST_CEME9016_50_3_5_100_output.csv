@@ -1,0 +1,48 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+GLST,CEME9016,1,Air Accessories,,,55,1
+GLST,CEME9016,1,Welders - Accessories,,,63,1
+GLST,CEME9016,1,Industrial Tools & Equipment,,,65,1
+GLST,CEME9016,1,Power Tools & Accessories,,,66,1
+GLST,CEME9016,1,Electrical Leads & Accessories,,,57,1
+GLST,CEME9016,1,Miscellaneous - Tools,,,66,1
+GLST,CEME9016,2,Power Tools & Accessories,Industrial Tools & Equipment,,57,0.863636
+GLST,CEME9016,2,Power Tools & Accessories,Miscellaneous - Tools,,55,0.833333
+GLST,CEME9016,2,Power Tools & Accessories,Power Tools & Accessories,,58,0.878788
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,54,0.947368
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,51,0.894737
+GLST,CEME9016,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,51,0.894737
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,51,0.927273
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,53,0.963636
+GLST,CEME9016,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,51,0.927273
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,54,0.931034
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,52,0.896552
+GLST,CEME9016,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,55,0.948276
+GLST,CEME9016,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,52,0.8
+GLST,CEME9016,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,60,0.923077
+GLST,CEME9016,2,Industrial Tools & Equipment,Miscellaneous - Tools,,58,0.892308
+GLST,CEME9016,2,Industrial Tools & Equipment,Power Tools & Accessories,,58,0.892308
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,54,0.931034
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,56,0.965517
+GLST,CEME9016,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,54,0.931034
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,58,0.966667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,55,0.916667
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,54,0.931034
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,52,0.896552
+GLST,CEME9016,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,55,0.948276
+GLST,CEME9016,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,53,0.929825
+GLST,CEME9016,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,53,0.929825
+GLST,CEME9016,2,Electrical Leads & Accessories,Miscellaneous - Tools,,51,0.894737
+GLST,CEME9016,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,52,0.981132
+GLST,CEME9016,2,Miscellaneous - Tools,Industrial Tools & Equipment,,59,0.893939
+GLST,CEME9016,2,Miscellaneous - Tools,Miscellaneous - Tools,,60,0.909091
+GLST,CEME9016,2,Miscellaneous - Tools,Power Tools & Accessories,,57,0.863636
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,56,0.949153
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,53,0.898305
+GLST,CEME9016,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,54,0.915254
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,56,0.933333
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,57,0.95
+GLST,CEME9016,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,55,0.916667
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,53,0.929825
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,51,0.894737
+GLST,CEME9016,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,54,0.947368

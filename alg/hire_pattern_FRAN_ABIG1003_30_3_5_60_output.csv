@@ -1,0 +1,737 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+FRAN,ABIG1003,1,Compaction - Rollers - Double Drum Smooth,,,48,1
+FRAN,ABIG1003,1,Pumps - Hoses,,,87,1
+FRAN,ABIG1003,1,Generators - Diesel Small,,,111,1
+FRAN,ABIG1003,1,Compaction - Rammers & Vibrating Plates,,,152,1
+FRAN,ABIG1003,1,Masonry Saws,,,121,1
+FRAN,ABIG1003,1,Generators - Petrol,,,80,1
+FRAN,ABIG1003,1,Miscellaneous - Tools,,,116,1
+FRAN,ABIG1003,1,Pumps - Large,,,54,1
+FRAN,ABIG1003,1,Access - Knuckle Booms,,,91,1
+FRAN,ABIG1003,1,Compaction - Rollers - Other,,,73,1
+FRAN,ABIG1003,1,Compaction - Rollers - Single Drum Padfoot,,,89,1
+FRAN,ABIG1003,1,Compaction - Rollers - Single Drum Smooth,,,53,1
+FRAN,ABIG1003,1,Concrete Vibe Units,,,99,1
+FRAN,ABIG1003,1,Earthmoving - Mini Excavators,,,44,1
+FRAN,ABIG1003,1,Air Breakers,,,45,1
+FRAN,ABIG1003,1,Lighting Towers,,,125,1
+FRAN,ABIG1003,1,Masonry Blades,,,104,1
+FRAN,ABIG1003,1,Measurement Equipment,,,52,1
+FRAN,ABIG1003,1,Pumps - Small,,,74,1
+FRAN,ABIG1003,1,Trailers,,,71,1
+FRAN,ABIG1003,1,Earthmoving - Excavators - Attachments,,,47,1
+FRAN,ABIG1003,1,Air Compressors - Diesel Small,,,92,1
+FRAN,ABIG1003,1,Concrete,,,39,1
+FRAN,ABIG1003,1,Water Blasters,,,57,1
+FRAN,ABIG1003,1,Access - Straight Booms,,,71,1
+FRAN,ABIG1003,1,Electrical Leads & Accessories,,,44,1
+FRAN,ABIG1003,1,Power Tools & Accessories,,,55,1
+FRAN,ABIG1003,1,Air Accessories,,,84,1
+FRAN,ABIG1003,1,Air Hand Tools,,,51,1
+FRAN,ABIG1003,1,Materials Handling - Telehandler,,,31,1
+FRAN,ABIG1003,2,Compaction - Rollers - Double Drum Smooth,Compaction - Rammers & Vibrating Plates,,36,0.75
+FRAN,ABIG1003,2,Compaction - Rollers - Double Drum Smooth,Lighting Towers,,32,0.666667
+FRAN,ABIG1003,2,Compaction - Rollers - Double Drum Smooth,Masonry Saws,,32,0.666667
+FRAN,ABIG1003,2,Air Hand Tools,Compaction - Rammers & Vibrating Plates,,34,0.666667
+FRAN,ABIG1003,2,Air Hand Tools,Lighting Towers,,33,0.647059
+FRAN,ABIG1003,2,Generators - Diesel Small,Access - Knuckle Booms,,44,0.396396
+FRAN,ABIG1003,2,Generators - Diesel Small,Access - Straight Booms,,33,0.297297
+FRAN,ABIG1003,2,Generators - Diesel Small,Air Accessories,,38,0.342342
+FRAN,ABIG1003,2,Generators - Diesel Small,Air Compressors - Diesel Small,,41,0.369369
+FRAN,ABIG1003,2,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,,68,0.612613
+FRAN,ABIG1003,2,Generators - Diesel Small,Compaction - Rollers - Other,,34,0.306306
+FRAN,ABIG1003,2,Generators - Diesel Small,Compaction - Rollers - Single Drum Padfoot,,44,0.396396
+FRAN,ABIG1003,2,Generators - Diesel Small,Compaction - Rollers - Single Drum Smooth,,31,0.279279
+FRAN,ABIG1003,2,Generators - Diesel Small,Concrete Vibe Units,,45,0.405405
+FRAN,ABIG1003,2,Generators - Diesel Small,Generators - Diesel Small,,61,0.54955
+FRAN,ABIG1003,2,Generators - Diesel Small,Generators - Petrol,,39,0.351351
+FRAN,ABIG1003,2,Generators - Diesel Small,Lighting Towers,,54,0.486486
+FRAN,ABIG1003,2,Generators - Diesel Small,Masonry Blades,,47,0.423423
+FRAN,ABIG1003,2,Generators - Diesel Small,Masonry Saws,,55,0.495495
+FRAN,ABIG1003,2,Generators - Diesel Small,Miscellaneous - Tools,,51,0.459459
+FRAN,ABIG1003,2,Generators - Diesel Small,Pumps - Hoses,,44,0.396396
+FRAN,ABIG1003,2,Generators - Diesel Small,Pumps - Small,,31,0.279279
+FRAN,ABIG1003,2,Generators - Diesel Small,Trailers,,38,0.342342
+FRAN,ABIG1003,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,45,0.661765
+FRAN,ABIG1003,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,36,0.529412
+FRAN,ABIG1003,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Lighting Towers,38,0.558824
+FRAN,ABIG1003,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Masonry Blades,35,0.514706
+FRAN,ABIG1003,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Masonry Saws,39,0.573529
+FRAN,ABIG1003,3,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,34,0.5
+FRAN,ABIG1003,3,Generators - Diesel Small,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,32,0.727273
+FRAN,ABIG1003,3,Generators - Diesel Small,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,36,0.590164
+FRAN,ABIG1003,3,Generators - Diesel Small,Generators - Diesel Small,Lighting Towers,35,0.57377
+FRAN,ABIG1003,3,Generators - Diesel Small,Generators - Diesel Small,Masonry Blades,34,0.557377
+FRAN,ABIG1003,3,Generators - Diesel Small,Generators - Diesel Small,Masonry Saws,36,0.590164
+FRAN,ABIG1003,3,Generators - Diesel Small,Lighting Towers,Lighting Towers,39,0.722222
+FRAN,ABIG1003,3,Generators - Diesel Small,Lighting Towers,Masonry Saws,33,0.611111
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Blades,Compaction - Rammers & Vibrating Plates,35,0.744681
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Blades,Generators - Diesel Small,31,0.659574
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Blades,Lighting Towers,37,0.787234
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Blades,Masonry Saws,33,0.702128
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Saws,Air Compressors - Diesel Small,32,0.581818
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Saws,Compaction - Rammers & Vibrating Plates,40,0.727273
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Saws,Generators - Diesel Small,36,0.654545
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Saws,Lighting Towers,41,0.745455
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Saws,Masonry Blades,35,0.636364
+FRAN,ABIG1003,3,Generators - Diesel Small,Masonry Saws,Masonry Saws,38,0.690909
+FRAN,ABIG1003,3,Generators - Diesel Small,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,34,0.666667
+FRAN,ABIG1003,3,Generators - Diesel Small,Miscellaneous - Tools,Miscellaneous - Tools,34,0.666667
+FRAN,ABIG1003,2,Measurement Equipment,Compaction - Rammers & Vibrating Plates,,35,0.673077
+FRAN,ABIG1003,2,Measurement Equipment,Generators - Diesel Small,,31,0.596154
+FRAN,ABIG1003,2,Measurement Equipment,Lighting Towers,,32,0.615385
+FRAN,ABIG1003,2,Pumps - Hoses,Access - Knuckle Booms,,34,0.390805
+FRAN,ABIG1003,2,Pumps - Hoses,Air Compressors - Diesel Small,,31,0.356322
+FRAN,ABIG1003,2,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,,58,0.666667
+FRAN,ABIG1003,2,Pumps - Hoses,Compaction - Rollers - Single Drum Padfoot,,35,0.402299
+FRAN,ABIG1003,2,Pumps - Hoses,Concrete Vibe Units,,47,0.54023
+FRAN,ABIG1003,2,Pumps - Hoses,Generators - Diesel Small,,44,0.505747
+FRAN,ABIG1003,2,Pumps - Hoses,Lighting Towers,,40,0.45977
+FRAN,ABIG1003,2,Pumps - Hoses,Masonry Blades,,35,0.402299
+FRAN,ABIG1003,2,Pumps - Hoses,Masonry Saws,,40,0.45977
+FRAN,ABIG1003,2,Pumps - Hoses,Miscellaneous - Tools,,46,0.528736
+FRAN,ABIG1003,2,Pumps - Hoses,Pumps - Hoses,,48,0.551724
+FRAN,ABIG1003,2,Pumps - Hoses,Pumps - Small,,40,0.45977
+FRAN,ABIG1003,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,43,0.741379
+FRAN,ABIG1003,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,31,0.534483
+FRAN,ABIG1003,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,32,0.551724
+FRAN,ABIG1003,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Masonry Blades,31,0.534483
+FRAN,ABIG1003,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Masonry Saws,35,0.603448
+FRAN,ABIG1003,3,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,35,0.603448
+FRAN,ABIG1003,3,Pumps - Hoses,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,33,0.75
+FRAN,ABIG1003,3,Pumps - Hoses,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,32,0.680851
+FRAN,ABIG1003,3,Pumps - Hoses,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,31,0.645833
+FRAN,ABIG1003,3,Pumps - Hoses,Masonry Saws,Compaction - Rammers & Vibrating Plates,34,0.85
+FRAN,ABIG1003,3,Pumps - Hoses,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,34,0.73913
+FRAN,ABIG1003,3,Pumps - Hoses,Miscellaneous - Tools,Miscellaneous - Tools,32,0.695652
+FRAN,ABIG1003,2,Access - Knuckle Booms,Access - Knuckle Booms,,52,0.571429
+FRAN,ABIG1003,2,Access - Knuckle Booms,Air Accessories,,32,0.351648
+FRAN,ABIG1003,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,34,0.373626
+FRAN,ABIG1003,2,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,,49,0.538462
+FRAN,ABIG1003,2,Access - Knuckle Booms,Compaction - Rollers - Single Drum Padfoot,,37,0.406593
+FRAN,ABIG1003,2,Access - Knuckle Booms,Concrete Vibe Units,,41,0.450549
+FRAN,ABIG1003,2,Access - Knuckle Booms,Generators - Diesel Small,,42,0.461538
+FRAN,ABIG1003,2,Access - Knuckle Booms,Generators - Petrol,,33,0.362637
+FRAN,ABIG1003,2,Access - Knuckle Booms,Lighting Towers,,51,0.56044
+FRAN,ABIG1003,2,Access - Knuckle Booms,Masonry Blades,,38,0.417582
+FRAN,ABIG1003,2,Access - Knuckle Booms,Masonry Saws,,41,0.450549
+FRAN,ABIG1003,2,Access - Knuckle Booms,Miscellaneous - Tools,,43,0.472527
+FRAN,ABIG1003,2,Access - Knuckle Booms,Pumps - Hoses,,32,0.351648
+FRAN,ABIG1003,2,Access - Knuckle Booms,Pumps - Small,,31,0.340659
+FRAN,ABIG1003,2,Access - Knuckle Booms,Trailers,,31,0.340659
+FRAN,ABIG1003,3,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,35,0.714286
+FRAN,ABIG1003,3,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,Lighting Towers,31,0.632653
+FRAN,ABIG1003,3,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,Masonry Saws,34,0.693878
+FRAN,ABIG1003,3,Access - Knuckle Booms,Lighting Towers,Lighting Towers,37,0.72549
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,,58,0.381579
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,,47,0.309211
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,49,0.322368
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Air Breakers,,34,0.223684
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,53,0.348684
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Air Hand Tools,,34,0.223684
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,108,0.710526
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Double Drum Smooth,,34,0.223684
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Other,,45,0.296053
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,,51,0.335526
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Smooth,,37,0.243421
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,,55,0.361842
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Earthmoving - Excavators - Attachments,,33,0.217105
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,,62,0.407895
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Generators - Petrol,,51,0.335526
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Lighting Towers,,71,0.467105
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Masonry Blades,,69,0.453947
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Masonry Saws,,78,0.513158
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Measurement Equipment,,38,0.25
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,,69,0.453947
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Power Tools & Accessories,,33,0.217105
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,,52,0.342105
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Pumps - Large,,37,0.243421
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Pumps - Small,,44,0.289474
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Trailers,,48,0.315789
+FRAN,ABIG1003,2,Compaction - Rammers & Vibrating Plates,Water Blasters,,39,0.256579
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,33,0.568966
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Generators - Diesel Small,33,0.568966
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Lighting Towers,33,0.568966
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Masonry Saws,31,0.534483
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Accessories,31,0.632653
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Compaction - Rammers & Vibrating Plates,33,0.673469
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Generators - Diesel Small,33,0.673469
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Masonry Saws,31,0.632653
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Access - Knuckle Booms,33,0.478261
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Air Accessories,36,0.521739
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Air Compressors - Diesel Small,35,0.507246
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,49,0.710145
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Compaction - Rollers - Single Drum Padfoot,38,0.550725
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Generators - Diesel Small,43,0.623188
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Lighting Towers,37,0.536232
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Masonry Blades,40,0.57971
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Masonry Saws,44,0.637681
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,Miscellaneous - Tools,47,0.681159
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,40,0.645161
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Compaction - Rollers - Single Drum Padfoot,32,0.516129
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Generators - Diesel Small,33,0.532258
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Lighting Towers,36,0.580645
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Masonry Blades,34,0.548387
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Masonry Saws,38,0.612903
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,Miscellaneous - Tools,32,0.516129
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,35,0.744681
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,Generators - Diesel Small,31,0.659574
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,Masonry Saws,32,0.680851
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Air Compressors - Diesel Small,34,0.641509
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,39,0.735849
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Generators - Diesel Small,34,0.641509
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,Masonry Saws,32,0.603774
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Access - Knuckle Booms,39,0.549296
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Access - Straight Booms,31,0.43662
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Air Accessories,32,0.450704
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Air Compressors - Diesel Small,34,0.478873
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Compaction - Rammers & Vibrating Plates,51,0.71831
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Compaction - Rollers - Single Drum Padfoot,33,0.464789
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Generators - Diesel Small,41,0.577465
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Generators - Petrol,35,0.492958
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Lighting Towers,48,0.676056
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Masonry Blades,41,0.577465
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Masonry Saws,47,0.661972
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Lighting Towers,Miscellaneous - Tools,35,0.492958
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,43,0.398148
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,34,0.314815
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Accessories,36,0.333333
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,39,0.361111
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,76,0.703704
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Other,32,0.296296
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,35,0.324074
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,34,0.314815
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,43,0.398148
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Generators - Petrol,38,0.351852
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Lighting Towers,54,0.5
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Masonry Blades,54,0.5
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Masonry Saws,61,0.564815
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,42,0.388889
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,36,0.333333
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,Trailers,38,0.351852
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Other,Compaction - Rammers & Vibrating Plates,32,0.711111
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,34,0.666667
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,Compaction - Rollers - Single Drum Padfoot,31,0.607843
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,Generators - Diesel Small,32,0.627451
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,39,0.709091
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Generators - Diesel Small,33,0.6
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Lighting Towers,31,0.563636
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Masonry Saws,33,0.6
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,Miscellaneous - Tools,33,0.6
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Access - Knuckle Booms,33,0.478261
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Air Accessories,33,0.478261
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Air Compressors - Diesel Small,37,0.536232
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Compaction - Rammers & Vibrating Plates,48,0.695652
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Generators - Diesel Small,43,0.623188
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Generators - Petrol,34,0.492754
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Lighting Towers,42,0.608696
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Masonry Blades,41,0.594203
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Masonry Saws,46,0.666667
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Blades,Miscellaneous - Tools,33,0.478261
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Compaction - Rammers & Vibrating Plates,36,0.705882
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Generators - Diesel Small,31,0.607843
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Lighting Towers,31,0.607843
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Masonry Blades,32,0.627451
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Generators - Petrol,Masonry Saws,38,0.745098
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Access - Knuckle Booms,34,0.435897
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Access - Straight Booms,33,0.423077
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Air Accessories,37,0.474359
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Air Compressors - Diesel Small,42,0.538462
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Compaction - Rammers & Vibrating Plates,55,0.705128
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Compaction - Rollers - Single Drum Padfoot,33,0.423077
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Concrete Vibe Units,31,0.397436
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Generators - Diesel Small,48,0.615385
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Generators - Petrol,39,0.5
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Lighting Towers,47,0.602564
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Masonry Blades,44,0.564103
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Masonry Saws,50,0.641026
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Miscellaneous - Tools,42,0.538462
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Pumps - Hoses,31,0.397436
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Masonry Saws,Trailers,31,0.397436
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,36,0.692308
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Generators - Diesel Small,31,0.596154
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Pumps - Hoses,Masonry Saws,31,0.596154
+FRAN,ABIG1003,3,Compaction - Rammers & Vibrating Plates,Trailers,Compaction - Rammers & Vibrating Plates,35,0.729167
+FRAN,ABIG1003,2,Generators - Petrol,Access - Knuckle Booms,,37,0.4625
+FRAN,ABIG1003,2,Generators - Petrol,Air Accessories,,37,0.4625
+FRAN,ABIG1003,2,Generators - Petrol,Air Compressors - Diesel Small,,36,0.45
+FRAN,ABIG1003,2,Generators - Petrol,Compaction - Rammers & Vibrating Plates,,56,0.7
+FRAN,ABIG1003,2,Generators - Petrol,Compaction - Rollers - Single Drum Padfoot,,34,0.425
+FRAN,ABIG1003,2,Generators - Petrol,Concrete Vibe Units,,39,0.4875
+FRAN,ABIG1003,2,Generators - Petrol,Generators - Diesel Small,,45,0.5625
+FRAN,ABIG1003,2,Generators - Petrol,Generators - Petrol,,40,0.5
+FRAN,ABIG1003,2,Generators - Petrol,Lighting Towers,,46,0.575
+FRAN,ABIG1003,2,Generators - Petrol,Masonry Blades,,43,0.5375
+FRAN,ABIG1003,2,Generators - Petrol,Masonry Saws,,49,0.6125
+FRAN,ABIG1003,2,Generators - Petrol,Miscellaneous - Tools,,42,0.525
+FRAN,ABIG1003,2,Generators - Petrol,Pumps - Hoses,,36,0.45
+FRAN,ABIG1003,3,Generators - Petrol,Masonry Blades,Compaction - Rammers & Vibrating Plates,32,0.744186
+FRAN,ABIG1003,3,Generators - Petrol,Masonry Blades,Masonry Saws,31,0.72093
+FRAN,ABIG1003,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,43,0.767857
+FRAN,ABIG1003,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Lighting Towers,32,0.571429
+FRAN,ABIG1003,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Masonry Blades,35,0.625
+FRAN,ABIG1003,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Masonry Saws,39,0.696429
+FRAN,ABIG1003,3,Generators - Petrol,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,32,0.571429
+FRAN,ABIG1003,3,Generators - Petrol,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,33,0.733333
+FRAN,ABIG1003,3,Generators - Petrol,Lighting Towers,Compaction - Rammers & Vibrating Plates,35,0.76087
+FRAN,ABIG1003,3,Generators - Petrol,Lighting Towers,Lighting Towers,33,0.717391
+FRAN,ABIG1003,3,Generators - Petrol,Masonry Saws,Compaction - Rammers & Vibrating Plates,37,0.755102
+FRAN,ABIG1003,3,Generators - Petrol,Masonry Saws,Masonry Saws,34,0.693878
+FRAN,ABIG1003,3,Generators - Petrol,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,32,0.761905
+FRAN,ABIG1003,2,Masonry Saws,Access - Knuckle Booms,,46,0.380165
+FRAN,ABIG1003,2,Masonry Saws,Access - Straight Booms,,46,0.380165
+FRAN,ABIG1003,2,Masonry Saws,Air Accessories,,51,0.421488
+FRAN,ABIG1003,2,Masonry Saws,Air Compressors - Diesel Small,,56,0.46281
+FRAN,ABIG1003,2,Masonry Saws,Air Hand Tools,,37,0.305785
+FRAN,ABIG1003,2,Masonry Saws,Compaction - Rammers & Vibrating Plates,,76,0.628099
+FRAN,ABIG1003,2,Masonry Saws,Compaction - Rollers - Double Drum Smooth,,31,0.256198
+FRAN,ABIG1003,2,Masonry Saws,Compaction - Rollers - Other,,34,0.280992
+FRAN,ABIG1003,2,Masonry Saws,Compaction - Rollers - Single Drum Padfoot,,41,0.338843
+FRAN,ABIG1003,2,Masonry Saws,Concrete Vibe Units,,45,0.371901
+FRAN,ABIG1003,2,Masonry Saws,Generators - Diesel Small,,58,0.479339
+FRAN,ABIG1003,2,Masonry Saws,Generators - Petrol,,48,0.396694
+FRAN,ABIG1003,2,Masonry Saws,Lighting Towers,,66,0.545455
+FRAN,ABIG1003,2,Masonry Saws,Masonry Blades,,72,0.595041
+FRAN,ABIG1003,2,Masonry Saws,Masonry Saws,,84,0.694215
+FRAN,ABIG1003,2,Masonry Saws,Miscellaneous - Tools,,51,0.421488
+FRAN,ABIG1003,2,Masonry Saws,Power Tools & Accessories,,39,0.322314
+FRAN,ABIG1003,2,Masonry Saws,Pumps - Hoses,,38,0.31405
+FRAN,ABIG1003,2,Masonry Saws,Pumps - Small,,31,0.256198
+FRAN,ABIG1003,2,Masonry Saws,Trailers,,43,0.355372
+FRAN,ABIG1003,2,Masonry Saws,Water Blasters,,37,0.305785
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,33,0.434211
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Access - Straight Booms,32,0.421053
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Air Accessories,34,0.447368
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,37,0.486842
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,56,0.736842
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,34,0.447368
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Generators - Petrol,34,0.447368
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Lighting Towers,46,0.605263
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Masonry Blades,46,0.605263
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Masonry Saws,51,0.671053
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,35,0.460526
+FRAN,ABIG1003,3,Masonry Saws,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,34,0.73913
+FRAN,ABIG1003,3,Masonry Saws,Access - Straight Booms,Masonry Saws,31,0.673913
+FRAN,ABIG1003,3,Masonry Saws,Air Accessories,Air Accessories,33,0.647059
+FRAN,ABIG1003,3,Masonry Saws,Air Accessories,Air Compressors - Diesel Small,32,0.627451
+FRAN,ABIG1003,3,Masonry Saws,Air Accessories,Compaction - Rammers & Vibrating Plates,35,0.686275
+FRAN,ABIG1003,3,Masonry Saws,Air Accessories,Masonry Saws,33,0.647059
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Air Accessories,33,0.589286
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Air Compressors - Diesel Small,38,0.678571
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,40,0.714286
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Generators - Diesel Small,32,0.571429
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Lighting Towers,32,0.571429
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Masonry Saws,32,0.571429
+FRAN,ABIG1003,3,Masonry Saws,Air Compressors - Diesel Small,Miscellaneous - Tools,32,0.571429
+FRAN,ABIG1003,3,Masonry Saws,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,31,0.756098
+FRAN,ABIG1003,3,Masonry Saws,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,35,0.777778
+FRAN,ABIG1003,3,Masonry Saws,Concrete Vibe Units,Lighting Towers,32,0.711111
+FRAN,ABIG1003,3,Masonry Saws,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,38,0.655172
+FRAN,ABIG1003,3,Masonry Saws,Generators - Diesel Small,Generators - Diesel Small,32,0.551724
+FRAN,ABIG1003,3,Masonry Saws,Generators - Diesel Small,Lighting Towers,35,0.603448
+FRAN,ABIG1003,3,Masonry Saws,Generators - Diesel Small,Masonry Blades,35,0.603448
+FRAN,ABIG1003,3,Masonry Saws,Generators - Diesel Small,Masonry Saws,39,0.672414
+FRAN,ABIG1003,3,Masonry Saws,Generators - Petrol,Compaction - Rammers & Vibrating Plates,38,0.791667
+FRAN,ABIG1003,3,Masonry Saws,Generators - Petrol,Masonry Blades,31,0.645833
+FRAN,ABIG1003,3,Masonry Saws,Generators - Petrol,Masonry Saws,36,0.75
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Access - Knuckle Booms,33,0.5
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Access - Straight Booms,31,0.469697
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Air Accessories,31,0.469697
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Air Compressors - Diesel Small,33,0.5
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Compaction - Rammers & Vibrating Plates,44,0.666667
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Generators - Diesel Small,38,0.575758
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Lighting Towers,47,0.712121
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Masonry Blades,40,0.606061
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Masonry Saws,42,0.636364
+FRAN,ABIG1003,3,Masonry Saws,Lighting Towers,Miscellaneous - Tools,31,0.469697
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Access - Knuckle Booms,31,0.430556
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Access - Straight Booms,33,0.458333
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Air Accessories,39,0.541667
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Air Compressors - Diesel Small,42,0.583333
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Compaction - Rammers & Vibrating Plates,44,0.611111
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Generators - Diesel Small,37,0.513889
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Generators - Petrol,31,0.430556
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Lighting Towers,42,0.583333
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Masonry Blades,49,0.680556
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Masonry Saws,53,0.736111
+FRAN,ABIG1003,3,Masonry Saws,Masonry Blades,Trailers,31,0.430556
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Access - Knuckle Booms,32,0.380952
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Access - Straight Booms,36,0.428571
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Air Accessories,42,0.5
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Air Compressors - Diesel Small,47,0.559524
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Compaction - Rammers & Vibrating Plates,51,0.607143
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Generators - Diesel Small,43,0.511905
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Generators - Petrol,34,0.404762
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Lighting Towers,47,0.559524
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Masonry Blades,52,0.619048
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Masonry Saws,61,0.72619
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Miscellaneous - Tools,36,0.428571
+FRAN,ABIG1003,3,Masonry Saws,Masonry Saws,Trailers,32,0.380952
+FRAN,ABIG1003,3,Masonry Saws,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,40,0.784314
+FRAN,ABIG1003,3,Masonry Saws,Miscellaneous - Tools,Masonry Blades,32,0.627451
+FRAN,ABIG1003,3,Masonry Saws,Miscellaneous - Tools,Masonry Saws,34,0.666667
+FRAN,ABIG1003,3,Masonry Saws,Trailers,Compaction - Rammers & Vibrating Plates,32,0.744186
+FRAN,ABIG1003,2,Miscellaneous - Tools,Access - Knuckle Booms,,41,0.353448
+FRAN,ABIG1003,2,Miscellaneous - Tools,Access - Straight Booms,,36,0.310345
+FRAN,ABIG1003,2,Miscellaneous - Tools,Air Accessories,,47,0.405172
+FRAN,ABIG1003,2,Miscellaneous - Tools,Air Breakers,,31,0.267241
+FRAN,ABIG1003,2,Miscellaneous - Tools,Air Compressors - Diesel Small,,46,0.396552
+FRAN,ABIG1003,2,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,,70,0.603448
+FRAN,ABIG1003,2,Miscellaneous - Tools,Compaction - Rollers - Other,,36,0.310345
+FRAN,ABIG1003,2,Miscellaneous - Tools,Compaction - Rollers - Single Drum Padfoot,,58,0.5
+FRAN,ABIG1003,2,Miscellaneous - Tools,Compaction - Rollers - Single Drum Smooth,,34,0.293103
+FRAN,ABIG1003,2,Miscellaneous - Tools,Concrete Vibe Units,,45,0.387931
+FRAN,ABIG1003,2,Miscellaneous - Tools,Generators - Diesel Small,,54,0.465517
+FRAN,ABIG1003,2,Miscellaneous - Tools,Generators - Petrol,,40,0.344828
+FRAN,ABIG1003,2,Miscellaneous - Tools,Lighting Towers,,51,0.439655
+FRAN,ABIG1003,2,Miscellaneous - Tools,Masonry Blades,,47,0.405172
+FRAN,ABIG1003,2,Miscellaneous - Tools,Masonry Saws,,53,0.456897
+FRAN,ABIG1003,2,Miscellaneous - Tools,Miscellaneous - Tools,,79,0.681034
+FRAN,ABIG1003,2,Miscellaneous - Tools,Pumps - Hoses,,43,0.37069
+FRAN,ABIG1003,2,Miscellaneous - Tools,Trailers,,31,0.267241
+FRAN,ABIG1003,3,Miscellaneous - Tools,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,34,0.73913
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,39,0.672414
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rollers - Single Drum Padfoot,Compaction - Rollers - Single Drum Padfoot,32,0.551724
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rollers - Single Drum Padfoot,Generators - Diesel Small,31,0.534483
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,32,0.457143
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,54,0.771429
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Compaction - Rollers - Single Drum Padfoot,32,0.457143
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,31,0.442857
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,34,0.485714
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Lighting Towers,35,0.5
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Masonry Blades,37,0.528571
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Masonry Saws,42,0.6
+FRAN,ABIG1003,3,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,36,0.514286
+FRAN,ABIG1003,3,Miscellaneous - Tools,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,37,0.685185
+FRAN,ABIG1003,3,Miscellaneous - Tools,Lighting Towers,Compaction - Rammers & Vibrating Plates,36,0.705882
+FRAN,ABIG1003,3,Miscellaneous - Tools,Lighting Towers,Generators - Diesel Small,32,0.627451
+FRAN,ABIG1003,3,Miscellaneous - Tools,Lighting Towers,Lighting Towers,33,0.647059
+FRAN,ABIG1003,3,Miscellaneous - Tools,Lighting Towers,Miscellaneous - Tools,33,0.647059
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Blades,Compaction - Rammers & Vibrating Plates,34,0.723404
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Blades,Lighting Towers,32,0.680851
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Blades,Masonry Saws,31,0.659574
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Saws,Compaction - Rammers & Vibrating Plates,38,0.716981
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Saws,Generators - Diesel Small,32,0.603774
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Saws,Lighting Towers,35,0.660377
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Saws,Masonry Saws,34,0.641509
+FRAN,ABIG1003,3,Miscellaneous - Tools,Masonry Saws,Miscellaneous - Tools,32,0.603774
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,46,0.582278
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Compaction - Rollers - Single Drum Padfoot,38,0.481013
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Concrete Vibe Units,32,0.405063
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Generators - Diesel Small,36,0.455696
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting Towers,32,0.405063
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Masonry Saws,32,0.405063
+FRAN,ABIG1003,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,54,0.683544
+FRAN,ABIG1003,3,Miscellaneous - Tools,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,34,0.790698
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Access - Knuckle Booms,,40,0.449438
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Air Accessories,,34,0.382022
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Air Compressors - Diesel Small,,37,0.41573
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,,55,0.617978
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Compaction - Rollers - Single Drum Padfoot,,52,0.58427
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Concrete Vibe Units,,41,0.460674
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Generators - Diesel Small,,42,0.47191
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Generators - Petrol,,36,0.404494
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Lighting Towers,,39,0.438202
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Masonry Blades,,35,0.393258
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Masonry Saws,,39,0.438202
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Miscellaneous - Tools,,51,0.573034
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Padfoot,Pumps - Hoses,,35,0.393258
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,32,0.615385
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Compaction - Rollers - Single Drum Padfoot,Compaction - Rollers - Single Drum Padfoot,31,0.596154
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,42,0.763636
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,Masonry Blades,31,0.563636
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,Masonry Saws,35,0.636364
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,31,0.563636
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,31,0.738095
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,34,0.666667
+FRAN,ABIG1003,3,Compaction - Rollers - Single Drum Padfoot,Miscellaneous - Tools,Miscellaneous - Tools,35,0.686275
+FRAN,ABIG1003,2,Pumps - Large,Compaction - Rammers & Vibrating Plates,,36,0.666667
+FRAN,ABIG1003,2,Pumps - Large,Generators - Diesel Small,,32,0.592593
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Access - Knuckle Booms,,31,0.424658
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Compaction - Rammers & Vibrating Plates,,44,0.60274
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Compaction - Rollers - Other,,35,0.479452
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Generators - Diesel Small,,35,0.479452
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Lighting Towers,,38,0.520548
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Masonry Blades,,35,0.479452
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Masonry Saws,,38,0.520548
+FRAN,ABIG1003,2,Compaction - Rollers - Other,Miscellaneous - Tools,,39,0.534247
+FRAN,ABIG1003,3,Compaction - Rollers - Other,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,31,0.704545
+FRAN,ABIG1003,3,Compaction - Rollers - Other,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,31,0.794872
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Smooth,Compaction - Rammers & Vibrating Plates,,33,0.622642
+FRAN,ABIG1003,2,Compaction - Rollers - Single Drum Smooth,Miscellaneous - Tools,,35,0.660377
+FRAN,ABIG1003,2,Concrete Vibe Units,Access - Knuckle Booms,,43,0.434343
+FRAN,ABIG1003,2,Concrete Vibe Units,Access - Straight Booms,,37,0.373737
+FRAN,ABIG1003,2,Concrete Vibe Units,Air Accessories,,32,0.323232
+FRAN,ABIG1003,2,Concrete Vibe Units,Air Compressors - Diesel Small,,38,0.383838
+FRAN,ABIG1003,2,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,,62,0.626263
+FRAN,ABIG1003,2,Concrete Vibe Units,Compaction - Rollers - Other,,31,0.313131
+FRAN,ABIG1003,2,Concrete Vibe Units,Compaction - Rollers - Single Drum Padfoot,,39,0.393939
+FRAN,ABIG1003,2,Concrete Vibe Units,Concrete Vibe Units,,60,0.606061
+FRAN,ABIG1003,2,Concrete Vibe Units,Generators - Diesel Small,,47,0.474747
+FRAN,ABIG1003,2,Concrete Vibe Units,Lighting Towers,,50,0.505051
+FRAN,ABIG1003,2,Concrete Vibe Units,Masonry Blades,,43,0.434343
+FRAN,ABIG1003,2,Concrete Vibe Units,Masonry Saws,,47,0.474747
+FRAN,ABIG1003,2,Concrete Vibe Units,Miscellaneous - Tools,,48,0.484848
+FRAN,ABIG1003,2,Concrete Vibe Units,Pumps - Hoses,,42,0.424242
+FRAN,ABIG1003,2,Concrete Vibe Units,Pumps - Small,,45,0.454545
+FRAN,ABIG1003,2,Concrete Vibe Units,Water Blasters,,31,0.313131
+FRAN,ABIG1003,3,Concrete Vibe Units,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,32,0.842105
+FRAN,ABIG1003,3,Concrete Vibe Units,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,32,0.864865
+FRAN,ABIG1003,3,Concrete Vibe Units,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,33,0.702128
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,46,0.741935
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,33,0.532258
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,35,0.564516
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Lighting Towers,35,0.564516
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Masonry Blades,34,0.548387
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Masonry Saws,38,0.612903
+FRAN,ABIG1003,3,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,39,0.629032
+FRAN,ABIG1003,3,Concrete Vibe Units,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,38,0.633333
+FRAN,ABIG1003,3,Concrete Vibe Units,Concrete Vibe Units,Concrete Vibe Units,38,0.633333
+FRAN,ABIG1003,3,Concrete Vibe Units,Concrete Vibe Units,Miscellaneous - Tools,32,0.533333
+FRAN,ABIG1003,3,Concrete Vibe Units,Lighting Towers,Compaction - Rammers & Vibrating Plates,35,0.7
+FRAN,ABIG1003,3,Concrete Vibe Units,Lighting Towers,Lighting Towers,36,0.72
+FRAN,ABIG1003,3,Concrete Vibe Units,Masonry Blades,Compaction - Rammers & Vibrating Plates,31,0.72093
+FRAN,ABIG1003,3,Concrete Vibe Units,Masonry Blades,Lighting Towers,31,0.72093
+FRAN,ABIG1003,3,Concrete Vibe Units,Masonry Saws,Compaction - Rammers & Vibrating Plates,36,0.765957
+FRAN,ABIG1003,3,Concrete Vibe Units,Masonry Saws,Lighting Towers,33,0.702128
+FRAN,ABIG1003,3,Concrete Vibe Units,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,31,0.645833
+FRAN,ABIG1003,3,Concrete Vibe Units,Miscellaneous - Tools,Miscellaneous - Tools,35,0.729167
+FRAN,ABIG1003,2,Air Breakers,Compaction - Rammers & Vibrating Plates,,31,0.688889
+FRAN,ABIG1003,2,Access - Straight Booms,Access - Knuckle Booms,,32,0.450704
+FRAN,ABIG1003,2,Access - Straight Booms,Access - Straight Booms,,35,0.492958
+FRAN,ABIG1003,2,Access - Straight Booms,Air Accessories,,33,0.464789
+FRAN,ABIG1003,2,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,,45,0.633803
+FRAN,ABIG1003,2,Access - Straight Booms,Compaction - Rollers - Single Drum Padfoot,,37,0.521127
+FRAN,ABIG1003,2,Access - Straight Booms,Generators - Diesel Small,,35,0.492958
+FRAN,ABIG1003,2,Access - Straight Booms,Lighting Towers,,37,0.521127
+FRAN,ABIG1003,2,Access - Straight Booms,Masonry Blades,,37,0.521127
+FRAN,ABIG1003,2,Access - Straight Booms,Masonry Saws,,41,0.577465
+FRAN,ABIG1003,2,Access - Straight Booms,Miscellaneous - Tools,,42,0.591549
+FRAN,ABIG1003,3,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,36,0.8
+FRAN,ABIG1003,3,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,Masonry Saws,32,0.711111
+FRAN,ABIG1003,2,Lighting Towers,Access - Knuckle Booms,,52,0.416
+FRAN,ABIG1003,2,Lighting Towers,Access - Straight Booms,,42,0.336
+FRAN,ABIG1003,2,Lighting Towers,Air Accessories,,41,0.328
+FRAN,ABIG1003,2,Lighting Towers,Air Compressors - Diesel Small,,45,0.36
+FRAN,ABIG1003,2,Lighting Towers,Air Hand Tools,,34,0.272
+FRAN,ABIG1003,2,Lighting Towers,Compaction - Rammers & Vibrating Plates,,71,0.568
+FRAN,ABIG1003,2,Lighting Towers,Compaction - Rollers - Other,,38,0.304
+FRAN,ABIG1003,2,Lighting Towers,Compaction - Rollers - Single Drum Padfoot,,45,0.36
+FRAN,ABIG1003,2,Lighting Towers,Compaction - Rollers - Single Drum Smooth,,32,0.256
+FRAN,ABIG1003,2,Lighting Towers,Concrete Vibe Units,,49,0.392
+FRAN,ABIG1003,2,Lighting Towers,Generators - Diesel Small,,54,0.432
+FRAN,ABIG1003,2,Lighting Towers,Generators - Petrol,,46,0.368
+FRAN,ABIG1003,2,Lighting Towers,Lighting Towers,,89,0.712
+FRAN,ABIG1003,2,Lighting Towers,Masonry Blades,,55,0.44
+FRAN,ABIG1003,2,Lighting Towers,Masonry Saws,,62,0.496
+FRAN,ABIG1003,2,Lighting Towers,Measurement Equipment,,34,0.272
+FRAN,ABIG1003,2,Lighting Towers,Miscellaneous - Tools,,55,0.44
+FRAN,ABIG1003,2,Lighting Towers,Power Tools & Accessories,,31,0.248
+FRAN,ABIG1003,2,Lighting Towers,Pumps - Hoses,,41,0.328
+FRAN,ABIG1003,2,Lighting Towers,Pumps - Large,,31,0.248
+FRAN,ABIG1003,2,Lighting Towers,Pumps - Small,,33,0.264
+FRAN,ABIG1003,2,Lighting Towers,Trailers,,35,0.28
+FRAN,ABIG1003,3,Lighting Towers,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,31,0.596154
+FRAN,ABIG1003,3,Lighting Towers,Access - Knuckle Booms,Lighting Towers,35,0.673077
+FRAN,ABIG1003,3,Lighting Towers,Access - Knuckle Booms,Masonry Saws,31,0.596154
+FRAN,ABIG1003,3,Lighting Towers,Access - Straight Booms,Compaction - Rammers & Vibrating Plates,31,0.738095
+FRAN,ABIG1003,3,Lighting Towers,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,31,0.688889
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,35,0.492958
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,31,0.43662
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,53,0.746479
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Concrete Vibe Units,34,0.478873
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,33,0.464789
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Generators - Petrol,34,0.478873
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Lighting Towers,49,0.690141
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Masonry Blades,43,0.605634
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Masonry Saws,51,0.71831
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,36,0.507042
+FRAN,ABIG1003,3,Lighting Towers,Compaction - Rollers - Single Drum Padfoot,Compaction - Rammers & Vibrating Plates,31,0.688889
+FRAN,ABIG1003,3,Lighting Towers,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,35,0.714286
+FRAN,ABIG1003,3,Lighting Towers,Concrete Vibe Units,Lighting Towers,33,0.673469
+FRAN,ABIG1003,3,Lighting Towers,Concrete Vibe Units,Masonry Saws,32,0.653061
+FRAN,ABIG1003,3,Lighting Towers,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,35,0.648148
+FRAN,ABIG1003,3,Lighting Towers,Generators - Diesel Small,Lighting Towers,34,0.62963
+FRAN,ABIG1003,3,Lighting Towers,Generators - Diesel Small,Masonry Blades,32,0.592593
+FRAN,ABIG1003,3,Lighting Towers,Generators - Diesel Small,Masonry Saws,36,0.666667
+FRAN,ABIG1003,3,Lighting Towers,Generators - Petrol,Compaction - Rammers & Vibrating Plates,33,0.717391
+FRAN,ABIG1003,3,Lighting Towers,Generators - Petrol,Generators - Diesel Small,31,0.673913
+FRAN,ABIG1003,3,Lighting Towers,Generators - Petrol,Masonry Saws,33,0.717391
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Access - Knuckle Booms,32,0.359551
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Air Compressors - Diesel Small,32,0.359551
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Compaction - Rammers & Vibrating Plates,46,0.516854
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Compaction - Rollers - Single Drum Padfoot,31,0.348315
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Concrete Vibe Units,31,0.348315
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Generators - Diesel Small,38,0.426966
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Generators - Petrol,31,0.348315
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Lighting Towers,67,0.752809
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Masonry Blades,42,0.47191
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Masonry Saws,47,0.52809
+FRAN,ABIG1003,3,Lighting Towers,Lighting Towers,Miscellaneous - Tools,40,0.449438
+FRAN,ABIG1003,3,Lighting Towers,Masonry Blades,Compaction - Rammers & Vibrating Plates,37,0.672727
+FRAN,ABIG1003,3,Lighting Towers,Masonry Blades,Generators - Diesel Small,34,0.618182
+FRAN,ABIG1003,3,Lighting Towers,Masonry Blades,Lighting Towers,38,0.690909
+FRAN,ABIG1003,3,Lighting Towers,Masonry Blades,Masonry Blades,38,0.690909
+FRAN,ABIG1003,3,Lighting Towers,Masonry Blades,Masonry Saws,41,0.745455
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Air Compressors - Diesel Small,32,0.516129
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Compaction - Rammers & Vibrating Plates,43,0.693548
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Generators - Diesel Small,36,0.580645
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Generators - Petrol,31,0.5
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Lighting Towers,42,0.677419
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Masonry Blades,38,0.612903
+FRAN,ABIG1003,3,Lighting Towers,Masonry Saws,Masonry Saws,43,0.693548
+FRAN,ABIG1003,3,Lighting Towers,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,40,0.727273
+FRAN,ABIG1003,3,Lighting Towers,Miscellaneous - Tools,Generators - Diesel Small,34,0.618182
+FRAN,ABIG1003,3,Lighting Towers,Miscellaneous - Tools,Lighting Towers,36,0.654545
+FRAN,ABIG1003,3,Lighting Towers,Miscellaneous - Tools,Masonry Saws,32,0.581818
+FRAN,ABIG1003,3,Lighting Towers,Miscellaneous - Tools,Miscellaneous - Tools,36,0.654545
+FRAN,ABIG1003,3,Lighting Towers,Pumps - Hoses,Compaction - Rammers & Vibrating Plates,31,0.756098
+FRAN,ABIG1003,2,Masonry Blades,Access - Knuckle Booms,,43,0.413462
+FRAN,ABIG1003,2,Masonry Blades,Access - Straight Booms,,39,0.375
+FRAN,ABIG1003,2,Masonry Blades,Air Accessories,,46,0.442308
+FRAN,ABIG1003,2,Masonry Blades,Air Compressors - Diesel Small,,51,0.490385
+FRAN,ABIG1003,2,Masonry Blades,Air Hand Tools,,34,0.326923
+FRAN,ABIG1003,2,Masonry Blades,Compaction - Rammers & Vibrating Plates,,65,0.625
+FRAN,ABIG1003,2,Masonry Blades,Compaction - Rollers - Other,,31,0.298077
+FRAN,ABIG1003,2,Masonry Blades,Compaction - Rollers - Single Drum Padfoot,,35,0.336538
+FRAN,ABIG1003,2,Masonry Blades,Concrete Vibe Units,,42,0.403846
+FRAN,ABIG1003,2,Masonry Blades,Generators - Diesel Small,,53,0.509615
+FRAN,ABIG1003,2,Masonry Blades,Generators - Petrol,,42,0.403846
+FRAN,ABIG1003,2,Masonry Blades,Lighting Towers,,59,0.567308
+FRAN,ABIG1003,2,Masonry Blades,Masonry Blades,,67,0.644231
+FRAN,ABIG1003,2,Masonry Blades,Masonry Saws,,72,0.692308
+FRAN,ABIG1003,2,Masonry Blades,Miscellaneous - Tools,,42,0.403846
+FRAN,ABIG1003,2,Masonry Blades,Power Tools & Accessories,,35,0.336538
+FRAN,ABIG1003,2,Masonry Blades,Pumps - Hoses,,35,0.336538
+FRAN,ABIG1003,2,Masonry Blades,Trailers,,39,0.375
+FRAN,ABIG1003,2,Masonry Blades,Water Blasters,,32,0.307692
+FRAN,ABIG1003,3,Masonry Blades,Air Accessories,Compaction - Rammers & Vibrating Plates,33,0.717391
+FRAN,ABIG1003,3,Masonry Blades,Air Compressors - Diesel Small,Air Compressors - Diesel Small,34,0.666667
+FRAN,ABIG1003,3,Masonry Blades,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,38,0.745098
+FRAN,ABIG1003,3,Masonry Blades,Air Compressors - Diesel Small,Generators - Diesel Small,31,0.607843
+FRAN,ABIG1003,3,Masonry Blades,Air Compressors - Diesel Small,Miscellaneous - Tools,32,0.627451
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,32,0.492308
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Air Accessories,31,0.476923
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,33,0.507692
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,49,0.753846
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Generators - Petrol,31,0.476923
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Lighting Towers,42,0.646154
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Masonry Blades,39,0.6
+FRAN,ABIG1003,3,Masonry Blades,Compaction - Rammers & Vibrating Plates,Masonry Saws,44,0.676923
+FRAN,ABIG1003,3,Masonry Blades,Concrete Vibe Units,Compaction - Rammers & Vibrating Plates,32,0.761905
+FRAN,ABIG1003,3,Masonry Blades,Concrete Vibe Units,Lighting Towers,31,0.738095
+FRAN,ABIG1003,3,Masonry Blades,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,34,0.641509
+FRAN,ABIG1003,3,Masonry Blades,Generators - Diesel Small,Lighting Towers,32,0.603774
+FRAN,ABIG1003,3,Masonry Blades,Generators - Diesel Small,Masonry Blades,31,0.584906
+FRAN,ABIG1003,3,Masonry Blades,Generators - Diesel Small,Masonry Saws,35,0.660377
+FRAN,ABIG1003,3,Masonry Blades,Generators - Petrol,Compaction - Rammers & Vibrating Plates,34,0.809524
+FRAN,ABIG1003,3,Masonry Blades,Generators - Petrol,Masonry Saws,31,0.738095
+FRAN,ABIG1003,3,Masonry Blades,Lighting Towers,Compaction - Rammers & Vibrating Plates,40,0.677966
+FRAN,ABIG1003,3,Masonry Blades,Lighting Towers,Generators - Diesel Small,36,0.610169
+FRAN,ABIG1003,3,Masonry Blades,Lighting Towers,Lighting Towers,42,0.711864
+FRAN,ABIG1003,3,Masonry Blades,Lighting Towers,Masonry Blades,35,0.59322
+FRAN,ABIG1003,3,Masonry Blades,Lighting Towers,Masonry Saws,37,0.627119
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Access - Straight Booms,31,0.462687
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Air Accessories,36,0.537313
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Air Compressors - Diesel Small,39,0.58209
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Compaction - Rammers & Vibrating Plates,41,0.61194
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Generators - Diesel Small,34,0.507463
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Lighting Towers,41,0.61194
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Masonry Blades,45,0.671642
+FRAN,ABIG1003,3,Masonry Blades,Masonry Blades,Masonry Saws,49,0.731343
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Access - Straight Booms,32,0.444444
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Air Accessories,36,0.5
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Air Compressors - Diesel Small,40,0.555556
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Compaction - Rammers & Vibrating Plates,44,0.611111
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Generators - Diesel Small,38,0.527778
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Generators - Petrol,32,0.444444
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Lighting Towers,41,0.569444
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Masonry Blades,42,0.583333
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Masonry Saws,51,0.708333
+FRAN,ABIG1003,3,Masonry Blades,Masonry Saws,Miscellaneous - Tools,33,0.458333
+FRAN,ABIG1003,3,Masonry Blades,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,33,0.785714
+FRAN,ABIG1003,2,Pumps - Small,Compaction - Rammers & Vibrating Plates,,45,0.608108
+FRAN,ABIG1003,2,Pumps - Small,Concrete Vibe Units,,40,0.540541
+FRAN,ABIG1003,2,Pumps - Small,Generators - Diesel Small,,36,0.486486
+FRAN,ABIG1003,2,Pumps - Small,Lighting Towers,,36,0.486486
+FRAN,ABIG1003,2,Pumps - Small,Masonry Saws,,34,0.459459
+FRAN,ABIG1003,2,Pumps - Small,Miscellaneous - Tools,,36,0.486486
+FRAN,ABIG1003,2,Pumps - Small,Pumps - Hoses,,40,0.540541
+FRAN,ABIG1003,2,Pumps - Small,Pumps - Small,,46,0.621622
+FRAN,ABIG1003,3,Pumps - Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,31,0.688889
+FRAN,ABIG1003,2,Trailers,Access - Knuckle Booms,,31,0.43662
+FRAN,ABIG1003,2,Trailers,Air Accessories,,32,0.450704
+FRAN,ABIG1003,2,Trailers,Air Compressors - Diesel Small,,32,0.450704
+FRAN,ABIG1003,2,Trailers,Compaction - Rammers & Vibrating Plates,,43,0.605634
+FRAN,ABIG1003,2,Trailers,Generators - Diesel Small,,32,0.450704
+FRAN,ABIG1003,2,Trailers,Generators - Petrol,,32,0.450704
+FRAN,ABIG1003,2,Trailers,Lighting Towers,,36,0.507042
+FRAN,ABIG1003,2,Trailers,Masonry Blades,,34,0.478873
+FRAN,ABIG1003,2,Trailers,Masonry Saws,,38,0.535211
+FRAN,ABIG1003,2,Trailers,Miscellaneous - Tools,,35,0.492958
+FRAN,ABIG1003,2,Trailers,Trailers,,37,0.521127
+FRAN,ABIG1003,3,Trailers,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,32,0.744186
+FRAN,ABIG1003,2,Earthmoving - Excavators - Attachments,Compaction - Rammers & Vibrating Plates,,32,0.680851
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,36,0.391304
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Access - Straight Booms,,33,0.358696
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Air Accessories,,50,0.543478
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,57,0.619565
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,60,0.652174
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Compaction - Rollers - Other,,32,0.347826
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Compaction - Rollers - Single Drum Padfoot,,40,0.434783
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Concrete Vibe Units,,33,0.358696
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Generators - Diesel Small,,45,0.48913
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Generators - Petrol,,36,0.391304
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Lighting Towers,,45,0.48913
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Masonry Blades,,42,0.456522
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Masonry Saws,,46,0.5
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Miscellaneous - Tools,,45,0.48913
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Pumps - Hoses,,32,0.347826
+FRAN,ABIG1003,2,Air Compressors - Diesel Small,Trailers,,33,0.358696
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,34,0.68
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,34,0.68
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,33,0.733333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,39,0.684211
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,42,0.736842
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,35,0.614035
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Masonry Saws,33,0.578947
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Compaction - Rammers & Vibrating Plates,34,0.755556
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Miscellaneous - Tools,31,0.688889
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Lighting Towers,Compaction - Rammers & Vibrating Plates,33,0.733333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Lighting Towers,Masonry Saws,33,0.733333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Accessories,32,0.533333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,35,0.583333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,46,0.766667
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Generators - Diesel Small,34,0.566667
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Lighting Towers,32,0.533333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Masonry Blades,40,0.666667
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Masonry Saws,44,0.733333
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,Miscellaneous - Tools,34,0.566667
+FRAN,ABIG1003,3,Air Compressors - Diesel Small,Masonry Saws,Masonry Saws,31,0.673913
+FRAN,ABIG1003,2,Water Blasters,Compaction - Rammers & Vibrating Plates,,36,0.631579
+FRAN,ABIG1003,2,Water Blasters,Concrete Vibe Units,,32,0.561404
+FRAN,ABIG1003,2,Electrical Leads & Accessories,Compaction - Rammers & Vibrating Plates,,33,0.75
+FRAN,ABIG1003,2,Power Tools & Accessories,Compaction - Rammers & Vibrating Plates,,32,0.581818
+FRAN,ABIG1003,2,Power Tools & Accessories,Masonry Blades,,31,0.563636
+FRAN,ABIG1003,2,Power Tools & Accessories,Masonry Saws,,33,0.6
+FRAN,ABIG1003,2,Air Accessories,Access - Knuckle Booms,,35,0.416667
+FRAN,ABIG1003,2,Air Accessories,Air Accessories,,50,0.595238
+FRAN,ABIG1003,2,Air Accessories,Air Compressors - Diesel Small,,48,0.571429
+FRAN,ABIG1003,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,49,0.583333
+FRAN,ABIG1003,2,Air Accessories,Compaction - Rollers - Single Drum Padfoot,,38,0.452381
+FRAN,ABIG1003,2,Air Accessories,Concrete Vibe Units,,31,0.369048
+FRAN,ABIG1003,2,Air Accessories,Generators - Diesel Small,,42,0.5
+FRAN,ABIG1003,2,Air Accessories,Generators - Petrol,,37,0.440476
+FRAN,ABIG1003,2,Air Accessories,Lighting Towers,,43,0.511905
+FRAN,ABIG1003,2,Air Accessories,Masonry Blades,,41,0.488095
+FRAN,ABIG1003,2,Air Accessories,Masonry Saws,,44,0.52381
+FRAN,ABIG1003,2,Air Accessories,Miscellaneous - Tools,,42,0.5
+FRAN,ABIG1003,3,Air Accessories,Air Accessories,Air Accessories,32,0.64
+FRAN,ABIG1003,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,33,0.66
+FRAN,ABIG1003,3,Air Accessories,Generators - Diesel Small,Compaction - Rammers & Vibrating Plates,32,0.761905
+FRAN,ABIG1003,3,Air Accessories,Masonry Saws,Masonry Saws,31,0.704545
+FRAN,ABIG1003,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,31,0.645833
+FRAN,ABIG1003,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,35,0.729167
+FRAN,ABIG1003,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,37,0.755102
+FRAN,ABIG1003,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Masonry Blades,35,0.714286
+FRAN,ABIG1003,3,Air Accessories,Compaction - Rammers & Vibrating Plates,Masonry Saws,38,0.77551

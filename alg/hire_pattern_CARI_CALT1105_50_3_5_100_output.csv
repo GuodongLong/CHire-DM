@@ -1,0 +1,11 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+CARI,CALT1105,1,Materials Handling - Forklift,,,98,1
+CARI,CALT1105,1,Welders - Motorised,,,54,1
+CARI,CALT1105,1,Fans,,,78,1
+CARI,CALT1105,1,Air Compressors - Diesel Small,,,112,1
+CARI,CALT1105,1,Concrete,,,59,1
+CARI,CALT1105,2,Materials Handling - Forklift,Concrete,,52,0.530612
+CARI,CALT1105,2,Materials Handling - Forklift,Materials Handling - Forklift,,67,0.683673
+CARI,CALT1105,3,Materials Handling - Forklift,Materials Handling - Forklift,Materials Handling - Forklift,56,0.835821
+CARI,CALT1105,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,64,0.571429
+CARI,CALT1105,2,Concrete,Materials Handling - Forklift,,51,0.864407

@@ -1,0 +1,185 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+KART,PILB8450,1,Generators - Accessories,,,35,1
+KART,PILB8450,1,Lighting Towers,,,123,1
+KART,PILB8450,1,Air Compressors - Diesel Small,,,41,1
+KART,PILB8450,1,Access - Knuckle Booms,,,96,1
+KART,PILB8450,1,Lighting - Other,,,41,1
+KART,PILB8450,1,Winches,,,36,1
+KART,PILB8450,1,Electrical Leads & Accessories,,,50,1
+KART,PILB8450,1,Industrial Tools & Equipment,,,56,1
+KART,PILB8450,1,Welders - Accessories,,,50,1
+KART,PILB8450,1,Welders - Motorised,,,65,1
+KART,PILB8450,1,Generators - Diesel Small,,,51,1
+KART,PILB8450,1,Miscellaneous - Tools,,,61,1
+KART,PILB8450,1,Power Tools & Accessories,,,52,1
+KART,PILB8450,1,Welders - Electric,,,40,1
+KART,PILB8450,2,Lighting - Other,Electrical Leads & Accessories,,32,0.780488
+KART,PILB8450,2,Lighting - Other,Industrial Tools & Equipment,,33,0.804878
+KART,PILB8450,2,Lighting - Other,Miscellaneous - Tools,,33,0.804878
+KART,PILB8450,2,Lighting - Other,Power Tools & Accessories,,34,0.829268
+KART,PILB8450,2,Lighting - Other,Welders - Electric,,31,0.756098
+KART,PILB8450,3,Lighting - Other,Electrical Leads & Accessories,Industrial Tools & Equipment,31,0.96875
+KART,PILB8450,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,31,0.939394
+KART,PILB8450,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,32,0.969697
+KART,PILB8450,3,Lighting - Other,Industrial Tools & Equipment,Power Tools & Accessories,31,0.939394
+KART,PILB8450,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,31,0.939394
+KART,PILB8450,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,31,0.939394
+KART,PILB8450,3,Lighting - Other,Miscellaneous - Tools,Power Tools & Accessories,31,0.939394
+KART,PILB8450,3,Lighting - Other,Power Tools & Accessories,Industrial Tools & Equipment,31,0.911765
+KART,PILB8450,3,Lighting - Other,Power Tools & Accessories,Miscellaneous - Tools,32,0.941176
+KART,PILB8450,3,Lighting - Other,Power Tools & Accessories,Power Tools & Accessories,31,0.911765
+KART,PILB8450,2,Lighting Towers,Access - Knuckle Booms,,55,0.447154
+KART,PILB8450,2,Lighting Towers,Generators - Diesel Small,,32,0.260163
+KART,PILB8450,2,Lighting Towers,Lighting Towers,,71,0.577236
+KART,PILB8450,2,Lighting Towers,Welders - Motorised,,39,0.317073
+KART,PILB8450,3,Lighting Towers,Access - Knuckle Booms,Lighting Towers,31,0.563636
+KART,PILB8450,3,Lighting Towers,Lighting Towers,Access - Knuckle Booms,38,0.535211
+KART,PILB8450,3,Lighting Towers,Lighting Towers,Lighting Towers,42,0.591549
+KART,PILB8450,2,Access - Knuckle Booms,Access - Knuckle Booms,,37,0.385417
+KART,PILB8450,2,Access - Knuckle Booms,Lighting Towers,,54,0.5625
+KART,PILB8450,2,Access - Knuckle Booms,Welders - Motorised,,35,0.364583
+KART,PILB8450,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,37,0.660714
+KART,PILB8450,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,47,0.839286
+KART,PILB8450,2,Industrial Tools & Equipment,Lighting - Other,,31,0.553571
+KART,PILB8450,2,Industrial Tools & Equipment,Miscellaneous - Tools,,46,0.821429
+KART,PILB8450,2,Industrial Tools & Equipment,Power Tools & Accessories,,45,0.803571
+KART,PILB8450,2,Industrial Tools & Equipment,Welders - Electric,,37,0.660714
+KART,PILB8450,2,Industrial Tools & Equipment,Winches,,34,0.607143
+KART,PILB8450,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,32,0.864865
+KART,PILB8450,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,35,0.945946
+KART,PILB8450,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,34,0.918919
+KART,PILB8450,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,34,0.918919
+KART,PILB8450,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Electric,32,0.864865
+KART,PILB8450,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,32,0.695652
+KART,PILB8450,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,40,0.869565
+KART,PILB8450,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,40,0.869565
+KART,PILB8450,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,39,0.847826
+KART,PILB8450,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Electric,34,0.73913
+KART,PILB8450,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,33,0.891892
+KART,PILB8450,3,Industrial Tools & Equipment,Welders - Electric,Miscellaneous - Tools,33,0.891892
+KART,PILB8450,3,Industrial Tools & Equipment,Welders - Electric,Power Tools & Accessories,34,0.918919
+KART,PILB8450,3,Industrial Tools & Equipment,Welders - Electric,Welders - Electric,31,0.837838
+KART,PILB8450,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,33,0.702128
+KART,PILB8450,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,41,0.87234
+KART,PILB8450,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.851064
+KART,PILB8450,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,40,0.851064
+KART,PILB8450,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Electric,34,0.723404
+KART,PILB8450,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,31,0.911765
+KART,PILB8450,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,31,0.911765
+KART,PILB8450,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,33,0.970588
+KART,PILB8450,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,32,0.711111
+KART,PILB8450,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,38,0.844444
+KART,PILB8450,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,38,0.844444
+KART,PILB8450,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,39,0.866667
+KART,PILB8450,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Electric,34,0.755556
+KART,PILB8450,2,Winches,Industrial Tools & Equipment,,32,0.888889
+KART,PILB8450,2,Winches,Miscellaneous - Tools,,32,0.888889
+KART,PILB8450,2,Winches,Power Tools & Accessories,,34,0.944444
+KART,PILB8450,2,Winches,Welders - Electric,,31,0.861111
+KART,PILB8450,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,37,0.74
+KART,PILB8450,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,40,0.8
+KART,PILB8450,2,Electrical Leads & Accessories,Miscellaneous - Tools,,39,0.78
+KART,PILB8450,2,Electrical Leads & Accessories,Power Tools & Accessories,,39,0.78
+KART,PILB8450,2,Electrical Leads & Accessories,Welders - Electric,,35,0.7
+KART,PILB8450,2,Electrical Leads & Accessories,Winches,,32,0.64
+KART,PILB8450,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,32,0.864865
+KART,PILB8450,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,35,0.945946
+KART,PILB8450,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,34,0.918919
+KART,PILB8450,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,34,0.918919
+KART,PILB8450,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Electric,31,0.837838
+KART,PILB8450,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,31,0.775
+KART,PILB8450,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,35,0.875
+KART,PILB8450,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,35,0.875
+KART,PILB8450,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,36,0.9
+KART,PILB8450,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Electric,32,0.8
+KART,PILB8450,3,Electrical Leads & Accessories,Winches,Power Tools & Accessories,31,0.96875
+KART,PILB8450,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,31,0.794872
+KART,PILB8450,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,35,0.897436
+KART,PILB8450,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,35,0.897436
+KART,PILB8450,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,36,0.923077
+KART,PILB8450,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Electric,33,0.846154
+KART,PILB8450,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,31,0.794872
+KART,PILB8450,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,35,0.897436
+KART,PILB8450,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,35,0.897436
+KART,PILB8450,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,36,0.923077
+KART,PILB8450,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Electric,32,0.820513
+KART,PILB8450,3,Electrical Leads & Accessories,Welders - Electric,Industrial Tools & Equipment,32,0.914286
+KART,PILB8450,3,Electrical Leads & Accessories,Welders - Electric,Miscellaneous - Tools,32,0.914286
+KART,PILB8450,3,Electrical Leads & Accessories,Welders - Electric,Power Tools & Accessories,33,0.942857
+KART,PILB8450,3,Electrical Leads & Accessories,Welders - Electric,Welders - Electric,31,0.885714
+KART,PILB8450,2,Power Tools & Accessories,Electrical Leads & Accessories,,35,0.673077
+KART,PILB8450,2,Power Tools & Accessories,Industrial Tools & Equipment,,42,0.807692
+KART,PILB8450,2,Power Tools & Accessories,Miscellaneous - Tools,,42,0.807692
+KART,PILB8450,2,Power Tools & Accessories,Power Tools & Accessories,,43,0.826923
+KART,PILB8450,2,Power Tools & Accessories,Welders - Electric,,36,0.692308
+KART,PILB8450,2,Power Tools & Accessories,Winches,,32,0.615385
+KART,PILB8450,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,33,0.942857
+KART,PILB8450,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,32,0.914286
+KART,PILB8450,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,32,0.914286
+KART,PILB8450,3,Power Tools & Accessories,Welders - Electric,Industrial Tools & Equipment,32,0.888889
+KART,PILB8450,3,Power Tools & Accessories,Welders - Electric,Miscellaneous - Tools,32,0.888889
+KART,PILB8450,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,33,0.916667
+KART,PILB8450,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,36,0.857143
+KART,PILB8450,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,37,0.880952
+KART,PILB8450,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,35,0.833333
+KART,PILB8450,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Electric,32,0.761905
+KART,PILB8450,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,36,0.857143
+KART,PILB8450,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,36,0.857143
+KART,PILB8450,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,35,0.833333
+KART,PILB8450,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Electric,32,0.761905
+KART,PILB8450,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,36,0.837209
+KART,PILB8450,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,36,0.837209
+KART,PILB8450,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,37,0.860465
+KART,PILB8450,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,32,0.744186
+KART,PILB8450,3,Power Tools & Accessories,Winches,Power Tools & Accessories,31,0.96875
+KART,PILB8450,2,Welders - Motorised,Lighting Towers,,39,0.6
+KART,PILB8450,2,Generators - Diesel Small,Lighting Towers,,34,0.666667
+KART,PILB8450,2,Miscellaneous - Tools,Electrical Leads & Accessories,,38,0.622951
+KART,PILB8450,2,Miscellaneous - Tools,Industrial Tools & Equipment,,48,0.786885
+KART,PILB8450,2,Miscellaneous - Tools,Lighting - Other,,32,0.52459
+KART,PILB8450,2,Miscellaneous - Tools,Miscellaneous - Tools,,51,0.836066
+KART,PILB8450,2,Miscellaneous - Tools,Power Tools & Accessories,,47,0.770492
+KART,PILB8450,2,Miscellaneous - Tools,Welders - Electric,,39,0.639344
+KART,PILB8450,2,Miscellaneous - Tools,Winches,,34,0.557377
+KART,PILB8450,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,33,0.868421
+KART,PILB8450,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,36,0.947368
+KART,PILB8450,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,35,0.921053
+KART,PILB8450,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,35,0.921053
+KART,PILB8450,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Electric,33,0.868421
+KART,PILB8450,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,33,0.6875
+KART,PILB8450,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,42,0.875
+KART,PILB8450,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.875
+KART,PILB8450,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,41,0.854167
+KART,PILB8450,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Electric,35,0.729167
+KART,PILB8450,3,Miscellaneous - Tools,Lighting - Other,Power Tools & Accessories,31,0.96875
+KART,PILB8450,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,35,0.897436
+KART,PILB8450,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,35,0.897436
+KART,PILB8450,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,36,0.923077
+KART,PILB8450,3,Miscellaneous - Tools,Welders - Electric,Welders - Electric,33,0.846154
+KART,PILB8450,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,31,0.911765
+KART,PILB8450,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,31,0.911765
+KART,PILB8450,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,33,0.970588
+KART,PILB8450,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,34,0.666667
+KART,PILB8450,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,43,0.843137
+KART,PILB8450,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,44,0.862745
+KART,PILB8450,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,42,0.823529
+KART,PILB8450,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,35,0.686275
+KART,PILB8450,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,31,0.607843
+KART,PILB8450,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,33,0.702128
+KART,PILB8450,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,40,0.851064
+KART,PILB8450,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,40,0.851064
+KART,PILB8450,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,41,0.87234
+KART,PILB8450,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Electric,35,0.744681
+KART,PILB8450,2,Welders - Electric,Industrial Tools & Equipment,,35,0.875
+KART,PILB8450,2,Welders - Electric,Miscellaneous - Tools,,35,0.875
+KART,PILB8450,2,Welders - Electric,Power Tools & Accessories,,36,0.9
+KART,PILB8450,2,Welders - Electric,Welders - Electric,,33,0.825
+KART,PILB8450,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,31,0.885714
+KART,PILB8450,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,31,0.885714
+KART,PILB8450,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,31,0.885714
+KART,PILB8450,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,31,0.885714
+KART,PILB8450,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,31,0.885714
+KART,PILB8450,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,31,0.885714
+KART,PILB8450,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,31,0.861111
+KART,PILB8450,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,31,0.861111
+KART,PILB8450,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,32,0.888889

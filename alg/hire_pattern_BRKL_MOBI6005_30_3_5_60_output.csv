@@ -1,0 +1,1469 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+BRKL,MOBI6005,1,Concrete Vibe Units,,,35,1
+BRKL,MOBI6005,1,Air Accessories,,,36,1
+BRKL,MOBI6005,1,Air Breakers,,,70,1
+BRKL,MOBI6005,1,Lighting Towers,,,38,1
+BRKL,MOBI6005,1,Compaction - Rammers & Vibrating Plates,,,38,1
+BRKL,MOBI6005,1,Masonry Saws,,,66,1
+BRKL,MOBI6005,1,Air Compressors - Diesel Small,,,47,1
+BRKL,MOBI6005,1,Welders - Accessories,,,40,1
+BRKL,MOBI6005,1,Welders - Motorised,,,62,1
+BRKL,MOBI6005,1,Masonry Blades,,,67,1
+BRKL,MOBI6005,1,Power Tools & Accessories,,,50,1
+BRKL,MOBI6005,1,Fans,,,33,1
+BRKL,MOBI6005,1,Miscellaneous - Tools,,,50,1
+BRKL,MOBI6005,1,Concrete,,,48,1
+BRKL,MOBI6005,1,Generators - Diesel Small,,,41,1
+BRKL,MOBI6005,1,Air Hand Tools,,,60,1
+BRKL,MOBI6005,1,Generators - Accessories,,,38,1
+BRKL,MOBI6005,1,Jacking,,,40,1
+BRKL,MOBI6005,1,Lighting - Other,,,39,1
+BRKL,MOBI6005,1,Industrial Tools & Equipment,,,44,1
+BRKL,MOBI6005,1,Materials Handling - Forklift,,,52,1
+BRKL,MOBI6005,1,Bolting Tools,,,37,1
+BRKL,MOBI6005,2,Power Tools & Accessories,Power Tools & Accessories,,31,0.62
+BRKL,MOBI6005,2,Welders - Motorised,Air Hand Tools,,41,0.66129
+BRKL,MOBI6005,2,Welders - Motorised,Bolting Tools,,34,0.548387
+BRKL,MOBI6005,2,Welders - Motorised,Concrete,,37,0.596774
+BRKL,MOBI6005,2,Welders - Motorised,Generators - Accessories,,35,0.564516
+BRKL,MOBI6005,2,Welders - Motorised,Industrial Tools & Equipment,,37,0.596774
+BRKL,MOBI6005,2,Welders - Motorised,Jacking,,35,0.564516
+BRKL,MOBI6005,2,Welders - Motorised,Lighting - Other,,35,0.564516
+BRKL,MOBI6005,2,Welders - Motorised,Lighting Towers,,34,0.548387
+BRKL,MOBI6005,2,Welders - Motorised,Materials Handling - Forklift,,39,0.629032
+BRKL,MOBI6005,2,Welders - Motorised,Miscellaneous - Tools,,37,0.596774
+BRKL,MOBI6005,2,Welders - Motorised,Power Tools & Accessories,,36,0.580645
+BRKL,MOBI6005,2,Welders - Motorised,Welders - Motorised,,41,0.66129
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Air Hand Tools,37,0.902439
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Bolting Tools,33,0.804878
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Concrete,36,0.878049
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Generators - Accessories,33,0.804878
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Industrial Tools & Equipment,35,0.853659
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Jacking,33,0.804878
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Lighting - Other,34,0.829268
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Lighting Towers,33,0.804878
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Materials Handling - Forklift,36,0.878049
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Miscellaneous - Tools,36,0.878049
+BRKL,MOBI6005,3,Welders - Motorised,Air Hand Tools,Welders - Motorised,33,0.804878
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Bolting Tools,33,0.970588
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Concrete,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Generators - Accessories,33,0.970588
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Industrial Tools & Equipment,33,0.970588
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Jacking,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Lighting - Other,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Lighting Towers,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Lighting Towers,Welders - Motorised,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Bolting Tools,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Concrete,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Generators - Accessories,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Jacking,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Lighting - Other,33,0.970588
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Lighting Towers,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Welders - Motorised,Bolting Tools,Welders - Motorised,32,0.941176
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Concrete,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Generators - Accessories,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Industrial Tools & Equipment,35,0.945946
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Jacking,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Lighting - Other,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Lighting Towers,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Concrete,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Air Hand Tools,37,0.948718
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Bolting Tools,34,0.871795
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Concrete,38,0.974359
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Generators - Accessories,34,0.871795
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Industrial Tools & Equipment,37,0.948718
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Jacking,34,0.871795
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Lighting - Other,34,0.871795
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Lighting Towers,34,0.871795
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Miscellaneous - Tools,38,0.974359
+BRKL,MOBI6005,3,Welders - Motorised,Materials Handling - Forklift,Welders - Motorised,34,0.871795
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Air Hand Tools,35,1
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Bolting Tools,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Concrete,35,1
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Generators - Accessories,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Industrial Tools & Equipment,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Jacking,33,0.942857
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Lighting - Other,33,0.942857
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Lighting Towers,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Welders - Motorised,Generators - Accessories,Welders - Motorised,33,0.942857
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Concrete,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Jacking,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Welders - Motorised,Industrial Tools & Equipment,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Air Hand Tools,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Bolting Tools,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Concrete,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Generators - Accessories,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Industrial Tools & Equipment,33,0.942857
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Jacking,33,0.942857
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Lighting - Other,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Lighting Towers,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Materials Handling - Forklift,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Miscellaneous - Tools,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Jacking,Welders - Motorised,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Air Hand Tools,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Bolting Tools,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Concrete,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Generators - Accessories,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Industrial Tools & Equipment,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Jacking,31,0.885714
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Lighting - Other,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Lighting Towers,32,0.914286
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Miscellaneous - Tools,34,0.971429
+BRKL,MOBI6005,3,Welders - Motorised,Lighting - Other,Welders - Motorised,31,0.885714
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Concrete,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Jacking,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Lighting - Other,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Welders - Motorised,Miscellaneous - Tools,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Air Hand Tools,36,0.878049
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Bolting Tools,34,0.829268
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Concrete,37,0.902439
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Generators - Accessories,34,0.829268
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Industrial Tools & Equipment,36,0.878049
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Jacking,34,0.829268
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Lighting - Other,35,0.853659
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Lighting Towers,34,0.829268
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Materials Handling - Forklift,38,0.926829
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Miscellaneous - Tools,36,0.878049
+BRKL,MOBI6005,3,Welders - Motorised,Welders - Motorised,Welders - Motorised,37,0.902439
+BRKL,MOBI6005,2,Air Breakers,Air Breakers,,32,0.457143
+BRKL,MOBI6005,2,Lighting Towers,Air Hand Tools,,37,0.973684
+BRKL,MOBI6005,2,Lighting Towers,Bolting Tools,,34,0.894737
+BRKL,MOBI6005,2,Lighting Towers,Concrete,,37,0.973684
+BRKL,MOBI6005,2,Lighting Towers,Generators - Accessories,,35,0.921053
+BRKL,MOBI6005,2,Lighting Towers,Industrial Tools & Equipment,,36,0.947368
+BRKL,MOBI6005,2,Lighting Towers,Jacking,,34,0.894737
+BRKL,MOBI6005,2,Lighting Towers,Lighting - Other,,34,0.894737
+BRKL,MOBI6005,2,Lighting Towers,Lighting Towers,,36,0.947368
+BRKL,MOBI6005,2,Lighting Towers,Materials Handling - Forklift,,37,0.973684
+BRKL,MOBI6005,2,Lighting Towers,Miscellaneous - Tools,,37,0.973684
+BRKL,MOBI6005,2,Lighting Towers,Welders - Motorised,,34,0.894737
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Concrete,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Jacking,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Lighting Towers,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Lighting Towers,Air Hand Tools,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Air Hand Tools,35,0.972222
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Concrete,35,0.972222
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Generators - Accessories,33,0.916667
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Jacking,32,0.888889
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Lighting Towers,32,0.888889
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Lighting Towers,Industrial Tools & Equipment,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Bolting Tools,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Concrete,34,1
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Generators - Accessories,32,0.941176
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Jacking,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Lighting - Other,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Lighting Towers,32,0.941176
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Lighting Towers,Bolting Tools,Welders - Motorised,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Concrete,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Jacking,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Lighting Towers,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Lighting Towers,Concrete,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Air Hand Tools,35,1
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Bolting Tools,33,0.942857
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Concrete,35,1
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Generators - Accessories,34,0.971429
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Industrial Tools & Equipment,34,0.971429
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Jacking,33,0.942857
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Lighting - Other,33,0.942857
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Lighting Towers,33,0.942857
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Lighting Towers,Generators - Accessories,Welders - Motorised,32,0.914286
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Bolting Tools,32,0.941176
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Concrete,34,1
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Generators - Accessories,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Industrial Tools & Equipment,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Jacking,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Lighting - Other,32,0.941176
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Lighting Towers,32,0.941176
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Lighting Towers,Jacking,Welders - Motorised,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Concrete,36,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Jacking,33,0.916667
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Lighting Towers,35,0.972222
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting Towers,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Air Hand Tools,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Bolting Tools,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Concrete,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Generators - Accessories,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Lighting - Other,34,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Lighting Towers,Lighting - Other,Welders - Motorised,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Concrete,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Jacking,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Lighting Towers,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Lighting Towers,Materials Handling - Forklift,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Concrete,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Jacking,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Lighting Towers,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Lighting Towers,Miscellaneous - Tools,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Air Hand Tools,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Bolting Tools,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Concrete,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Generators - Accessories,32,0.941176
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Jacking,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Lighting - Other,33,0.970588
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Lighting Towers,31,0.911765
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Lighting Towers,Welders - Motorised,Welders - Motorised,33,0.970588
+BRKL,MOBI6005,2,Miscellaneous - Tools,Air Hand Tools,,41,0.82
+BRKL,MOBI6005,2,Miscellaneous - Tools,Bolting Tools,,37,0.74
+BRKL,MOBI6005,2,Miscellaneous - Tools,Concrete,,41,0.82
+BRKL,MOBI6005,2,Miscellaneous - Tools,Generators - Accessories,,38,0.76
+BRKL,MOBI6005,2,Miscellaneous - Tools,Industrial Tools & Equipment,,43,0.86
+BRKL,MOBI6005,2,Miscellaneous - Tools,Jacking,,38,0.76
+BRKL,MOBI6005,2,Miscellaneous - Tools,Lighting - Other,,37,0.74
+BRKL,MOBI6005,2,Miscellaneous - Tools,Lighting Towers,,37,0.74
+BRKL,MOBI6005,2,Miscellaneous - Tools,Materials Handling - Forklift,,48,0.96
+BRKL,MOBI6005,2,Miscellaneous - Tools,Miscellaneous - Tools,,47,0.94
+BRKL,MOBI6005,2,Miscellaneous - Tools,Welders - Motorised,,37,0.74
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Air Hand Tools,40,0.97561
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Bolting Tools,36,0.878049
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Concrete,40,0.97561
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Generators - Accessories,37,0.902439
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Industrial Tools & Equipment,40,0.97561
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Jacking,37,0.902439
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Lighting - Other,37,0.902439
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Lighting Towers,36,0.878049
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Materials Handling - Forklift,41,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Miscellaneous - Tools,41,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Air Hand Tools,Welders - Motorised,35,0.853659
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Bolting Tools,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Concrete,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Jacking,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Bolting Tools,Welders - Motorised,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Air Hand Tools,40,0.833333
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Bolting Tools,36,0.75
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Concrete,41,0.854167
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Generators - Accessories,38,0.791667
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Industrial Tools & Equipment,42,0.875
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Jacking,37,0.770833
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Lighting - Other,37,0.770833
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Lighting Towers,37,0.770833
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Materials Handling - Forklift,48,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Miscellaneous - Tools,45,0.9375
+BRKL,MOBI6005,3,Miscellaneous - Tools,Materials Handling - Forklift,Welders - Motorised,38,0.791667
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Air Hand Tools,40,0.97561
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Bolting Tools,36,0.878049
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Concrete,40,0.97561
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Generators - Accessories,37,0.902439
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Industrial Tools & Equipment,40,0.97561
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Jacking,37,0.902439
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Lighting - Other,37,0.902439
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Lighting Towers,36,0.878049
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Materials Handling - Forklift,41,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Miscellaneous - Tools,41,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Concrete,Welders - Motorised,36,0.878049
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Bolting Tools,36,0.947368
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Concrete,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Generators - Accessories,37,0.973684
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Jacking,36,0.947368
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Lighting - Other,35,0.921053
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Lighting Towers,36,0.947368
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Generators - Accessories,Welders - Motorised,35,0.921053
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Air Hand Tools,40,0.930233
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Bolting Tools,37,0.860465
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Concrete,40,0.930233
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,42,0.976744
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Jacking,37,0.860465
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting - Other,37,0.860465
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting Towers,36,0.837209
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Materials Handling - Forklift,43,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.976744
+BRKL,MOBI6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Motorised,36,0.837209
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Concrete,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Jacking,37,0.973684
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Lighting - Other,34,0.894737
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Jacking,Welders - Motorised,33,0.868421
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Concrete,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Generators - Accessories,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Jacking,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Lighting - Other,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Lighting Towers,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting Towers,Welders - Motorised,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Air Hand Tools,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Concrete,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Generators - Accessories,33,0.891892
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Jacking,32,0.864865
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Lighting Towers,32,0.864865
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Lighting - Other,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Air Hand Tools,41,0.87234
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,37,0.787234
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Concrete,41,0.87234
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Generators - Accessories,38,0.808511
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,42,0.893617
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Jacking,38,0.808511
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting - Other,37,0.787234
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting Towers,37,0.787234
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Materials Handling - Forklift,47,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,46,0.978723
+BRKL,MOBI6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Motorised,37,0.787234
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Air Hand Tools,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Concrete,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Jacking,33,0.891892
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Miscellaneous - Tools,Welders - Motorised,Welders - Motorised,36,0.972973
+BRKL,MOBI6005,2,Concrete,Air Hand Tools,,42,0.875
+BRKL,MOBI6005,2,Concrete,Bolting Tools,,37,0.770833
+BRKL,MOBI6005,2,Concrete,Concrete,,42,0.875
+BRKL,MOBI6005,2,Concrete,Generators - Accessories,,37,0.770833
+BRKL,MOBI6005,2,Concrete,Industrial Tools & Equipment,,41,0.854167
+BRKL,MOBI6005,2,Concrete,Jacking,,39,0.8125
+BRKL,MOBI6005,2,Concrete,Lighting - Other,,37,0.770833
+BRKL,MOBI6005,2,Concrete,Lighting Towers,,36,0.75
+BRKL,MOBI6005,2,Concrete,Materials Handling - Forklift,,43,0.895833
+BRKL,MOBI6005,2,Concrete,Miscellaneous - Tools,,43,0.895833
+BRKL,MOBI6005,2,Concrete,Welders - Motorised,,36,0.75
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Air Hand Tools,41,0.97619
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Bolting Tools,36,0.857143
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Concrete,41,0.97619
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Generators - Accessories,37,0.880952
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Industrial Tools & Equipment,41,0.97619
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Jacking,38,0.904762
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Lighting - Other,37,0.880952
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Lighting Towers,36,0.857143
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Materials Handling - Forklift,42,1
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Miscellaneous - Tools,42,1
+BRKL,MOBI6005,3,Concrete,Air Hand Tools,Welders - Motorised,35,0.833333
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Air Hand Tools,40,0.930233
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Bolting Tools,36,0.837209
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Concrete,40,0.930233
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Industrial Tools & Equipment,41,0.953488
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Jacking,37,0.860465
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Lighting - Other,37,0.860465
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Lighting Towers,36,0.837209
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Materials Handling - Forklift,42,0.976744
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Miscellaneous - Tools,42,0.976744
+BRKL,MOBI6005,3,Concrete,Miscellaneous - Tools,Welders - Motorised,35,0.813953
+BRKL,MOBI6005,3,Concrete,Jacking,Air Hand Tools,39,1
+BRKL,MOBI6005,3,Concrete,Jacking,Bolting Tools,35,0.897436
+BRKL,MOBI6005,3,Concrete,Jacking,Concrete,39,1
+BRKL,MOBI6005,3,Concrete,Jacking,Generators - Accessories,36,0.923077
+BRKL,MOBI6005,3,Concrete,Jacking,Industrial Tools & Equipment,38,0.974359
+BRKL,MOBI6005,3,Concrete,Jacking,Jacking,38,0.974359
+BRKL,MOBI6005,3,Concrete,Jacking,Lighting - Other,34,0.871795
+BRKL,MOBI6005,3,Concrete,Jacking,Lighting Towers,35,0.897436
+BRKL,MOBI6005,3,Concrete,Jacking,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Concrete,Jacking,Miscellaneous - Tools,39,1
+BRKL,MOBI6005,3,Concrete,Jacking,Welders - Motorised,33,0.846154
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Air Hand Tools,41,0.953488
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Bolting Tools,36,0.837209
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Concrete,41,0.953488
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Industrial Tools & Equipment,42,0.976744
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Jacking,38,0.883721
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Lighting - Other,37,0.860465
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Lighting Towers,36,0.837209
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Materials Handling - Forklift,43,1
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Miscellaneous - Tools,43,1
+BRKL,MOBI6005,3,Concrete,Materials Handling - Forklift,Welders - Motorised,35,0.813953
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Bolting Tools,36,0.972973
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Concrete,37,1
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Jacking,34,0.918919
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Concrete,Bolting Tools,Welders - Motorised,35,0.945946
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Bolting Tools,35,0.945946
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Concrete,37,1
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Generators - Accessories,36,0.972973
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Jacking,35,0.945946
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Lighting Towers,35,0.945946
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Concrete,Generators - Accessories,Welders - Motorised,34,0.918919
+BRKL,MOBI6005,3,Concrete,Concrete,Air Hand Tools,41,0.97619
+BRKL,MOBI6005,3,Concrete,Concrete,Bolting Tools,36,0.857143
+BRKL,MOBI6005,3,Concrete,Concrete,Concrete,41,0.97619
+BRKL,MOBI6005,3,Concrete,Concrete,Generators - Accessories,37,0.880952
+BRKL,MOBI6005,3,Concrete,Concrete,Industrial Tools & Equipment,41,0.97619
+BRKL,MOBI6005,3,Concrete,Concrete,Jacking,38,0.904762
+BRKL,MOBI6005,3,Concrete,Concrete,Lighting - Other,37,0.880952
+BRKL,MOBI6005,3,Concrete,Concrete,Lighting Towers,36,0.857143
+BRKL,MOBI6005,3,Concrete,Concrete,Materials Handling - Forklift,42,1
+BRKL,MOBI6005,3,Concrete,Concrete,Miscellaneous - Tools,42,1
+BRKL,MOBI6005,3,Concrete,Concrete,Welders - Motorised,35,0.833333
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Concrete,36,1
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Jacking,33,0.916667
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Lighting Towers,35,0.972222
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Concrete,Lighting Towers,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Air Hand Tools,39,0.95122
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Bolting Tools,36,0.878049
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Concrete,39,0.95122
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Generators - Accessories,36,0.878049
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Industrial Tools & Equipment,40,0.97561
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Jacking,36,0.878049
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Lighting - Other,37,0.902439
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Lighting Towers,35,0.853659
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Materials Handling - Forklift,41,1
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.97561
+BRKL,MOBI6005,3,Concrete,Industrial Tools & Equipment,Welders - Motorised,35,0.853659
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Air Hand Tools,35,0.945946
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Concrete,35,0.945946
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Generators - Accessories,33,0.891892
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Jacking,32,0.864865
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Lighting Towers,32,0.864865
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Concrete,Lighting - Other,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Air Hand Tools,35,0.972222
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Concrete,35,0.972222
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Jacking,33,0.916667
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Lighting Towers,33,0.916667
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Concrete,Welders - Motorised,Welders - Motorised,35,0.972222
+BRKL,MOBI6005,2,Air Hand Tools,Air Hand Tools,,46,0.766667
+BRKL,MOBI6005,2,Air Hand Tools,Bolting Tools,,36,0.6
+BRKL,MOBI6005,2,Air Hand Tools,Concrete,,41,0.683333
+BRKL,MOBI6005,2,Air Hand Tools,Generators - Accessories,,37,0.616667
+BRKL,MOBI6005,2,Air Hand Tools,Industrial Tools & Equipment,,41,0.683333
+BRKL,MOBI6005,2,Air Hand Tools,Jacking,,38,0.633333
+BRKL,MOBI6005,2,Air Hand Tools,Lighting - Other,,38,0.633333
+BRKL,MOBI6005,2,Air Hand Tools,Lighting Towers,,36,0.6
+BRKL,MOBI6005,2,Air Hand Tools,Materials Handling - Forklift,,42,0.7
+BRKL,MOBI6005,2,Air Hand Tools,Miscellaneous - Tools,,42,0.7
+BRKL,MOBI6005,2,Air Hand Tools,Welders - Motorised,,40,0.666667
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Air Hand Tools,41,0.891304
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Bolting Tools,36,0.782609
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Concrete,40,0.869565
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Generators - Accessories,37,0.804348
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Industrial Tools & Equipment,40,0.869565
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Jacking,37,0.804348
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Lighting - Other,37,0.804348
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Lighting Towers,36,0.782609
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Materials Handling - Forklift,41,0.891304
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Miscellaneous - Tools,41,0.891304
+BRKL,MOBI6005,3,Air Hand Tools,Air Hand Tools,Welders - Motorised,36,0.782609
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Bolting Tools,35,0.972222
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Concrete,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Jacking,33,0.916667
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Lighting Towers,34,0.944444
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Bolting Tools,Welders - Motorised,35,0.972222
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Air Hand Tools,36,0.947368
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Bolting Tools,33,0.868421
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Concrete,35,0.921053
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Generators - Accessories,33,0.868421
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Industrial Tools & Equipment,36,0.947368
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Jacking,32,0.842105
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Lighting - Other,36,0.947368
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Lighting Towers,32,0.842105
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Materials Handling - Forklift,37,0.973684
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Miscellaneous - Tools,36,0.947368
+BRKL,MOBI6005,3,Air Hand Tools,Lighting - Other,Welders - Motorised,33,0.868421
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Air Hand Tools,40,0.97561
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Bolting Tools,36,0.878049
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Concrete,40,0.97561
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Generators - Accessories,37,0.902439
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Industrial Tools & Equipment,40,0.97561
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Jacking,37,0.902439
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Lighting - Other,37,0.902439
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Lighting Towers,36,0.878049
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Materials Handling - Forklift,41,1
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Miscellaneous - Tools,41,1
+BRKL,MOBI6005,3,Air Hand Tools,Concrete,Welders - Motorised,35,0.853659
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Concrete,38,1
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Jacking,37,0.973684
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Lighting - Other,34,0.894737
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Air Hand Tools,Jacking,Welders - Motorised,33,0.868421
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Air Hand Tools,40,0.952381
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Bolting Tools,36,0.857143
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Concrete,40,0.952381
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Generators - Accessories,37,0.880952
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Industrial Tools & Equipment,41,0.97619
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Jacking,37,0.880952
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Lighting - Other,37,0.880952
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Lighting Towers,36,0.857143
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Materials Handling - Forklift,42,1
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Miscellaneous - Tools,42,1
+BRKL,MOBI6005,3,Air Hand Tools,Materials Handling - Forklift,Welders - Motorised,35,0.833333
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Bolting Tools,35,0.945946
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Concrete,37,1
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Generators - Accessories,36,0.972973
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Jacking,35,0.945946
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Lighting Towers,35,0.945946
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Air Hand Tools,Generators - Accessories,Welders - Motorised,34,0.918919
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Air Hand Tools,39,0.95122
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Bolting Tools,36,0.878049
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Concrete,39,0.95122
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Generators - Accessories,36,0.878049
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,40,0.97561
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Jacking,36,0.878049
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Lighting - Other,37,0.902439
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Lighting Towers,35,0.853659
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Materials Handling - Forklift,41,1
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.97561
+BRKL,MOBI6005,3,Air Hand Tools,Industrial Tools & Equipment,Welders - Motorised,35,0.853659
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Concrete,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Jacking,33,0.916667
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Lighting Towers,35,0.972222
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Air Hand Tools,Lighting Towers,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Air Hand Tools,40,0.952381
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Bolting Tools,36,0.857143
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Concrete,40,0.952381
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Generators - Accessories,37,0.880952
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Industrial Tools & Equipment,41,0.97619
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Jacking,37,0.880952
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Lighting - Other,37,0.880952
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Lighting Towers,36,0.857143
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Materials Handling - Forklift,42,1
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Miscellaneous - Tools,42,1
+BRKL,MOBI6005,3,Air Hand Tools,Miscellaneous - Tools,Welders - Motorised,35,0.833333
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Air Hand Tools,35,0.875
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Bolting Tools,32,0.8
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Concrete,34,0.85
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Generators - Accessories,33,0.825
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Industrial Tools & Equipment,35,0.875
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Jacking,33,0.825
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Lighting - Other,35,0.875
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Lighting Towers,32,0.8
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Materials Handling - Forklift,35,0.875
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Miscellaneous - Tools,35,0.875
+BRKL,MOBI6005,3,Air Hand Tools,Welders - Motorised,Welders - Motorised,34,0.85
+BRKL,MOBI6005,2,Generators - Accessories,Air Hand Tools,,38,1
+BRKL,MOBI6005,2,Generators - Accessories,Bolting Tools,,36,0.947368
+BRKL,MOBI6005,2,Generators - Accessories,Concrete,,38,1
+BRKL,MOBI6005,2,Generators - Accessories,Generators - Accessories,,37,0.973684
+BRKL,MOBI6005,2,Generators - Accessories,Industrial Tools & Equipment,,37,0.973684
+BRKL,MOBI6005,2,Generators - Accessories,Jacking,,36,0.947368
+BRKL,MOBI6005,2,Generators - Accessories,Lighting - Other,,35,0.921053
+BRKL,MOBI6005,2,Generators - Accessories,Lighting Towers,,36,0.947368
+BRKL,MOBI6005,2,Generators - Accessories,Materials Handling - Forklift,,38,1
+BRKL,MOBI6005,2,Generators - Accessories,Miscellaneous - Tools,,38,1
+BRKL,MOBI6005,2,Generators - Accessories,Welders - Motorised,,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Concrete,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Jacking,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Lighting - Other,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Air Hand Tools,Welders - Motorised,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Bolting Tools,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Concrete,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Jacking,33,0.916667
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Lighting Towers,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Bolting Tools,Welders - Motorised,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Bolting Tools,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Concrete,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Generators - Accessories,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Jacking,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Lighting Towers,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Jacking,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Concrete,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Jacking,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Lighting - Other,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Concrete,Welders - Motorised,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Bolting Tools,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Concrete,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Generators - Accessories,36,0.972973
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Jacking,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Lighting Towers,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Generators - Accessories,Welders - Motorised,34,0.918919
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Concrete,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Jacking,33,0.916667
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Lighting Towers,35,0.972222
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting Towers,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Bolting Tools,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Concrete,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Generators - Accessories,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Jacking,34,0.918919
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Generators - Accessories,Industrial Tools & Equipment,Welders - Motorised,35,0.945946
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Air Hand Tools,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Bolting Tools,33,0.942857
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Concrete,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Generators - Accessories,33,0.942857
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Industrial Tools & Equipment,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Jacking,32,0.914286
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Lighting - Other,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Lighting Towers,32,0.914286
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Lighting - Other,Welders - Motorised,33,0.942857
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Concrete,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Jacking,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Lighting - Other,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Materials Handling - Forklift,Welders - Motorised,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Concrete,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Jacking,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Lighting - Other,36,0.947368
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Generators - Accessories,Miscellaneous - Tools,Welders - Motorised,35,0.921053
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Air Hand Tools,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Bolting Tools,33,0.942857
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Concrete,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Generators - Accessories,34,0.971429
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Industrial Tools & Equipment,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Jacking,33,0.942857
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Lighting - Other,34,0.971429
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Lighting Towers,33,0.942857
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Generators - Accessories,Welders - Motorised,Welders - Motorised,35,1
+BRKL,MOBI6005,2,Jacking,Air Hand Tools,,39,0.975
+BRKL,MOBI6005,2,Jacking,Bolting Tools,,35,0.875
+BRKL,MOBI6005,2,Jacking,Concrete,,39,0.975
+BRKL,MOBI6005,2,Jacking,Generators - Accessories,,36,0.9
+BRKL,MOBI6005,2,Jacking,Industrial Tools & Equipment,,38,0.95
+BRKL,MOBI6005,2,Jacking,Jacking,,38,0.95
+BRKL,MOBI6005,2,Jacking,Lighting - Other,,34,0.85
+BRKL,MOBI6005,2,Jacking,Lighting Towers,,35,0.875
+BRKL,MOBI6005,2,Jacking,Materials Handling - Forklift,,39,0.975
+BRKL,MOBI6005,2,Jacking,Miscellaneous - Tools,,39,0.975
+BRKL,MOBI6005,2,Jacking,Welders - Motorised,,34,0.85
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Air Hand Tools,39,1
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Bolting Tools,35,0.897436
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Concrete,39,1
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Generators - Accessories,36,0.923077
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Industrial Tools & Equipment,38,0.974359
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Jacking,36,0.923077
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Lighting - Other,35,0.897436
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Lighting Towers,35,0.897436
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Miscellaneous - Tools,39,1
+BRKL,MOBI6005,3,Jacking,Air Hand Tools,Welders - Motorised,34,0.871795
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Concrete,38,1
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Generators - Accessories,35,0.921053
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Industrial Tools & Equipment,38,1
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Jacking,35,0.921053
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Lighting - Other,35,0.921053
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Lighting Towers,34,0.894737
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Jacking,Industrial Tools & Equipment,Welders - Motorised,34,0.894737
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Air Hand Tools,35,1
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Bolting Tools,34,0.971429
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Concrete,35,1
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Generators - Accessories,33,0.942857
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Industrial Tools & Equipment,35,1
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Jacking,32,0.914286
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Lighting - Other,34,0.971429
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Lighting Towers,33,0.942857
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Jacking,Bolting Tools,Welders - Motorised,34,0.971429
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Air Hand Tools,39,1
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Bolting Tools,35,0.897436
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Concrete,39,1
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Generators - Accessories,36,0.923077
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Industrial Tools & Equipment,38,0.974359
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Jacking,36,0.923077
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Lighting - Other,35,0.897436
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Lighting Towers,35,0.897436
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Miscellaneous - Tools,39,1
+BRKL,MOBI6005,3,Jacking,Materials Handling - Forklift,Welders - Motorised,34,0.871795
+BRKL,MOBI6005,3,Jacking,Concrete,Air Hand Tools,39,1
+BRKL,MOBI6005,3,Jacking,Concrete,Bolting Tools,35,0.897436
+BRKL,MOBI6005,3,Jacking,Concrete,Concrete,39,1
+BRKL,MOBI6005,3,Jacking,Concrete,Generators - Accessories,36,0.923077
+BRKL,MOBI6005,3,Jacking,Concrete,Industrial Tools & Equipment,38,0.974359
+BRKL,MOBI6005,3,Jacking,Concrete,Jacking,36,0.923077
+BRKL,MOBI6005,3,Jacking,Concrete,Lighting - Other,35,0.897436
+BRKL,MOBI6005,3,Jacking,Concrete,Lighting Towers,35,0.897436
+BRKL,MOBI6005,3,Jacking,Concrete,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Jacking,Concrete,Miscellaneous - Tools,39,1
+BRKL,MOBI6005,3,Jacking,Concrete,Welders - Motorised,34,0.871795
+BRKL,MOBI6005,3,Jacking,Jacking,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Jacking,Jacking,Bolting Tools,35,0.921053
+BRKL,MOBI6005,3,Jacking,Jacking,Concrete,38,1
+BRKL,MOBI6005,3,Jacking,Jacking,Generators - Accessories,36,0.947368
+BRKL,MOBI6005,3,Jacking,Jacking,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Jacking,Jacking,Jacking,37,0.973684
+BRKL,MOBI6005,3,Jacking,Jacking,Lighting - Other,34,0.894737
+BRKL,MOBI6005,3,Jacking,Jacking,Lighting Towers,35,0.921053
+BRKL,MOBI6005,3,Jacking,Jacking,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Jacking,Jacking,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Jacking,Jacking,Welders - Motorised,33,0.868421
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Bolting Tools,34,0.944444
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Concrete,36,1
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Generators - Accessories,35,0.972222
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Jacking,34,0.944444
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Lighting Towers,34,0.944444
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Jacking,Generators - Accessories,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Bolting Tools,32,0.941176
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Concrete,34,1
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Generators - Accessories,32,0.941176
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Jacking,31,0.911765
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Lighting - Other,34,1
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Lighting Towers,31,0.911765
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Jacking,Lighting - Other,Welders - Motorised,32,0.941176
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Air Hand Tools,35,1
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Bolting Tools,32,0.914286
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Concrete,35,1
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Generators - Accessories,33,0.942857
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Industrial Tools & Equipment,34,0.971429
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Jacking,32,0.914286
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Lighting - Other,33,0.942857
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Lighting Towers,34,0.971429
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Jacking,Lighting Towers,Welders - Motorised,32,0.914286
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Air Hand Tools,39,1
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Bolting Tools,35,0.897436
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Concrete,39,1
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Generators - Accessories,36,0.923077
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Industrial Tools & Equipment,38,0.974359
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Jacking,36,0.923077
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Lighting - Other,35,0.897436
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Lighting Towers,35,0.897436
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,39,1
+BRKL,MOBI6005,3,Jacking,Miscellaneous - Tools,Welders - Motorised,34,0.871795
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Air Hand Tools,33,0.970588
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Bolting Tools,31,0.911765
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Concrete,33,0.970588
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Generators - Accessories,32,0.941176
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Industrial Tools & Equipment,33,0.970588
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Jacking,31,0.911765
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Lighting - Other,33,0.970588
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Lighting Towers,31,0.911765
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Materials Handling - Forklift,33,0.970588
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Miscellaneous - Tools,33,0.970588
+BRKL,MOBI6005,3,Jacking,Welders - Motorised,Welders - Motorised,33,0.970588
+BRKL,MOBI6005,2,Lighting - Other,Air Hand Tools,,36,0.923077
+BRKL,MOBI6005,2,Lighting - Other,Bolting Tools,,33,0.846154
+BRKL,MOBI6005,2,Lighting - Other,Concrete,,35,0.897436
+BRKL,MOBI6005,2,Lighting - Other,Generators - Accessories,,33,0.846154
+BRKL,MOBI6005,2,Lighting - Other,Industrial Tools & Equipment,,36,0.923077
+BRKL,MOBI6005,2,Lighting - Other,Jacking,,32,0.820513
+BRKL,MOBI6005,2,Lighting - Other,Lighting - Other,,36,0.923077
+BRKL,MOBI6005,2,Lighting - Other,Lighting Towers,,32,0.820513
+BRKL,MOBI6005,2,Lighting - Other,Materials Handling - Forklift,,37,0.948718
+BRKL,MOBI6005,2,Lighting - Other,Miscellaneous - Tools,,36,0.923077
+BRKL,MOBI6005,2,Lighting - Other,Welders - Motorised,,33,0.846154
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Air Hand Tools,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Concrete,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Generators - Accessories,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Industrial Tools & Equipment,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Jacking,31,0.861111
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Lighting Towers,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Materials Handling - Forklift,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Miscellaneous - Tools,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Air Hand Tools,Welders - Motorised,33,0.916667
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Air Hand Tools,32,1
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Bolting Tools,32,1
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Concrete,32,1
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Generators - Accessories,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Industrial Tools & Equipment,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Jacking,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Lighting - Other,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Lighting Towers,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Materials Handling - Forklift,32,1
+BRKL,MOBI6005,3,Lighting - Other,Jacking,Miscellaneous - Tools,32,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Air Hand Tools,33,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Bolting Tools,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Concrete,33,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Generators - Accessories,31,0.939394
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Industrial Tools & Equipment,33,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Lighting - Other,33,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Lighting Towers,31,0.939394
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Materials Handling - Forklift,33,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Miscellaneous - Tools,33,1
+BRKL,MOBI6005,3,Lighting - Other,Bolting Tools,Welders - Motorised,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Air Hand Tools,32,1
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Bolting Tools,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Concrete,32,1
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Industrial Tools & Equipment,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Lighting - Other,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Lighting Towers,31,0.96875
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Materials Handling - Forklift,32,1
+BRKL,MOBI6005,3,Lighting - Other,Lighting Towers,Miscellaneous - Tools,32,1
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Air Hand Tools,34,0.918919
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Concrete,34,0.918919
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Generators - Accessories,32,0.864865
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Industrial Tools & Equipment,35,0.945946
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Jacking,31,0.837838
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Lighting - Other,34,0.918919
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Lighting Towers,32,0.864865
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Lighting - Other,Materials Handling - Forklift,Welders - Motorised,32,0.864865
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Air Hand Tools,34,0.971429
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Bolting Tools,33,0.942857
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Concrete,34,0.971429
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Generators - Accessories,32,0.914286
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Industrial Tools & Equipment,34,0.971429
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Jacking,31,0.885714
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Lighting - Other,34,0.971429
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Lighting Towers,32,0.914286
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Lighting - Other,Concrete,Welders - Motorised,32,0.914286
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Air Hand Tools,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Concrete,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Generators - Accessories,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Jacking,31,0.861111
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Lighting Towers,31,0.861111
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Lighting - Other,Industrial Tools & Equipment,Welders - Motorised,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Air Hand Tools,33,1
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Bolting Tools,33,1
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Concrete,33,1
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Generators - Accessories,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Industrial Tools & Equipment,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Jacking,31,0.939394
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Lighting - Other,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Lighting Towers,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Materials Handling - Forklift,33,1
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Miscellaneous - Tools,33,1
+BRKL,MOBI6005,3,Lighting - Other,Generators - Accessories,Welders - Motorised,31,0.939394
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Air Hand Tools,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Concrete,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Generators - Accessories,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Jacking,31,0.861111
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Lighting Towers,31,0.861111
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Miscellaneous - Tools,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Lighting - Other,Welders - Motorised,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Air Hand Tools,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Concrete,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Generators - Accessories,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Jacking,31,0.861111
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Lighting - Other,34,0.944444
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Lighting Towers,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Lighting - Other,Miscellaneous - Tools,Welders - Motorised,32,0.888889
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Air Hand Tools,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Bolting Tools,31,0.939394
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Concrete,32,0.969697
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Generators - Accessories,31,0.939394
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Industrial Tools & Equipment,33,1
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Lighting - Other,33,1
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Materials Handling - Forklift,33,1
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Miscellaneous - Tools,33,1
+BRKL,MOBI6005,3,Lighting - Other,Welders - Motorised,Welders - Motorised,32,0.969697
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Air Hand Tools,,40,0.909091
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Bolting Tools,,37,0.840909
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Concrete,,40,0.909091
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Generators - Accessories,,37,0.840909
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,43,0.977273
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Jacking,,37,0.840909
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Lighting - Other,,37,0.840909
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Lighting Towers,,36,0.818182
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Materials Handling - Forklift,,44,1
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Miscellaneous - Tools,,43,0.977273
+BRKL,MOBI6005,2,Industrial Tools & Equipment,Welders - Motorised,,36,0.818182
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Air Hand Tools,39,0.975
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Bolting Tools,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Concrete,39,0.975
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Generators - Accessories,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Industrial Tools & Equipment,39,0.975
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Jacking,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Lighting - Other,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Lighting Towers,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Materials Handling - Forklift,40,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Miscellaneous - Tools,40,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Air Hand Tools,Welders - Motorised,35,0.875
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Bolting Tools,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Concrete,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Jacking,34,0.918919
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Bolting Tools,Welders - Motorised,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Air Hand Tools,40,0.930233
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Bolting Tools,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Concrete,40,0.930233
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,42,0.976744
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Jacking,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting - Other,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting Towers,36,0.837209
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Materials Handling - Forklift,43,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.976744
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Motorised,36,0.837209
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Bolting Tools,34,0.944444
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Concrete,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Industrial Tools & Equipment,35,0.972222
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Jacking,33,0.916667
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Lighting - Other,33,0.916667
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Lighting Towers,35,0.972222
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting Towers,Welders - Motorised,34,0.944444
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Air Hand Tools,39,0.975
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Bolting Tools,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Concrete,39,0.975
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Generators - Accessories,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Industrial Tools & Equipment,39,0.975
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Jacking,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Lighting - Other,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Lighting Towers,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Materials Handling - Forklift,40,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Miscellaneous - Tools,40,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Concrete,Welders - Motorised,36,0.9
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Air Hand Tools,39,0.886364
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Bolting Tools,36,0.818182
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Concrete,39,0.886364
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Generators - Accessories,37,0.840909
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Industrial Tools & Equipment,41,0.931818
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Jacking,36,0.818182
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Lighting - Other,36,0.818182
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Lighting Towers,37,0.840909
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Materials Handling - Forklift,44,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Miscellaneous - Tools,43,0.977273
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Materials Handling - Forklift,Welders - Motorised,37,0.840909
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Bolting Tools,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Concrete,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Generators - Accessories,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Jacking,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Lighting - Other,34,0.918919
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Lighting Towers,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Generators - Accessories,Welders - Motorised,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Bolting Tools,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Concrete,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Generators - Accessories,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Jacking,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Lighting - Other,33,0.891892
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Lighting Towers,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Jacking,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Air Hand Tools,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Concrete,35,0.945946
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Generators - Accessories,33,0.891892
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Jacking,32,0.864865
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Lighting Towers,32,0.864865
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Lighting - Other,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Air Hand Tools,39,0.906977
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Bolting Tools,36,0.837209
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Concrete,39,0.906977
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,40,0.930233
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Jacking,36,0.837209
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting - Other,36,0.837209
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting Towers,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Materials Handling - Forklift,43,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,43,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Motorised,37,0.860465
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Air Hand Tools,35,0.972222
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Bolting Tools,33,0.916667
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Concrete,35,0.972222
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Jacking,33,0.916667
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Lighting Towers,33,0.916667
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Industrial Tools & Equipment,Welders - Motorised,Welders - Motorised,35,0.972222
+BRKL,MOBI6005,2,Materials Handling - Forklift,Air Hand Tools,,42,0.807692
+BRKL,MOBI6005,2,Materials Handling - Forklift,Bolting Tools,,37,0.711538
+BRKL,MOBI6005,2,Materials Handling - Forklift,Concrete,,43,0.826923
+BRKL,MOBI6005,2,Materials Handling - Forklift,Generators - Accessories,,38,0.730769
+BRKL,MOBI6005,2,Materials Handling - Forklift,Industrial Tools & Equipment,,43,0.826923
+BRKL,MOBI6005,2,Materials Handling - Forklift,Jacking,,39,0.75
+BRKL,MOBI6005,2,Materials Handling - Forklift,Lighting - Other,,37,0.711538
+BRKL,MOBI6005,2,Materials Handling - Forklift,Lighting Towers,,37,0.711538
+BRKL,MOBI6005,2,Materials Handling - Forklift,Materials Handling - Forklift,,51,0.980769
+BRKL,MOBI6005,2,Materials Handling - Forklift,Miscellaneous - Tools,,47,0.903846
+BRKL,MOBI6005,2,Materials Handling - Forklift,Welders - Motorised,,38,0.730769
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Air Hand Tools,41,0.97619
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Bolting Tools,36,0.857143
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Concrete,41,0.97619
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Generators - Accessories,37,0.880952
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Industrial Tools & Equipment,41,0.97619
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Jacking,38,0.904762
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Lighting - Other,37,0.880952
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Lighting Towers,36,0.857143
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Materials Handling - Forklift,42,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Miscellaneous - Tools,42,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Air Hand Tools,Welders - Motorised,35,0.833333
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Bolting Tools,36,0.972973
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Concrete,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Jacking,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Lighting - Other,35,0.945946
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Bolting Tools,Welders - Motorised,35,0.945946
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Air Hand Tools,42,0.976744
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Bolting Tools,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Concrete,42,0.976744
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Industrial Tools & Equipment,41,0.953488
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Jacking,39,0.906977
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Lighting - Other,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Lighting Towers,36,0.837209
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Materials Handling - Forklift,43,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Miscellaneous - Tools,42,0.976744
+BRKL,MOBI6005,3,Materials Handling - Forklift,Concrete,Welders - Motorised,36,0.837209
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Air Hand Tools,42,0.823529
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Bolting Tools,37,0.72549
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Concrete,43,0.843137
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Generators - Accessories,38,0.745098
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Industrial Tools & Equipment,42,0.823529
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Jacking,39,0.764706
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Lighting - Other,37,0.72549
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Lighting Towers,37,0.72549
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Materials Handling - Forklift,50,0.980392
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Miscellaneous - Tools,46,0.901961
+BRKL,MOBI6005,3,Materials Handling - Forklift,Materials Handling - Forklift,Welders - Motorised,38,0.745098
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Air Hand Tools,38,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Bolting Tools,36,0.947368
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Concrete,38,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Generators - Accessories,37,0.973684
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Industrial Tools & Equipment,37,0.973684
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Jacking,36,0.947368
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Lighting - Other,35,0.921053
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Lighting Towers,36,0.947368
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Miscellaneous - Tools,38,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Generators - Accessories,Welders - Motorised,35,0.921053
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Air Hand Tools,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Concrete,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Generators - Accessories,35,0.945946
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Jacking,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Lighting - Other,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Lighting Towers,36,0.972973
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting Towers,Welders - Motorised,34,0.918919
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Air Hand Tools,40,0.930233
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Bolting Tools,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Concrete,40,0.930233
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Generators - Accessories,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Industrial Tools & Equipment,42,0.976744
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Jacking,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Lighting - Other,37,0.860465
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Lighting Towers,36,0.837209
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Materials Handling - Forklift,43,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Miscellaneous - Tools,42,0.976744
+BRKL,MOBI6005,3,Materials Handling - Forklift,Industrial Tools & Equipment,Welders - Motorised,36,0.837209
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Air Hand Tools,39,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Bolting Tools,35,0.897436
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Concrete,39,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Generators - Accessories,36,0.923077
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Industrial Tools & Equipment,38,0.974359
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Jacking,38,0.974359
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Lighting - Other,34,0.871795
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Lighting Towers,35,0.897436
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Materials Handling - Forklift,39,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Miscellaneous - Tools,39,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Jacking,Welders - Motorised,33,0.846154
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Air Hand Tools,35,0.945946
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Bolting Tools,33,0.891892
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Concrete,35,0.945946
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Generators - Accessories,33,0.891892
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Industrial Tools & Equipment,36,0.972973
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Jacking,32,0.864865
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Lighting Towers,32,0.864865
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Miscellaneous - Tools,36,0.972973
+BRKL,MOBI6005,3,Materials Handling - Forklift,Lighting - Other,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Air Hand Tools,41,0.87234
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Bolting Tools,37,0.787234
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Concrete,41,0.87234
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Generators - Accessories,38,0.808511
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Industrial Tools & Equipment,42,0.893617
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Jacking,38,0.808511
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Lighting - Other,37,0.787234
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Lighting Towers,37,0.787234
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Materials Handling - Forklift,47,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Miscellaneous - Tools,46,0.978723
+BRKL,MOBI6005,3,Materials Handling - Forklift,Miscellaneous - Tools,Welders - Motorised,37,0.787234
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Air Hand Tools,36,0.947368
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Bolting Tools,34,0.894737
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Concrete,37,0.973684
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Generators - Accessories,34,0.894737
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Industrial Tools & Equipment,36,0.947368
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Jacking,34,0.894737
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Lighting - Other,35,0.921053
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Lighting Towers,34,0.894737
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Materials Handling - Forklift,38,1
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Miscellaneous - Tools,36,0.947368
+BRKL,MOBI6005,3,Materials Handling - Forklift,Welders - Motorised,Welders - Motorised,37,0.973684
+BRKL,MOBI6005,2,Bolting Tools,Air Hand Tools,,37,1
+BRKL,MOBI6005,2,Bolting Tools,Bolting Tools,,36,0.972973
+BRKL,MOBI6005,2,Bolting Tools,Concrete,,37,1
+BRKL,MOBI6005,2,Bolting Tools,Generators - Accessories,,34,0.918919
+BRKL,MOBI6005,2,Bolting Tools,Industrial Tools & Equipment,,37,1
+BRKL,MOBI6005,2,Bolting Tools,Jacking,,34,0.918919
+BRKL,MOBI6005,2,Bolting Tools,Lighting - Other,,35,0.945946
+BRKL,MOBI6005,2,Bolting Tools,Lighting Towers,,34,0.918919
+BRKL,MOBI6005,2,Bolting Tools,Materials Handling - Forklift,,37,1
+BRKL,MOBI6005,2,Bolting Tools,Miscellaneous - Tools,,37,1
+BRKL,MOBI6005,2,Bolting Tools,Welders - Motorised,,35,0.945946
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Concrete,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Jacking,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Bolting Tools,Air Hand Tools,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Air Hand Tools,36,1
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Bolting Tools,35,0.972222
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Concrete,36,1
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Generators - Accessories,34,0.944444
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Industrial Tools & Equipment,36,1
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Jacking,33,0.916667
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Lighting - Other,35,0.972222
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Lighting Towers,34,0.944444
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Materials Handling - Forklift,36,1
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Miscellaneous - Tools,36,1
+BRKL,MOBI6005,3,Bolting Tools,Bolting Tools,Welders - Motorised,35,0.972222
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Concrete,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Jacking,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Bolting Tools,Concrete,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Bolting Tools,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Concrete,34,1
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Generators - Accessories,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Jacking,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Lighting - Other,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Lighting Towers,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Bolting Tools,Jacking,Welders - Motorised,31,0.911765
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Bolting Tools,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Concrete,34,1
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Generators - Accessories,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Jacking,32,0.941176
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Lighting - Other,34,1
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Lighting Towers,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Bolting Tools,Generators - Accessories,Welders - Motorised,32,0.941176
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Air Hand Tools,34,0.971429
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Bolting Tools,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Concrete,34,0.971429
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Generators - Accessories,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Industrial Tools & Equipment,35,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Jacking,31,0.885714
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Lighting - Other,35,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Lighting Towers,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting - Other,Welders - Motorised,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Concrete,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Jacking,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Bolting Tools,Industrial Tools & Equipment,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Air Hand Tools,34,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Bolting Tools,32,0.941176
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Concrete,34,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Generators - Accessories,32,0.941176
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Industrial Tools & Equipment,34,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Jacking,31,0.911765
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Lighting - Other,34,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Lighting Towers,33,0.970588
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Materials Handling - Forklift,34,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Miscellaneous - Tools,34,1
+BRKL,MOBI6005,3,Bolting Tools,Lighting Towers,Welders - Motorised,32,0.941176
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Concrete,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Jacking,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Bolting Tools,Materials Handling - Forklift,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Air Hand Tools,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Bolting Tools,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Concrete,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Generators - Accessories,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Industrial Tools & Equipment,37,1
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Jacking,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Lighting - Other,36,0.972973
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Lighting Towers,34,0.918919
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Materials Handling - Forklift,37,1
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Miscellaneous - Tools,37,1
+BRKL,MOBI6005,3,Bolting Tools,Miscellaneous - Tools,Welders - Motorised,33,0.891892
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Air Hand Tools,34,0.971429
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Bolting Tools,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Concrete,34,0.971429
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Generators - Accessories,33,0.942857
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Industrial Tools & Equipment,35,1
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Jacking,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Lighting - Other,35,1
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Lighting Towers,32,0.914286
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Materials Handling - Forklift,35,1
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Miscellaneous - Tools,35,1
+BRKL,MOBI6005,3,Bolting Tools,Welders - Motorised,Welders - Motorised,34,0.971429

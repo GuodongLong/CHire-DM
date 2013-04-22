@@ -1,0 +1,119 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+PORT,BLUE2000,1,Access - Scissor Lifts,,,65,1
+PORT,BLUE2000,1,Power Tools & Accessories,,,124,1
+PORT,BLUE2000,1,Welders - Electric,,,52,1
+PORT,BLUE2000,1,Welders - Accessories,,,368,1
+PORT,BLUE2000,1,Welders - Motorised,,,428,1
+PORT,BLUE2000,1,Access - Knuckle Booms,,,75,1
+PORT,BLUE2000,1,Fans,,,68,1
+PORT,BLUE2000,1,Lighting Towers,,,80,1
+PORT,BLUE2000,1,Miscellaneous - Tools,,,64,1
+PORT,BLUE2000,2,Access - Scissor Lifts,Welders - Accessories,,64,0.984615
+PORT,BLUE2000,2,Access - Scissor Lifts,Welders - Motorised,,63,0.969231
+PORT,BLUE2000,3,Access - Scissor Lifts,Welders - Accessories,Welders - Accessories,61,0.953125
+PORT,BLUE2000,3,Access - Scissor Lifts,Welders - Accessories,Welders - Motorised,63,0.984375
+PORT,BLUE2000,3,Access - Scissor Lifts,Welders - Motorised,Welders - Accessories,60,0.952381
+PORT,BLUE2000,3,Access - Scissor Lifts,Welders - Motorised,Welders - Motorised,62,0.984127
+PORT,BLUE2000,2,Power Tools & Accessories,Power Tools & Accessories,,83,0.669355
+PORT,BLUE2000,2,Power Tools & Accessories,Welders - Accessories,,116,0.935484
+PORT,BLUE2000,2,Power Tools & Accessories,Welders - Motorised,,121,0.975806
+PORT,BLUE2000,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,54,0.650602
+PORT,BLUE2000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,76,0.915663
+PORT,BLUE2000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Motorised,81,0.975904
+PORT,BLUE2000,3,Power Tools & Accessories,Welders - Motorised,Power Tools & Accessories,61,0.504132
+PORT,BLUE2000,3,Power Tools & Accessories,Welders - Motorised,Welders - Accessories,113,0.933884
+PORT,BLUE2000,3,Power Tools & Accessories,Welders - Motorised,Welders - Motorised,119,0.983471
+PORT,BLUE2000,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,57,0.491379
+PORT,BLUE2000,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,112,0.965517
+PORT,BLUE2000,3,Power Tools & Accessories,Welders - Accessories,Welders - Motorised,116,1
+PORT,BLUE2000,2,Welders - Motorised,Access - Knuckle Booms,,72,0.168224
+PORT,BLUE2000,2,Welders - Motorised,Access - Scissor Lifts,,62,0.14486
+PORT,BLUE2000,2,Welders - Motorised,Fans,,67,0.156542
+PORT,BLUE2000,2,Welders - Motorised,Lighting Towers,,75,0.175234
+PORT,BLUE2000,2,Welders - Motorised,Miscellaneous - Tools,,56,0.130841
+PORT,BLUE2000,2,Welders - Motorised,Power Tools & Accessories,,117,0.273364
+PORT,BLUE2000,2,Welders - Motorised,Welders - Accessories,,356,0.831776
+PORT,BLUE2000,2,Welders - Motorised,Welders - Electric,,52,0.121495
+PORT,BLUE2000,2,Welders - Motorised,Welders - Motorised,,421,0.983645
+PORT,BLUE2000,3,Welders - Motorised,Access - Knuckle Booms,Welders - Accessories,68,0.944444
+PORT,BLUE2000,3,Welders - Motorised,Access - Knuckle Booms,Welders - Motorised,70,0.972222
+PORT,BLUE2000,3,Welders - Motorised,Access - Scissor Lifts,Welders - Accessories,61,0.983871
+PORT,BLUE2000,3,Welders - Motorised,Access - Scissor Lifts,Welders - Motorised,60,0.967742
+PORT,BLUE2000,3,Welders - Motorised,Fans,Welders - Accessories,64,0.955224
+PORT,BLUE2000,3,Welders - Motorised,Fans,Welders - Motorised,65,0.970149
+PORT,BLUE2000,3,Welders - Motorised,Lighting Towers,Welders - Accessories,73,0.973333
+PORT,BLUE2000,3,Welders - Motorised,Lighting Towers,Welders - Motorised,73,0.973333
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Access - Knuckle Booms,71,0.168646
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Access - Scissor Lifts,60,0.142518
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Fans,66,0.15677
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Lighting Towers,73,0.173397
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Miscellaneous - Tools,55,0.130641
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Power Tools & Accessories,117,0.27791
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Welders - Accessories,350,0.831354
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Welders - Electric,51,0.12114
+PORT,BLUE2000,3,Welders - Motorised,Welders - Motorised,Welders - Motorised,415,0.985748
+PORT,BLUE2000,3,Welders - Motorised,Power Tools & Accessories,Power Tools & Accessories,79,0.675214
+PORT,BLUE2000,3,Welders - Motorised,Power Tools & Accessories,Welders - Accessories,109,0.931624
+PORT,BLUE2000,3,Welders - Motorised,Power Tools & Accessories,Welders - Motorised,114,0.974359
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Access - Knuckle Booms,68,0.191011
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Access - Scissor Lifts,54,0.151685
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Fans,65,0.182584
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Lighting Towers,70,0.196629
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Power Tools & Accessories,115,0.323034
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Welders - Accessories,342,0.960674
+PORT,BLUE2000,3,Welders - Motorised,Welders - Accessories,Welders - Motorised,350,0.983146
+PORT,BLUE2000,2,Access - Knuckle Booms,Welders - Accessories,,69,0.92
+PORT,BLUE2000,2,Access - Knuckle Booms,Welders - Motorised,,72,0.96
+PORT,BLUE2000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Accessories,68,0.985507
+PORT,BLUE2000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Motorised,69,1
+PORT,BLUE2000,3,Access - Knuckle Booms,Welders - Motorised,Welders - Accessories,67,0.930556
+PORT,BLUE2000,3,Access - Knuckle Booms,Welders - Motorised,Welders - Motorised,71,0.986111
+PORT,BLUE2000,2,Welders - Accessories,Access - Knuckle Booms,,69,0.1875
+PORT,BLUE2000,2,Welders - Accessories,Access - Scissor Lifts,,56,0.152174
+PORT,BLUE2000,2,Welders - Accessories,Fans,,66,0.179348
+PORT,BLUE2000,2,Welders - Accessories,Lighting Towers,,73,0.19837
+PORT,BLUE2000,2,Welders - Accessories,Power Tools & Accessories,,115,0.3125
+PORT,BLUE2000,2,Welders - Accessories,Welders - Accessories,,353,0.959239
+PORT,BLUE2000,2,Welders - Accessories,Welders - Electric,,51,0.138587
+PORT,BLUE2000,2,Welders - Accessories,Welders - Motorised,,361,0.980978
+PORT,BLUE2000,3,Welders - Accessories,Access - Knuckle Booms,Welders - Accessories,66,0.956522
+PORT,BLUE2000,3,Welders - Accessories,Access - Knuckle Booms,Welders - Motorised,68,0.985507
+PORT,BLUE2000,3,Welders - Accessories,Access - Scissor Lifts,Welders - Accessories,55,0.982143
+PORT,BLUE2000,3,Welders - Accessories,Access - Scissor Lifts,Welders - Motorised,54,0.964286
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Access - Knuckle Booms,65,0.180055
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Access - Scissor Lifts,58,0.160665
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Fans,65,0.180055
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Lighting Towers,70,0.193906
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Power Tools & Accessories,105,0.290859
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Welders - Accessories,306,0.847645
+PORT,BLUE2000,3,Welders - Accessories,Welders - Motorised,Welders - Motorised,356,0.98615
+PORT,BLUE2000,3,Welders - Accessories,Fans,Welders - Accessories,63,0.954545
+PORT,BLUE2000,3,Welders - Accessories,Fans,Welders - Motorised,64,0.969697
+PORT,BLUE2000,3,Welders - Accessories,Lighting Towers,Welders - Accessories,71,0.972603
+PORT,BLUE2000,3,Welders - Accessories,Lighting Towers,Welders - Motorised,71,0.972603
+PORT,BLUE2000,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,79,0.686957
+PORT,BLUE2000,3,Welders - Accessories,Power Tools & Accessories,Welders - Accessories,108,0.93913
+PORT,BLUE2000,3,Welders - Accessories,Power Tools & Accessories,Welders - Motorised,113,0.982609
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Access - Knuckle Booms,66,0.186969
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Access - Scissor Lifts,54,0.152975
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Fans,64,0.181303
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Lighting Towers,70,0.1983
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Power Tools & Accessories,112,0.31728
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,339,0.96034
+PORT,BLUE2000,3,Welders - Accessories,Welders - Accessories,Welders - Motorised,348,0.985836
+PORT,BLUE2000,2,Fans,Welders - Accessories,,64,0.941176
+PORT,BLUE2000,2,Fans,Welders - Motorised,,65,0.955882
+PORT,BLUE2000,3,Fans,Welders - Accessories,Welders - Accessories,60,0.9375
+PORT,BLUE2000,3,Fans,Welders - Accessories,Welders - Motorised,63,0.984375
+PORT,BLUE2000,3,Fans,Welders - Motorised,Welders - Accessories,61,0.938462
+PORT,BLUE2000,3,Fans,Welders - Motorised,Welders - Motorised,64,0.984615
+PORT,BLUE2000,2,Lighting Towers,Welders - Accessories,,77,0.9625
+PORT,BLUE2000,2,Lighting Towers,Welders - Motorised,,77,0.9625
+PORT,BLUE2000,3,Lighting Towers,Welders - Accessories,Welders - Accessories,75,0.974026
+PORT,BLUE2000,3,Lighting Towers,Welders - Accessories,Welders - Motorised,77,1
+PORT,BLUE2000,3,Lighting Towers,Welders - Motorised,Welders - Accessories,74,0.961039
+PORT,BLUE2000,3,Lighting Towers,Welders - Motorised,Welders - Motorised,77,1
+PORT,BLUE2000,2,Miscellaneous - Tools,Welders - Accessories,,53,0.828125
+PORT,BLUE2000,2,Miscellaneous - Tools,Welders - Motorised,,53,0.828125
+PORT,BLUE2000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Motorised,52,0.981132
+PORT,BLUE2000,3,Miscellaneous - Tools,Welders - Motorised,Welders - Motorised,53,1

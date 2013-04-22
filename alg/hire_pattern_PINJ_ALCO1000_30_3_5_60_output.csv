@@ -1,0 +1,462 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+PINJ,ALCO1000,1,Access - Knuckle Booms,,,393,1
+PINJ,ALCO1000,1,Access - Scissor Lifts,,,216,1
+PINJ,ALCO1000,1,Air Compressors - Diesel Small,,,56,1
+PINJ,ALCO1000,1,Fans,,,115,1
+PINJ,ALCO1000,1,Lighting Towers,,,71,1
+PINJ,ALCO1000,1,Welders - Motorised,,,243,1
+PINJ,ALCO1000,1,Welders - Accessories,,,233,1
+PINJ,ALCO1000,1,Water Blasters,,,36,1
+PINJ,ALCO1000,1,Chain Blocks,,,31,1
+PINJ,ALCO1000,1,Concrete Vibe Units,,,56,1
+PINJ,ALCO1000,1,Pumps - Small,,,53,1
+PINJ,ALCO1000,1,Traffic - Barriers,,,32,1
+PINJ,ALCO1000,1,Materials Handling - Forklift,,,47,1
+PINJ,ALCO1000,1,Generators - Diesel Small,,,32,1
+PINJ,ALCO1000,2,Access - Knuckle Booms,Access - Knuckle Booms,,384,0.977099
+PINJ,ALCO1000,2,Access - Knuckle Booms,Access - Scissor Lifts,,186,0.473282
+PINJ,ALCO1000,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,53,0.13486
+PINJ,ALCO1000,2,Access - Knuckle Booms,Concrete Vibe Units,,55,0.139949
+PINJ,ALCO1000,2,Access - Knuckle Booms,Fans,,101,0.256997
+PINJ,ALCO1000,2,Access - Knuckle Booms,Generators - Diesel Small,,32,0.0814249
+PINJ,ALCO1000,2,Access - Knuckle Booms,Lighting Towers,,65,0.165394
+PINJ,ALCO1000,2,Access - Knuckle Booms,Materials Handling - Forklift,,45,0.114504
+PINJ,ALCO1000,2,Access - Knuckle Booms,Pumps - Small,,51,0.129771
+PINJ,ALCO1000,2,Access - Knuckle Booms,Traffic - Barriers,,32,0.0814249
+PINJ,ALCO1000,2,Access - Knuckle Booms,Water Blasters,,36,0.0916031
+PINJ,ALCO1000,2,Access - Knuckle Booms,Welders - Accessories,,198,0.503817
+PINJ,ALCO1000,2,Access - Knuckle Booms,Welders - Motorised,,208,0.529262
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,376,0.979167
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Scissor Lifts,185,0.481771
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,52,0.135417
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Concrete Vibe Units,53,0.138021
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Fans,100,0.260417
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Diesel Small,32,0.0833333
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting Towers,63,0.164063
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Materials Handling - Forklift,44,0.114583
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Pumps - Small,49,0.127604
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Traffic - Barriers,32,0.0833333
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Water Blasters,36,0.09375
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Accessories,193,0.502604
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Motorised,203,0.528646
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Knuckle Booms,164,0.88172
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Access - Scissor Lifts,152,0.817204
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Air Compressors - Diesel Small,42,0.225806
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Concrete Vibe Units,46,0.247312
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Fans,79,0.424731
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Lighting Towers,52,0.27957
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Materials Handling - Forklift,38,0.204301
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Pumps - Small,43,0.231183
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Welders - Accessories,134,0.72043
+PINJ,ALCO1000,3,Access - Knuckle Booms,Access - Scissor Lifts,Welders - Motorised,136,0.731183
+PINJ,ALCO1000,3,Access - Knuckle Booms,Concrete Vibe Units,Access - Knuckle Booms,50,0.909091
+PINJ,ALCO1000,3,Access - Knuckle Booms,Concrete Vibe Units,Access - Scissor Lifts,49,0.890909
+PINJ,ALCO1000,3,Access - Knuckle Booms,Concrete Vibe Units,Fans,31,0.563636
+PINJ,ALCO1000,3,Access - Knuckle Booms,Concrete Vibe Units,Welders - Accessories,44,0.8
+PINJ,ALCO1000,3,Access - Knuckle Booms,Concrete Vibe Units,Welders - Motorised,46,0.836364
+PINJ,ALCO1000,3,Access - Knuckle Booms,Fans,Access - Knuckle Booms,93,0.920792
+PINJ,ALCO1000,3,Access - Knuckle Booms,Fans,Access - Scissor Lifts,76,0.752475
+PINJ,ALCO1000,3,Access - Knuckle Booms,Fans,Fans,55,0.544554
+PINJ,ALCO1000,3,Access - Knuckle Booms,Fans,Welders - Accessories,79,0.782178
+PINJ,ALCO1000,3,Access - Knuckle Booms,Fans,Welders - Motorised,79,0.782178
+PINJ,ALCO1000,3,Access - Knuckle Booms,Materials Handling - Forklift,Access - Knuckle Booms,44,0.977778
+PINJ,ALCO1000,3,Access - Knuckle Booms,Materials Handling - Forklift,Access - Scissor Lifts,37,0.822222
+PINJ,ALCO1000,3,Access - Knuckle Booms,Materials Handling - Forklift,Welders - Accessories,39,0.866667
+PINJ,ALCO1000,3,Access - Knuckle Booms,Materials Handling - Forklift,Welders - Motorised,41,0.911111
+PINJ,ALCO1000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,52,0.981132
+PINJ,ALCO1000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Scissor Lifts,47,0.886792
+PINJ,ALCO1000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Welders - Accessories,43,0.811321
+PINJ,ALCO1000,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Welders - Motorised,45,0.849057
+PINJ,ALCO1000,3,Access - Knuckle Booms,Lighting Towers,Access - Knuckle Booms,60,0.923077
+PINJ,ALCO1000,3,Access - Knuckle Booms,Lighting Towers,Access - Scissor Lifts,52,0.8
+PINJ,ALCO1000,3,Access - Knuckle Booms,Lighting Towers,Fans,32,0.492308
+PINJ,ALCO1000,3,Access - Knuckle Booms,Lighting Towers,Welders - Accessories,53,0.815385
+PINJ,ALCO1000,3,Access - Knuckle Booms,Lighting Towers,Welders - Motorised,54,0.830769
+PINJ,ALCO1000,3,Access - Knuckle Booms,Pumps - Small,Access - Knuckle Booms,46,0.901961
+PINJ,ALCO1000,3,Access - Knuckle Booms,Pumps - Small,Access - Scissor Lifts,45,0.882353
+PINJ,ALCO1000,3,Access - Knuckle Booms,Pumps - Small,Welders - Accessories,41,0.803922
+PINJ,ALCO1000,3,Access - Knuckle Booms,Pumps - Small,Welders - Motorised,43,0.843137
+PINJ,ALCO1000,3,Access - Knuckle Booms,Water Blasters,Access - Knuckle Booms,33,0.916667
+PINJ,ALCO1000,3,Access - Knuckle Booms,Water Blasters,Welders - Accessories,31,0.861111
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Access - Knuckle Booms,173,0.873737
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Access - Scissor Lifts,134,0.676768
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Air Compressors - Diesel Small,42,0.212121
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Concrete Vibe Units,43,0.217172
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Fans,76,0.383838
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Lighting Towers,50,0.252525
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Materials Handling - Forklift,39,0.19697
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Pumps - Small,40,0.20202
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Accessories,173,0.873737
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Accessories,Welders - Motorised,167,0.843434
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Access - Knuckle Booms,185,0.889423
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Access - Scissor Lifts,139,0.668269
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Air Compressors - Diesel Small,42,0.201923
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Concrete Vibe Units,44,0.211538
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Fans,75,0.360577
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Lighting Towers,50,0.240385
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Materials Handling - Forklift,42,0.201923
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Pumps - Small,41,0.197115
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Welders - Accessories,164,0.788462
+PINJ,ALCO1000,3,Access - Knuckle Booms,Welders - Motorised,Welders - Motorised,185,0.889423
+PINJ,ALCO1000,2,Welders - Accessories,Access - Knuckle Booms,,190,0.815451
+PINJ,ALCO1000,2,Welders - Accessories,Access - Scissor Lifts,,141,0.60515
+PINJ,ALCO1000,2,Welders - Accessories,Air Compressors - Diesel Small,,44,0.188841
+PINJ,ALCO1000,2,Welders - Accessories,Concrete Vibe Units,,43,0.184549
+PINJ,ALCO1000,2,Welders - Accessories,Fans,,78,0.334764
+PINJ,ALCO1000,2,Welders - Accessories,Lighting Towers,,54,0.23176
+PINJ,ALCO1000,2,Welders - Accessories,Materials Handling - Forklift,,40,0.171674
+PINJ,ALCO1000,2,Welders - Accessories,Pumps - Small,,41,0.175966
+PINJ,ALCO1000,2,Welders - Accessories,Welders - Accessories,,202,0.866953
+PINJ,ALCO1000,2,Welders - Accessories,Welders - Motorised,,190,0.815451
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,185,0.973684
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Access - Scissor Lifts,129,0.678947
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Air Compressors - Diesel Small,43,0.226316
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Concrete Vibe Units,46,0.242105
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Fans,79,0.415789
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Lighting Towers,53,0.278947
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Materials Handling - Forklift,42,0.221053
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Pumps - Small,44,0.231579
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Welders - Accessories,137,0.721053
+PINJ,ALCO1000,3,Welders - Accessories,Access - Knuckle Booms,Welders - Motorised,134,0.705263
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Access - Knuckle Booms,132,0.93617
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Access - Scissor Lifts,115,0.815603
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Air Compressors - Diesel Small,37,0.262411
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Concrete Vibe Units,42,0.297872
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Fans,66,0.468085
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Lighting Towers,48,0.340426
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Materials Handling - Forklift,34,0.241135
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Pumps - Small,40,0.283688
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Welders - Accessories,115,0.815603
+PINJ,ALCO1000,3,Welders - Accessories,Access - Scissor Lifts,Welders - Motorised,115,0.815603
+PINJ,ALCO1000,3,Welders - Accessories,Materials Handling - Forklift,Access - Knuckle Booms,39,0.975
+PINJ,ALCO1000,3,Welders - Accessories,Materials Handling - Forklift,Access - Scissor Lifts,32,0.8
+PINJ,ALCO1000,3,Welders - Accessories,Materials Handling - Forklift,Welders - Accessories,34,0.85
+PINJ,ALCO1000,3,Welders - Accessories,Materials Handling - Forklift,Welders - Motorised,35,0.875
+PINJ,ALCO1000,3,Welders - Accessories,Air Compressors - Diesel Small,Access - Knuckle Booms,42,0.954545
+PINJ,ALCO1000,3,Welders - Accessories,Air Compressors - Diesel Small,Access - Scissor Lifts,40,0.909091
+PINJ,ALCO1000,3,Welders - Accessories,Air Compressors - Diesel Small,Welders - Accessories,35,0.795455
+PINJ,ALCO1000,3,Welders - Accessories,Air Compressors - Diesel Small,Welders - Motorised,37,0.840909
+PINJ,ALCO1000,3,Welders - Accessories,Concrete Vibe Units,Access - Knuckle Booms,41,0.953488
+PINJ,ALCO1000,3,Welders - Accessories,Concrete Vibe Units,Access - Scissor Lifts,39,0.906977
+PINJ,ALCO1000,3,Welders - Accessories,Concrete Vibe Units,Welders - Accessories,36,0.837209
+PINJ,ALCO1000,3,Welders - Accessories,Concrete Vibe Units,Welders - Motorised,38,0.883721
+PINJ,ALCO1000,3,Welders - Accessories,Fans,Access - Knuckle Booms,73,0.935897
+PINJ,ALCO1000,3,Welders - Accessories,Fans,Access - Scissor Lifts,61,0.782051
+PINJ,ALCO1000,3,Welders - Accessories,Fans,Fans,42,0.538462
+PINJ,ALCO1000,3,Welders - Accessories,Fans,Welders - Accessories,64,0.820513
+PINJ,ALCO1000,3,Welders - Accessories,Fans,Welders - Motorised,64,0.820513
+PINJ,ALCO1000,3,Welders - Accessories,Lighting Towers,Access - Knuckle Booms,52,0.962963
+PINJ,ALCO1000,3,Welders - Accessories,Lighting Towers,Access - Scissor Lifts,44,0.814815
+PINJ,ALCO1000,3,Welders - Accessories,Lighting Towers,Fans,32,0.592593
+PINJ,ALCO1000,3,Welders - Accessories,Lighting Towers,Welders - Accessories,48,0.888889
+PINJ,ALCO1000,3,Welders - Accessories,Lighting Towers,Welders - Motorised,47,0.87037
+PINJ,ALCO1000,3,Welders - Accessories,Pumps - Small,Access - Knuckle Booms,38,0.926829
+PINJ,ALCO1000,3,Welders - Accessories,Pumps - Small,Access - Scissor Lifts,36,0.878049
+PINJ,ALCO1000,3,Welders - Accessories,Pumps - Small,Welders - Accessories,35,0.853659
+PINJ,ALCO1000,3,Welders - Accessories,Pumps - Small,Welders - Motorised,36,0.878049
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Access - Knuckle Booms,164,0.811881
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Access - Scissor Lifts,117,0.579208
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Air Compressors - Diesel Small,37,0.183168
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Concrete Vibe Units,36,0.178218
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Fans,70,0.346535
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Lighting Towers,49,0.242574
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Materials Handling - Forklift,33,0.163366
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Pumps - Small,35,0.173267
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,174,0.861386
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Accessories,Welders - Motorised,164,0.811881
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Access - Knuckle Booms,161,0.847368
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Access - Scissor Lifts,121,0.636842
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Air Compressors - Diesel Small,38,0.2
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Concrete Vibe Units,37,0.194737
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Fans,68,0.357895
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Lighting Towers,47,0.247368
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Materials Handling - Forklift,39,0.205263
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Pumps - Small,36,0.189474
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Welders - Accessories,152,0.8
+PINJ,ALCO1000,3,Welders - Accessories,Welders - Motorised,Welders - Motorised,166,0.873684
+PINJ,ALCO1000,2,Access - Scissor Lifts,Access - Knuckle Booms,,184,0.851852
+PINJ,ALCO1000,2,Access - Scissor Lifts,Access - Scissor Lifts,,178,0.824074
+PINJ,ALCO1000,2,Access - Scissor Lifts,Air Compressors - Diesel Small,,44,0.203704
+PINJ,ALCO1000,2,Access - Scissor Lifts,Concrete Vibe Units,,48,0.222222
+PINJ,ALCO1000,2,Access - Scissor Lifts,Fans,,81,0.375
+PINJ,ALCO1000,2,Access - Scissor Lifts,Lighting Towers,,54,0.25
+PINJ,ALCO1000,2,Access - Scissor Lifts,Materials Handling - Forklift,,38,0.175926
+PINJ,ALCO1000,2,Access - Scissor Lifts,Pumps - Small,,45,0.208333
+PINJ,ALCO1000,2,Access - Scissor Lifts,Welders - Accessories,,145,0.671296
+PINJ,ALCO1000,2,Access - Scissor Lifts,Welders - Motorised,,150,0.694444
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Knuckle Booms,180,0.978261
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Access - Scissor Lifts,138,0.75
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Air Compressors - Diesel Small,44,0.23913
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Concrete Vibe Units,44,0.23913
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Fans,81,0.440217
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Lighting Towers,52,0.282609
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Materials Handling - Forklift,36,0.195652
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Pumps - Small,42,0.228261
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Welders - Accessories,134,0.728261
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Knuckle Booms,Welders - Motorised,137,0.744565
+PINJ,ALCO1000,3,Access - Scissor Lifts,Lighting Towers,Access - Knuckle Booms,53,0.981481
+PINJ,ALCO1000,3,Access - Scissor Lifts,Lighting Towers,Access - Scissor Lifts,47,0.87037
+PINJ,ALCO1000,3,Access - Scissor Lifts,Lighting Towers,Welders - Accessories,48,0.888889
+PINJ,ALCO1000,3,Access - Scissor Lifts,Lighting Towers,Welders - Motorised,47,0.87037
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Knuckle Booms,151,0.848315
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Scissor Lifts,150,0.842697
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Air Compressors - Diesel Small,37,0.207865
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Concrete Vibe Units,40,0.224719
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Fans,67,0.376404
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Lighting Towers,45,0.252809
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Materials Handling - Forklift,32,0.179775
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Pumps - Small,38,0.213483
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Welders - Accessories,120,0.674157
+PINJ,ALCO1000,3,Access - Scissor Lifts,Access - Scissor Lifts,Welders - Motorised,125,0.702247
+PINJ,ALCO1000,3,Access - Scissor Lifts,Materials Handling - Forklift,Access - Knuckle Booms,37,0.973684
+PINJ,ALCO1000,3,Access - Scissor Lifts,Materials Handling - Forklift,Access - Scissor Lifts,31,0.815789
+PINJ,ALCO1000,3,Access - Scissor Lifts,Materials Handling - Forklift,Welders - Accessories,32,0.842105
+PINJ,ALCO1000,3,Access - Scissor Lifts,Materials Handling - Forklift,Welders - Motorised,34,0.894737
+PINJ,ALCO1000,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Access - Knuckle Booms,43,0.977273
+PINJ,ALCO1000,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Access - Scissor Lifts,40,0.909091
+PINJ,ALCO1000,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Welders - Accessories,36,0.818182
+PINJ,ALCO1000,3,Access - Scissor Lifts,Air Compressors - Diesel Small,Welders - Motorised,39,0.886364
+PINJ,ALCO1000,3,Access - Scissor Lifts,Pumps - Small,Access - Knuckle Booms,42,0.933333
+PINJ,ALCO1000,3,Access - Scissor Lifts,Pumps - Small,Access - Scissor Lifts,40,0.888889
+PINJ,ALCO1000,3,Access - Scissor Lifts,Pumps - Small,Welders - Accessories,36,0.8
+PINJ,ALCO1000,3,Access - Scissor Lifts,Pumps - Small,Welders - Motorised,37,0.822222
+PINJ,ALCO1000,3,Access - Scissor Lifts,Concrete Vibe Units,Access - Knuckle Booms,45,0.9375
+PINJ,ALCO1000,3,Access - Scissor Lifts,Concrete Vibe Units,Access - Scissor Lifts,43,0.895833
+PINJ,ALCO1000,3,Access - Scissor Lifts,Concrete Vibe Units,Welders - Accessories,38,0.791667
+PINJ,ALCO1000,3,Access - Scissor Lifts,Concrete Vibe Units,Welders - Motorised,39,0.8125
+PINJ,ALCO1000,3,Access - Scissor Lifts,Fans,Access - Knuckle Booms,76,0.938272
+PINJ,ALCO1000,3,Access - Scissor Lifts,Fans,Access - Scissor Lifts,66,0.814815
+PINJ,ALCO1000,3,Access - Scissor Lifts,Fans,Fans,42,0.518519
+PINJ,ALCO1000,3,Access - Scissor Lifts,Fans,Welders - Accessories,65,0.802469
+PINJ,ALCO1000,3,Access - Scissor Lifts,Fans,Welders - Motorised,67,0.82716
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Access - Knuckle Booms,134,0.924138
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Access - Scissor Lifts,108,0.744828
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Air Compressors - Diesel Small,39,0.268966
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Concrete Vibe Units,37,0.255172
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Fans,63,0.434483
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Lighting Towers,43,0.296552
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Materials Handling - Forklift,31,0.213793
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Pumps - Small,35,0.241379
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Welders - Accessories,126,0.868966
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Accessories,Welders - Motorised,124,0.855172
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Access - Knuckle Booms,137,0.913333
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Access - Scissor Lifts,113,0.753333
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Air Compressors - Diesel Small,37,0.246667
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Concrete Vibe Units,39,0.26
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Fans,62,0.413333
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Lighting Towers,43,0.286667
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Materials Handling - Forklift,34,0.226667
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Pumps - Small,37,0.246667
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Welders - Accessories,121,0.806667
+PINJ,ALCO1000,3,Access - Scissor Lifts,Welders - Motorised,Welders - Motorised,131,0.873333
+PINJ,ALCO1000,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,54,0.964286
+PINJ,ALCO1000,2,Air Compressors - Diesel Small,Access - Scissor Lifts,,48,0.857143
+PINJ,ALCO1000,2,Air Compressors - Diesel Small,Welders - Accessories,,44,0.785714
+PINJ,ALCO1000,2,Air Compressors - Diesel Small,Welders - Motorised,,47,0.839286
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,53,0.981481
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Scissor Lifts,43,0.796296
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Welders - Accessories,44,0.814815
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Welders - Motorised,45,0.833333
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Access - Knuckle Booms,46,0.958333
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Access - Scissor Lifts,38,0.791667
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Welders - Accessories,41,0.854167
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Access - Scissor Lifts,Welders - Motorised,43,0.895833
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Accessories,Access - Knuckle Booms,42,0.954545
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Accessories,Access - Scissor Lifts,37,0.840909
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Accessories,Welders - Accessories,39,0.886364
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Accessories,Welders - Motorised,41,0.931818
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Motorised,Access - Knuckle Booms,43,0.914894
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Motorised,Access - Scissor Lifts,42,0.893617
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Motorised,Welders - Accessories,39,0.829787
+PINJ,ALCO1000,3,Air Compressors - Diesel Small,Welders - Motorised,Welders - Motorised,42,0.893617
+PINJ,ALCO1000,2,Fans,Access - Knuckle Booms,,102,0.886957
+PINJ,ALCO1000,2,Fans,Access - Scissor Lifts,,82,0.713043
+PINJ,ALCO1000,2,Fans,Fans,,63,0.547826
+PINJ,ALCO1000,2,Fans,Welders - Accessories,,84,0.730435
+PINJ,ALCO1000,2,Fans,Welders - Motorised,,85,0.73913
+PINJ,ALCO1000,3,Fans,Access - Knuckle Booms,Access - Knuckle Booms,99,0.970588
+PINJ,ALCO1000,3,Fans,Access - Knuckle Booms,Access - Scissor Lifts,75,0.735294
+PINJ,ALCO1000,3,Fans,Access - Knuckle Booms,Fans,50,0.490196
+PINJ,ALCO1000,3,Fans,Access - Knuckle Booms,Welders - Accessories,80,0.784314
+PINJ,ALCO1000,3,Fans,Access - Knuckle Booms,Welders - Motorised,81,0.794118
+PINJ,ALCO1000,3,Fans,Welders - Accessories,Access - Knuckle Booms,79,0.940476
+PINJ,ALCO1000,3,Fans,Welders - Accessories,Access - Scissor Lifts,68,0.809524
+PINJ,ALCO1000,3,Fans,Welders - Accessories,Fans,41,0.488095
+PINJ,ALCO1000,3,Fans,Welders - Accessories,Welders - Accessories,70,0.833333
+PINJ,ALCO1000,3,Fans,Welders - Accessories,Welders - Motorised,71,0.845238
+PINJ,ALCO1000,3,Fans,Access - Scissor Lifts,Access - Knuckle Booms,77,0.939024
+PINJ,ALCO1000,3,Fans,Access - Scissor Lifts,Access - Scissor Lifts,69,0.841463
+PINJ,ALCO1000,3,Fans,Access - Scissor Lifts,Fans,45,0.54878
+PINJ,ALCO1000,3,Fans,Access - Scissor Lifts,Welders - Accessories,70,0.853659
+PINJ,ALCO1000,3,Fans,Access - Scissor Lifts,Welders - Motorised,68,0.829268
+PINJ,ALCO1000,3,Fans,Fans,Access - Knuckle Booms,54,0.857143
+PINJ,ALCO1000,3,Fans,Fans,Access - Scissor Lifts,41,0.650794
+PINJ,ALCO1000,3,Fans,Fans,Fans,37,0.587302
+PINJ,ALCO1000,3,Fans,Fans,Welders - Accessories,44,0.698413
+PINJ,ALCO1000,3,Fans,Fans,Welders - Motorised,44,0.698413
+PINJ,ALCO1000,3,Fans,Welders - Motorised,Access - Knuckle Booms,81,0.952941
+PINJ,ALCO1000,3,Fans,Welders - Motorised,Access - Scissor Lifts,67,0.788235
+PINJ,ALCO1000,3,Fans,Welders - Motorised,Fans,39,0.458824
+PINJ,ALCO1000,3,Fans,Welders - Motorised,Welders - Accessories,71,0.835294
+PINJ,ALCO1000,3,Fans,Welders - Motorised,Welders - Motorised,74,0.870588
+PINJ,ALCO1000,2,Lighting Towers,Access - Knuckle Booms,,63,0.887324
+PINJ,ALCO1000,2,Lighting Towers,Access - Scissor Lifts,,54,0.760563
+PINJ,ALCO1000,2,Lighting Towers,Fans,,34,0.478873
+PINJ,ALCO1000,2,Lighting Towers,Welders - Accessories,,58,0.816901
+PINJ,ALCO1000,2,Lighting Towers,Welders - Motorised,,57,0.802817
+PINJ,ALCO1000,3,Lighting Towers,Access - Knuckle Booms,Access - Knuckle Booms,62,0.984127
+PINJ,ALCO1000,3,Lighting Towers,Access - Knuckle Booms,Access - Scissor Lifts,57,0.904762
+PINJ,ALCO1000,3,Lighting Towers,Access - Knuckle Booms,Welders - Accessories,53,0.84127
+PINJ,ALCO1000,3,Lighting Towers,Access - Knuckle Booms,Welders - Motorised,55,0.873016
+PINJ,ALCO1000,3,Lighting Towers,Fans,Access - Knuckle Booms,33,0.970588
+PINJ,ALCO1000,3,Lighting Towers,Access - Scissor Lifts,Access - Knuckle Booms,53,0.981481
+PINJ,ALCO1000,3,Lighting Towers,Access - Scissor Lifts,Access - Scissor Lifts,46,0.851852
+PINJ,ALCO1000,3,Lighting Towers,Access - Scissor Lifts,Fans,32,0.592593
+PINJ,ALCO1000,3,Lighting Towers,Access - Scissor Lifts,Welders - Accessories,47,0.87037
+PINJ,ALCO1000,3,Lighting Towers,Access - Scissor Lifts,Welders - Motorised,47,0.87037
+PINJ,ALCO1000,3,Lighting Towers,Welders - Accessories,Access - Knuckle Booms,53,0.913793
+PINJ,ALCO1000,3,Lighting Towers,Welders - Accessories,Access - Scissor Lifts,50,0.862069
+PINJ,ALCO1000,3,Lighting Towers,Welders - Accessories,Welders - Accessories,51,0.87931
+PINJ,ALCO1000,3,Lighting Towers,Welders - Accessories,Welders - Motorised,54,0.931034
+PINJ,ALCO1000,3,Lighting Towers,Welders - Motorised,Access - Knuckle Booms,52,0.912281
+PINJ,ALCO1000,3,Lighting Towers,Welders - Motorised,Access - Scissor Lifts,51,0.894737
+PINJ,ALCO1000,3,Lighting Towers,Welders - Motorised,Welders - Accessories,49,0.859649
+PINJ,ALCO1000,3,Lighting Towers,Welders - Motorised,Welders - Motorised,54,0.947368
+PINJ,ALCO1000,2,Welders - Motorised,Access - Knuckle Booms,,203,0.835391
+PINJ,ALCO1000,2,Welders - Motorised,Access - Scissor Lifts,,147,0.604938
+PINJ,ALCO1000,2,Welders - Motorised,Air Compressors - Diesel Small,,43,0.176955
+PINJ,ALCO1000,2,Welders - Motorised,Concrete Vibe Units,,44,0.18107
+PINJ,ALCO1000,2,Welders - Motorised,Fans,,77,0.316872
+PINJ,ALCO1000,2,Welders - Motorised,Lighting Towers,,54,0.222222
+PINJ,ALCO1000,2,Welders - Motorised,Materials Handling - Forklift,,43,0.176955
+PINJ,ALCO1000,2,Welders - Motorised,Pumps - Small,,42,0.17284
+PINJ,ALCO1000,2,Welders - Motorised,Welders - Accessories,,187,0.769547
+PINJ,ALCO1000,2,Welders - Motorised,Welders - Motorised,,215,0.884774
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Access - Knuckle Booms,199,0.980296
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Access - Scissor Lifts,130,0.640394
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Air Compressors - Diesel Small,45,0.221675
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Concrete Vibe Units,44,0.216749
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Fans,76,0.374384
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Lighting Towers,56,0.275862
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Materials Handling - Forklift,41,0.20197
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Pumps - Small,42,0.206897
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Welders - Accessories,137,0.674877
+PINJ,ALCO1000,3,Welders - Motorised,Access - Knuckle Booms,Welders - Motorised,143,0.704433
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Access - Knuckle Booms,139,0.945578
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Access - Scissor Lifts,121,0.823129
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Air Compressors - Diesel Small,36,0.244898
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Concrete Vibe Units,42,0.285714
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Fans,69,0.469388
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Lighting Towers,50,0.340136
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Materials Handling - Forklift,36,0.244898
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Pumps - Small,41,0.278912
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Welders - Accessories,112,0.761905
+PINJ,ALCO1000,3,Welders - Motorised,Access - Scissor Lifts,Welders - Motorised,117,0.795918
+PINJ,ALCO1000,3,Welders - Motorised,Air Compressors - Diesel Small,Access - Knuckle Booms,43,1
+PINJ,ALCO1000,3,Welders - Motorised,Air Compressors - Diesel Small,Access - Scissor Lifts,39,0.906977
+PINJ,ALCO1000,3,Welders - Motorised,Air Compressors - Diesel Small,Welders - Accessories,34,0.790698
+PINJ,ALCO1000,3,Welders - Motorised,Air Compressors - Diesel Small,Welders - Motorised,37,0.860465
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Access - Knuckle Booms,159,0.850267
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Access - Scissor Lifts,118,0.631016
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Air Compressors - Diesel Small,36,0.192513
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Concrete Vibe Units,35,0.187166
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Fans,67,0.358289
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Lighting Towers,50,0.26738
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Materials Handling - Forklift,35,0.187166
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Pumps - Small,34,0.181818
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Welders - Accessories,162,0.86631
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Accessories,Welders - Motorised,157,0.839572
+PINJ,ALCO1000,3,Welders - Motorised,Concrete Vibe Units,Access - Knuckle Booms,41,0.931818
+PINJ,ALCO1000,3,Welders - Motorised,Concrete Vibe Units,Access - Scissor Lifts,41,0.931818
+PINJ,ALCO1000,3,Welders - Motorised,Concrete Vibe Units,Welders - Accessories,36,0.818182
+PINJ,ALCO1000,3,Welders - Motorised,Concrete Vibe Units,Welders - Motorised,39,0.886364
+PINJ,ALCO1000,3,Welders - Motorised,Materials Handling - Forklift,Access - Knuckle Booms,42,0.976744
+PINJ,ALCO1000,3,Welders - Motorised,Materials Handling - Forklift,Access - Scissor Lifts,36,0.837209
+PINJ,ALCO1000,3,Welders - Motorised,Materials Handling - Forklift,Welders - Accessories,37,0.860465
+PINJ,ALCO1000,3,Welders - Motorised,Materials Handling - Forklift,Welders - Motorised,38,0.883721
+PINJ,ALCO1000,3,Welders - Motorised,Fans,Access - Knuckle Booms,71,0.922078
+PINJ,ALCO1000,3,Welders - Motorised,Fans,Access - Scissor Lifts,61,0.792208
+PINJ,ALCO1000,3,Welders - Motorised,Fans,Fans,42,0.545455
+PINJ,ALCO1000,3,Welders - Motorised,Fans,Welders - Accessories,62,0.805195
+PINJ,ALCO1000,3,Welders - Motorised,Fans,Welders - Motorised,63,0.818182
+PINJ,ALCO1000,3,Welders - Motorised,Lighting Towers,Access - Knuckle Booms,51,0.944444
+PINJ,ALCO1000,3,Welders - Motorised,Lighting Towers,Access - Scissor Lifts,44,0.814815
+PINJ,ALCO1000,3,Welders - Motorised,Lighting Towers,Fans,31,0.574074
+PINJ,ALCO1000,3,Welders - Motorised,Lighting Towers,Welders - Accessories,45,0.833333
+PINJ,ALCO1000,3,Welders - Motorised,Lighting Towers,Welders - Motorised,45,0.833333
+PINJ,ALCO1000,3,Welders - Motorised,Pumps - Small,Access - Knuckle Booms,38,0.904762
+PINJ,ALCO1000,3,Welders - Motorised,Pumps - Small,Access - Scissor Lifts,38,0.904762
+PINJ,ALCO1000,3,Welders - Motorised,Pumps - Small,Welders - Accessories,35,0.833333
+PINJ,ALCO1000,3,Welders - Motorised,Pumps - Small,Welders - Motorised,37,0.880952
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Access - Knuckle Booms,181,0.84186
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Access - Scissor Lifts,128,0.595349
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Air Compressors - Diesel Small,36,0.167442
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Concrete Vibe Units,39,0.181395
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Fans,70,0.325581
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Lighting Towers,51,0.237209
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Materials Handling - Forklift,40,0.186047
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Pumps - Small,38,0.176744
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Welders - Accessories,166,0.772093
+PINJ,ALCO1000,3,Welders - Motorised,Welders - Motorised,Welders - Motorised,189,0.87907
+PINJ,ALCO1000,2,Water Blasters,Access - Knuckle Booms,,33,0.916667
+PINJ,ALCO1000,2,Water Blasters,Welders - Accessories,,31,0.861111
+PINJ,ALCO1000,3,Water Blasters,Access - Knuckle Booms,Access - Knuckle Booms,33,1
+PINJ,ALCO1000,2,Concrete Vibe Units,Access - Knuckle Booms,,50,0.892857
+PINJ,ALCO1000,2,Concrete Vibe Units,Access - Scissor Lifts,,49,0.875
+PINJ,ALCO1000,2,Concrete Vibe Units,Fans,,31,0.553571
+PINJ,ALCO1000,2,Concrete Vibe Units,Welders - Accessories,,45,0.803571
+PINJ,ALCO1000,2,Concrete Vibe Units,Welders - Motorised,,47,0.839286
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Knuckle Booms,Access - Knuckle Booms,48,0.96
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Knuckle Booms,Access - Scissor Lifts,43,0.86
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Knuckle Booms,Welders - Accessories,42,0.84
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Knuckle Booms,Welders - Motorised,44,0.88
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Scissor Lifts,Access - Knuckle Booms,48,0.979592
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Scissor Lifts,Access - Scissor Lifts,39,0.795918
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Scissor Lifts,Welders - Accessories,40,0.816327
+PINJ,ALCO1000,3,Concrete Vibe Units,Access - Scissor Lifts,Welders - Motorised,41,0.836735
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Accessories,Access - Knuckle Booms,43,0.955556
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Accessories,Access - Scissor Lifts,37,0.822222
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Accessories,Welders - Accessories,42,0.933333
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Accessories,Welders - Motorised,41,0.911111
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Motorised,Access - Knuckle Booms,44,0.93617
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Motorised,Access - Scissor Lifts,39,0.829787
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Motorised,Welders - Accessories,42,0.893617
+PINJ,ALCO1000,3,Concrete Vibe Units,Welders - Motorised,Welders - Motorised,43,0.914894
+PINJ,ALCO1000,2,Pumps - Small,Access - Knuckle Booms,,47,0.886792
+PINJ,ALCO1000,2,Pumps - Small,Access - Scissor Lifts,,46,0.867925
+PINJ,ALCO1000,2,Pumps - Small,Welders - Accessories,,43,0.811321
+PINJ,ALCO1000,2,Pumps - Small,Welders - Motorised,,45,0.849057
+PINJ,ALCO1000,3,Pumps - Small,Access - Knuckle Booms,Access - Knuckle Booms,45,0.957447
+PINJ,ALCO1000,3,Pumps - Small,Access - Knuckle Booms,Access - Scissor Lifts,41,0.87234
+PINJ,ALCO1000,3,Pumps - Small,Access - Knuckle Booms,Welders - Accessories,40,0.851064
+PINJ,ALCO1000,3,Pumps - Small,Access - Knuckle Booms,Welders - Motorised,41,0.87234
+PINJ,ALCO1000,3,Pumps - Small,Access - Scissor Lifts,Access - Knuckle Booms,44,0.956522
+PINJ,ALCO1000,3,Pumps - Small,Access - Scissor Lifts,Access - Scissor Lifts,37,0.804348
+PINJ,ALCO1000,3,Pumps - Small,Access - Scissor Lifts,Welders - Accessories,39,0.847826
+PINJ,ALCO1000,3,Pumps - Small,Access - Scissor Lifts,Welders - Motorised,40,0.869565
+PINJ,ALCO1000,3,Pumps - Small,Welders - Accessories,Access - Knuckle Booms,39,0.906977
+PINJ,ALCO1000,3,Pumps - Small,Welders - Accessories,Access - Scissor Lifts,36,0.837209
+PINJ,ALCO1000,3,Pumps - Small,Welders - Accessories,Welders - Accessories,39,0.906977
+PINJ,ALCO1000,3,Pumps - Small,Welders - Accessories,Welders - Motorised,40,0.930233
+PINJ,ALCO1000,3,Pumps - Small,Welders - Motorised,Access - Knuckle Booms,42,0.933333
+PINJ,ALCO1000,3,Pumps - Small,Welders - Motorised,Access - Scissor Lifts,38,0.844444
+PINJ,ALCO1000,3,Pumps - Small,Welders - Motorised,Welders - Accessories,40,0.888889
+PINJ,ALCO1000,3,Pumps - Small,Welders - Motorised,Welders - Motorised,43,0.955556
+PINJ,ALCO1000,2,Materials Handling - Forklift,Access - Knuckle Booms,,45,0.957447
+PINJ,ALCO1000,2,Materials Handling - Forklift,Access - Scissor Lifts,,38,0.808511
+PINJ,ALCO1000,2,Materials Handling - Forklift,Welders - Accessories,,40,0.851064
+PINJ,ALCO1000,2,Materials Handling - Forklift,Welders - Motorised,,42,0.893617
+PINJ,ALCO1000,3,Materials Handling - Forklift,Access - Knuckle Booms,Access - Knuckle Booms,45,1
+PINJ,ALCO1000,3,Materials Handling - Forklift,Access - Knuckle Booms,Access - Scissor Lifts,37,0.822222
+PINJ,ALCO1000,3,Materials Handling - Forklift,Access - Knuckle Booms,Welders - Accessories,37,0.822222
+PINJ,ALCO1000,3,Materials Handling - Forklift,Access - Knuckle Booms,Welders - Motorised,37,0.822222
+PINJ,ALCO1000,3,Materials Handling - Forklift,Access - Scissor Lifts,Access - Knuckle Booms,38,1
+PINJ,ALCO1000,3,Materials Handling - Forklift,Access - Scissor Lifts,Access - Scissor Lifts,32,0.842105
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Motorised,Access - Knuckle Booms,42,1
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Motorised,Access - Scissor Lifts,35,0.833333
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Motorised,Welders - Accessories,34,0.809524
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Motorised,Welders - Motorised,35,0.833333
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Accessories,Access - Knuckle Booms,39,0.975
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Accessories,Access - Scissor Lifts,34,0.85
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Accessories,Welders - Accessories,35,0.875
+PINJ,ALCO1000,3,Materials Handling - Forklift,Welders - Accessories,Welders - Motorised,33,0.825

@@ -1,0 +1,534 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+KWNA,BPRE6001,1,Chain Blocks,,,71,1
+KWNA,BPRE6001,1,Industrial Tools & Equipment,,,158,1
+KWNA,BPRE6001,1,Miscellaneous - Tools,,,197,1
+KWNA,BPRE6001,1,Power Tools & Accessories,,,74,1
+KWNA,BPRE6001,1,Winches,,,60,1
+KWNA,BPRE6001,1,Access - Knuckle Booms,,,242,1
+KWNA,BPRE6001,1,Air Compressors - Diesel Small,,,150,1
+KWNA,BPRE6001,1,Materials Handling - Forklift,,,67,1
+KWNA,BPRE6001,1,Bolting Tools,,,104,1
+KWNA,BPRE6001,1,Compaction - Rammers & Vibrating Plates,,,65,1
+KWNA,BPRE6001,1,Earthmoving - Skid Steer - Loaders,,,69,1
+KWNA,BPRE6001,1,Fans,,,72,1
+KWNA,BPRE6001,1,Air Hand Tools,,,63,1
+KWNA,BPRE6001,1,Generators - Diesel Small,,,148,1
+KWNA,BPRE6001,1,Plumbers Equipment,,,59,1
+KWNA,BPRE6001,1,Electrical Leads & Accessories,,,55,1
+KWNA,BPRE6001,1,Air Breakers,,,68,1
+KWNA,BPRE6001,1,Lighting Towers,,,84,1
+KWNA,BPRE6001,2,Access - Knuckle Booms,Access - Knuckle Booms,,228,0.942149
+KWNA,BPRE6001,2,Access - Knuckle Booms,Air Breakers,,59,0.243802
+KWNA,BPRE6001,2,Access - Knuckle Booms,Air Compressors - Diesel Small,,117,0.483471
+KWNA,BPRE6001,2,Access - Knuckle Booms,Bolting Tools,,67,0.27686
+KWNA,BPRE6001,2,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,,56,0.231405
+KWNA,BPRE6001,2,Access - Knuckle Booms,Earthmoving - Skid Steer - Loaders,,55,0.227273
+KWNA,BPRE6001,2,Access - Knuckle Booms,Fans,,55,0.227273
+KWNA,BPRE6001,2,Access - Knuckle Booms,Generators - Diesel Small,,108,0.446281
+KWNA,BPRE6001,2,Access - Knuckle Booms,Industrial Tools & Equipment,,99,0.409091
+KWNA,BPRE6001,2,Access - Knuckle Booms,Lighting Towers,,66,0.272727
+KWNA,BPRE6001,2,Access - Knuckle Booms,Materials Handling - Forklift,,53,0.219008
+KWNA,BPRE6001,2,Access - Knuckle Booms,Miscellaneous - Tools,,126,0.520661
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,214,0.938596
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Breakers,55,0.241228
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Air Compressors - Diesel Small,112,0.491228
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Bolting Tools,64,0.280702
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Earthmoving - Skid Steer - Loaders,52,0.22807
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Fans,52,0.22807
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Generators - Diesel Small,100,0.438596
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Industrial Tools & Equipment,92,0.403509
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Lighting Towers,60,0.263158
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Materials Handling - Forklift,51,0.223684
+KWNA,BPRE6001,3,Access - Knuckle Booms,Access - Knuckle Booms,Miscellaneous - Tools,118,0.517544
+KWNA,BPRE6001,3,Access - Knuckle Booms,Generators - Diesel Small,Access - Knuckle Booms,87,0.805556
+KWNA,BPRE6001,3,Access - Knuckle Booms,Generators - Diesel Small,Air Compressors - Diesel Small,73,0.675926
+KWNA,BPRE6001,3,Access - Knuckle Booms,Generators - Diesel Small,Generators - Diesel Small,75,0.694444
+KWNA,BPRE6001,3,Access - Knuckle Booms,Generators - Diesel Small,Industrial Tools & Equipment,53,0.490741
+KWNA,BPRE6001,3,Access - Knuckle Booms,Generators - Diesel Small,Miscellaneous - Tools,72,0.666667
+KWNA,BPRE6001,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Access - Knuckle Booms,97,0.82906
+KWNA,BPRE6001,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Air Compressors - Diesel Small,97,0.82906
+KWNA,BPRE6001,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Generators - Diesel Small,71,0.606838
+KWNA,BPRE6001,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Industrial Tools & Equipment,65,0.555556
+KWNA,BPRE6001,3,Access - Knuckle Booms,Air Compressors - Diesel Small,Miscellaneous - Tools,88,0.752137
+KWNA,BPRE6001,3,Access - Knuckle Booms,Bolting Tools,Access - Knuckle Booms,54,0.80597
+KWNA,BPRE6001,3,Access - Knuckle Booms,Bolting Tools,Miscellaneous - Tools,54,0.80597
+KWNA,BPRE6001,3,Access - Knuckle Booms,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,51,0.910714
+KWNA,BPRE6001,3,Access - Knuckle Booms,Industrial Tools & Equipment,Access - Knuckle Booms,81,0.818182
+KWNA,BPRE6001,3,Access - Knuckle Booms,Industrial Tools & Equipment,Air Compressors - Diesel Small,63,0.636364
+KWNA,BPRE6001,3,Access - Knuckle Booms,Industrial Tools & Equipment,Miscellaneous - Tools,65,0.656566
+KWNA,BPRE6001,3,Access - Knuckle Booms,Lighting Towers,Access - Knuckle Booms,58,0.878788
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Access - Knuckle Booms,102,0.809524
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Air Compressors - Diesel Small,83,0.65873
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Bolting Tools,52,0.412698
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Generators - Diesel Small,72,0.571429
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Industrial Tools & Equipment,67,0.531746
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Lighting Towers,51,0.404762
+KWNA,BPRE6001,3,Access - Knuckle Booms,Miscellaneous - Tools,Miscellaneous - Tools,93,0.738095
+KWNA,BPRE6001,2,Bolting Tools,Access - Knuckle Booms,,65,0.625
+KWNA,BPRE6001,2,Bolting Tools,Air Compressors - Diesel Small,,51,0.490385
+KWNA,BPRE6001,2,Bolting Tools,Bolting Tools,,81,0.778846
+KWNA,BPRE6001,2,Bolting Tools,Chain Blocks,,51,0.490385
+KWNA,BPRE6001,2,Bolting Tools,Industrial Tools & Equipment,,80,0.769231
+KWNA,BPRE6001,2,Bolting Tools,Miscellaneous - Tools,,88,0.846154
+KWNA,BPRE6001,2,Bolting Tools,Power Tools & Accessories,,56,0.538462
+KWNA,BPRE6001,3,Bolting Tools,Access - Knuckle Booms,Access - Knuckle Booms,60,0.923077
+KWNA,BPRE6001,3,Bolting Tools,Access - Knuckle Booms,Bolting Tools,51,0.784615
+KWNA,BPRE6001,3,Bolting Tools,Access - Knuckle Booms,Industrial Tools & Equipment,54,0.830769
+KWNA,BPRE6001,3,Bolting Tools,Access - Knuckle Booms,Miscellaneous - Tools,55,0.846154
+KWNA,BPRE6001,3,Bolting Tools,Bolting Tools,Bolting Tools,75,0.925926
+KWNA,BPRE6001,3,Bolting Tools,Bolting Tools,Industrial Tools & Equipment,70,0.864198
+KWNA,BPRE6001,3,Bolting Tools,Bolting Tools,Miscellaneous - Tools,70,0.864198
+KWNA,BPRE6001,3,Bolting Tools,Bolting Tools,Power Tools & Accessories,55,0.679012
+KWNA,BPRE6001,3,Bolting Tools,Chain Blocks,Industrial Tools & Equipment,51,1
+KWNA,BPRE6001,3,Bolting Tools,Chain Blocks,Miscellaneous - Tools,51,1
+KWNA,BPRE6001,3,Bolting Tools,Industrial Tools & Equipment,Bolting Tools,64,0.8
+KWNA,BPRE6001,3,Bolting Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,66,0.825
+KWNA,BPRE6001,3,Bolting Tools,Industrial Tools & Equipment,Miscellaneous - Tools,67,0.8375
+KWNA,BPRE6001,3,Bolting Tools,Industrial Tools & Equipment,Power Tools & Accessories,56,0.7
+KWNA,BPRE6001,3,Bolting Tools,Miscellaneous - Tools,Access - Knuckle Booms,52,0.590909
+KWNA,BPRE6001,3,Bolting Tools,Miscellaneous - Tools,Bolting Tools,70,0.795455
+KWNA,BPRE6001,3,Bolting Tools,Miscellaneous - Tools,Industrial Tools & Equipment,76,0.863636
+KWNA,BPRE6001,3,Bolting Tools,Miscellaneous - Tools,Miscellaneous - Tools,79,0.897727
+KWNA,BPRE6001,3,Bolting Tools,Miscellaneous - Tools,Power Tools & Accessories,55,0.625
+KWNA,BPRE6001,3,Bolting Tools,Power Tools & Accessories,Bolting Tools,53,0.946429
+KWNA,BPRE6001,3,Bolting Tools,Power Tools & Accessories,Industrial Tools & Equipment,56,1
+KWNA,BPRE6001,3,Bolting Tools,Power Tools & Accessories,Miscellaneous - Tools,56,1
+KWNA,BPRE6001,3,Bolting Tools,Power Tools & Accessories,Power Tools & Accessories,54,0.964286
+KWNA,BPRE6001,2,Chain Blocks,Air Hand Tools,,55,0.774648
+KWNA,BPRE6001,2,Chain Blocks,Bolting Tools,,54,0.760563
+KWNA,BPRE6001,2,Chain Blocks,Chain Blocks,,65,0.915493
+KWNA,BPRE6001,2,Chain Blocks,Electrical Leads & Accessories,,51,0.71831
+KWNA,BPRE6001,2,Chain Blocks,Industrial Tools & Equipment,,68,0.957746
+KWNA,BPRE6001,2,Chain Blocks,Miscellaneous - Tools,,71,1
+KWNA,BPRE6001,2,Chain Blocks,Power Tools & Accessories,,58,0.816901
+KWNA,BPRE6001,2,Chain Blocks,Winches,,55,0.774648
+KWNA,BPRE6001,3,Chain Blocks,Air Hand Tools,Air Hand Tools,54,0.981818
+KWNA,BPRE6001,3,Chain Blocks,Air Hand Tools,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Chain Blocks,Air Hand Tools,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Chain Blocks,Bolting Tools,Bolting Tools,51,0.944444
+KWNA,BPRE6001,3,Chain Blocks,Bolting Tools,Industrial Tools & Equipment,52,0.962963
+KWNA,BPRE6001,3,Chain Blocks,Bolting Tools,Miscellaneous - Tools,53,0.981481
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Air Hand Tools,53,0.815385
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Bolting Tools,51,0.784615
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Chain Blocks,62,0.953846
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Electrical Leads & Accessories,51,0.784615
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Industrial Tools & Equipment,64,0.984615
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Miscellaneous - Tools,65,1
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Power Tools & Accessories,58,0.892308
+KWNA,BPRE6001,3,Chain Blocks,Chain Blocks,Winches,53,0.815385
+KWNA,BPRE6001,3,Chain Blocks,Electrical Leads & Accessories,Industrial Tools & Equipment,51,1
+KWNA,BPRE6001,3,Chain Blocks,Electrical Leads & Accessories,Miscellaneous - Tools,51,1
+KWNA,BPRE6001,3,Chain Blocks,Power Tools & Accessories,Chain Blocks,51,0.87931
+KWNA,BPRE6001,3,Chain Blocks,Power Tools & Accessories,Industrial Tools & Equipment,58,1
+KWNA,BPRE6001,3,Chain Blocks,Power Tools & Accessories,Miscellaneous - Tools,58,1
+KWNA,BPRE6001,3,Chain Blocks,Power Tools & Accessories,Power Tools & Accessories,56,0.965517
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Air Hand Tools,52,0.764706
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Bolting Tools,52,0.764706
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Chain Blocks,57,0.838235
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.779412
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Industrial Tools & Equipment,66,0.970588
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Miscellaneous - Tools,67,0.985294
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Power Tools & Accessories,59,0.867647
+KWNA,BPRE6001,3,Chain Blocks,Industrial Tools & Equipment,Winches,52,0.764706
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Air Hand Tools,53,0.746479
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Bolting Tools,54,0.760563
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Chain Blocks,60,0.84507
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Electrical Leads & Accessories,52,0.732394
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Industrial Tools & Equipment,70,0.985915
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Miscellaneous - Tools,70,0.985915
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Power Tools & Accessories,60,0.84507
+KWNA,BPRE6001,3,Chain Blocks,Miscellaneous - Tools,Winches,52,0.732394
+KWNA,BPRE6001,3,Chain Blocks,Winches,Chain Blocks,51,0.927273
+KWNA,BPRE6001,3,Chain Blocks,Winches,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Chain Blocks,Winches,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Chain Blocks,Winches,Power Tools & Accessories,51,0.927273
+KWNA,BPRE6001,3,Chain Blocks,Winches,Winches,54,0.981818
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Access - Knuckle Booms,,100,0.632911
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Air Compressors - Diesel Small,,75,0.474684
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Air Hand Tools,,61,0.386076
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Bolting Tools,,79,0.5
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Chain Blocks,,66,0.417722
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,55,0.348101
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Generators - Diesel Small,,64,0.405063
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,96,0.607595
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Lighting Towers,,53,0.335443
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Miscellaneous - Tools,,115,0.727848
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Plumbers Equipment,,57,0.360759
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Power Tools & Accessories,,70,0.443038
+KWNA,BPRE6001,2,Industrial Tools & Equipment,Winches,,60,0.379747
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Access - Knuckle Booms,94,0.94
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Air Compressors - Diesel Small,72,0.72
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Bolting Tools,56,0.56
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Generators - Diesel Small,80,0.8
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Industrial Tools & Equipment,94,0.94
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Lighting Towers,53,0.53
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Access - Knuckle Booms,Miscellaneous - Tools,92,0.92
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Compressors - Diesel Small,Access - Knuckle Booms,65,0.866667
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Compressors - Diesel Small,Air Compressors - Diesel Small,59,0.786667
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Compressors - Diesel Small,Generators - Diesel Small,61,0.813333
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Compressors - Diesel Small,Industrial Tools & Equipment,70,0.933333
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Compressors - Diesel Small,Miscellaneous - Tools,71,0.946667
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Generators - Diesel Small,Generators - Diesel Small,56,0.875
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Generators - Diesel Small,Industrial Tools & Equipment,59,0.921875
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Generators - Diesel Small,Miscellaneous - Tools,60,0.9375
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Air Hand Tools,52,0.742857
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Bolting Tools,58,0.828571
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Chain Blocks,56,0.8
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,70,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,69,0.985714
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,67,0.957143
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Power Tools & Accessories,Winches,54,0.771429
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Hand Tools,Air Hand Tools,59,0.967213
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Hand Tools,Chain Blocks,53,0.868852
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Hand Tools,Industrial Tools & Equipment,61,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Hand Tools,Miscellaneous - Tools,60,0.983607
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Air Hand Tools,Power Tools & Accessories,54,0.885246
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,52,0.945455
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,52,0.945455
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Bolting Tools,Bolting Tools,71,0.898734
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Bolting Tools,Industrial Tools & Equipment,77,0.974684
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Bolting Tools,Miscellaneous - Tools,75,0.949367
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Bolting Tools,Power Tools & Accessories,56,0.708861
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Air Hand Tools,59,0.614583
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Bolting Tools,67,0.697917
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Chain Blocks,63,0.65625
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,55,0.572917
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,88,0.916667
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,86,0.895833
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Plumbers Equipment,54,0.5625
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,69,0.71875
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Winches,58,0.604167
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Lighting Towers,Miscellaneous - Tools,51,0.962264
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Air Hand Tools,54,0.818182
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Bolting Tools,53,0.80303
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Chain Blocks,64,0.969697
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Electrical Leads & Accessories,51,0.772727
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Industrial Tools & Equipment,66,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Miscellaneous - Tools,66,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Power Tools & Accessories,58,0.878788
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Chain Blocks,Winches,54,0.818182
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Winches,Chain Blocks,54,0.9
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,60,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,60,1
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,55,0.916667
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Winches,Winches,58,0.966667
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Access - Knuckle Booms,66,0.573913
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Air Compressors - Diesel Small,51,0.443478
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Air Hand Tools,60,0.521739
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Bolting Tools,75,0.652174
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Chain Blocks,66,0.573913
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,55,0.478261
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Generators - Diesel Small,56,0.486957
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,106,0.921739
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,109,0.947826
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Plumbers Equipment,53,0.46087
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,70,0.608696
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Miscellaneous - Tools,Winches,58,0.504348
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Plumbers Equipment,Industrial Tools & Equipment,55,0.964912
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Plumbers Equipment,Miscellaneous - Tools,55,0.964912
+KWNA,BPRE6001,3,Industrial Tools & Equipment,Plumbers Equipment,Plumbers Equipment,53,0.929825
+KWNA,BPRE6001,2,Miscellaneous - Tools,Access - Knuckle Booms,,125,0.634518
+KWNA,BPRE6001,2,Miscellaneous - Tools,Air Compressors - Diesel Small,,97,0.492386
+KWNA,BPRE6001,2,Miscellaneous - Tools,Air Hand Tools,,62,0.314721
+KWNA,BPRE6001,2,Miscellaneous - Tools,Bolting Tools,,85,0.431472
+KWNA,BPRE6001,2,Miscellaneous - Tools,Chain Blocks,,70,0.35533
+KWNA,BPRE6001,2,Miscellaneous - Tools,Earthmoving - Skid Steer - Loaders,,52,0.263959
+KWNA,BPRE6001,2,Miscellaneous - Tools,Electrical Leads & Accessories,,55,0.279188
+KWNA,BPRE6001,2,Miscellaneous - Tools,Fans,,55,0.279188
+KWNA,BPRE6001,2,Miscellaneous - Tools,Generators - Diesel Small,,92,0.467005
+KWNA,BPRE6001,2,Miscellaneous - Tools,Industrial Tools & Equipment,,118,0.598985
+KWNA,BPRE6001,2,Miscellaneous - Tools,Lighting Towers,,61,0.309645
+KWNA,BPRE6001,2,Miscellaneous - Tools,Miscellaneous - Tools,,157,0.796954
+KWNA,BPRE6001,2,Miscellaneous - Tools,Plumbers Equipment,,57,0.28934
+KWNA,BPRE6001,2,Miscellaneous - Tools,Power Tools & Accessories,,72,0.365482
+KWNA,BPRE6001,2,Miscellaneous - Tools,Winches,,60,0.304569
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Access - Knuckle Booms,116,0.928
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Air Compressors - Diesel Small,86,0.688
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Bolting Tools,56,0.448
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Generators - Diesel Small,87,0.696
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Industrial Tools & Equipment,91,0.728
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Lighting Towers,57,0.456
+KWNA,BPRE6001,3,Miscellaneous - Tools,Access - Knuckle Booms,Miscellaneous - Tools,110,0.88
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Compressors - Diesel Small,Access - Knuckle Booms,81,0.835052
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Compressors - Diesel Small,Air Compressors - Diesel Small,75,0.773196
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Compressors - Diesel Small,Generators - Diesel Small,69,0.71134
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Compressors - Diesel Small,Industrial Tools & Equipment,74,0.762887
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Compressors - Diesel Small,Miscellaneous - Tools,90,0.927835
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Air Hand Tools,53,0.736111
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Bolting Tools,57,0.791667
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Chain Blocks,57,0.791667
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,51,0.708333
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,70,0.972222
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,71,0.986111
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,68,0.944444
+KWNA,BPRE6001,3,Miscellaneous - Tools,Power Tools & Accessories,Winches,55,0.763889
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Hand Tools,Air Hand Tools,60,0.967742
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Hand Tools,Chain Blocks,54,0.870968
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Hand Tools,Industrial Tools & Equipment,62,1
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Hand Tools,Miscellaneous - Tools,61,0.983871
+KWNA,BPRE6001,3,Miscellaneous - Tools,Air Hand Tools,Power Tools & Accessories,55,0.887097
+KWNA,BPRE6001,3,Miscellaneous - Tools,Bolting Tools,Bolting Tools,69,0.811765
+KWNA,BPRE6001,3,Miscellaneous - Tools,Bolting Tools,Industrial Tools & Equipment,74,0.870588
+KWNA,BPRE6001,3,Miscellaneous - Tools,Bolting Tools,Miscellaneous - Tools,82,0.964706
+KWNA,BPRE6001,3,Miscellaneous - Tools,Bolting Tools,Power Tools & Accessories,56,0.658824
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Air Hand Tools,55,0.785714
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Bolting Tools,53,0.757143
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Chain Blocks,65,0.928571
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Electrical Leads & Accessories,51,0.728571
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Industrial Tools & Equipment,67,0.957143
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Miscellaneous - Tools,70,1
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Power Tools & Accessories,58,0.828571
+KWNA,BPRE6001,3,Miscellaneous - Tools,Chain Blocks,Winches,55,0.785714
+KWNA,BPRE6001,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,52,0.945455
+KWNA,BPRE6001,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,52,0.945455
+KWNA,BPRE6001,3,Miscellaneous - Tools,Generators - Diesel Small,Access - Knuckle Booms,67,0.728261
+KWNA,BPRE6001,3,Miscellaneous - Tools,Generators - Diesel Small,Air Compressors - Diesel Small,57,0.619565
+KWNA,BPRE6001,3,Miscellaneous - Tools,Generators - Diesel Small,Generators - Diesel Small,75,0.815217
+KWNA,BPRE6001,3,Miscellaneous - Tools,Generators - Diesel Small,Industrial Tools & Equipment,59,0.641304
+KWNA,BPRE6001,3,Miscellaneous - Tools,Generators - Diesel Small,Miscellaneous - Tools,76,0.826087
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Access - Knuckle Booms,68,0.576271
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Air Hand Tools,61,0.516949
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Bolting Tools,68,0.576271
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Chain Blocks,65,0.550847
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,55,0.466102
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,87,0.737288
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,103,0.872881
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Plumbers Equipment,55,0.466102
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,70,0.59322
+KWNA,BPRE6001,3,Miscellaneous - Tools,Industrial Tools & Equipment,Winches,60,0.508475
+KWNA,BPRE6001,3,Miscellaneous - Tools,Lighting Towers,Access - Knuckle Booms,52,0.852459
+KWNA,BPRE6001,3,Miscellaneous - Tools,Lighting Towers,Miscellaneous - Tools,56,0.918033
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Access - Knuckle Booms,92,0.585987
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Air Compressors - Diesel Small,72,0.458599
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Air Hand Tools,62,0.394904
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,76,0.484076
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Chain Blocks,68,0.433121
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,55,0.350318
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Generators - Diesel Small,75,0.477707
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,108,0.687898
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,142,0.904459
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Plumbers Equipment,54,0.343949
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,71,0.452229
+KWNA,BPRE6001,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,60,0.382166
+KWNA,BPRE6001,3,Miscellaneous - Tools,Plumbers Equipment,Industrial Tools & Equipment,55,0.964912
+KWNA,BPRE6001,3,Miscellaneous - Tools,Plumbers Equipment,Miscellaneous - Tools,56,0.982456
+KWNA,BPRE6001,3,Miscellaneous - Tools,Plumbers Equipment,Plumbers Equipment,53,0.929825
+KWNA,BPRE6001,3,Miscellaneous - Tools,Winches,Chain Blocks,54,0.9
+KWNA,BPRE6001,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,60,1
+KWNA,BPRE6001,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,60,1
+KWNA,BPRE6001,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,55,0.916667
+KWNA,BPRE6001,3,Miscellaneous - Tools,Winches,Winches,58,0.966667
+KWNA,BPRE6001,2,Materials Handling - Forklift,Access - Knuckle Booms,,55,0.820896
+KWNA,BPRE6001,3,Materials Handling - Forklift,Access - Knuckle Booms,Access - Knuckle Booms,54,0.981818
+KWNA,BPRE6001,2,Power Tools & Accessories,Air Hand Tools,,53,0.716216
+KWNA,BPRE6001,2,Power Tools & Accessories,Bolting Tools,,59,0.797297
+KWNA,BPRE6001,2,Power Tools & Accessories,Chain Blocks,,57,0.77027
+KWNA,BPRE6001,2,Power Tools & Accessories,Electrical Leads & Accessories,,51,0.689189
+KWNA,BPRE6001,2,Power Tools & Accessories,Industrial Tools & Equipment,,72,0.972973
+KWNA,BPRE6001,2,Power Tools & Accessories,Miscellaneous - Tools,,73,0.986486
+KWNA,BPRE6001,2,Power Tools & Accessories,Power Tools & Accessories,,68,0.918919
+KWNA,BPRE6001,2,Power Tools & Accessories,Winches,,55,0.743243
+KWNA,BPRE6001,3,Power Tools & Accessories,Air Hand Tools,Air Hand Tools,52,0.981132
+KWNA,BPRE6001,3,Power Tools & Accessories,Air Hand Tools,Industrial Tools & Equipment,53,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Air Hand Tools,Miscellaneous - Tools,52,0.981132
+KWNA,BPRE6001,3,Power Tools & Accessories,Air Hand Tools,Power Tools & Accessories,51,0.962264
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Air Hand Tools,52,0.722222
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Bolting Tools,59,0.819444
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Chain Blocks,57,0.791667
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,70,0.972222
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,68,0.944444
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,66,0.916667
+KWNA,BPRE6001,3,Power Tools & Accessories,Industrial Tools & Equipment,Winches,55,0.763889
+KWNA,BPRE6001,3,Power Tools & Accessories,Bolting Tools,Bolting Tools,58,0.983051
+KWNA,BPRE6001,3,Power Tools & Accessories,Bolting Tools,Industrial Tools & Equipment,58,0.983051
+KWNA,BPRE6001,3,Power Tools & Accessories,Bolting Tools,Miscellaneous - Tools,57,0.966102
+KWNA,BPRE6001,3,Power Tools & Accessories,Bolting Tools,Power Tools & Accessories,54,0.915254
+KWNA,BPRE6001,3,Power Tools & Accessories,Chain Blocks,Chain Blocks,56,0.982456
+KWNA,BPRE6001,3,Power Tools & Accessories,Chain Blocks,Industrial Tools & Equipment,57,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Chain Blocks,Miscellaneous - Tools,57,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Chain Blocks,Power Tools & Accessories,55,0.964912
+KWNA,BPRE6001,3,Power Tools & Accessories,Chain Blocks,Winches,51,0.894737
+KWNA,BPRE6001,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,51,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,51,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Air Hand Tools,53,0.726027
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Bolting Tools,57,0.780822
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Chain Blocks,59,0.808219
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,71,0.972603
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,71,0.972603
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,67,0.917808
+KWNA,BPRE6001,3,Power Tools & Accessories,Miscellaneous - Tools,Winches,55,0.753425
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Air Hand Tools,51,0.75
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Bolting Tools,57,0.838235
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Chain Blocks,55,0.808824
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,68,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,67,0.985294
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,66,0.970588
+KWNA,BPRE6001,3,Power Tools & Accessories,Power Tools & Accessories,Winches,53,0.779412
+KWNA,BPRE6001,3,Power Tools & Accessories,Winches,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Winches,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Power Tools & Accessories,Winches,Power Tools & Accessories,53,0.963636
+KWNA,BPRE6001,3,Power Tools & Accessories,Winches,Winches,54,0.981818
+KWNA,BPRE6001,2,Winches,Chain Blocks,,54,0.9
+KWNA,BPRE6001,2,Winches,Industrial Tools & Equipment,,60,1
+KWNA,BPRE6001,2,Winches,Miscellaneous - Tools,,60,1
+KWNA,BPRE6001,2,Winches,Power Tools & Accessories,,55,0.916667
+KWNA,BPRE6001,2,Winches,Winches,,58,0.966667
+KWNA,BPRE6001,3,Winches,Chain Blocks,Chain Blocks,52,0.962963
+KWNA,BPRE6001,3,Winches,Chain Blocks,Industrial Tools & Equipment,54,1
+KWNA,BPRE6001,3,Winches,Chain Blocks,Miscellaneous - Tools,54,1
+KWNA,BPRE6001,3,Winches,Miscellaneous - Tools,Chain Blocks,54,0.9
+KWNA,BPRE6001,3,Winches,Miscellaneous - Tools,Industrial Tools & Equipment,60,1
+KWNA,BPRE6001,3,Winches,Miscellaneous - Tools,Miscellaneous - Tools,60,1
+KWNA,BPRE6001,3,Winches,Miscellaneous - Tools,Power Tools & Accessories,55,0.916667
+KWNA,BPRE6001,3,Winches,Industrial Tools & Equipment,Chain Blocks,54,0.9
+KWNA,BPRE6001,3,Winches,Industrial Tools & Equipment,Industrial Tools & Equipment,60,1
+KWNA,BPRE6001,3,Winches,Industrial Tools & Equipment,Miscellaneous - Tools,60,1
+KWNA,BPRE6001,3,Winches,Industrial Tools & Equipment,Power Tools & Accessories,55,0.916667
+KWNA,BPRE6001,3,Winches,Power Tools & Accessories,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Winches,Power Tools & Accessories,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Winches,Power Tools & Accessories,Power Tools & Accessories,54,0.981818
+KWNA,BPRE6001,3,Winches,Winches,Chain Blocks,52,0.896552
+KWNA,BPRE6001,3,Winches,Winches,Industrial Tools & Equipment,58,1
+KWNA,BPRE6001,3,Winches,Winches,Miscellaneous - Tools,58,1
+KWNA,BPRE6001,3,Winches,Winches,Power Tools & Accessories,55,0.948276
+KWNA,BPRE6001,3,Winches,Winches,Winches,56,0.965517
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Access - Knuckle Booms,,114,0.76
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Air Breakers,,53,0.353333
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,121,0.806667
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Generators - Diesel Small,,87,0.58
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Industrial Tools & Equipment,,76,0.506667
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Lighting Towers,,57,0.38
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Materials Handling - Forklift,,51,0.34
+KWNA,BPRE6001,2,Air Compressors - Diesel Small,Miscellaneous - Tools,,103,0.686667
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,109,0.95614
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Air Compressors - Diesel Small,87,0.763158
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Generators - Diesel Small,75,0.657895
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Industrial Tools & Equipment,73,0.640351
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Lighting Towers,51,0.447368
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Access - Knuckle Booms,Miscellaneous - Tools,85,0.745614
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Access - Knuckle Booms,94,0.77686
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,105,0.867769
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Generators - Diesel Small,65,0.53719
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Industrial Tools & Equipment,60,0.495868
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Miscellaneous - Tools,81,0.669421
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Lighting Towers,Access - Knuckle Booms,51,0.894737
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Access - Knuckle Booms,86,0.834951
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Air Compressors - Diesel Small,74,0.718447
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Generators - Diesel Small,63,0.61165
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.533981
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Miscellaneous - Tools,Miscellaneous - Tools,76,0.737864
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Generators - Diesel Small,Access - Knuckle Booms,69,0.793103
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Generators - Diesel Small,Air Compressors - Diesel Small,64,0.735632
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Generators - Diesel Small,Generators - Diesel Small,62,0.712644
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Generators - Diesel Small,Miscellaneous - Tools,60,0.689655
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Industrial Tools & Equipment,Access - Knuckle Booms,65,0.855263
+KWNA,BPRE6001,3,Air Compressors - Diesel Small,Industrial Tools & Equipment,Air Compressors - Diesel Small,54,0.710526
+KWNA,BPRE6001,2,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,,57,0.876923
+KWNA,BPRE6001,3,Compaction - Rammers & Vibrating Plates,Access - Knuckle Booms,Access - Knuckle Booms,56,0.982456
+KWNA,BPRE6001,2,Earthmoving - Skid Steer - Loaders,Access - Knuckle Booms,,58,0.84058
+KWNA,BPRE6001,2,Earthmoving - Skid Steer - Loaders,Generators - Diesel Small,,53,0.768116
+KWNA,BPRE6001,2,Earthmoving - Skid Steer - Loaders,Miscellaneous - Tools,,53,0.768116
+KWNA,BPRE6001,3,Earthmoving - Skid Steer - Loaders,Access - Knuckle Booms,Access - Knuckle Booms,55,0.948276
+KWNA,BPRE6001,3,Earthmoving - Skid Steer - Loaders,Access - Knuckle Booms,Miscellaneous - Tools,51,0.87931
+KWNA,BPRE6001,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,52,0.945455
+KWNA,BPRE6001,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,55,1
+KWNA,BPRE6001,2,Electrical Leads & Accessories,Miscellaneous - Tools,,55,1
+KWNA,BPRE6001,2,Electrical Leads & Accessories,Power Tools & Accessories,,52,0.945455
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,52,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,52,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,51,0.927273
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,51,0.927273
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,52,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,52,1
+KWNA,BPRE6001,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,51,0.980769
+KWNA,BPRE6001,2,Fans,Access - Knuckle Booms,,58,0.805556
+KWNA,BPRE6001,2,Fans,Miscellaneous - Tools,,52,0.722222
+KWNA,BPRE6001,3,Fans,Access - Knuckle Booms,Access - Knuckle Booms,56,0.965517
+KWNA,BPRE6001,3,Fans,Access - Knuckle Booms,Miscellaneous - Tools,54,0.931034
+KWNA,BPRE6001,2,Air Hand Tools,Air Hand Tools,,61,0.968254
+KWNA,BPRE6001,2,Air Hand Tools,Chain Blocks,,55,0.873016
+KWNA,BPRE6001,2,Air Hand Tools,Industrial Tools & Equipment,,63,1
+KWNA,BPRE6001,2,Air Hand Tools,Miscellaneous - Tools,,62,0.984127
+KWNA,BPRE6001,2,Air Hand Tools,Power Tools & Accessories,,55,0.873016
+KWNA,BPRE6001,3,Air Hand Tools,Air Hand Tools,Air Hand Tools,59,0.967213
+KWNA,BPRE6001,3,Air Hand Tools,Air Hand Tools,Chain Blocks,53,0.868852
+KWNA,BPRE6001,3,Air Hand Tools,Air Hand Tools,Industrial Tools & Equipment,61,1
+KWNA,BPRE6001,3,Air Hand Tools,Air Hand Tools,Miscellaneous - Tools,60,0.983607
+KWNA,BPRE6001,3,Air Hand Tools,Air Hand Tools,Power Tools & Accessories,54,0.885246
+KWNA,BPRE6001,3,Air Hand Tools,Power Tools & Accessories,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Air Hand Tools,Power Tools & Accessories,Miscellaneous - Tools,54,0.981818
+KWNA,BPRE6001,3,Air Hand Tools,Power Tools & Accessories,Power Tools & Accessories,53,0.963636
+KWNA,BPRE6001,3,Air Hand Tools,Chain Blocks,Chain Blocks,53,0.963636
+KWNA,BPRE6001,3,Air Hand Tools,Chain Blocks,Industrial Tools & Equipment,55,1
+KWNA,BPRE6001,3,Air Hand Tools,Chain Blocks,Miscellaneous - Tools,55,1
+KWNA,BPRE6001,3,Air Hand Tools,Miscellaneous - Tools,Air Hand Tools,53,0.854839
+KWNA,BPRE6001,3,Air Hand Tools,Miscellaneous - Tools,Chain Blocks,52,0.83871
+KWNA,BPRE6001,3,Air Hand Tools,Miscellaneous - Tools,Industrial Tools & Equipment,62,1
+KWNA,BPRE6001,3,Air Hand Tools,Miscellaneous - Tools,Miscellaneous - Tools,62,1
+KWNA,BPRE6001,3,Air Hand Tools,Miscellaneous - Tools,Power Tools & Accessories,53,0.854839
+KWNA,BPRE6001,3,Air Hand Tools,Industrial Tools & Equipment,Air Hand Tools,53,0.84127
+KWNA,BPRE6001,3,Air Hand Tools,Industrial Tools & Equipment,Chain Blocks,52,0.825397
+KWNA,BPRE6001,3,Air Hand Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,63,1
+KWNA,BPRE6001,3,Air Hand Tools,Industrial Tools & Equipment,Miscellaneous - Tools,61,0.968254
+KWNA,BPRE6001,3,Air Hand Tools,Industrial Tools & Equipment,Power Tools & Accessories,54,0.857143
+KWNA,BPRE6001,2,Generators - Diesel Small,Access - Knuckle Booms,,105,0.709459
+KWNA,BPRE6001,2,Generators - Diesel Small,Air Compressors - Diesel Small,,85,0.574324
+KWNA,BPRE6001,2,Generators - Diesel Small,Generators - Diesel Small,,106,0.716216
+KWNA,BPRE6001,2,Generators - Diesel Small,Industrial Tools & Equipment,,67,0.452703
+KWNA,BPRE6001,2,Generators - Diesel Small,Lighting Towers,,56,0.378378
+KWNA,BPRE6001,2,Generators - Diesel Small,Miscellaneous - Tools,,92,0.621622
+KWNA,BPRE6001,3,Generators - Diesel Small,Access - Knuckle Booms,Access - Knuckle Booms,101,0.961905
+KWNA,BPRE6001,3,Generators - Diesel Small,Access - Knuckle Booms,Air Compressors - Diesel Small,73,0.695238
+KWNA,BPRE6001,3,Generators - Diesel Small,Access - Knuckle Booms,Generators - Diesel Small,88,0.838095
+KWNA,BPRE6001,3,Generators - Diesel Small,Access - Knuckle Booms,Industrial Tools & Equipment,77,0.733333
+KWNA,BPRE6001,3,Generators - Diesel Small,Access - Knuckle Booms,Miscellaneous - Tools,86,0.819048
+KWNA,BPRE6001,3,Generators - Diesel Small,Air Compressors - Diesel Small,Access - Knuckle Booms,71,0.835294
+KWNA,BPRE6001,3,Generators - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,67,0.788235
+KWNA,BPRE6001,3,Generators - Diesel Small,Air Compressors - Diesel Small,Generators - Diesel Small,64,0.752941
+KWNA,BPRE6001,3,Generators - Diesel Small,Air Compressors - Diesel Small,Industrial Tools & Equipment,62,0.729412
+KWNA,BPRE6001,3,Generators - Diesel Small,Air Compressors - Diesel Small,Miscellaneous - Tools,71,0.835294
+KWNA,BPRE6001,3,Generators - Diesel Small,Generators - Diesel Small,Access - Knuckle Booms,72,0.679245
+KWNA,BPRE6001,3,Generators - Diesel Small,Generators - Diesel Small,Air Compressors - Diesel Small,54,0.509434
+KWNA,BPRE6001,3,Generators - Diesel Small,Generators - Diesel Small,Generators - Diesel Small,85,0.801887
+KWNA,BPRE6001,3,Generators - Diesel Small,Generators - Diesel Small,Industrial Tools & Equipment,57,0.537736
+KWNA,BPRE6001,3,Generators - Diesel Small,Generators - Diesel Small,Miscellaneous - Tools,71,0.669811
+KWNA,BPRE6001,3,Generators - Diesel Small,Industrial Tools & Equipment,Access - Knuckle Booms,54,0.80597
+KWNA,BPRE6001,3,Generators - Diesel Small,Miscellaneous - Tools,Access - Knuckle Booms,72,0.782609
+KWNA,BPRE6001,3,Generators - Diesel Small,Miscellaneous - Tools,Air Compressors - Diesel Small,58,0.630435
+KWNA,BPRE6001,3,Generators - Diesel Small,Miscellaneous - Tools,Generators - Diesel Small,65,0.706522
+KWNA,BPRE6001,3,Generators - Diesel Small,Miscellaneous - Tools,Industrial Tools & Equipment,62,0.673913
+KWNA,BPRE6001,3,Generators - Diesel Small,Miscellaneous - Tools,Miscellaneous - Tools,74,0.804348
+KWNA,BPRE6001,2,Plumbers Equipment,Industrial Tools & Equipment,,55,0.932203
+KWNA,BPRE6001,2,Plumbers Equipment,Miscellaneous - Tools,,56,0.949153
+KWNA,BPRE6001,2,Plumbers Equipment,Plumbers Equipment,,53,0.898305
+KWNA,BPRE6001,3,Plumbers Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,52,0.945455
+KWNA,BPRE6001,3,Plumbers Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,53,0.963636
+KWNA,BPRE6001,3,Plumbers Equipment,Plumbers Equipment,Industrial Tools & Equipment,51,0.962264
+KWNA,BPRE6001,3,Plumbers Equipment,Plumbers Equipment,Miscellaneous - Tools,52,0.981132
+KWNA,BPRE6001,3,Plumbers Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,54,0.964286
+KWNA,BPRE6001,3,Plumbers Equipment,Miscellaneous - Tools,Miscellaneous - Tools,54,0.964286
+KWNA,BPRE6001,2,Air Breakers,Access - Knuckle Booms,,52,0.764706
+KWNA,BPRE6001,2,Air Breakers,Air Compressors - Diesel Small,,53,0.779412
+KWNA,BPRE6001,3,Air Breakers,Access - Knuckle Booms,Access - Knuckle Booms,52,1
+KWNA,BPRE6001,2,Lighting Towers,Access - Knuckle Booms,,73,0.869048
+KWNA,BPRE6001,2,Lighting Towers,Air Compressors - Diesel Small,,60,0.714286
+KWNA,BPRE6001,2,Lighting Towers,Generators - Diesel Small,,54,0.642857
+KWNA,BPRE6001,2,Lighting Towers,Industrial Tools & Equipment,,53,0.630952
+KWNA,BPRE6001,2,Lighting Towers,Miscellaneous - Tools,,64,0.761905
+KWNA,BPRE6001,3,Lighting Towers,Access - Knuckle Booms,Access - Knuckle Booms,70,0.958904
+KWNA,BPRE6001,3,Lighting Towers,Access - Knuckle Booms,Air Compressors - Diesel Small,55,0.753425
+KWNA,BPRE6001,3,Lighting Towers,Access - Knuckle Booms,Generators - Diesel Small,55,0.753425
+KWNA,BPRE6001,3,Lighting Towers,Access - Knuckle Booms,Industrial Tools & Equipment,58,0.794521
+KWNA,BPRE6001,3,Lighting Towers,Access - Knuckle Booms,Miscellaneous - Tools,60,0.821918
+KWNA,BPRE6001,3,Lighting Towers,Miscellaneous - Tools,Access - Knuckle Booms,54,0.84375
+KWNA,BPRE6001,3,Lighting Towers,Miscellaneous - Tools,Miscellaneous - Tools,54,0.84375
+KWNA,BPRE6001,3,Lighting Towers,Air Compressors - Diesel Small,Air Compressors - Diesel Small,53,0.883333
+KWNA,BPRE6001,3,Lighting Towers,Air Compressors - Diesel Small,Miscellaneous - Tools,53,0.883333

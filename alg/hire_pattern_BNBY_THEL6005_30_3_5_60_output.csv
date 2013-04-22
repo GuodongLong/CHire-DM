@@ -1,0 +1,823 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+BNBY,THEL6005,1,Industrial Tools & Equipment,,,60,1
+BNBY,THEL6005,1,Miscellaneous - Tools,,,58,1
+BNBY,THEL6005,1,Welders - Accessories,,,43,1
+BNBY,THEL6005,1,Access - Knuckle Booms,,,54,1
+BNBY,THEL6005,1,Jacking,,,37,1
+BNBY,THEL6005,1,Electrical Leads & Accessories,,,56,1
+BNBY,THEL6005,1,Lighting - Other,,,33,1
+BNBY,THEL6005,1,Power Tools & Accessories,,,57,1
+BNBY,THEL6005,1,Chain Blocks,,,45,1
+BNBY,THEL6005,1,Winches,,,41,1
+BNBY,THEL6005,1,Welders - Electric,,,50,1
+BNBY,THEL6005,2,Access - Knuckle Booms,Access - Knuckle Booms,,41,0.759259
+BNBY,THEL6005,2,Access - Knuckle Booms,Chain Blocks,,31,0.574074
+BNBY,THEL6005,2,Access - Knuckle Booms,Electrical Leads & Accessories,,38,0.703704
+BNBY,THEL6005,2,Access - Knuckle Booms,Industrial Tools & Equipment,,41,0.759259
+BNBY,THEL6005,2,Access - Knuckle Booms,Miscellaneous - Tools,,40,0.740741
+BNBY,THEL6005,2,Access - Knuckle Booms,Power Tools & Accessories,,40,0.740741
+BNBY,THEL6005,2,Access - Knuckle Booms,Welders - Electric,,37,0.685185
+BNBY,THEL6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,38,0.926829
+BNBY,THEL6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Electrical Leads & Accessories,37,0.902439
+BNBY,THEL6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Industrial Tools & Equipment,39,0.95122
+BNBY,THEL6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Miscellaneous - Tools,39,0.95122
+BNBY,THEL6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Power Tools & Accessories,39,0.95122
+BNBY,THEL6005,3,Access - Knuckle Booms,Access - Knuckle Booms,Welders - Electric,37,0.902439
+BNBY,THEL6005,3,Access - Knuckle Booms,Chain Blocks,Industrial Tools & Equipment,31,1
+BNBY,THEL6005,3,Access - Knuckle Booms,Chain Blocks,Miscellaneous - Tools,31,1
+BNBY,THEL6005,3,Access - Knuckle Booms,Chain Blocks,Power Tools & Accessories,31,1
+BNBY,THEL6005,3,Access - Knuckle Booms,Industrial Tools & Equipment,Chain Blocks,31,0.756098
+BNBY,THEL6005,3,Access - Knuckle Booms,Industrial Tools & Equipment,Electrical Leads & Accessories,37,0.902439
+BNBY,THEL6005,3,Access - Knuckle Booms,Industrial Tools & Equipment,Industrial Tools & Equipment,39,0.95122
+BNBY,THEL6005,3,Access - Knuckle Booms,Industrial Tools & Equipment,Miscellaneous - Tools,39,0.95122
+BNBY,THEL6005,3,Access - Knuckle Booms,Industrial Tools & Equipment,Power Tools & Accessories,39,0.95122
+BNBY,THEL6005,3,Access - Knuckle Booms,Industrial Tools & Equipment,Welders - Electric,35,0.853659
+BNBY,THEL6005,3,Access - Knuckle Booms,Electrical Leads & Accessories,Electrical Leads & Accessories,37,0.973684
+BNBY,THEL6005,3,Access - Knuckle Booms,Electrical Leads & Accessories,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Access - Knuckle Booms,Electrical Leads & Accessories,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Access - Knuckle Booms,Electrical Leads & Accessories,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Access - Knuckle Booms,Electrical Leads & Accessories,Welders - Electric,34,0.894737
+BNBY,THEL6005,3,Access - Knuckle Booms,Miscellaneous - Tools,Chain Blocks,31,0.775
+BNBY,THEL6005,3,Access - Knuckle Booms,Miscellaneous - Tools,Electrical Leads & Accessories,37,0.925
+BNBY,THEL6005,3,Access - Knuckle Booms,Miscellaneous - Tools,Industrial Tools & Equipment,39,0.975
+BNBY,THEL6005,3,Access - Knuckle Booms,Miscellaneous - Tools,Miscellaneous - Tools,39,0.975
+BNBY,THEL6005,3,Access - Knuckle Booms,Miscellaneous - Tools,Power Tools & Accessories,39,0.975
+BNBY,THEL6005,3,Access - Knuckle Booms,Miscellaneous - Tools,Welders - Electric,35,0.875
+BNBY,THEL6005,3,Access - Knuckle Booms,Power Tools & Accessories,Chain Blocks,31,0.775
+BNBY,THEL6005,3,Access - Knuckle Booms,Power Tools & Accessories,Electrical Leads & Accessories,37,0.925
+BNBY,THEL6005,3,Access - Knuckle Booms,Power Tools & Accessories,Industrial Tools & Equipment,39,0.975
+BNBY,THEL6005,3,Access - Knuckle Booms,Power Tools & Accessories,Miscellaneous - Tools,39,0.975
+BNBY,THEL6005,3,Access - Knuckle Booms,Power Tools & Accessories,Power Tools & Accessories,39,0.975
+BNBY,THEL6005,3,Access - Knuckle Booms,Power Tools & Accessories,Welders - Electric,35,0.875
+BNBY,THEL6005,3,Access - Knuckle Booms,Welders - Electric,Electrical Leads & Accessories,34,0.918919
+BNBY,THEL6005,3,Access - Knuckle Booms,Welders - Electric,Industrial Tools & Equipment,36,0.972973
+BNBY,THEL6005,3,Access - Knuckle Booms,Welders - Electric,Miscellaneous - Tools,36,0.972973
+BNBY,THEL6005,3,Access - Knuckle Booms,Welders - Electric,Power Tools & Accessories,36,0.972973
+BNBY,THEL6005,3,Access - Knuckle Booms,Welders - Electric,Welders - Electric,36,0.972973
+BNBY,THEL6005,2,Chain Blocks,Chain Blocks,,43,0.955556
+BNBY,THEL6005,2,Chain Blocks,Electrical Leads & Accessories,,44,0.977778
+BNBY,THEL6005,2,Chain Blocks,Industrial Tools & Equipment,,45,1
+BNBY,THEL6005,2,Chain Blocks,Jacking,,32,0.711111
+BNBY,THEL6005,2,Chain Blocks,Miscellaneous - Tools,,45,1
+BNBY,THEL6005,2,Chain Blocks,Power Tools & Accessories,,45,1
+BNBY,THEL6005,2,Chain Blocks,Welders - Accessories,,32,0.711111
+BNBY,THEL6005,2,Chain Blocks,Welders - Electric,,40,0.888889
+BNBY,THEL6005,2,Chain Blocks,Winches,,39,0.866667
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Chain Blocks,41,0.953488
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Electrical Leads & Accessories,42,0.976744
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Industrial Tools & Equipment,43,1
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Miscellaneous - Tools,43,1
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Power Tools & Accessories,43,1
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Welders - Electric,39,0.906977
+BNBY,THEL6005,3,Chain Blocks,Chain Blocks,Winches,38,0.883721
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Chain Blocks,39,0.886364
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Electrical Leads & Accessories,44,1
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Industrial Tools & Equipment,44,1
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Jacking,31,0.704545
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Miscellaneous - Tools,44,1
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Power Tools & Accessories,44,1
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Welders - Electric,40,0.909091
+BNBY,THEL6005,3,Chain Blocks,Electrical Leads & Accessories,Winches,35,0.795455
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Chain Blocks,40,0.888889
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Electrical Leads & Accessories,44,0.977778
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Industrial Tools & Equipment,45,1
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Jacking,31,0.688889
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Miscellaneous - Tools,45,1
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Power Tools & Accessories,45,1
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Welders - Accessories,31,0.688889
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Welders - Electric,41,0.911111
+BNBY,THEL6005,3,Chain Blocks,Power Tools & Accessories,Winches,36,0.8
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Chain Blocks,40,0.888889
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Electrical Leads & Accessories,44,0.977778
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Industrial Tools & Equipment,45,1
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Jacking,31,0.688889
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Miscellaneous - Tools,45,1
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Power Tools & Accessories,45,1
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Welders - Accessories,31,0.688889
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Welders - Electric,41,0.911111
+BNBY,THEL6005,3,Chain Blocks,Industrial Tools & Equipment,Winches,36,0.8
+BNBY,THEL6005,3,Chain Blocks,Welders - Accessories,Electrical Leads & Accessories,31,0.96875
+BNBY,THEL6005,3,Chain Blocks,Welders - Accessories,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Accessories,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Accessories,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Chain Blocks,Jacking,Electrical Leads & Accessories,31,0.96875
+BNBY,THEL6005,3,Chain Blocks,Jacking,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Chain Blocks,Jacking,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Chain Blocks,Jacking,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Chain Blocks,35,0.875
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Electrical Leads & Accessories,39,0.975
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Industrial Tools & Equipment,40,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Miscellaneous - Tools,40,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Power Tools & Accessories,40,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Welders - Electric,40,1
+BNBY,THEL6005,3,Chain Blocks,Welders - Electric,Winches,32,0.8
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Chain Blocks,40,0.888889
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Electrical Leads & Accessories,44,0.977778
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Industrial Tools & Equipment,45,1
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Jacking,31,0.688889
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Miscellaneous - Tools,45,1
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Power Tools & Accessories,45,1
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Welders - Accessories,31,0.688889
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Welders - Electric,41,0.911111
+BNBY,THEL6005,3,Chain Blocks,Miscellaneous - Tools,Winches,36,0.8
+BNBY,THEL6005,3,Chain Blocks,Winches,Chain Blocks,34,0.871795
+BNBY,THEL6005,3,Chain Blocks,Winches,Electrical Leads & Accessories,38,0.974359
+BNBY,THEL6005,3,Chain Blocks,Winches,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Chain Blocks,Winches,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Chain Blocks,Winches,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Chain Blocks,Winches,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Chain Blocks,Winches,Winches,38,0.974359
+BNBY,THEL6005,2,Industrial Tools & Equipment,Access - Knuckle Booms,,39,0.65
+BNBY,THEL6005,2,Industrial Tools & Equipment,Chain Blocks,,45,0.75
+BNBY,THEL6005,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,54,0.9
+BNBY,THEL6005,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,56,0.933333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Jacking,,35,0.583333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Lighting - Other,,32,0.533333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Miscellaneous - Tools,,56,0.933333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Power Tools & Accessories,,56,0.933333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Welders - Accessories,,38,0.633333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Welders - Electric,,50,0.833333
+BNBY,THEL6005,2,Industrial Tools & Equipment,Winches,,41,0.683333
+BNBY,THEL6005,3,Industrial Tools & Equipment,Access - Knuckle Booms,Access - Knuckle Booms,38,0.974359
+BNBY,THEL6005,3,Industrial Tools & Equipment,Access - Knuckle Booms,Electrical Leads & Accessories,37,0.948718
+BNBY,THEL6005,3,Industrial Tools & Equipment,Access - Knuckle Booms,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Access - Knuckle Booms,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Access - Knuckle Booms,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Access - Knuckle Booms,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Chain Blocks,43,0.955556
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Electrical Leads & Accessories,44,0.977778
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Industrial Tools & Equipment,45,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Jacking,32,0.711111
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Miscellaneous - Tools,45,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Power Tools & Accessories,45,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Welders - Accessories,32,0.711111
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Welders - Electric,40,0.888889
+BNBY,THEL6005,3,Industrial Tools & Equipment,Chain Blocks,Winches,39,0.866667
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Chain Blocks,36,0.878049
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Electrical Leads & Accessories,40,0.97561
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,41,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Jacking,31,0.756098
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,41,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,41,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Welders - Electric,38,0.926829
+BNBY,THEL6005,3,Industrial Tools & Equipment,Winches,Winches,40,0.97561
+BNBY,THEL6005,3,Industrial Tools & Equipment,Lighting - Other,Electrical Leads & Accessories,31,0.96875
+BNBY,THEL6005,3,Industrial Tools & Equipment,Lighting - Other,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Lighting - Other,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Lighting - Other,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Lighting - Other,Welders - Electric,31,0.96875
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Access - Knuckle Booms,37,0.685185
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Chain Blocks,43,0.796296
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Jacking,35,0.648148
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Lighting - Other,32,0.592593
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Accessories,36,0.666667
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Electric,49,0.907407
+BNBY,THEL6005,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Winches,39,0.722222
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Access - Knuckle Booms,34,0.68
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Chain Blocks,38,0.76
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Electrical Leads & Accessories,47,0.94
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,49,0.98
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Jacking,31,0.62
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Miscellaneous - Tools,49,0.98
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Power Tools & Accessories,49,0.98
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Welders - Accessories,34,0.68
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Welders - Electric,49,0.98
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Electric,Winches,36,0.72
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Jacking,35,0.625
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Industrial Tools & Equipment,Miscellaneous - Tools,Winches,40,0.714286
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Jacking,35,0.625
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Winches,40,0.714286
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Chain Blocks,31,0.885714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Electrical Leads & Accessories,34,0.971429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Industrial Tools & Equipment,35,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Jacking,33,0.942857
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Miscellaneous - Tools,35,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Power Tools & Accessories,35,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Jacking,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Jacking,35,0.625
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Industrial Tools & Equipment,Power Tools & Accessories,Winches,40,0.714286
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Chain Blocks,32,0.842105
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Electrical Leads & Accessories,37,0.973684
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Accessories,36,0.947368
+BNBY,THEL6005,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Electric,35,0.921053
+BNBY,THEL6005,2,Welders - Accessories,Access - Knuckle Booms,,32,0.744186
+BNBY,THEL6005,2,Welders - Accessories,Chain Blocks,,33,0.767442
+BNBY,THEL6005,2,Welders - Accessories,Electrical Leads & Accessories,,38,0.883721
+BNBY,THEL6005,2,Welders - Accessories,Industrial Tools & Equipment,,39,0.906977
+BNBY,THEL6005,2,Welders - Accessories,Miscellaneous - Tools,,39,0.906977
+BNBY,THEL6005,2,Welders - Accessories,Power Tools & Accessories,,39,0.906977
+BNBY,THEL6005,2,Welders - Accessories,Welders - Accessories,,37,0.860465
+BNBY,THEL6005,2,Welders - Accessories,Welders - Electric,,35,0.813953
+BNBY,THEL6005,2,Welders - Accessories,Winches,,31,0.72093
+BNBY,THEL6005,3,Welders - Accessories,Access - Knuckle Booms,Access - Knuckle Booms,31,0.96875
+BNBY,THEL6005,3,Welders - Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,31,0.96875
+BNBY,THEL6005,3,Welders - Accessories,Access - Knuckle Booms,Miscellaneous - Tools,31,0.96875
+BNBY,THEL6005,3,Welders - Accessories,Access - Knuckle Booms,Power Tools & Accessories,31,0.96875
+BNBY,THEL6005,3,Welders - Accessories,Chain Blocks,Chain Blocks,31,0.939394
+BNBY,THEL6005,3,Welders - Accessories,Chain Blocks,Electrical Leads & Accessories,32,0.969697
+BNBY,THEL6005,3,Welders - Accessories,Chain Blocks,Industrial Tools & Equipment,33,1
+BNBY,THEL6005,3,Welders - Accessories,Chain Blocks,Miscellaneous - Tools,33,1
+BNBY,THEL6005,3,Welders - Accessories,Chain Blocks,Power Tools & Accessories,33,1
+BNBY,THEL6005,3,Welders - Accessories,Chain Blocks,Welders - Electric,31,0.939394
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Chain Blocks,31,0.837838
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Electrical Leads & Accessories,36,0.972973
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Industrial Tools & Equipment,37,1
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Miscellaneous - Tools,37,1
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Power Tools & Accessories,37,1
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,35,0.945946
+BNBY,THEL6005,3,Welders - Accessories,Welders - Accessories,Welders - Electric,35,0.945946
+BNBY,THEL6005,3,Welders - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,37,0.973684
+BNBY,THEL6005,3,Welders - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Welders - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Welders - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Electric,36,0.947368
+BNBY,THEL6005,3,Welders - Accessories,Winches,Industrial Tools & Equipment,31,1
+BNBY,THEL6005,3,Welders - Accessories,Winches,Miscellaneous - Tools,31,1
+BNBY,THEL6005,3,Welders - Accessories,Winches,Power Tools & Accessories,31,1
+BNBY,THEL6005,3,Welders - Accessories,Industrial Tools & Equipment,Chain Blocks,31,0.794872
+BNBY,THEL6005,3,Welders - Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,37,0.948718
+BNBY,THEL6005,3,Welders - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Welders - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Welders - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Welders - Accessories,Miscellaneous - Tools,Chain Blocks,31,0.794872
+BNBY,THEL6005,3,Welders - Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,37,0.948718
+BNBY,THEL6005,3,Welders - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Welders - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Welders - Accessories,Miscellaneous - Tools,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Welders - Accessories,Miscellaneous - Tools,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Welders - Accessories,Power Tools & Accessories,Chain Blocks,31,0.794872
+BNBY,THEL6005,3,Welders - Accessories,Power Tools & Accessories,Electrical Leads & Accessories,37,0.948718
+BNBY,THEL6005,3,Welders - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Welders - Accessories,Power Tools & Accessories,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Welders - Accessories,Power Tools & Accessories,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Welders - Accessories,Welders - Electric,Electrical Leads & Accessories,33,0.942857
+BNBY,THEL6005,3,Welders - Accessories,Welders - Electric,Industrial Tools & Equipment,35,1
+BNBY,THEL6005,3,Welders - Accessories,Welders - Electric,Miscellaneous - Tools,35,1
+BNBY,THEL6005,3,Welders - Accessories,Welders - Electric,Power Tools & Accessories,35,1
+BNBY,THEL6005,3,Welders - Accessories,Welders - Electric,Welders - Electric,35,1
+BNBY,THEL6005,2,Jacking,Chain Blocks,,31,0.837838
+BNBY,THEL6005,2,Jacking,Electrical Leads & Accessories,,34,0.918919
+BNBY,THEL6005,2,Jacking,Industrial Tools & Equipment,,35,0.945946
+BNBY,THEL6005,2,Jacking,Jacking,,34,0.918919
+BNBY,THEL6005,2,Jacking,Miscellaneous - Tools,,35,0.945946
+BNBY,THEL6005,2,Jacking,Power Tools & Accessories,,35,0.945946
+BNBY,THEL6005,2,Jacking,Welders - Electric,,33,0.891892
+BNBY,THEL6005,3,Jacking,Chain Blocks,Industrial Tools & Equipment,31,1
+BNBY,THEL6005,3,Jacking,Chain Blocks,Miscellaneous - Tools,31,1
+BNBY,THEL6005,3,Jacking,Chain Blocks,Power Tools & Accessories,31,1
+BNBY,THEL6005,3,Jacking,Power Tools & Accessories,Electrical Leads & Accessories,33,0.942857
+BNBY,THEL6005,3,Jacking,Power Tools & Accessories,Industrial Tools & Equipment,34,0.971429
+BNBY,THEL6005,3,Jacking,Power Tools & Accessories,Miscellaneous - Tools,34,0.971429
+BNBY,THEL6005,3,Jacking,Power Tools & Accessories,Power Tools & Accessories,34,0.971429
+BNBY,THEL6005,3,Jacking,Power Tools & Accessories,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Jacking,Electrical Leads & Accessories,Electrical Leads & Accessories,34,1
+BNBY,THEL6005,3,Jacking,Electrical Leads & Accessories,Industrial Tools & Equipment,34,1
+BNBY,THEL6005,3,Jacking,Electrical Leads & Accessories,Miscellaneous - Tools,34,1
+BNBY,THEL6005,3,Jacking,Electrical Leads & Accessories,Power Tools & Accessories,34,1
+BNBY,THEL6005,3,Jacking,Electrical Leads & Accessories,Welders - Electric,33,0.970588
+BNBY,THEL6005,3,Jacking,Miscellaneous - Tools,Electrical Leads & Accessories,33,0.942857
+BNBY,THEL6005,3,Jacking,Miscellaneous - Tools,Industrial Tools & Equipment,34,0.971429
+BNBY,THEL6005,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,34,0.971429
+BNBY,THEL6005,3,Jacking,Miscellaneous - Tools,Power Tools & Accessories,34,0.971429
+BNBY,THEL6005,3,Jacking,Miscellaneous - Tools,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Jacking,Industrial Tools & Equipment,Electrical Leads & Accessories,33,0.942857
+BNBY,THEL6005,3,Jacking,Industrial Tools & Equipment,Industrial Tools & Equipment,34,0.971429
+BNBY,THEL6005,3,Jacking,Industrial Tools & Equipment,Miscellaneous - Tools,34,0.971429
+BNBY,THEL6005,3,Jacking,Industrial Tools & Equipment,Power Tools & Accessories,34,0.971429
+BNBY,THEL6005,3,Jacking,Industrial Tools & Equipment,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Jacking,Jacking,Electrical Leads & Accessories,32,0.941176
+BNBY,THEL6005,3,Jacking,Jacking,Industrial Tools & Equipment,33,0.970588
+BNBY,THEL6005,3,Jacking,Jacking,Jacking,31,0.911765
+BNBY,THEL6005,3,Jacking,Jacking,Miscellaneous - Tools,33,0.970588
+BNBY,THEL6005,3,Jacking,Jacking,Power Tools & Accessories,33,0.970588
+BNBY,THEL6005,3,Jacking,Jacking,Welders - Electric,32,0.941176
+BNBY,THEL6005,3,Jacking,Welders - Electric,Electrical Leads & Accessories,31,0.939394
+BNBY,THEL6005,3,Jacking,Welders - Electric,Industrial Tools & Equipment,32,0.969697
+BNBY,THEL6005,3,Jacking,Welders - Electric,Miscellaneous - Tools,32,0.969697
+BNBY,THEL6005,3,Jacking,Welders - Electric,Power Tools & Accessories,32,0.969697
+BNBY,THEL6005,3,Jacking,Welders - Electric,Welders - Electric,32,0.969697
+BNBY,THEL6005,2,Miscellaneous - Tools,Access - Knuckle Booms,,39,0.672414
+BNBY,THEL6005,2,Miscellaneous - Tools,Chain Blocks,,45,0.775862
+BNBY,THEL6005,2,Miscellaneous - Tools,Electrical Leads & Accessories,,54,0.931034
+BNBY,THEL6005,2,Miscellaneous - Tools,Industrial Tools & Equipment,,56,0.965517
+BNBY,THEL6005,2,Miscellaneous - Tools,Jacking,,35,0.603448
+BNBY,THEL6005,2,Miscellaneous - Tools,Lighting - Other,,32,0.551724
+BNBY,THEL6005,2,Miscellaneous - Tools,Miscellaneous - Tools,,56,0.965517
+BNBY,THEL6005,2,Miscellaneous - Tools,Power Tools & Accessories,,56,0.965517
+BNBY,THEL6005,2,Miscellaneous - Tools,Welders - Accessories,,38,0.655172
+BNBY,THEL6005,2,Miscellaneous - Tools,Welders - Electric,,50,0.862069
+BNBY,THEL6005,2,Miscellaneous - Tools,Winches,,41,0.706897
+BNBY,THEL6005,3,Miscellaneous - Tools,Access - Knuckle Booms,Access - Knuckle Booms,38,0.974359
+BNBY,THEL6005,3,Miscellaneous - Tools,Access - Knuckle Booms,Electrical Leads & Accessories,37,0.948718
+BNBY,THEL6005,3,Miscellaneous - Tools,Access - Knuckle Booms,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Access - Knuckle Booms,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Access - Knuckle Booms,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Access - Knuckle Booms,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Jacking,35,0.625
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Miscellaneous - Tools,Power Tools & Accessories,Winches,40,0.714286
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Chain Blocks,43,0.955556
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Electrical Leads & Accessories,44,0.977778
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Industrial Tools & Equipment,45,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Jacking,32,0.711111
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Miscellaneous - Tools,45,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Power Tools & Accessories,45,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Welders - Accessories,32,0.711111
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Welders - Electric,40,0.888889
+BNBY,THEL6005,3,Miscellaneous - Tools,Chain Blocks,Winches,39,0.866667
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Access - Knuckle Booms,37,0.685185
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Chain Blocks,43,0.796296
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Jacking,35,0.648148
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Lighting - Other,32,0.592593
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Accessories,36,0.666667
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Electric,49,0.907407
+BNBY,THEL6005,3,Miscellaneous - Tools,Electrical Leads & Accessories,Winches,39,0.722222
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Jacking,35,0.625
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Miscellaneous - Tools,Industrial Tools & Equipment,Winches,40,0.714286
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Chain Blocks,31,0.885714
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Electrical Leads & Accessories,34,0.971429
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Industrial Tools & Equipment,35,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Jacking,33,0.942857
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Miscellaneous - Tools,35,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Power Tools & Accessories,35,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Jacking,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Miscellaneous - Tools,Lighting - Other,Electrical Leads & Accessories,31,0.96875
+BNBY,THEL6005,3,Miscellaneous - Tools,Lighting - Other,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Lighting - Other,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Lighting - Other,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Lighting - Other,Welders - Electric,31,0.96875
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Jacking,35,0.625
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,40,0.714286
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Chain Blocks,32,0.842105
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Electrical Leads & Accessories,37,0.973684
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Welders - Accessories,36,0.947368
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Accessories,Welders - Electric,35,0.921053
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Access - Knuckle Booms,34,0.68
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Chain Blocks,38,0.76
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Electrical Leads & Accessories,47,0.94
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,49,0.98
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Jacking,31,0.62
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,49,0.98
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,49,0.98
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Welders - Accessories,34,0.68
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Welders - Electric,49,0.98
+BNBY,THEL6005,3,Miscellaneous - Tools,Welders - Electric,Winches,36,0.72
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Chain Blocks,36,0.878049
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Electrical Leads & Accessories,40,0.97561
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,41,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Jacking,31,0.756098
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,41,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,41,1
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Welders - Electric,38,0.926829
+BNBY,THEL6005,3,Miscellaneous - Tools,Winches,Winches,40,0.97561
+BNBY,THEL6005,2,Electrical Leads & Accessories,Access - Knuckle Booms,,39,0.696429
+BNBY,THEL6005,2,Electrical Leads & Accessories,Chain Blocks,,44,0.785714
+BNBY,THEL6005,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,54,0.964286
+BNBY,THEL6005,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,55,0.982143
+BNBY,THEL6005,2,Electrical Leads & Accessories,Jacking,,35,0.625
+BNBY,THEL6005,2,Electrical Leads & Accessories,Lighting - Other,,32,0.571429
+BNBY,THEL6005,2,Electrical Leads & Accessories,Miscellaneous - Tools,,55,0.982143
+BNBY,THEL6005,2,Electrical Leads & Accessories,Power Tools & Accessories,,55,0.982143
+BNBY,THEL6005,2,Electrical Leads & Accessories,Welders - Accessories,,38,0.678571
+BNBY,THEL6005,2,Electrical Leads & Accessories,Welders - Electric,,49,0.875
+BNBY,THEL6005,2,Electrical Leads & Accessories,Winches,,40,0.714286
+BNBY,THEL6005,3,Electrical Leads & Accessories,Access - Knuckle Booms,Access - Knuckle Booms,37,0.948718
+BNBY,THEL6005,3,Electrical Leads & Accessories,Access - Knuckle Booms,Electrical Leads & Accessories,36,0.923077
+BNBY,THEL6005,3,Electrical Leads & Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,38,0.974359
+BNBY,THEL6005,3,Electrical Leads & Accessories,Access - Knuckle Booms,Miscellaneous - Tools,38,0.974359
+BNBY,THEL6005,3,Electrical Leads & Accessories,Access - Knuckle Booms,Power Tools & Accessories,38,0.974359
+BNBY,THEL6005,3,Electrical Leads & Accessories,Access - Knuckle Booms,Welders - Electric,36,0.923077
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Chain Blocks,42,0.954545
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Electrical Leads & Accessories,43,0.977273
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Industrial Tools & Equipment,44,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Jacking,32,0.727273
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Miscellaneous - Tools,44,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Power Tools & Accessories,44,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Welders - Accessories,32,0.727273
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Welders - Electric,39,0.886364
+BNBY,THEL6005,3,Electrical Leads & Accessories,Chain Blocks,Winches,38,0.863636
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Access - Knuckle Booms,38,0.690909
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Chain Blocks,43,0.781818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,52,0.945455
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Jacking,35,0.636364
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Lighting - Other,31,0.563636
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Accessories,37,0.672727
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Electric,49,0.890909
+BNBY,THEL6005,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Winches,39,0.709091
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Access - Knuckle Booms,37,0.685185
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Chain Blocks,43,0.796296
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Jacking,35,0.648148
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Lighting - Other,32,0.592593
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Accessories,36,0.666667
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Electric,49,0.907407
+BNBY,THEL6005,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Winches,39,0.722222
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Chain Blocks,31,0.885714
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Electrical Leads & Accessories,34,0.971429
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Industrial Tools & Equipment,35,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Jacking,33,0.942857
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Miscellaneous - Tools,35,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Power Tools & Accessories,35,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Jacking,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Electrical Leads & Accessories,Lighting - Other,Electrical Leads & Accessories,31,0.96875
+BNBY,THEL6005,3,Electrical Leads & Accessories,Lighting - Other,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Lighting - Other,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Lighting - Other,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Lighting - Other,Welders - Electric,31,0.96875
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Access - Knuckle Booms,38,0.690909
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Chain Blocks,43,0.781818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,52,0.945455
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Jacking,35,0.636364
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Lighting - Other,31,0.563636
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Accessories,37,0.672727
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Electric,49,0.890909
+BNBY,THEL6005,3,Electrical Leads & Accessories,Miscellaneous - Tools,Winches,39,0.709091
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Access - Knuckle Booms,38,0.690909
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Chain Blocks,43,0.781818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,52,0.945455
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Jacking,35,0.636364
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Lighting - Other,31,0.563636
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,54,0.981818
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Accessories,37,0.672727
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Electric,49,0.890909
+BNBY,THEL6005,3,Electrical Leads & Accessories,Power Tools & Accessories,Winches,39,0.709091
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Chain Blocks,31,0.815789
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Electrical Leads & Accessories,36,0.947368
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Industrial Tools & Equipment,37,0.973684
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Miscellaneous - Tools,37,0.973684
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Power Tools & Accessories,37,0.973684
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Accessories,35,0.921053
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Electric,34,0.894737
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Access - Knuckle Booms,34,0.693878
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Chain Blocks,37,0.755102
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Electrical Leads & Accessories,46,0.938776
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Industrial Tools & Equipment,48,0.979592
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Jacking,31,0.632653
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Miscellaneous - Tools,48,0.979592
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Power Tools & Accessories,48,0.979592
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Welders - Accessories,34,0.693878
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Welders - Electric,48,0.979592
+BNBY,THEL6005,3,Electrical Leads & Accessories,Welders - Electric,Winches,35,0.714286
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Chain Blocks,35,0.875
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Electrical Leads & Accessories,39,0.975
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Industrial Tools & Equipment,40,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Jacking,31,0.775
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Miscellaneous - Tools,40,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Power Tools & Accessories,40,1
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Welders - Electric,37,0.925
+BNBY,THEL6005,3,Electrical Leads & Accessories,Winches,Winches,39,0.975
+BNBY,THEL6005,2,Lighting - Other,Electrical Leads & Accessories,,32,0.969697
+BNBY,THEL6005,2,Lighting - Other,Industrial Tools & Equipment,,33,1
+BNBY,THEL6005,2,Lighting - Other,Miscellaneous - Tools,,33,1
+BNBY,THEL6005,2,Lighting - Other,Power Tools & Accessories,,33,1
+BNBY,THEL6005,2,Lighting - Other,Welders - Electric,,31,0.939394
+BNBY,THEL6005,3,Lighting - Other,Electrical Leads & Accessories,Electrical Leads & Accessories,32,1
+BNBY,THEL6005,3,Lighting - Other,Electrical Leads & Accessories,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Lighting - Other,Electrical Leads & Accessories,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Lighting - Other,Electrical Leads & Accessories,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Lighting - Other,Electrical Leads & Accessories,Welders - Electric,31,0.96875
+BNBY,THEL6005,3,Lighting - Other,Industrial Tools & Equipment,Electrical Leads & Accessories,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Industrial Tools & Equipment,Industrial Tools & Equipment,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Industrial Tools & Equipment,Miscellaneous - Tools,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Industrial Tools & Equipment,Power Tools & Accessories,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Industrial Tools & Equipment,Welders - Electric,31,0.939394
+BNBY,THEL6005,3,Lighting - Other,Miscellaneous - Tools,Electrical Leads & Accessories,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Miscellaneous - Tools,Industrial Tools & Equipment,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Miscellaneous - Tools,Miscellaneous - Tools,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Miscellaneous - Tools,Power Tools & Accessories,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Miscellaneous - Tools,Welders - Electric,31,0.939394
+BNBY,THEL6005,3,Lighting - Other,Power Tools & Accessories,Electrical Leads & Accessories,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Power Tools & Accessories,Industrial Tools & Equipment,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Power Tools & Accessories,Miscellaneous - Tools,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Power Tools & Accessories,Power Tools & Accessories,32,0.969697
+BNBY,THEL6005,3,Lighting - Other,Power Tools & Accessories,Welders - Electric,31,0.939394
+BNBY,THEL6005,2,Power Tools & Accessories,Access - Knuckle Booms,,39,0.684211
+BNBY,THEL6005,2,Power Tools & Accessories,Chain Blocks,,45,0.789474
+BNBY,THEL6005,2,Power Tools & Accessories,Electrical Leads & Accessories,,54,0.947368
+BNBY,THEL6005,2,Power Tools & Accessories,Industrial Tools & Equipment,,56,0.982456
+BNBY,THEL6005,2,Power Tools & Accessories,Jacking,,35,0.614035
+BNBY,THEL6005,2,Power Tools & Accessories,Lighting - Other,,32,0.561404
+BNBY,THEL6005,2,Power Tools & Accessories,Miscellaneous - Tools,,56,0.982456
+BNBY,THEL6005,2,Power Tools & Accessories,Power Tools & Accessories,,56,0.982456
+BNBY,THEL6005,2,Power Tools & Accessories,Welders - Accessories,,38,0.666667
+BNBY,THEL6005,2,Power Tools & Accessories,Welders - Electric,,50,0.877193
+BNBY,THEL6005,2,Power Tools & Accessories,Winches,,41,0.719298
+BNBY,THEL6005,3,Power Tools & Accessories,Access - Knuckle Booms,Access - Knuckle Booms,38,0.974359
+BNBY,THEL6005,3,Power Tools & Accessories,Access - Knuckle Booms,Electrical Leads & Accessories,37,0.948718
+BNBY,THEL6005,3,Power Tools & Accessories,Access - Knuckle Booms,Industrial Tools & Equipment,39,1
+BNBY,THEL6005,3,Power Tools & Accessories,Access - Knuckle Booms,Miscellaneous - Tools,39,1
+BNBY,THEL6005,3,Power Tools & Accessories,Access - Knuckle Booms,Power Tools & Accessories,39,1
+BNBY,THEL6005,3,Power Tools & Accessories,Access - Knuckle Booms,Welders - Electric,37,0.948718
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Jacking,35,0.625
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Power Tools & Accessories,Miscellaneous - Tools,Winches,40,0.714286
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Jacking,35,0.625
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Power Tools & Accessories,Power Tools & Accessories,Winches,40,0.714286
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Chain Blocks,43,0.955556
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Electrical Leads & Accessories,44,0.977778
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Industrial Tools & Equipment,45,1
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Jacking,32,0.711111
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Miscellaneous - Tools,45,1
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Power Tools & Accessories,45,1
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Welders - Accessories,32,0.711111
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Welders - Electric,40,0.888889
+BNBY,THEL6005,3,Power Tools & Accessories,Chain Blocks,Winches,39,0.866667
+BNBY,THEL6005,3,Power Tools & Accessories,Lighting - Other,Electrical Leads & Accessories,31,0.96875
+BNBY,THEL6005,3,Power Tools & Accessories,Lighting - Other,Industrial Tools & Equipment,32,1
+BNBY,THEL6005,3,Power Tools & Accessories,Lighting - Other,Miscellaneous - Tools,32,1
+BNBY,THEL6005,3,Power Tools & Accessories,Lighting - Other,Power Tools & Accessories,32,1
+BNBY,THEL6005,3,Power Tools & Accessories,Lighting - Other,Welders - Electric,31,0.96875
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Access - Knuckle Booms,37,0.685185
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Chain Blocks,43,0.796296
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,53,0.981481
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,54,1
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Jacking,35,0.648148
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Lighting - Other,32,0.592593
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,54,1
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,54,1
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Accessories,36,0.666667
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Electric,49,0.907407
+BNBY,THEL6005,3,Power Tools & Accessories,Electrical Leads & Accessories,Winches,39,0.722222
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Chain Blocks,32,0.842105
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Electrical Leads & Accessories,37,0.973684
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,36,0.947368
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Accessories,Welders - Electric,35,0.921053
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Access - Knuckle Booms,34,0.68
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Chain Blocks,38,0.76
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Electrical Leads & Accessories,47,0.94
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Industrial Tools & Equipment,49,0.98
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Jacking,31,0.62
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Miscellaneous - Tools,49,0.98
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,49,0.98
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Welders - Accessories,34,0.68
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Welders - Electric,49,0.98
+BNBY,THEL6005,3,Power Tools & Accessories,Welders - Electric,Winches,36,0.72
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Access - Knuckle Booms,38,0.678571
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Chain Blocks,44,0.785714
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.946429
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Jacking,35,0.625
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Lighting - Other,32,0.571429
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,55,0.982143
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Accessories,37,0.660714
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Electric,50,0.892857
+BNBY,THEL6005,3,Power Tools & Accessories,Industrial Tools & Equipment,Winches,40,0.714286
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Chain Blocks,31,0.885714
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Electrical Leads & Accessories,34,0.971429
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Industrial Tools & Equipment,35,1
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Jacking,33,0.942857
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Miscellaneous - Tools,35,1
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Power Tools & Accessories,35,1
+BNBY,THEL6005,3,Power Tools & Accessories,Jacking,Welders - Electric,33,0.942857
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Chain Blocks,36,0.878049
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Electrical Leads & Accessories,40,0.97561
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Industrial Tools & Equipment,41,1
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Jacking,31,0.756098
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Miscellaneous - Tools,41,1
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Power Tools & Accessories,41,1
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Welders - Electric,38,0.926829
+BNBY,THEL6005,3,Power Tools & Accessories,Winches,Winches,40,0.97561
+BNBY,THEL6005,2,Winches,Chain Blocks,,36,0.878049
+BNBY,THEL6005,2,Winches,Electrical Leads & Accessories,,40,0.97561
+BNBY,THEL6005,2,Winches,Industrial Tools & Equipment,,41,1
+BNBY,THEL6005,2,Winches,Jacking,,31,0.756098
+BNBY,THEL6005,2,Winches,Miscellaneous - Tools,,41,1
+BNBY,THEL6005,2,Winches,Power Tools & Accessories,,41,1
+BNBY,THEL6005,2,Winches,Welders - Electric,,38,0.926829
+BNBY,THEL6005,2,Winches,Winches,,40,0.97561
+BNBY,THEL6005,3,Winches,Chain Blocks,Chain Blocks,35,0.972222
+BNBY,THEL6005,3,Winches,Chain Blocks,Electrical Leads & Accessories,35,0.972222
+BNBY,THEL6005,3,Winches,Chain Blocks,Industrial Tools & Equipment,36,1
+BNBY,THEL6005,3,Winches,Chain Blocks,Miscellaneous - Tools,36,1
+BNBY,THEL6005,3,Winches,Chain Blocks,Power Tools & Accessories,36,1
+BNBY,THEL6005,3,Winches,Chain Blocks,Welders - Electric,34,0.944444
+BNBY,THEL6005,3,Winches,Chain Blocks,Winches,32,0.888889
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Chain Blocks,34,0.829268
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Electrical Leads & Accessories,39,0.95122
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Industrial Tools & Equipment,41,1
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Miscellaneous - Tools,41,1
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Power Tools & Accessories,41,1
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Welders - Electric,39,0.95122
+BNBY,THEL6005,3,Winches,Miscellaneous - Tools,Winches,32,0.780488
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Chain Blocks,33,0.825
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Electrical Leads & Accessories,39,0.975
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Industrial Tools & Equipment,40,1
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Miscellaneous - Tools,40,1
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Power Tools & Accessories,40,1
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Welders - Electric,38,0.95
+BNBY,THEL6005,3,Winches,Electrical Leads & Accessories,Winches,31,0.775
+BNBY,THEL6005,3,Winches,Winches,Chain Blocks,35,0.875
+BNBY,THEL6005,3,Winches,Winches,Electrical Leads & Accessories,39,0.975
+BNBY,THEL6005,3,Winches,Winches,Industrial Tools & Equipment,40,1
+BNBY,THEL6005,3,Winches,Winches,Miscellaneous - Tools,40,1
+BNBY,THEL6005,3,Winches,Winches,Power Tools & Accessories,40,1
+BNBY,THEL6005,3,Winches,Winches,Welders - Electric,38,0.95
+BNBY,THEL6005,3,Winches,Winches,Winches,39,0.975
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Chain Blocks,34,0.829268
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Electrical Leads & Accessories,39,0.95122
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Industrial Tools & Equipment,41,1
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Miscellaneous - Tools,41,1
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Power Tools & Accessories,41,1
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Welders - Electric,39,0.95122
+BNBY,THEL6005,3,Winches,Industrial Tools & Equipment,Winches,32,0.780488
+BNBY,THEL6005,3,Winches,Welders - Electric,Chain Blocks,31,0.815789
+BNBY,THEL6005,3,Winches,Welders - Electric,Electrical Leads & Accessories,36,0.947368
+BNBY,THEL6005,3,Winches,Welders - Electric,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Winches,Welders - Electric,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Winches,Welders - Electric,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Winches,Welders - Electric,Welders - Electric,38,1
+BNBY,THEL6005,3,Winches,Jacking,Industrial Tools & Equipment,31,1
+BNBY,THEL6005,3,Winches,Jacking,Miscellaneous - Tools,31,1
+BNBY,THEL6005,3,Winches,Jacking,Power Tools & Accessories,31,1
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Chain Blocks,34,0.829268
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Electrical Leads & Accessories,39,0.95122
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Industrial Tools & Equipment,41,1
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Miscellaneous - Tools,41,1
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Power Tools & Accessories,41,1
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Welders - Electric,39,0.95122
+BNBY,THEL6005,3,Winches,Power Tools & Accessories,Winches,32,0.780488
+BNBY,THEL6005,2,Welders - Electric,Access - Knuckle Booms,,34,0.68
+BNBY,THEL6005,2,Welders - Electric,Chain Blocks,,38,0.76
+BNBY,THEL6005,2,Welders - Electric,Electrical Leads & Accessories,,47,0.94
+BNBY,THEL6005,2,Welders - Electric,Industrial Tools & Equipment,,49,0.98
+BNBY,THEL6005,2,Welders - Electric,Jacking,,31,0.62
+BNBY,THEL6005,2,Welders - Electric,Miscellaneous - Tools,,49,0.98
+BNBY,THEL6005,2,Welders - Electric,Power Tools & Accessories,,49,0.98
+BNBY,THEL6005,2,Welders - Electric,Welders - Accessories,,34,0.68
+BNBY,THEL6005,2,Welders - Electric,Welders - Electric,,49,0.98
+BNBY,THEL6005,2,Welders - Electric,Winches,,36,0.72
+BNBY,THEL6005,3,Welders - Electric,Access - Knuckle Booms,Access - Knuckle Booms,33,0.970588
+BNBY,THEL6005,3,Welders - Electric,Access - Knuckle Booms,Electrical Leads & Accessories,32,0.941176
+BNBY,THEL6005,3,Welders - Electric,Access - Knuckle Booms,Industrial Tools & Equipment,34,1
+BNBY,THEL6005,3,Welders - Electric,Access - Knuckle Booms,Miscellaneous - Tools,34,1
+BNBY,THEL6005,3,Welders - Electric,Access - Knuckle Booms,Power Tools & Accessories,34,1
+BNBY,THEL6005,3,Welders - Electric,Access - Knuckle Booms,Welders - Electric,34,1
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Chain Blocks,36,0.947368
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Electrical Leads & Accessories,37,0.973684
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Industrial Tools & Equipment,38,1
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Miscellaneous - Tools,38,1
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Power Tools & Accessories,38,1
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Welders - Electric,36,0.947368
+BNBY,THEL6005,3,Welders - Electric,Chain Blocks,Winches,33,0.868421
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Access - Knuckle Booms,31,0.659574
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Chain Blocks,37,0.787234
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Electrical Leads & Accessories,46,0.978723
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Industrial Tools & Equipment,47,1
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Miscellaneous - Tools,47,1
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Power Tools & Accessories,47,1
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Welders - Accessories,32,0.680851
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Welders - Electric,45,0.957447
+BNBY,THEL6005,3,Welders - Electric,Electrical Leads & Accessories,Winches,34,0.723404
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Access - Knuckle Booms,32,0.653061
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Chain Blocks,38,0.77551
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Electrical Leads & Accessories,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Welders - Accessories,33,0.673469
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Welders - Electric,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Industrial Tools & Equipment,Winches,35,0.714286
+BNBY,THEL6005,3,Welders - Electric,Jacking,Industrial Tools & Equipment,31,1
+BNBY,THEL6005,3,Welders - Electric,Jacking,Miscellaneous - Tools,31,1
+BNBY,THEL6005,3,Welders - Electric,Jacking,Power Tools & Accessories,31,1
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Access - Knuckle Booms,32,0.653061
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Chain Blocks,38,0.77551
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Electrical Leads & Accessories,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Welders - Accessories,33,0.673469
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Welders - Electric,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Miscellaneous - Tools,Winches,35,0.714286
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Access - Knuckle Booms,32,0.653061
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Chain Blocks,38,0.77551
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Electrical Leads & Accessories,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Welders - Accessories,33,0.673469
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Welders - Electric,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Power Tools & Accessories,Winches,35,0.714286
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Access - Knuckle Booms,33,0.673469
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Chain Blocks,37,0.755102
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Electrical Leads & Accessories,46,0.938776
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Industrial Tools & Equipment,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Miscellaneous - Tools,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Power Tools & Accessories,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Welders - Accessories,33,0.673469
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Welders - Electric,48,0.979592
+BNBY,THEL6005,3,Welders - Electric,Welders - Electric,Winches,35,0.714286
+BNBY,THEL6005,3,Welders - Electric,Welders - Accessories,Electrical Leads & Accessories,33,0.970588
+BNBY,THEL6005,3,Welders - Electric,Welders - Accessories,Industrial Tools & Equipment,34,1
+BNBY,THEL6005,3,Welders - Electric,Welders - Accessories,Miscellaneous - Tools,34,1
+BNBY,THEL6005,3,Welders - Electric,Welders - Accessories,Power Tools & Accessories,34,1
+BNBY,THEL6005,3,Welders - Electric,Welders - Accessories,Welders - Accessories,32,0.941176
+BNBY,THEL6005,3,Welders - Electric,Welders - Accessories,Welders - Electric,33,0.970588
+BNBY,THEL6005,3,Welders - Electric,Winches,Chain Blocks,31,0.861111
+BNBY,THEL6005,3,Welders - Electric,Winches,Electrical Leads & Accessories,35,0.972222
+BNBY,THEL6005,3,Welders - Electric,Winches,Industrial Tools & Equipment,36,1
+BNBY,THEL6005,3,Welders - Electric,Winches,Miscellaneous - Tools,36,1
+BNBY,THEL6005,3,Welders - Electric,Winches,Power Tools & Accessories,36,1
+BNBY,THEL6005,3,Welders - Electric,Winches,Welders - Electric,35,0.972222
+BNBY,THEL6005,3,Welders - Electric,Winches,Winches,35,0.972222

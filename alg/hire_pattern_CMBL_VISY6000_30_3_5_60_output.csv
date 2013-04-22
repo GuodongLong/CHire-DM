@@ -1,0 +1,9 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+CMBL,VISY6000,1,Air Accessories,,,32,1
+CMBL,VISY6000,1,Air Hand Tools,,,35,1
+CMBL,VISY6000,1,Chain Blocks,,,53,1
+CMBL,VISY6000,1,Electrical Leads & Accessories,,,63,1
+CMBL,VISY6000,1,Industrial Tools & Equipment,,,39,1
+CMBL,VISY6000,1,Power Tools & Accessories,,,69,1
+CMBL,VISY6000,1,Welders - Electric,,,33,1
+CMBL,VISY6000,1,Lighting - Other,,,43,1

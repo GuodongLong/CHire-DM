@@ -1,0 +1,58 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+IPSW,D2GJ2402,1,Air Accessories,,,147,1
+IPSW,D2GJ2402,1,Air Breakers,,,88,1
+IPSW,D2GJ2402,1,Generators - Petrol,,,79,1
+IPSW,D2GJ2402,1,Air Breakers - Attachments,,,117,1
+IPSW,D2GJ2402,1,Demolition,,,66,1
+IPSW,D2GJ2402,1,Air Compressors - Diesel Small,,,129,1
+IPSW,D2GJ2402,1,Landscaping Equipment,,,70,1
+IPSW,D2GJ2402,1,Access - Scissor Lifts,,,59,1
+IPSW,D2GJ2402,1,Compaction - Rollers - Double Drum Smooth,,,79,1
+IPSW,D2GJ2402,1,Air Hand Tools,,,57,1
+IPSW,D2GJ2402,1,Compaction - Rammers & Vibrating Plates,,,90,1
+IPSW,D2GJ2402,1,Power Tools & Accessories,,,54,1
+IPSW,D2GJ2402,2,Air Accessories,Air Accessories,,110,0.748299
+IPSW,D2GJ2402,2,Air Accessories,Air Breakers,,62,0.421769
+IPSW,D2GJ2402,2,Air Accessories,Air Breakers - Attachments,,80,0.544218
+IPSW,D2GJ2402,2,Air Accessories,Air Compressors - Diesel Small,,94,0.639456
+IPSW,D2GJ2402,2,Air Accessories,Compaction - Rammers & Vibrating Plates,,59,0.401361
+IPSW,D2GJ2402,2,Air Accessories,Compaction - Rollers - Double Drum Smooth,,54,0.367347
+IPSW,D2GJ2402,2,Air Accessories,Generators - Petrol,,53,0.360544
+IPSW,D2GJ2402,3,Air Accessories,Air Accessories,Air Accessories,86,0.781818
+IPSW,D2GJ2402,3,Air Accessories,Air Accessories,Air Breakers - Attachments,59,0.536364
+IPSW,D2GJ2402,3,Air Accessories,Air Accessories,Air Compressors - Diesel Small,73,0.663636
+IPSW,D2GJ2402,3,Air Accessories,Air Breakers - Attachments,Air Accessories,58,0.725
+IPSW,D2GJ2402,3,Air Accessories,Air Breakers - Attachments,Air Breakers - Attachments,55,0.6875
+IPSW,D2GJ2402,3,Air Accessories,Air Breakers - Attachments,Air Compressors - Diesel Small,51,0.6375
+IPSW,D2GJ2402,3,Air Accessories,Air Compressors - Diesel Small,Air Accessories,74,0.787234
+IPSW,D2GJ2402,3,Air Accessories,Air Compressors - Diesel Small,Air Breakers - Attachments,51,0.542553
+IPSW,D2GJ2402,3,Air Accessories,Air Compressors - Diesel Small,Air Compressors - Diesel Small,66,0.702128
+IPSW,D2GJ2402,2,Air Breakers,Air Accessories,,60,0.681818
+IPSW,D2GJ2402,2,Air Breakers,Air Breakers - Attachments,,56,0.636364
+IPSW,D2GJ2402,2,Air Compressors - Diesel Small,Air Accessories,,96,0.744186
+IPSW,D2GJ2402,2,Air Compressors - Diesel Small,Air Breakers,,53,0.410853
+IPSW,D2GJ2402,2,Air Compressors - Diesel Small,Air Breakers - Attachments,,70,0.542636
+IPSW,D2GJ2402,2,Air Compressors - Diesel Small,Air Compressors - Diesel Small,,87,0.674419
+IPSW,D2GJ2402,2,Air Compressors - Diesel Small,Compaction - Rammers & Vibrating Plates,,52,0.403101
+IPSW,D2GJ2402,3,Air Compressors - Diesel Small,Air Accessories,Air Accessories,77,0.802083
+IPSW,D2GJ2402,3,Air Compressors - Diesel Small,Air Accessories,Air Breakers - Attachments,53,0.552083
+IPSW,D2GJ2402,3,Air Compressors - Diesel Small,Air Accessories,Air Compressors - Diesel Small,66,0.6875
+IPSW,D2GJ2402,3,Air Compressors - Diesel Small,Air Breakers - Attachments,Air Accessories,54,0.771429
+IPSW,D2GJ2402,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Accessories,71,0.816092
+IPSW,D2GJ2402,3,Air Compressors - Diesel Small,Air Compressors - Diesel Small,Air Compressors - Diesel Small,63,0.724138
+IPSW,D2GJ2402,2,Generators - Petrol,Air Accessories,,54,0.683544
+IPSW,D2GJ2402,2,Air Breakers - Attachments,Air Accessories,,78,0.666667
+IPSW,D2GJ2402,2,Air Breakers - Attachments,Air Breakers,,56,0.478632
+IPSW,D2GJ2402,2,Air Breakers - Attachments,Air Breakers - Attachments,,82,0.700855
+IPSW,D2GJ2402,2,Air Breakers - Attachments,Air Compressors - Diesel Small,,69,0.589744
+IPSW,D2GJ2402,2,Air Breakers - Attachments,Compaction - Rammers & Vibrating Plates,,52,0.444444
+IPSW,D2GJ2402,3,Air Breakers - Attachments,Air Accessories,Air Accessories,59,0.75641
+IPSW,D2GJ2402,3,Air Breakers - Attachments,Air Breakers - Attachments,Air Accessories,57,0.695122
+IPSW,D2GJ2402,3,Air Breakers - Attachments,Air Breakers - Attachments,Air Breakers - Attachments,60,0.731707
+IPSW,D2GJ2402,3,Air Breakers - Attachments,Air Compressors - Diesel Small,Air Accessories,54,0.782609
+IPSW,D2GJ2402,2,Compaction - Rollers - Double Drum Smooth,Air Accessories,,52,0.658228
+IPSW,D2GJ2402,2,Compaction - Rammers & Vibrating Plates,Air Accessories,,65,0.722222
+IPSW,D2GJ2402,2,Compaction - Rammers & Vibrating Plates,Air Breakers - Attachments,,52,0.577778
+IPSW,D2GJ2402,2,Compaction - Rammers & Vibrating Plates,Air Compressors - Diesel Small,,60,0.666667
+IPSW,D2GJ2402,2,Compaction - Rammers & Vibrating Plates,Compaction - Rammers & Vibrating Plates,,55,0.611111
+IPSW,D2GJ2402,3,Compaction - Rammers & Vibrating Plates,Air Accessories,Air Accessories,51,0.784615

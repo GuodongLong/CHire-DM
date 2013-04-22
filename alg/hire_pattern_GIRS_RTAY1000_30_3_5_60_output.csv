@@ -1,0 +1,11 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+GIRS,RTAY1000,1,Traffic - Barriers,,,67,1
+GIRS,RTAY1000,1,Traffic - Management - Electronic,,,534,1
+GIRS,RTAY1000,2,Traffic - Barriers,Traffic - Barriers,,32,0.477612
+GIRS,RTAY1000,2,Traffic - Barriers,Traffic - Management - Electronic,,65,0.970149
+GIRS,RTAY1000,3,Traffic - Barriers,Traffic - Management - Electronic,Traffic - Management - Electronic,64,0.984615
+GIRS,RTAY1000,2,Traffic - Management - Electronic,Traffic - Barriers,,63,0.117978
+GIRS,RTAY1000,2,Traffic - Management - Electronic,Traffic - Management - Electronic,,525,0.983146
+GIRS,RTAY1000,3,Traffic - Management - Electronic,Traffic - Barriers,Traffic - Management - Electronic,62,0.984127
+GIRS,RTAY1000,3,Traffic - Management - Electronic,Traffic - Management - Electronic,Traffic - Barriers,63,0.12
+GIRS,RTAY1000,3,Traffic - Management - Electronic,Traffic - Management - Electronic,Traffic - Management - Electronic,516,0.982857

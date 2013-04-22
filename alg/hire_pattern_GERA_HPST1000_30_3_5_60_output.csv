@@ -1,0 +1,1176 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+GERA,HPST1000,1,Electrical Leads & Accessories,,,110,1
+GERA,HPST1000,1,Miscellaneous - Tools,,,149,1
+GERA,HPST1000,1,Industrial Tools & Equipment,,,150,1
+GERA,HPST1000,1,Measurement Equipment,,,65,1
+GERA,HPST1000,1,Air Hand Tools,,,50,1
+GERA,HPST1000,1,Power Tools & Accessories,,,137,1
+GERA,HPST1000,1,Welders - Accessories,,,95,1
+GERA,HPST1000,1,Welders - Electric,,,68,1
+GERA,HPST1000,1,Chain Blocks,,,38,1
+GERA,HPST1000,1,Bolting Tools,,,71,1
+GERA,HPST1000,1,Jacking,,,62,1
+GERA,HPST1000,1,Winches,,,42,1
+GERA,HPST1000,2,Electrical Leads & Accessories,Air Hand Tools,,43,0.390909
+GERA,HPST1000,2,Electrical Leads & Accessories,Bolting Tools,,63,0.572727
+GERA,HPST1000,2,Electrical Leads & Accessories,Chain Blocks,,35,0.318182
+GERA,HPST1000,2,Electrical Leads & Accessories,Electrical Leads & Accessories,,109,0.990909
+GERA,HPST1000,2,Electrical Leads & Accessories,Industrial Tools & Equipment,,110,1
+GERA,HPST1000,2,Electrical Leads & Accessories,Jacking,,56,0.509091
+GERA,HPST1000,2,Electrical Leads & Accessories,Measurement Equipment,,58,0.527273
+GERA,HPST1000,2,Electrical Leads & Accessories,Miscellaneous - Tools,,108,0.981818
+GERA,HPST1000,2,Electrical Leads & Accessories,Power Tools & Accessories,,108,0.981818
+GERA,HPST1000,2,Electrical Leads & Accessories,Welders - Accessories,,77,0.7
+GERA,HPST1000,2,Electrical Leads & Accessories,Welders - Electric,,58,0.527273
+GERA,HPST1000,2,Electrical Leads & Accessories,Winches,,38,0.345455
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Air Hand Tools,35,0.813953
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Bolting Tools,31,0.72093
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Electrical Leads & Accessories,36,0.837209
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Industrial Tools & Equipment,43,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Miscellaneous - Tools,43,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Power Tools & Accessories,43,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Welders - Accessories,40,0.930233
+GERA,HPST1000,3,Electrical Leads & Accessories,Air Hand Tools,Welders - Electric,33,0.767442
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Air Hand Tools,34,0.539683
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Bolting Tools,58,0.920635
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Electrical Leads & Accessories,54,0.857143
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Industrial Tools & Equipment,62,0.984127
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Jacking,38,0.603175
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Measurement Equipment,38,0.603175
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Miscellaneous - Tools,61,0.968254
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Power Tools & Accessories,61,0.968254
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Welders - Accessories,45,0.714286
+GERA,HPST1000,3,Electrical Leads & Accessories,Bolting Tools,Welders - Electric,38,0.603175
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Bolting Tools,37,0.660714
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Electrical Leads & Accessories,53,0.946429
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Industrial Tools & Equipment,56,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Jacking,54,0.964286
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Measurement Equipment,35,0.625
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Miscellaneous - Tools,54,0.964286
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Power Tools & Accessories,54,0.964286
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Welders - Accessories,48,0.857143
+GERA,HPST1000,3,Electrical Leads & Accessories,Jacking,Welders - Electric,39,0.696429
+GERA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Electrical Leads & Accessories,33,0.942857
+GERA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Industrial Tools & Equipment,34,0.971429
+GERA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Miscellaneous - Tools,34,0.971429
+GERA,HPST1000,3,Electrical Leads & Accessories,Chain Blocks,Power Tools & Accessories,34,0.971429
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Air Hand Tools,45,0.409091
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Bolting Tools,59,0.536364
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Chain Blocks,34,0.309091
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,89,0.809091
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,109,0.990909
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Jacking,57,0.518182
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Measurement Equipment,58,0.527273
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,106,0.963636
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,106,0.963636
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Accessories,72,0.654545
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Welders - Electric,57,0.518182
+GERA,HPST1000,3,Electrical Leads & Accessories,Industrial Tools & Equipment,Winches,36,0.327273
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Air Hand Tools,43,0.394495
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Bolting Tools,63,0.577982
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Chain Blocks,35,0.321101
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,108,0.990826
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,109,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Jacking,56,0.513761
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Measurement Equipment,58,0.53211
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,107,0.981651
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,107,0.981651
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Accessories,77,0.706422
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Welders - Electric,58,0.53211
+GERA,HPST1000,3,Electrical Leads & Accessories,Electrical Leads & Accessories,Winches,38,0.348624
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Air Hand Tools,33,0.568966
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Bolting Tools,34,0.586207
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Electrical Leads & Accessories,51,0.87931
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Industrial Tools & Equipment,57,0.982759
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Jacking,36,0.62069
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Measurement Equipment,54,0.931034
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Miscellaneous - Tools,56,0.965517
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Power Tools & Accessories,57,0.982759
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Welders - Accessories,48,0.827586
+GERA,HPST1000,3,Electrical Leads & Accessories,Measurement Equipment,Welders - Electric,38,0.655172
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Air Hand Tools,45,0.416667
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Bolting Tools,60,0.555556
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Chain Blocks,34,0.314815
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,88,0.814815
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,107,0.990741
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Jacking,55,0.509259
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Measurement Equipment,57,0.527778
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,107,0.990741
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Power Tools & Accessories,105,0.972222
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Accessories,72,0.666667
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Welders - Electric,57,0.527778
+GERA,HPST1000,3,Electrical Leads & Accessories,Miscellaneous - Tools,Winches,36,0.333333
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Air Hand Tools,45,0.416667
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Bolting Tools,59,0.546296
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Chain Blocks,34,0.314815
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,89,0.824074
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,107,0.990741
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Jacking,55,0.509259
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Measurement Equipment,58,0.537037
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Miscellaneous - Tools,105,0.972222
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Power Tools & Accessories,107,0.990741
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Accessories,73,0.675926
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Welders - Electric,57,0.527778
+GERA,HPST1000,3,Electrical Leads & Accessories,Power Tools & Accessories,Winches,36,0.333333
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Air Hand Tools,41,0.532468
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Bolting Tools,46,0.597403
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Electrical Leads & Accessories,66,0.857143
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Industrial Tools & Equipment,77,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Jacking,46,0.597403
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Measurement Equipment,46,0.597403
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Miscellaneous - Tools,76,0.987013
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Power Tools & Accessories,75,0.974026
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Accessories,74,0.961039
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Welders - Electric,52,0.675325
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Accessories,Winches,31,0.402597
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Air Hand Tools,34,0.586207
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Bolting Tools,38,0.655172
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Electrical Leads & Accessories,52,0.896552
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Industrial Tools & Equipment,58,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Jacking,42,0.724138
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Measurement Equipment,40,0.689655
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Miscellaneous - Tools,57,0.982759
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Power Tools & Accessories,57,0.982759
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Welders - Accessories,51,0.87931
+GERA,HPST1000,3,Electrical Leads & Accessories,Welders - Electric,Welders - Electric,55,0.948276
+GERA,HPST1000,3,Electrical Leads & Accessories,Winches,Electrical Leads & Accessories,35,0.921053
+GERA,HPST1000,3,Electrical Leads & Accessories,Winches,Industrial Tools & Equipment,38,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Winches,Miscellaneous - Tools,38,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Winches,Power Tools & Accessories,38,1
+GERA,HPST1000,3,Electrical Leads & Accessories,Winches,Welders - Accessories,31,0.815789
+GERA,HPST1000,2,Miscellaneous - Tools,Air Hand Tools,,49,0.328859
+GERA,HPST1000,2,Miscellaneous - Tools,Bolting Tools,,70,0.469799
+GERA,HPST1000,2,Miscellaneous - Tools,Chain Blocks,,38,0.255034
+GERA,HPST1000,2,Miscellaneous - Tools,Electrical Leads & Accessories,,108,0.724832
+GERA,HPST1000,2,Miscellaneous - Tools,Industrial Tools & Equipment,,143,0.959732
+GERA,HPST1000,2,Miscellaneous - Tools,Jacking,,60,0.402685
+GERA,HPST1000,2,Miscellaneous - Tools,Measurement Equipment,,64,0.42953
+GERA,HPST1000,2,Miscellaneous - Tools,Miscellaneous - Tools,,144,0.966443
+GERA,HPST1000,2,Miscellaneous - Tools,Power Tools & Accessories,,134,0.899329
+GERA,HPST1000,2,Miscellaneous - Tools,Welders - Accessories,,93,0.624161
+GERA,HPST1000,2,Miscellaneous - Tools,Welders - Electric,,67,0.449664
+GERA,HPST1000,2,Miscellaneous - Tools,Winches,,42,0.281879
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Air Hand Tools,41,0.836735
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Bolting Tools,35,0.714286
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Electrical Leads & Accessories,41,0.836735
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Jacking,31,0.632653
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Measurement Equipment,32,0.653061
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Miscellaneous - Tools,49,1
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Power Tools & Accessories,49,1
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Welders - Accessories,46,0.938776
+GERA,HPST1000,3,Miscellaneous - Tools,Air Hand Tools,Welders - Electric,37,0.755102
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Air Hand Tools,35,0.5
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Bolting Tools,65,0.928571
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Electrical Leads & Accessories,62,0.885714
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Industrial Tools & Equipment,69,0.985714
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Jacking,42,0.6
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Measurement Equipment,39,0.557143
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Miscellaneous - Tools,68,0.971429
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Power Tools & Accessories,68,0.971429
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Welders - Accessories,49,0.7
+GERA,HPST1000,3,Miscellaneous - Tools,Bolting Tools,Welders - Electric,43,0.614286
+GERA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Electrical Leads & Accessories,35,0.921053
+GERA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Industrial Tools & Equipment,37,0.973684
+GERA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Miscellaneous - Tools,37,0.973684
+GERA,HPST1000,3,Miscellaneous - Tools,Chain Blocks,Power Tools & Accessories,37,0.973684
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Air Hand Tools,42,0.388889
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Bolting Tools,62,0.574074
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Chain Blocks,35,0.324074
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,107,0.990741
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,108,1
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Jacking,55,0.509259
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Measurement Equipment,57,0.527778
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Miscellaneous - Tools,106,0.981481
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Power Tools & Accessories,106,0.981481
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Accessories,76,0.703704
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Welders - Electric,58,0.537037
+GERA,HPST1000,3,Miscellaneous - Tools,Electrical Leads & Accessories,Winches,38,0.351852
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Air Hand Tools,48,0.335664
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Bolting Tools,68,0.475524
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Chain Blocks,38,0.265734
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,108,0.755245
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,142,0.993007
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Jacking,61,0.426573
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Measurement Equipment,64,0.447552
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Miscellaneous - Tools,139,0.972028
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Power Tools & Accessories,133,0.93007
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Accessories,92,0.643357
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Welders - Electric,67,0.468531
+GERA,HPST1000,3,Miscellaneous - Tools,Industrial Tools & Equipment,Winches,42,0.293706
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Bolting Tools,38,0.633333
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Electrical Leads & Accessories,56,0.933333
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Industrial Tools & Equipment,60,1
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Jacking,58,0.966667
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Measurement Equipment,34,0.566667
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Miscellaneous - Tools,58,0.966667
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Power Tools & Accessories,58,0.966667
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Welders - Accessories,52,0.866667
+GERA,HPST1000,3,Miscellaneous - Tools,Jacking,Welders - Electric,42,0.7
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Air Hand Tools,34,0.53125
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Bolting Tools,37,0.578125
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Electrical Leads & Accessories,54,0.84375
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Industrial Tools & Equipment,63,0.984375
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Jacking,38,0.59375
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Measurement Equipment,60,0.9375
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Miscellaneous - Tools,62,0.96875
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Power Tools & Accessories,63,0.984375
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Welders - Accessories,53,0.828125
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Welders - Electric,40,0.625
+GERA,HPST1000,3,Miscellaneous - Tools,Measurement Equipment,Winches,31,0.484375
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Air Hand Tools,48,0.358209
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Bolting Tools,66,0.492537
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Chain Blocks,36,0.268657
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Electrical Leads & Accessories,105,0.783582
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Industrial Tools & Equipment,133,0.992537
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Jacking,58,0.432836
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Measurement Equipment,64,0.477612
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Miscellaneous - Tools,131,0.977612
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Power Tools & Accessories,133,0.992537
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Accessories,92,0.686567
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Welders - Electric,66,0.492537
+GERA,HPST1000,3,Miscellaneous - Tools,Power Tools & Accessories,Winches,42,0.313433
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Air Hand Tools,49,0.340278
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Bolting Tools,70,0.486111
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Chain Blocks,38,0.263889
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Electrical Leads & Accessories,108,0.75
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Industrial Tools & Equipment,142,0.986111
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Jacking,60,0.416667
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Measurement Equipment,64,0.444444
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Miscellaneous - Tools,142,0.986111
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Power Tools & Accessories,134,0.930556
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Accessories,93,0.645833
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Welders - Electric,67,0.465278
+GERA,HPST1000,3,Miscellaneous - Tools,Miscellaneous - Tools,Winches,42,0.291667
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Air Hand Tools,43,0.462366
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Bolting Tools,52,0.55914
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Electrical Leads & Accessories,78,0.83871
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Industrial Tools & Equipment,93,1
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Jacking,49,0.526882
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Measurement Equipment,52,0.55914
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Miscellaneous - Tools,92,0.989247
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Power Tools & Accessories,91,0.978495
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Accessories,89,0.956989
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Welders - Electric,58,0.623656
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Accessories,Winches,34,0.365591
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Air Hand Tools,35,0.522388
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Bolting Tools,40,0.597015
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Electrical Leads & Accessories,59,0.880597
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Industrial Tools & Equipment,67,1
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Jacking,43,0.641791
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Measurement Equipment,42,0.626866
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Miscellaneous - Tools,66,0.985075
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Power Tools & Accessories,66,0.985075
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Welders - Accessories,58,0.865672
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Welders - Electric,64,0.955224
+GERA,HPST1000,3,Miscellaneous - Tools,Welders - Electric,Winches,34,0.507463
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Electrical Leads & Accessories,38,0.904762
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Industrial Tools & Equipment,42,1
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Miscellaneous - Tools,42,1
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Power Tools & Accessories,42,1
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Welders - Accessories,35,0.833333
+GERA,HPST1000,3,Miscellaneous - Tools,Winches,Winches,33,0.785714
+GERA,HPST1000,2,Chain Blocks,Electrical Leads & Accessories,,35,0.921053
+GERA,HPST1000,2,Chain Blocks,Industrial Tools & Equipment,,37,0.973684
+GERA,HPST1000,2,Chain Blocks,Miscellaneous - Tools,,37,0.973684
+GERA,HPST1000,2,Chain Blocks,Power Tools & Accessories,,37,0.973684
+GERA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Electrical Leads & Accessories,35,1
+GERA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Industrial Tools & Equipment,35,1
+GERA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Miscellaneous - Tools,34,0.971429
+GERA,HPST1000,3,Chain Blocks,Electrical Leads & Accessories,Power Tools & Accessories,35,1
+GERA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Electrical Leads & Accessories,31,0.837838
+GERA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Industrial Tools & Equipment,37,1
+GERA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Miscellaneous - Tools,36,0.972973
+GERA,HPST1000,3,Chain Blocks,Power Tools & Accessories,Power Tools & Accessories,37,1
+GERA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Electrical Leads & Accessories,32,0.864865
+GERA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Industrial Tools & Equipment,37,1
+GERA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Miscellaneous - Tools,36,0.972973
+GERA,HPST1000,3,Chain Blocks,Industrial Tools & Equipment,Power Tools & Accessories,37,1
+GERA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Electrical Leads & Accessories,32,0.864865
+GERA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Industrial Tools & Equipment,37,1
+GERA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Miscellaneous - Tools,37,1
+GERA,HPST1000,3,Chain Blocks,Miscellaneous - Tools,Power Tools & Accessories,37,1
+GERA,HPST1000,2,Industrial Tools & Equipment,Air Hand Tools,,49,0.326667
+GERA,HPST1000,2,Industrial Tools & Equipment,Bolting Tools,,71,0.473333
+GERA,HPST1000,2,Industrial Tools & Equipment,Chain Blocks,,38,0.253333
+GERA,HPST1000,2,Industrial Tools & Equipment,Electrical Leads & Accessories,,110,0.733333
+GERA,HPST1000,2,Industrial Tools & Equipment,Industrial Tools & Equipment,,148,0.986667
+GERA,HPST1000,2,Industrial Tools & Equipment,Jacking,,62,0.413333
+GERA,HPST1000,2,Industrial Tools & Equipment,Measurement Equipment,,65,0.433333
+GERA,HPST1000,2,Industrial Tools & Equipment,Miscellaneous - Tools,,145,0.966667
+GERA,HPST1000,2,Industrial Tools & Equipment,Power Tools & Accessories,,137,0.913333
+GERA,HPST1000,2,Industrial Tools & Equipment,Welders - Accessories,,95,0.633333
+GERA,HPST1000,2,Industrial Tools & Equipment,Welders - Electric,,68,0.453333
+GERA,HPST1000,2,Industrial Tools & Equipment,Winches,,42,0.28
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Air Hand Tools,41,0.836735
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Bolting Tools,35,0.714286
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Electrical Leads & Accessories,41,0.836735
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Jacking,31,0.632653
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Measurement Equipment,32,0.653061
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Miscellaneous - Tools,49,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Power Tools & Accessories,49,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Welders - Accessories,46,0.938776
+GERA,HPST1000,3,Industrial Tools & Equipment,Air Hand Tools,Welders - Electric,37,0.755102
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Air Hand Tools,43,0.390909
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Bolting Tools,63,0.572727
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Chain Blocks,35,0.318182
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,109,0.990909
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,110,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Jacking,56,0.509091
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Measurement Equipment,58,0.527273
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,108,0.981818
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Power Tools & Accessories,108,0.981818
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Accessories,77,0.7
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Welders - Electric,58,0.527273
+GERA,HPST1000,3,Industrial Tools & Equipment,Electrical Leads & Accessories,Winches,38,0.345455
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Air Hand Tools,35,0.514706
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Bolting Tools,40,0.588235
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Electrical Leads & Accessories,60,0.882353
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Industrial Tools & Equipment,68,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Jacking,43,0.632353
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Measurement Equipment,42,0.617647
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Miscellaneous - Tools,67,0.985294
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Power Tools & Accessories,67,0.985294
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Welders - Accessories,59,0.867647
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Welders - Electric,64,0.941176
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Electric,Winches,34,0.5
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Air Hand Tools,49,0.337931
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Bolting Tools,70,0.482759
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Chain Blocks,38,0.262069
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,108,0.744828
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,143,0.986207
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Jacking,60,0.413793
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Measurement Equipment,64,0.441379
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Miscellaneous - Tools,143,0.986207
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Power Tools & Accessories,134,0.924138
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Accessories,93,0.641379
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Welders - Electric,67,0.462069
+GERA,HPST1000,3,Industrial Tools & Equipment,Miscellaneous - Tools,Winches,42,0.289655
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Air Hand Tools,36,0.507042
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Bolting Tools,66,0.929577
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Electrical Leads & Accessories,62,0.873239
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Industrial Tools & Equipment,70,0.985915
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Jacking,42,0.591549
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Measurement Equipment,39,0.549296
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Miscellaneous - Tools,69,0.971831
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Power Tools & Accessories,69,0.971831
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Welders - Accessories,50,0.704225
+GERA,HPST1000,3,Industrial Tools & Equipment,Bolting Tools,Welders - Electric,43,0.605634
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Air Hand Tools,49,0.331081
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Bolting Tools,71,0.47973
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Chain Blocks,38,0.256757
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,110,0.743243
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,147,0.993243
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Jacking,62,0.418919
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Measurement Equipment,65,0.439189
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,143,0.966216
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Power Tools & Accessories,136,0.918919
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Accessories,94,0.635135
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Welders - Electric,67,0.452703
+GERA,HPST1000,3,Industrial Tools & Equipment,Industrial Tools & Equipment,Winches,42,0.283784
+GERA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Electrical Leads & Accessories,35,0.921053
+GERA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Industrial Tools & Equipment,37,0.973684
+GERA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Miscellaneous - Tools,37,0.973684
+GERA,HPST1000,3,Industrial Tools & Equipment,Chain Blocks,Power Tools & Accessories,37,0.973684
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Electrical Leads & Accessories,38,0.904762
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Industrial Tools & Equipment,42,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Miscellaneous - Tools,42,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Power Tools & Accessories,42,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Welders - Accessories,35,0.833333
+GERA,HPST1000,3,Industrial Tools & Equipment,Winches,Winches,33,0.785714
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Bolting Tools,39,0.629032
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Electrical Leads & Accessories,57,0.919355
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Industrial Tools & Equipment,62,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Jacking,60,0.967742
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Measurement Equipment,35,0.564516
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Miscellaneous - Tools,60,0.967742
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Power Tools & Accessories,59,0.951613
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Welders - Accessories,52,0.83871
+GERA,HPST1000,3,Industrial Tools & Equipment,Jacking,Welders - Electric,42,0.677419
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Air Hand Tools,34,0.523077
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Bolting Tools,37,0.569231
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Electrical Leads & Accessories,55,0.846154
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Industrial Tools & Equipment,64,0.984615
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Jacking,39,0.6
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Measurement Equipment,61,0.938462
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Miscellaneous - Tools,63,0.969231
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Power Tools & Accessories,64,0.984615
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Welders - Accessories,53,0.815385
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Welders - Electric,40,0.615385
+GERA,HPST1000,3,Industrial Tools & Equipment,Measurement Equipment,Winches,31,0.476923
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Air Hand Tools,49,0.357664
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Bolting Tools,67,0.489051
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Chain Blocks,36,0.262774
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Electrical Leads & Accessories,107,0.781022
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Industrial Tools & Equipment,136,0.992701
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Jacking,59,0.430657
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Measurement Equipment,65,0.474453
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Miscellaneous - Tools,134,0.978102
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Power Tools & Accessories,136,0.992701
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Accessories,94,0.686131
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Welders - Electric,66,0.481752
+GERA,HPST1000,3,Industrial Tools & Equipment,Power Tools & Accessories,Winches,42,0.306569
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Air Hand Tools,44,0.463158
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Bolting Tools,53,0.557895
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Electrical Leads & Accessories,78,0.821053
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Industrial Tools & Equipment,95,1
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Jacking,49,0.515789
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Measurement Equipment,52,0.547368
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Miscellaneous - Tools,94,0.989474
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Power Tools & Accessories,92,0.968421
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Accessories,91,0.957895
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Welders - Electric,58,0.610526
+GERA,HPST1000,3,Industrial Tools & Equipment,Welders - Accessories,Winches,34,0.357895
+GERA,HPST1000,2,Welders - Accessories,Air Hand Tools,,44,0.463158
+GERA,HPST1000,2,Welders - Accessories,Bolting Tools,,53,0.557895
+GERA,HPST1000,2,Welders - Accessories,Electrical Leads & Accessories,,78,0.821053
+GERA,HPST1000,2,Welders - Accessories,Industrial Tools & Equipment,,95,1
+GERA,HPST1000,2,Welders - Accessories,Jacking,,49,0.515789
+GERA,HPST1000,2,Welders - Accessories,Measurement Equipment,,52,0.547368
+GERA,HPST1000,2,Welders - Accessories,Miscellaneous - Tools,,94,0.989474
+GERA,HPST1000,2,Welders - Accessories,Power Tools & Accessories,,92,0.968421
+GERA,HPST1000,2,Welders - Accessories,Welders - Accessories,,91,0.957895
+GERA,HPST1000,2,Welders - Accessories,Welders - Electric,,58,0.610526
+GERA,HPST1000,2,Welders - Accessories,Winches,,34,0.357895
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Air Hand Tools,37,0.840909
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Bolting Tools,32,0.727273
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Electrical Leads & Accessories,38,0.863636
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Industrial Tools & Equipment,44,1
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Miscellaneous - Tools,44,1
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Power Tools & Accessories,44,1
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Welders - Accessories,42,0.954545
+GERA,HPST1000,3,Welders - Accessories,Air Hand Tools,Welders - Electric,34,0.772727
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Air Hand Tools,33,0.622642
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Bolting Tools,49,0.924528
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Electrical Leads & Accessories,47,0.886792
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Industrial Tools & Equipment,52,0.981132
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Jacking,37,0.698113
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Measurement Equipment,35,0.660377
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Miscellaneous - Tools,52,0.981132
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Power Tools & Accessories,51,0.962264
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Welders - Accessories,43,0.811321
+GERA,HPST1000,3,Welders - Accessories,Bolting Tools,Welders - Electric,37,0.698113
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Bolting Tools,32,0.615385
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Electrical Leads & Accessories,44,0.846154
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Industrial Tools & Equipment,51,0.980769
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Jacking,34,0.653846
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Measurement Equipment,48,0.923077
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Miscellaneous - Tools,50,0.961538
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Power Tools & Accessories,51,0.980769
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Welders - Accessories,45,0.865385
+GERA,HPST1000,3,Welders - Accessories,Measurement Equipment,Welders - Electric,34,0.653846
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Air Hand Tools,39,0.5
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Bolting Tools,48,0.615385
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,77,0.987179
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,78,1
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Jacking,47,0.602564
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Measurement Equipment,50,0.641026
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,77,0.987179
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Power Tools & Accessories,77,0.987179
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Accessories,63,0.807692
+GERA,HPST1000,3,Welders - Accessories,Electrical Leads & Accessories,Welders - Electric,49,0.628205
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Air Hand Tools,45,0.473684
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Bolting Tools,54,0.568421
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,77,0.810526
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,94,0.989474
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Jacking,49,0.515789
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Measurement Equipment,56,0.589474
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,93,0.978947
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Power Tools & Accessories,91,0.957895
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Accessories,74,0.778947
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Welders - Electric,55,0.578947
+GERA,HPST1000,3,Welders - Accessories,Industrial Tools & Equipment,Winches,33,0.347368
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Air Hand Tools,45,0.478723
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Bolting Tools,54,0.574468
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,76,0.808511
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,93,0.989362
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Jacking,48,0.510638
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Measurement Equipment,55,0.585106
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Miscellaneous - Tools,93,0.989362
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Power Tools & Accessories,90,0.957447
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Welders - Accessories,74,0.787234
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Welders - Electric,55,0.585106
+GERA,HPST1000,3,Welders - Accessories,Miscellaneous - Tools,Winches,33,0.351064
+GERA,HPST1000,3,Welders - Accessories,Jacking,Bolting Tools,35,0.714286
+GERA,HPST1000,3,Welders - Accessories,Jacking,Electrical Leads & Accessories,48,0.979592
+GERA,HPST1000,3,Welders - Accessories,Jacking,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Welders - Accessories,Jacking,Jacking,48,0.979592
+GERA,HPST1000,3,Welders - Accessories,Jacking,Measurement Equipment,31,0.632653
+GERA,HPST1000,3,Welders - Accessories,Jacking,Miscellaneous - Tools,48,0.979592
+GERA,HPST1000,3,Welders - Accessories,Jacking,Power Tools & Accessories,48,0.979592
+GERA,HPST1000,3,Welders - Accessories,Jacking,Welders - Accessories,44,0.897959
+GERA,HPST1000,3,Welders - Accessories,Jacking,Welders - Electric,35,0.714286
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Air Hand Tools,46,0.5
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Bolting Tools,52,0.565217
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Electrical Leads & Accessories,75,0.815217
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Industrial Tools & Equipment,91,0.98913
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Jacking,48,0.521739
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Measurement Equipment,56,0.608696
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Miscellaneous - Tools,90,0.978261
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Power Tools & Accessories,91,0.98913
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Welders - Accessories,74,0.804348
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Welders - Electric,55,0.597826
+GERA,HPST1000,3,Welders - Accessories,Power Tools & Accessories,Winches,33,0.358696
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Air Hand Tools,42,0.461538
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Bolting Tools,51,0.56044
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Electrical Leads & Accessories,75,0.824176
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Industrial Tools & Equipment,91,1
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Jacking,48,0.527473
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Measurement Equipment,51,0.56044
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Miscellaneous - Tools,90,0.989011
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Power Tools & Accessories,89,0.978022
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Welders - Accessories,87,0.956044
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Welders - Electric,55,0.604396
+GERA,HPST1000,3,Welders - Accessories,Welders - Accessories,Winches,33,0.362637
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Air Hand Tools,33,0.568966
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Bolting Tools,36,0.62069
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Electrical Leads & Accessories,51,0.87931
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Industrial Tools & Equipment,58,1
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Jacking,37,0.637931
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Measurement Equipment,39,0.672414
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Miscellaneous - Tools,58,1
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Power Tools & Accessories,58,1
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Welders - Accessories,51,0.87931
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Welders - Electric,56,0.965517
+GERA,HPST1000,3,Welders - Accessories,Welders - Electric,Winches,31,0.534483
+GERA,HPST1000,3,Welders - Accessories,Winches,Industrial Tools & Equipment,34,1
+GERA,HPST1000,3,Welders - Accessories,Winches,Miscellaneous - Tools,34,1
+GERA,HPST1000,3,Welders - Accessories,Winches,Power Tools & Accessories,34,1
+GERA,HPST1000,3,Welders - Accessories,Winches,Welders - Accessories,31,0.911765
+GERA,HPST1000,2,Air Hand Tools,Air Hand Tools,,41,0.82
+GERA,HPST1000,2,Air Hand Tools,Bolting Tools,,35,0.7
+GERA,HPST1000,2,Air Hand Tools,Electrical Leads & Accessories,,41,0.82
+GERA,HPST1000,2,Air Hand Tools,Industrial Tools & Equipment,,49,0.98
+GERA,HPST1000,2,Air Hand Tools,Jacking,,31,0.62
+GERA,HPST1000,2,Air Hand Tools,Measurement Equipment,,32,0.64
+GERA,HPST1000,2,Air Hand Tools,Miscellaneous - Tools,,49,0.98
+GERA,HPST1000,2,Air Hand Tools,Power Tools & Accessories,,49,0.98
+GERA,HPST1000,2,Air Hand Tools,Welders - Accessories,,46,0.92
+GERA,HPST1000,2,Air Hand Tools,Welders - Electric,,37,0.74
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Air Hand Tools,36,0.878049
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Electrical Leads & Accessories,33,0.804878
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Industrial Tools & Equipment,41,1
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Miscellaneous - Tools,41,1
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Power Tools & Accessories,41,1
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Welders - Accessories,38,0.926829
+GERA,HPST1000,3,Air Hand Tools,Air Hand Tools,Welders - Electric,31,0.756098
+GERA,HPST1000,3,Air Hand Tools,Bolting Tools,Bolting Tools,32,0.914286
+GERA,HPST1000,3,Air Hand Tools,Bolting Tools,Electrical Leads & Accessories,32,0.914286
+GERA,HPST1000,3,Air Hand Tools,Bolting Tools,Industrial Tools & Equipment,35,1
+GERA,HPST1000,3,Air Hand Tools,Bolting Tools,Miscellaneous - Tools,35,1
+GERA,HPST1000,3,Air Hand Tools,Bolting Tools,Power Tools & Accessories,35,1
+GERA,HPST1000,3,Air Hand Tools,Bolting Tools,Welders - Accessories,31,0.885714
+GERA,HPST1000,3,Air Hand Tools,Measurement Equipment,Industrial Tools & Equipment,32,1
+GERA,HPST1000,3,Air Hand Tools,Measurement Equipment,Measurement Equipment,31,0.96875
+GERA,HPST1000,3,Air Hand Tools,Measurement Equipment,Miscellaneous - Tools,32,1
+GERA,HPST1000,3,Air Hand Tools,Measurement Equipment,Power Tools & Accessories,32,1
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Bolting Tools,36,0.734694
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Electrical Leads & Accessories,43,0.877551
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Measurement Equipment,31,0.632653
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Miscellaneous - Tools,49,1
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Power Tools & Accessories,49,1
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Welders - Accessories,43,0.877551
+GERA,HPST1000,3,Air Hand Tools,Power Tools & Accessories,Welders - Electric,36,0.734694
+GERA,HPST1000,3,Air Hand Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,40,0.97561
+GERA,HPST1000,3,Air Hand Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,41,1
+GERA,HPST1000,3,Air Hand Tools,Electrical Leads & Accessories,Miscellaneous - Tools,41,1
+GERA,HPST1000,3,Air Hand Tools,Electrical Leads & Accessories,Power Tools & Accessories,41,1
+GERA,HPST1000,3,Air Hand Tools,Electrical Leads & Accessories,Welders - Accessories,38,0.926829
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Air Hand Tools,32,0.695652
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Bolting Tools,34,0.73913
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Electrical Leads & Accessories,41,0.891304
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Industrial Tools & Equipment,46,1
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Measurement Equipment,31,0.673913
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Miscellaneous - Tools,46,1
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Power Tools & Accessories,46,1
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Welders - Accessories,43,0.934783
+GERA,HPST1000,3,Air Hand Tools,Welders - Accessories,Welders - Electric,35,0.76087
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Bolting Tools,36,0.734694
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,43,0.877551
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Measurement Equipment,31,0.632653
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Miscellaneous - Tools,49,1
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Power Tools & Accessories,49,1
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Welders - Accessories,43,0.877551
+GERA,HPST1000,3,Air Hand Tools,Industrial Tools & Equipment,Welders - Electric,36,0.734694
+GERA,HPST1000,3,Air Hand Tools,Jacking,Industrial Tools & Equipment,31,1
+GERA,HPST1000,3,Air Hand Tools,Jacking,Miscellaneous - Tools,31,1
+GERA,HPST1000,3,Air Hand Tools,Jacking,Power Tools & Accessories,31,1
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Bolting Tools,36,0.734694
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Electrical Leads & Accessories,42,0.857143
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Measurement Equipment,31,0.632653
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Miscellaneous - Tools,49,1
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Power Tools & Accessories,49,1
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Welders - Accessories,43,0.877551
+GERA,HPST1000,3,Air Hand Tools,Miscellaneous - Tools,Welders - Electric,36,0.734694
+GERA,HPST1000,3,Air Hand Tools,Welders - Electric,Electrical Leads & Accessories,35,0.945946
+GERA,HPST1000,3,Air Hand Tools,Welders - Electric,Industrial Tools & Equipment,37,1
+GERA,HPST1000,3,Air Hand Tools,Welders - Electric,Miscellaneous - Tools,37,1
+GERA,HPST1000,3,Air Hand Tools,Welders - Electric,Power Tools & Accessories,37,1
+GERA,HPST1000,3,Air Hand Tools,Welders - Electric,Welders - Accessories,33,0.891892
+GERA,HPST1000,3,Air Hand Tools,Welders - Electric,Welders - Electric,34,0.918919
+GERA,HPST1000,2,Measurement Equipment,Air Hand Tools,,34,0.523077
+GERA,HPST1000,2,Measurement Equipment,Bolting Tools,,37,0.569231
+GERA,HPST1000,2,Measurement Equipment,Electrical Leads & Accessories,,55,0.846154
+GERA,HPST1000,2,Measurement Equipment,Industrial Tools & Equipment,,64,0.984615
+GERA,HPST1000,2,Measurement Equipment,Jacking,,39,0.6
+GERA,HPST1000,2,Measurement Equipment,Measurement Equipment,,61,0.938462
+GERA,HPST1000,2,Measurement Equipment,Miscellaneous - Tools,,63,0.969231
+GERA,HPST1000,2,Measurement Equipment,Power Tools & Accessories,,64,0.984615
+GERA,HPST1000,2,Measurement Equipment,Welders - Accessories,,53,0.815385
+GERA,HPST1000,2,Measurement Equipment,Welders - Electric,,40,0.615385
+GERA,HPST1000,2,Measurement Equipment,Winches,,31,0.476923
+GERA,HPST1000,3,Measurement Equipment,Air Hand Tools,Electrical Leads & Accessories,32,0.941176
+GERA,HPST1000,3,Measurement Equipment,Air Hand Tools,Industrial Tools & Equipment,34,1
+GERA,HPST1000,3,Measurement Equipment,Air Hand Tools,Miscellaneous - Tools,34,1
+GERA,HPST1000,3,Measurement Equipment,Air Hand Tools,Power Tools & Accessories,34,1
+GERA,HPST1000,3,Measurement Equipment,Air Hand Tools,Welders - Accessories,32,0.941176
+GERA,HPST1000,3,Measurement Equipment,Bolting Tools,Bolting Tools,33,0.891892
+GERA,HPST1000,3,Measurement Equipment,Bolting Tools,Electrical Leads & Accessories,32,0.864865
+GERA,HPST1000,3,Measurement Equipment,Bolting Tools,Industrial Tools & Equipment,36,0.972973
+GERA,HPST1000,3,Measurement Equipment,Bolting Tools,Miscellaneous - Tools,36,0.972973
+GERA,HPST1000,3,Measurement Equipment,Bolting Tools,Power Tools & Accessories,36,0.972973
+GERA,HPST1000,3,Measurement Equipment,Bolting Tools,Welders - Accessories,31,0.837838
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Air Hand Tools,31,0.563636
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Bolting Tools,34,0.618182
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Electrical Leads & Accessories,54,0.981818
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Industrial Tools & Equipment,55,1
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Jacking,37,0.672727
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Measurement Equipment,43,0.781818
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Miscellaneous - Tools,55,1
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Power Tools & Accessories,55,1
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Welders - Accessories,45,0.818182
+GERA,HPST1000,3,Measurement Equipment,Electrical Leads & Accessories,Welders - Electric,40,0.727273
+GERA,HPST1000,3,Measurement Equipment,Jacking,Electrical Leads & Accessories,37,0.948718
+GERA,HPST1000,3,Measurement Equipment,Jacking,Industrial Tools & Equipment,39,1
+GERA,HPST1000,3,Measurement Equipment,Jacking,Jacking,38,0.974359
+GERA,HPST1000,3,Measurement Equipment,Jacking,Miscellaneous - Tools,38,0.974359
+GERA,HPST1000,3,Measurement Equipment,Jacking,Power Tools & Accessories,39,1
+GERA,HPST1000,3,Measurement Equipment,Jacking,Welders - Accessories,35,0.897436
+GERA,HPST1000,3,Measurement Equipment,Jacking,Welders - Electric,31,0.794872
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Air Hand Tools,31,0.584906
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Bolting Tools,34,0.641509
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Electrical Leads & Accessories,45,0.849057
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Industrial Tools & Equipment,53,1
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Jacking,33,0.622642
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Measurement Equipment,39,0.735849
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Miscellaneous - Tools,53,1
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Power Tools & Accessories,53,1
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Welders - Accessories,51,0.962264
+GERA,HPST1000,3,Measurement Equipment,Welders - Accessories,Welders - Electric,40,0.754717
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Air Hand Tools,31,0.484375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Bolting Tools,38,0.59375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Electrical Leads & Accessories,54,0.84375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Industrial Tools & Equipment,63,0.984375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Jacking,38,0.59375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Measurement Equipment,46,0.71875
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Miscellaneous - Tools,63,0.984375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Power Tools & Accessories,63,0.984375
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Welders - Accessories,49,0.765625
+GERA,HPST1000,3,Measurement Equipment,Industrial Tools & Equipment,Welders - Electric,40,0.625
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Air Hand Tools,32,0.52459
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Bolting Tools,34,0.557377
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Electrical Leads & Accessories,51,0.836066
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Industrial Tools & Equipment,60,0.983607
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Jacking,36,0.590164
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Measurement Equipment,57,0.934426
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Miscellaneous - Tools,59,0.967213
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Power Tools & Accessories,60,0.983607
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Welders - Accessories,49,0.803279
+GERA,HPST1000,3,Measurement Equipment,Measurement Equipment,Welders - Electric,39,0.639344
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Air Hand Tools,31,0.492063
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Bolting Tools,38,0.603175
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Electrical Leads & Accessories,53,0.84127
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Industrial Tools & Equipment,62,0.984127
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Jacking,37,0.587302
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Measurement Equipment,45,0.714286
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Miscellaneous - Tools,62,0.984127
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Power Tools & Accessories,62,0.984127
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Welders - Accessories,49,0.777778
+GERA,HPST1000,3,Measurement Equipment,Miscellaneous - Tools,Welders - Electric,40,0.634921
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Air Hand Tools,31,0.484375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Bolting Tools,38,0.59375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Electrical Leads & Accessories,54,0.84375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Industrial Tools & Equipment,63,0.984375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Jacking,38,0.59375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Measurement Equipment,46,0.71875
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Miscellaneous - Tools,63,0.984375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Power Tools & Accessories,63,0.984375
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Welders - Accessories,49,0.765625
+GERA,HPST1000,3,Measurement Equipment,Power Tools & Accessories,Welders - Electric,40,0.625
+GERA,HPST1000,3,Measurement Equipment,Welders - Electric,Electrical Leads & Accessories,37,0.925
+GERA,HPST1000,3,Measurement Equipment,Welders - Electric,Industrial Tools & Equipment,40,1
+GERA,HPST1000,3,Measurement Equipment,Welders - Electric,Miscellaneous - Tools,40,1
+GERA,HPST1000,3,Measurement Equipment,Welders - Electric,Power Tools & Accessories,40,1
+GERA,HPST1000,3,Measurement Equipment,Welders - Electric,Welders - Accessories,37,0.925
+GERA,HPST1000,3,Measurement Equipment,Welders - Electric,Welders - Electric,39,0.975
+GERA,HPST1000,3,Measurement Equipment,Winches,Industrial Tools & Equipment,31,1
+GERA,HPST1000,3,Measurement Equipment,Winches,Miscellaneous - Tools,31,1
+GERA,HPST1000,3,Measurement Equipment,Winches,Power Tools & Accessories,31,1
+GERA,HPST1000,2,Power Tools & Accessories,Air Hand Tools,,49,0.357664
+GERA,HPST1000,2,Power Tools & Accessories,Bolting Tools,,67,0.489051
+GERA,HPST1000,2,Power Tools & Accessories,Chain Blocks,,36,0.262774
+GERA,HPST1000,2,Power Tools & Accessories,Electrical Leads & Accessories,,107,0.781022
+GERA,HPST1000,2,Power Tools & Accessories,Industrial Tools & Equipment,,136,0.992701
+GERA,HPST1000,2,Power Tools & Accessories,Jacking,,59,0.430657
+GERA,HPST1000,2,Power Tools & Accessories,Measurement Equipment,,65,0.474453
+GERA,HPST1000,2,Power Tools & Accessories,Miscellaneous - Tools,,134,0.978102
+GERA,HPST1000,2,Power Tools & Accessories,Power Tools & Accessories,,136,0.992701
+GERA,HPST1000,2,Power Tools & Accessories,Welders - Accessories,,94,0.686131
+GERA,HPST1000,2,Power Tools & Accessories,Welders - Electric,,66,0.481752
+GERA,HPST1000,2,Power Tools & Accessories,Winches,,42,0.306569
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Air Hand Tools,41,0.836735
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Bolting Tools,35,0.714286
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Electrical Leads & Accessories,41,0.836735
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Industrial Tools & Equipment,49,1
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Jacking,31,0.632653
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Measurement Equipment,32,0.653061
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Miscellaneous - Tools,49,1
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Power Tools & Accessories,49,1
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Welders - Accessories,46,0.938776
+GERA,HPST1000,3,Power Tools & Accessories,Air Hand Tools,Welders - Electric,37,0.755102
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Air Hand Tools,49,0.360294
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Bolting Tools,66,0.485294
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Chain Blocks,37,0.272059
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Electrical Leads & Accessories,106,0.779412
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Industrial Tools & Equipment,135,0.992647
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Jacking,61,0.448529
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Measurement Equipment,65,0.477941
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Miscellaneous - Tools,133,0.977941
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Power Tools & Accessories,130,0.955882
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Accessories,92,0.676471
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Welders - Electric,66,0.485294
+GERA,HPST1000,3,Power Tools & Accessories,Industrial Tools & Equipment,Winches,41,0.301471
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Bolting Tools,37,0.627119
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Electrical Leads & Accessories,56,0.949153
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Industrial Tools & Equipment,59,1
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Jacking,57,0.966102
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Measurement Equipment,35,0.59322
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Miscellaneous - Tools,58,0.983051
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Power Tools & Accessories,58,0.983051
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Welders - Accessories,52,0.881356
+GERA,HPST1000,3,Power Tools & Accessories,Jacking,Welders - Electric,41,0.694915
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Air Hand Tools,36,0.537313
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Bolting Tools,62,0.925373
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Electrical Leads & Accessories,59,0.880597
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Industrial Tools & Equipment,66,0.985075
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Jacking,41,0.61194
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Measurement Equipment,39,0.58209
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Miscellaneous - Tools,65,0.970149
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Power Tools & Accessories,65,0.970149
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Welders - Accessories,49,0.731343
+GERA,HPST1000,3,Power Tools & Accessories,Bolting Tools,Welders - Electric,42,0.626866
+GERA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Electrical Leads & Accessories,33,0.916667
+GERA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Industrial Tools & Equipment,35,0.972222
+GERA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Miscellaneous - Tools,35,0.972222
+GERA,HPST1000,3,Power Tools & Accessories,Chain Blocks,Power Tools & Accessories,35,0.972222
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Air Hand Tools,43,0.401869
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Bolting Tools,61,0.570093
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Chain Blocks,35,0.327103
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Electrical Leads & Accessories,106,0.990654
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Industrial Tools & Equipment,107,1
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Jacking,55,0.514019
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Measurement Equipment,58,0.542056
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Miscellaneous - Tools,105,0.981308
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Power Tools & Accessories,105,0.981308
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Accessories,77,0.719626
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Welders - Electric,57,0.53271
+GERA,HPST1000,3,Power Tools & Accessories,Electrical Leads & Accessories,Winches,38,0.35514
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Air Hand Tools,34,0.523077
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Bolting Tools,37,0.569231
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Electrical Leads & Accessories,55,0.846154
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Industrial Tools & Equipment,64,0.984615
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Jacking,39,0.6
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Measurement Equipment,61,0.938462
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Miscellaneous - Tools,63,0.969231
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Power Tools & Accessories,64,0.984615
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Welders - Accessories,53,0.815385
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Welders - Electric,40,0.615385
+GERA,HPST1000,3,Power Tools & Accessories,Measurement Equipment,Winches,31,0.476923
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Air Hand Tools,49,0.365672
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Bolting Tools,67,0.5
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Chain Blocks,37,0.276119
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Electrical Leads & Accessories,105,0.783582
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Industrial Tools & Equipment,133,0.992537
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Jacking,59,0.440299
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Measurement Equipment,64,0.477612
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Miscellaneous - Tools,133,0.992537
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Power Tools & Accessories,129,0.962687
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Accessories,92,0.686567
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Welders - Electric,66,0.492537
+GERA,HPST1000,3,Power Tools & Accessories,Miscellaneous - Tools,Winches,41,0.30597
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Air Hand Tools,49,0.360294
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Bolting Tools,67,0.492647
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Chain Blocks,36,0.264706
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Electrical Leads & Accessories,106,0.779412
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Industrial Tools & Equipment,135,0.992647
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Jacking,59,0.433824
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Measurement Equipment,65,0.477941
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Miscellaneous - Tools,133,0.977941
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,135,0.992647
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Accessories,93,0.683824
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,66,0.485294
+GERA,HPST1000,3,Power Tools & Accessories,Power Tools & Accessories,Winches,42,0.308824
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Air Hand Tools,44,0.468085
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Bolting Tools,53,0.56383
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Electrical Leads & Accessories,78,0.829787
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Industrial Tools & Equipment,94,1
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Jacking,49,0.521277
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Measurement Equipment,52,0.553191
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Miscellaneous - Tools,93,0.989362
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Power Tools & Accessories,92,0.978723
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Welders - Accessories,90,0.957447
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Welders - Electric,58,0.617021
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Accessories,Winches,34,0.361702
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Air Hand Tools,35,0.530303
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Bolting Tools,40,0.606061
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Electrical Leads & Accessories,59,0.893939
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Industrial Tools & Equipment,66,1
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Jacking,42,0.636364
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Measurement Equipment,42,0.636364
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Miscellaneous - Tools,66,1
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,66,1
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Welders - Accessories,58,0.878788
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Welders - Electric,63,0.954545
+GERA,HPST1000,3,Power Tools & Accessories,Welders - Electric,Winches,34,0.515152
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Electrical Leads & Accessories,38,0.904762
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Industrial Tools & Equipment,42,1
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Miscellaneous - Tools,42,1
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Power Tools & Accessories,42,1
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Welders - Accessories,35,0.833333
+GERA,HPST1000,3,Power Tools & Accessories,Winches,Winches,33,0.785714
+GERA,HPST1000,2,Welders - Electric,Air Hand Tools,,35,0.514706
+GERA,HPST1000,2,Welders - Electric,Bolting Tools,,40,0.588235
+GERA,HPST1000,2,Welders - Electric,Electrical Leads & Accessories,,60,0.882353
+GERA,HPST1000,2,Welders - Electric,Industrial Tools & Equipment,,68,1
+GERA,HPST1000,2,Welders - Electric,Jacking,,43,0.632353
+GERA,HPST1000,2,Welders - Electric,Measurement Equipment,,42,0.617647
+GERA,HPST1000,2,Welders - Electric,Miscellaneous - Tools,,67,0.985294
+GERA,HPST1000,2,Welders - Electric,Power Tools & Accessories,,67,0.985294
+GERA,HPST1000,2,Welders - Electric,Welders - Accessories,,59,0.867647
+GERA,HPST1000,2,Welders - Electric,Welders - Electric,,64,0.941176
+GERA,HPST1000,2,Welders - Electric,Winches,,34,0.5
+GERA,HPST1000,3,Welders - Electric,Air Hand Tools,Electrical Leads & Accessories,32,0.914286
+GERA,HPST1000,3,Welders - Electric,Air Hand Tools,Industrial Tools & Equipment,35,1
+GERA,HPST1000,3,Welders - Electric,Air Hand Tools,Miscellaneous - Tools,35,1
+GERA,HPST1000,3,Welders - Electric,Air Hand Tools,Power Tools & Accessories,35,1
+GERA,HPST1000,3,Welders - Electric,Air Hand Tools,Welders - Accessories,34,0.971429
+GERA,HPST1000,3,Welders - Electric,Air Hand Tools,Welders - Electric,31,0.885714
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Air Hand Tools,34,0.507463
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Bolting Tools,41,0.61194
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Electrical Leads & Accessories,59,0.880597
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Industrial Tools & Equipment,66,0.985075
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Jacking,39,0.58209
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Measurement Equipment,41,0.61194
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Miscellaneous - Tools,66,0.985075
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,66,0.985075
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Welders - Accessories,53,0.791045
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Welders - Electric,48,0.716418
+GERA,HPST1000,3,Welders - Electric,Power Tools & Accessories,Winches,32,0.477612
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Bolting Tools,36,0.9
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Electrical Leads & Accessories,37,0.925
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Industrial Tools & Equipment,39,0.975
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Miscellaneous - Tools,39,0.975
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Power Tools & Accessories,39,0.975
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Welders - Accessories,34,0.85
+GERA,HPST1000,3,Welders - Electric,Bolting Tools,Welders - Electric,32,0.8
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Air Hand Tools,32,0.533333
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Bolting Tools,37,0.616667
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Electrical Leads & Accessories,60,1
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Industrial Tools & Equipment,60,1
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Jacking,41,0.683333
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Measurement Equipment,38,0.633333
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Miscellaneous - Tools,60,1
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Power Tools & Accessories,60,1
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Welders - Accessories,51,0.85
+GERA,HPST1000,3,Welders - Electric,Electrical Leads & Accessories,Welders - Electric,45,0.75
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Air Hand Tools,33,0.485294
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Bolting Tools,40,0.588235
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Electrical Leads & Accessories,58,0.852941
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Industrial Tools & Equipment,67,0.985294
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Jacking,40,0.588235
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Measurement Equipment,41,0.602941
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Miscellaneous - Tools,66,0.970588
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Power Tools & Accessories,65,0.955882
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Welders - Accessories,53,0.779412
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Welders - Electric,48,0.705882
+GERA,HPST1000,3,Welders - Electric,Industrial Tools & Equipment,Winches,32,0.470588
+GERA,HPST1000,3,Welders - Electric,Jacking,Electrical Leads & Accessories,40,0.930233
+GERA,HPST1000,3,Welders - Electric,Jacking,Industrial Tools & Equipment,43,1
+GERA,HPST1000,3,Welders - Electric,Jacking,Jacking,42,0.976744
+GERA,HPST1000,3,Welders - Electric,Jacking,Miscellaneous - Tools,42,0.976744
+GERA,HPST1000,3,Welders - Electric,Jacking,Power Tools & Accessories,41,0.953488
+GERA,HPST1000,3,Welders - Electric,Jacking,Welders - Accessories,40,0.930233
+GERA,HPST1000,3,Welders - Electric,Jacking,Welders - Electric,34,0.790698
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Electrical Leads & Accessories,38,0.904762
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Industrial Tools & Equipment,41,0.97619
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Measurement Equipment,38,0.904762
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Miscellaneous - Tools,41,0.97619
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Power Tools & Accessories,41,0.97619
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Welders - Accessories,37,0.880952
+GERA,HPST1000,3,Welders - Electric,Measurement Equipment,Welders - Electric,31,0.738095
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Air Hand Tools,31,0.525424
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Bolting Tools,36,0.610169
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Electrical Leads & Accessories,51,0.864407
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Industrial Tools & Equipment,59,1
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Jacking,36,0.610169
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Measurement Equipment,37,0.627119
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Miscellaneous - Tools,59,1
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Power Tools & Accessories,59,1
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Welders - Accessories,56,0.949153
+GERA,HPST1000,3,Welders - Electric,Welders - Accessories,Welders - Electric,45,0.762712
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Air Hand Tools,33,0.492537
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Bolting Tools,40,0.597015
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Electrical Leads & Accessories,58,0.865672
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Industrial Tools & Equipment,66,0.985075
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Jacking,39,0.58209
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Measurement Equipment,41,0.61194
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Miscellaneous - Tools,66,0.985075
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Power Tools & Accessories,65,0.970149
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Welders - Accessories,54,0.80597
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Welders - Electric,48,0.716418
+GERA,HPST1000,3,Welders - Electric,Miscellaneous - Tools,Winches,32,0.477612
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Air Hand Tools,34,0.53125
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Bolting Tools,38,0.59375
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Electrical Leads & Accessories,56,0.875
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Industrial Tools & Equipment,64,1
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Jacking,42,0.65625
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Measurement Equipment,39,0.609375
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Miscellaneous - Tools,63,0.984375
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Power Tools & Accessories,63,0.984375
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Welders - Accessories,55,0.859375
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Welders - Electric,61,0.953125
+GERA,HPST1000,3,Welders - Electric,Welders - Electric,Winches,31,0.484375
+GERA,HPST1000,3,Welders - Electric,Winches,Electrical Leads & Accessories,31,0.911765
+GERA,HPST1000,3,Welders - Electric,Winches,Industrial Tools & Equipment,34,1
+GERA,HPST1000,3,Welders - Electric,Winches,Miscellaneous - Tools,34,1
+GERA,HPST1000,3,Welders - Electric,Winches,Power Tools & Accessories,34,1
+GERA,HPST1000,3,Welders - Electric,Winches,Welders - Accessories,31,0.911765
+GERA,HPST1000,2,Bolting Tools,Air Hand Tools,,36,0.507042
+GERA,HPST1000,2,Bolting Tools,Bolting Tools,,66,0.929577
+GERA,HPST1000,2,Bolting Tools,Electrical Leads & Accessories,,62,0.873239
+GERA,HPST1000,2,Bolting Tools,Industrial Tools & Equipment,,70,0.985915
+GERA,HPST1000,2,Bolting Tools,Jacking,,42,0.591549
+GERA,HPST1000,2,Bolting Tools,Measurement Equipment,,39,0.549296
+GERA,HPST1000,2,Bolting Tools,Miscellaneous - Tools,,69,0.971831
+GERA,HPST1000,2,Bolting Tools,Power Tools & Accessories,,69,0.971831
+GERA,HPST1000,2,Bolting Tools,Welders - Accessories,,50,0.704225
+GERA,HPST1000,2,Bolting Tools,Welders - Electric,,43,0.605634
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Bolting Tools,31,0.861111
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Electrical Leads & Accessories,33,0.916667
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Industrial Tools & Equipment,36,1
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Miscellaneous - Tools,36,1
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Power Tools & Accessories,36,1
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Welders - Accessories,35,0.972222
+GERA,HPST1000,3,Bolting Tools,Air Hand Tools,Welders - Electric,31,0.861111
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Air Hand Tools,34,0.492754
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Bolting Tools,51,0.73913
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Electrical Leads & Accessories,56,0.811594
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Industrial Tools & Equipment,68,0.985507
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Jacking,40,0.57971
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Measurement Equipment,36,0.521739
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Miscellaneous - Tools,68,0.985507
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Power Tools & Accessories,68,0.985507
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Welders - Accessories,51,0.73913
+GERA,HPST1000,3,Bolting Tools,Miscellaneous - Tools,Welders - Electric,43,0.623188
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Air Hand Tools,32,0.484848
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Bolting Tools,61,0.924242
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Electrical Leads & Accessories,58,0.878788
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Industrial Tools & Equipment,65,0.984848
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Jacking,39,0.590909
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Measurement Equipment,34,0.515152
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Miscellaneous - Tools,64,0.969697
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Power Tools & Accessories,64,0.969697
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Welders - Accessories,48,0.727273
+GERA,HPST1000,3,Bolting Tools,Bolting Tools,Welders - Electric,41,0.621212
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Air Hand Tools,31,0.62
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Bolting Tools,39,0.78
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Electrical Leads & Accessories,43,0.86
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Industrial Tools & Equipment,50,1
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Jacking,34,0.68
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Measurement Equipment,31,0.62
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Miscellaneous - Tools,50,1
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Power Tools & Accessories,50,1
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Welders - Accessories,48,0.96
+GERA,HPST1000,3,Bolting Tools,Welders - Accessories,Welders - Electric,38,0.76
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Air Hand Tools,32,0.516129
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Bolting Tools,49,0.790323
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Electrical Leads & Accessories,61,0.983871
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Industrial Tools & Equipment,62,1
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Jacking,40,0.645161
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Measurement Equipment,35,0.564516
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Miscellaneous - Tools,61,0.983871
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Power Tools & Accessories,62,1
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Welders - Accessories,50,0.806452
+GERA,HPST1000,3,Bolting Tools,Electrical Leads & Accessories,Welders - Electric,42,0.677419
+GERA,HPST1000,3,Bolting Tools,Jacking,Bolting Tools,34,0.809524
+GERA,HPST1000,3,Bolting Tools,Jacking,Electrical Leads & Accessories,42,1
+GERA,HPST1000,3,Bolting Tools,Jacking,Industrial Tools & Equipment,42,1
+GERA,HPST1000,3,Bolting Tools,Jacking,Jacking,40,0.952381
+GERA,HPST1000,3,Bolting Tools,Jacking,Miscellaneous - Tools,42,1
+GERA,HPST1000,3,Bolting Tools,Jacking,Power Tools & Accessories,42,1
+GERA,HPST1000,3,Bolting Tools,Jacking,Welders - Accessories,38,0.904762
+GERA,HPST1000,3,Bolting Tools,Jacking,Welders - Electric,34,0.809524
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Air Hand Tools,34,0.485714
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Bolting Tools,51,0.728571
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Electrical Leads & Accessories,56,0.8
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Industrial Tools & Equipment,69,0.985714
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Jacking,40,0.571429
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Measurement Equipment,36,0.514286
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Miscellaneous - Tools,68,0.971429
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Power Tools & Accessories,68,0.971429
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Welders - Accessories,51,0.728571
+GERA,HPST1000,3,Bolting Tools,Industrial Tools & Equipment,Welders - Electric,43,0.614286
+GERA,HPST1000,3,Bolting Tools,Measurement Equipment,Electrical Leads & Accessories,35,0.897436
+GERA,HPST1000,3,Bolting Tools,Measurement Equipment,Industrial Tools & Equipment,38,0.974359
+GERA,HPST1000,3,Bolting Tools,Measurement Equipment,Measurement Equipment,35,0.897436
+GERA,HPST1000,3,Bolting Tools,Measurement Equipment,Miscellaneous - Tools,38,0.974359
+GERA,HPST1000,3,Bolting Tools,Measurement Equipment,Power Tools & Accessories,38,0.974359
+GERA,HPST1000,3,Bolting Tools,Measurement Equipment,Welders - Accessories,35,0.897436
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Air Hand Tools,34,0.492754
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Bolting Tools,51,0.73913
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Electrical Leads & Accessories,56,0.811594
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Industrial Tools & Equipment,68,0.985507
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Jacking,39,0.565217
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Measurement Equipment,36,0.521739
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Miscellaneous - Tools,67,0.971014
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Power Tools & Accessories,68,0.985507
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Welders - Accessories,52,0.753623
+GERA,HPST1000,3,Bolting Tools,Power Tools & Accessories,Welders - Electric,43,0.623188
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Bolting Tools,36,0.837209
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Electrical Leads & Accessories,39,0.906977
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Industrial Tools & Equipment,43,1
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Jacking,33,0.767442
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Miscellaneous - Tools,43,1
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Power Tools & Accessories,43,1
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Welders - Accessories,38,0.883721
+GERA,HPST1000,3,Bolting Tools,Welders - Electric,Welders - Electric,42,0.976744
+GERA,HPST1000,2,Jacking,Bolting Tools,,39,0.629032
+GERA,HPST1000,2,Jacking,Electrical Leads & Accessories,,57,0.919355
+GERA,HPST1000,2,Jacking,Industrial Tools & Equipment,,62,1
+GERA,HPST1000,2,Jacking,Jacking,,60,0.967742
+GERA,HPST1000,2,Jacking,Measurement Equipment,,35,0.564516
+GERA,HPST1000,2,Jacking,Miscellaneous - Tools,,60,0.967742
+GERA,HPST1000,2,Jacking,Power Tools & Accessories,,59,0.951613
+GERA,HPST1000,2,Jacking,Welders - Accessories,,52,0.83871
+GERA,HPST1000,2,Jacking,Welders - Electric,,42,0.677419
+GERA,HPST1000,3,Jacking,Bolting Tools,Bolting Tools,36,0.923077
+GERA,HPST1000,3,Jacking,Bolting Tools,Electrical Leads & Accessories,36,0.923077
+GERA,HPST1000,3,Jacking,Bolting Tools,Industrial Tools & Equipment,39,1
+GERA,HPST1000,3,Jacking,Bolting Tools,Jacking,33,0.846154
+GERA,HPST1000,3,Jacking,Bolting Tools,Miscellaneous - Tools,39,1
+GERA,HPST1000,3,Jacking,Bolting Tools,Power Tools & Accessories,38,0.974359
+GERA,HPST1000,3,Jacking,Bolting Tools,Welders - Accessories,32,0.820513
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Bolting Tools,39,0.684211
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Electrical Leads & Accessories,56,0.982456
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Industrial Tools & Equipment,57,1
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Jacking,43,0.754386
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Measurement Equipment,34,0.596491
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Miscellaneous - Tools,57,1
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Power Tools & Accessories,56,0.982456
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Welders - Accessories,46,0.807018
+GERA,HPST1000,3,Jacking,Electrical Leads & Accessories,Welders - Electric,41,0.719298
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Bolting Tools,40,0.666667
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Electrical Leads & Accessories,52,0.866667
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Industrial Tools & Equipment,60,1
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Jacking,44,0.733333
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Measurement Equipment,34,0.566667
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Miscellaneous - Tools,60,1
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Power Tools & Accessories,57,0.95
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Welders - Accessories,45,0.75
+GERA,HPST1000,3,Jacking,Miscellaneous - Tools,Welders - Electric,41,0.683333
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Bolting Tools,40,0.645161
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Electrical Leads & Accessories,53,0.854839
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Industrial Tools & Equipment,62,1
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Jacking,46,0.741935
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Measurement Equipment,35,0.564516
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Miscellaneous - Tools,61,0.983871
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Power Tools & Accessories,58,0.935484
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Welders - Accessories,45,0.725806
+GERA,HPST1000,3,Jacking,Industrial Tools & Equipment,Welders - Electric,41,0.66129
+GERA,HPST1000,3,Jacking,Jacking,Bolting Tools,38,0.633333
+GERA,HPST1000,3,Jacking,Jacking,Electrical Leads & Accessories,55,0.916667
+GERA,HPST1000,3,Jacking,Jacking,Industrial Tools & Equipment,60,1
+GERA,HPST1000,3,Jacking,Jacking,Jacking,58,0.966667
+GERA,HPST1000,3,Jacking,Jacking,Measurement Equipment,34,0.566667
+GERA,HPST1000,3,Jacking,Jacking,Miscellaneous - Tools,58,0.966667
+GERA,HPST1000,3,Jacking,Jacking,Power Tools & Accessories,57,0.95
+GERA,HPST1000,3,Jacking,Jacking,Welders - Accessories,51,0.85
+GERA,HPST1000,3,Jacking,Jacking,Welders - Electric,41,0.683333
+GERA,HPST1000,3,Jacking,Welders - Accessories,Bolting Tools,36,0.692308
+GERA,HPST1000,3,Jacking,Welders - Accessories,Electrical Leads & Accessories,48,0.923077
+GERA,HPST1000,3,Jacking,Welders - Accessories,Industrial Tools & Equipment,52,1
+GERA,HPST1000,3,Jacking,Welders - Accessories,Jacking,37,0.711538
+GERA,HPST1000,3,Jacking,Welders - Accessories,Measurement Equipment,34,0.653846
+GERA,HPST1000,3,Jacking,Welders - Accessories,Miscellaneous - Tools,52,1
+GERA,HPST1000,3,Jacking,Welders - Accessories,Power Tools & Accessories,51,0.980769
+GERA,HPST1000,3,Jacking,Welders - Accessories,Welders - Accessories,50,0.961538
+GERA,HPST1000,3,Jacking,Welders - Accessories,Welders - Electric,41,0.788462
+GERA,HPST1000,3,Jacking,Welders - Electric,Electrical Leads & Accessories,39,0.928571
+GERA,HPST1000,3,Jacking,Welders - Electric,Industrial Tools & Equipment,42,1
+GERA,HPST1000,3,Jacking,Welders - Electric,Jacking,35,0.833333
+GERA,HPST1000,3,Jacking,Welders - Electric,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Jacking,Welders - Electric,Miscellaneous - Tools,41,0.97619
+GERA,HPST1000,3,Jacking,Welders - Electric,Power Tools & Accessories,41,0.97619
+GERA,HPST1000,3,Jacking,Welders - Electric,Welders - Accessories,39,0.928571
+GERA,HPST1000,3,Jacking,Welders - Electric,Welders - Electric,40,0.952381
+GERA,HPST1000,3,Jacking,Measurement Equipment,Electrical Leads & Accessories,34,0.971429
+GERA,HPST1000,3,Jacking,Measurement Equipment,Industrial Tools & Equipment,35,1
+GERA,HPST1000,3,Jacking,Measurement Equipment,Measurement Equipment,32,0.914286
+GERA,HPST1000,3,Jacking,Measurement Equipment,Miscellaneous - Tools,34,0.971429
+GERA,HPST1000,3,Jacking,Measurement Equipment,Power Tools & Accessories,35,1
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Bolting Tools,37,0.627119
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Electrical Leads & Accessories,52,0.881356
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Industrial Tools & Equipment,59,1
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Jacking,44,0.745763
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Measurement Equipment,35,0.59322
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Miscellaneous - Tools,59,1
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Power Tools & Accessories,59,1
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Welders - Accessories,46,0.779661
+GERA,HPST1000,3,Jacking,Power Tools & Accessories,Welders - Electric,41,0.694915
+GERA,HPST1000,2,Winches,Electrical Leads & Accessories,,38,0.904762
+GERA,HPST1000,2,Winches,Industrial Tools & Equipment,,42,1
+GERA,HPST1000,2,Winches,Measurement Equipment,,31,0.738095
+GERA,HPST1000,2,Winches,Miscellaneous - Tools,,42,1
+GERA,HPST1000,2,Winches,Power Tools & Accessories,,42,1
+GERA,HPST1000,2,Winches,Welders - Accessories,,35,0.833333
+GERA,HPST1000,2,Winches,Winches,,33,0.785714
+GERA,HPST1000,3,Winches,Electrical Leads & Accessories,Electrical Leads & Accessories,37,0.973684
+GERA,HPST1000,3,Winches,Electrical Leads & Accessories,Industrial Tools & Equipment,38,1
+GERA,HPST1000,3,Winches,Electrical Leads & Accessories,Measurement Equipment,31,0.815789
+GERA,HPST1000,3,Winches,Electrical Leads & Accessories,Miscellaneous - Tools,37,0.973684
+GERA,HPST1000,3,Winches,Electrical Leads & Accessories,Power Tools & Accessories,38,1
+GERA,HPST1000,3,Winches,Electrical Leads & Accessories,Welders - Accessories,31,0.815789
+GERA,HPST1000,3,Winches,Winches,Electrical Leads & Accessories,31,0.939394
+GERA,HPST1000,3,Winches,Winches,Industrial Tools & Equipment,33,1
+GERA,HPST1000,3,Winches,Winches,Miscellaneous - Tools,33,1
+GERA,HPST1000,3,Winches,Winches,Power Tools & Accessories,33,1
+GERA,HPST1000,3,Winches,Industrial Tools & Equipment,Electrical Leads & Accessories,36,0.857143
+GERA,HPST1000,3,Winches,Industrial Tools & Equipment,Industrial Tools & Equipment,41,0.97619
+GERA,HPST1000,3,Winches,Industrial Tools & Equipment,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Winches,Industrial Tools & Equipment,Miscellaneous - Tools,40,0.952381
+GERA,HPST1000,3,Winches,Industrial Tools & Equipment,Power Tools & Accessories,40,0.952381
+GERA,HPST1000,3,Winches,Industrial Tools & Equipment,Welders - Accessories,32,0.761905
+GERA,HPST1000,3,Winches,Miscellaneous - Tools,Electrical Leads & Accessories,36,0.857143
+GERA,HPST1000,3,Winches,Miscellaneous - Tools,Industrial Tools & Equipment,41,0.97619
+GERA,HPST1000,3,Winches,Miscellaneous - Tools,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Winches,Miscellaneous - Tools,Miscellaneous - Tools,41,0.97619
+GERA,HPST1000,3,Winches,Miscellaneous - Tools,Power Tools & Accessories,40,0.952381
+GERA,HPST1000,3,Winches,Miscellaneous - Tools,Welders - Accessories,32,0.761905
+GERA,HPST1000,3,Winches,Power Tools & Accessories,Electrical Leads & Accessories,36,0.857143
+GERA,HPST1000,3,Winches,Power Tools & Accessories,Industrial Tools & Equipment,41,0.97619
+GERA,HPST1000,3,Winches,Power Tools & Accessories,Measurement Equipment,31,0.738095
+GERA,HPST1000,3,Winches,Power Tools & Accessories,Miscellaneous - Tools,40,0.952381
+GERA,HPST1000,3,Winches,Power Tools & Accessories,Power Tools & Accessories,41,0.97619
+GERA,HPST1000,3,Winches,Power Tools & Accessories,Welders - Accessories,32,0.761905
+GERA,HPST1000,3,Winches,Welders - Accessories,Electrical Leads & Accessories,32,0.914286
+GERA,HPST1000,3,Winches,Welders - Accessories,Industrial Tools & Equipment,35,1
+GERA,HPST1000,3,Winches,Welders - Accessories,Miscellaneous - Tools,34,0.971429
+GERA,HPST1000,3,Winches,Welders - Accessories,Power Tools & Accessories,35,1
+GERA,HPST1000,3,Winches,Welders - Accessories,Welders - Accessories,33,0.942857

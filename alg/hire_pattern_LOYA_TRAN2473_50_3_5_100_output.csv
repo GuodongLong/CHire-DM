@@ -1,0 +1,48 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+LOYA,TRAN2473,1,Access - Knuckle Booms,,,107,1
+LOYA,TRAN2473,1,Access - Scissor Lifts,,,109,1
+LOYA,TRAN2473,1,Power Tools & Accessories,,,171,1
+LOYA,TRAN2473,1,Pumps - Submersible,,,72,1
+LOYA,TRAN2473,1,Welders - Electric,,,137,1
+LOYA,TRAN2473,2,Access - Knuckle Booms,Access - Knuckle Booms,,75,0.700935
+LOYA,TRAN2473,2,Access - Knuckle Booms,Access - Scissor Lifts,,53,0.495327
+LOYA,TRAN2473,2,Access - Knuckle Booms,Power Tools & Accessories,,74,0.691589
+LOYA,TRAN2473,2,Access - Knuckle Booms,Welders - Electric,,61,0.570093
+LOYA,TRAN2473,3,Access - Knuckle Booms,Access - Knuckle Booms,Access - Knuckle Booms,55,0.733333
+LOYA,TRAN2473,3,Access - Knuckle Booms,Access - Knuckle Booms,Power Tools & Accessories,52,0.693333
+LOYA,TRAN2473,3,Access - Knuckle Booms,Power Tools & Accessories,Power Tools & Accessories,61,0.824324
+LOYA,TRAN2473,2,Access - Scissor Lifts,Access - Knuckle Booms,,54,0.495413
+LOYA,TRAN2473,2,Access - Scissor Lifts,Access - Scissor Lifts,,79,0.724771
+LOYA,TRAN2473,2,Access - Scissor Lifts,Power Tools & Accessories,,76,0.697248
+LOYA,TRAN2473,2,Access - Scissor Lifts,Welders - Electric,,70,0.642202
+LOYA,TRAN2473,3,Access - Scissor Lifts,Access - Scissor Lifts,Access - Scissor Lifts,58,0.734177
+LOYA,TRAN2473,3,Access - Scissor Lifts,Access - Scissor Lifts,Power Tools & Accessories,56,0.708861
+LOYA,TRAN2473,3,Access - Scissor Lifts,Power Tools & Accessories,Access - Scissor Lifts,51,0.671053
+LOYA,TRAN2473,3,Access - Scissor Lifts,Power Tools & Accessories,Power Tools & Accessories,67,0.881579
+LOYA,TRAN2473,3,Access - Scissor Lifts,Power Tools & Accessories,Welders - Electric,55,0.723684
+LOYA,TRAN2473,3,Access - Scissor Lifts,Welders - Electric,Power Tools & Accessories,52,0.742857
+LOYA,TRAN2473,3,Access - Scissor Lifts,Welders - Electric,Welders - Electric,53,0.757143
+LOYA,TRAN2473,2,Power Tools & Accessories,Access - Knuckle Booms,,69,0.403509
+LOYA,TRAN2473,2,Power Tools & Accessories,Access - Scissor Lifts,,78,0.45614
+LOYA,TRAN2473,2,Power Tools & Accessories,Power Tools & Accessories,,151,0.883041
+LOYA,TRAN2473,2,Power Tools & Accessories,Pumps - Submersible,,52,0.304094
+LOYA,TRAN2473,2,Power Tools & Accessories,Welders - Electric,,96,0.561404
+LOYA,TRAN2473,3,Power Tools & Accessories,Access - Knuckle Booms,Power Tools & Accessories,58,0.84058
+LOYA,TRAN2473,3,Power Tools & Accessories,Power Tools & Accessories,Access - Knuckle Booms,59,0.390728
+LOYA,TRAN2473,3,Power Tools & Accessories,Power Tools & Accessories,Access - Scissor Lifts,69,0.456954
+LOYA,TRAN2473,3,Power Tools & Accessories,Power Tools & Accessories,Power Tools & Accessories,135,0.89404
+LOYA,TRAN2473,3,Power Tools & Accessories,Power Tools & Accessories,Welders - Electric,86,0.569536
+LOYA,TRAN2473,3,Power Tools & Accessories,Access - Scissor Lifts,Access - Scissor Lifts,59,0.75641
+LOYA,TRAN2473,3,Power Tools & Accessories,Access - Scissor Lifts,Power Tools & Accessories,62,0.794872
+LOYA,TRAN2473,3,Power Tools & Accessories,Access - Scissor Lifts,Welders - Electric,56,0.717949
+LOYA,TRAN2473,3,Power Tools & Accessories,Welders - Electric,Power Tools & Accessories,75,0.78125
+LOYA,TRAN2473,3,Power Tools & Accessories,Welders - Electric,Welders - Electric,75,0.78125
+LOYA,TRAN2473,2,Welders - Electric,Access - Knuckle Booms,,64,0.467153
+LOYA,TRAN2473,2,Welders - Electric,Access - Scissor Lifts,,63,0.459854
+LOYA,TRAN2473,2,Welders - Electric,Power Tools & Accessories,,90,0.656934
+LOYA,TRAN2473,2,Welders - Electric,Welders - Electric,,107,0.781022
+LOYA,TRAN2473,3,Welders - Electric,Power Tools & Accessories,Power Tools & Accessories,78,0.866667
+LOYA,TRAN2473,3,Welders - Electric,Power Tools & Accessories,Welders - Electric,65,0.722222
+LOYA,TRAN2473,3,Welders - Electric,Welders - Electric,Access - Knuckle Booms,51,0.476636
+LOYA,TRAN2473,3,Welders - Electric,Welders - Electric,Power Tools & Accessories,76,0.71028
+LOYA,TRAN2473,3,Welders - Electric,Welders - Electric,Welders - Electric,90,0.841121

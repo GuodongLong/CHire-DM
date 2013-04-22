@@ -1,0 +1,8 @@
+branch,customer,length,fleet1,fleet2,fleet3,frequency,accuracy
+CLBR,FORT7865,1,Lighting Towers,,,159,1
+CLBR,FORT7865,1,Air Compressors - Diesel Small,,,55,1
+CLBR,FORT7865,1,Generators - Diesel Small,,,94,1
+CLBR,FORT7865,1,Welders - Motorised,,,55,1
+CLBR,FORT7865,2,Lighting Towers,Generators - Diesel Small,,54,0.339623
+CLBR,FORT7865,2,Lighting Towers,Lighting Towers,,114,0.716981
+CLBR,FORT7865,3,Lighting Towers,Lighting Towers,Lighting Towers,80,0.701754
